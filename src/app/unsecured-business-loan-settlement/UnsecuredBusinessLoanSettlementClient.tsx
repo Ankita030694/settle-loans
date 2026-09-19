@@ -807,7 +807,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
                   <a
-                    href="https://www.indiacode.nic.in/handle/123456789/2088"
+                    href="https://indiacode.gov.in/handle/123456789/2088"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] hover:underline"
@@ -818,7 +818,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
                   <a
-                    href="https://www.indiacode.nic.in/handle/123456789/2281"
+                    href="https://indiacode.gov.in/handle/123456789/2281"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] hover:underline"

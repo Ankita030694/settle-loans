@@ -1037,7 +1037,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
                 <a
                   href="https://www.cibil.com"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="nofollow noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
                   <span className="font-semibold text-slate-800">TransUnion CIBIL – Credit Information Reporting Framework &amp; Bureau Tags</span>

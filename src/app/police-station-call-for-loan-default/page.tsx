@@ -1014,7 +1014,7 @@ export default function PoliceStationCallForLoanDefaultPage() {
               </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
-                  href="https://www.indiacode.nic.in/handle/123456789/2263"
+                  href="https://indiacode.gov.in/handle/123456789/2263"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"

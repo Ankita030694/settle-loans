@@ -1238,7 +1238,7 @@ PAN: [Your PAN]`;
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <a
-                    href="https://cibil.com"
+                    href="https://indiacode.gov.in/handle/123456789/2042"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"

@@ -711,9 +711,9 @@ export default function CibilDisputeWrongOverdueEntryClient() {
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-[#1F5EFF] flex-shrink-0" />
                   <a
-                    href="https://cibil.com"
+                    href="https://www.cibil.com"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="nofollow noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
                     TransUnion CIBIL — Official Consumer Dispute Resolution &amp; Grievance Portal

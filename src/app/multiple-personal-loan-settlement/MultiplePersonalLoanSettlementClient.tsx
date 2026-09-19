@@ -562,7 +562,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <a
-                      href="https://www.indiacode.nic.in/handle/123456789/2189"
+                      href="https://indiacode.gov.in/handle/123456789/2189"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="hover:text-[#1F5EFF] hover:underline flex items-center gap-1.5 transition-colors"
@@ -572,7 +572,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                     </a>
                     <span>&amp;</span>
                     <a
-                      href="https://www.indiacode.nic.in/handle/123456789/2048"
+                      href="https://indiacode.gov.in/handle/123456789/2048"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="hover:text-[#1F5EFF] hover:underline flex items-center gap-1.5 transition-colors"
@@ -625,7 +625,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Landmark className="w-4 h-4 text-amber-600" />
                     <a
-                      href="https://www.indiacode.nic.in/handle/123456789/2006"
+                      href="https://indiacode.gov.in/handle/123456789/2006"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="hover:text-[#1F5EFF] hover:underline flex items-center gap-1.5 transition-colors"
@@ -637,7 +637,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     Recovery agents often falsely threaten to seize residential property or attach personal vehicles. <strong>Under Indian Law:</strong> The{' '}
                     <a
-                      href="https://www.indiacode.nic.in/handle/123456789/2006"
+                      href="https://indiacode.gov.in/handle/123456789/2006"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-[#1F5EFF] font-semibold hover:underline"
@@ -918,7 +918,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 </a>
 
                 <a
-                  href="https://www.indiacode.nic.in/handle/123456789/2189"
+                  href="https://indiacode.gov.in/handle/123456789/2189"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-start justify-between gap-2 p-3 bg-white border border-slate-200 hover:border-[#1F5EFF] rounded-xl hover:shadow-sm transition-all group"
@@ -935,7 +935,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 </a>
 
                 <a
-                  href="https://www.indiacode.nic.in/handle/123456789/2048"
+                  href="https://indiacode.gov.in/handle/123456789/2048"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-start justify-between gap-2 p-3 bg-white border border-slate-200 hover:border-[#1F5EFF] rounded-xl hover:shadow-sm transition-all group"
@@ -952,7 +952,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 </a>
 
                 <a
-                  href="https://www.indiacode.nic.in/handle/123456789/2187"
+                  href="https://indiacode.gov.in/handle/123456789/2187"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-start justify-between gap-2 p-3 bg-white border border-slate-200 hover:border-[#1F5EFF] rounded-xl hover:shadow-sm transition-all group"

@@ -1232,7 +1232,7 @@ ENCLOSURES:
                   <a
                     href="https://www.cibil.com"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="nofollow noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
                     <strong>TransUnion CIBIL Dispute Redressal:</strong> Credit Information Companies (Regulation) Act, 2005 (CICRA) Rules for Updating Settled Status &amp; Zero Balances

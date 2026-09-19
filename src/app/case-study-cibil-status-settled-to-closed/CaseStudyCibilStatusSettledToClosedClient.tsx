@@ -878,14 +878,14 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                 <a
                   href="https://www.cibil.com"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="nofollow noopener noreferrer"
                   className="p-3 rounded-xl border border-slate-200 bg-slate-50/60 hover:bg-blue-50/50 hover:border-blue-200 transition-all flex items-center justify-between text-xs font-bold text-slate-800"
                 >
                   <span>TransUnion CIBIL</span>
                   <ExternalLink className="w-3.5 h-3.5 text-[#1F5EFF]" />
                 </a>
                 <a
-                  href="https://www.indiacode.nic.in"
+                  href="https://indiacode.gov.in"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 rounded-xl border border-slate-200 bg-slate-50/60 hover:bg-blue-50/50 hover:border-blue-200 transition-all flex items-center justify-between text-xs font-bold text-slate-800"

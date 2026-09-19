@@ -1022,7 +1022,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
-                  href="https://www.indiacode.nic.in/handle/123456789/15256"
+                  href="https://indiacode.gov.in/handle/123456789/15256"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"

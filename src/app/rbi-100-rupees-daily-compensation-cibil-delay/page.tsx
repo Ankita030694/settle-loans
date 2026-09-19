@@ -852,7 +852,7 @@ export default function Rbi100RupeesDailyCompensationCibilDelayPage() {
                 <a
                   href="https://www.cibil.com/dispute-resolution"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="nofollow noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
                   <span className="font-semibold text-slate-800">TransUnion CIBIL Official Dispute Resolution Portal (Consumer Desk)</span>
@@ -868,7 +868,7 @@ export default function Rbi100RupeesDailyCompensationCibilDelayPage() {
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
-                  href="https://www.indiacode.nic.in"
+                  href="https://indiacode.gov.in"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm sm:col-span-2"

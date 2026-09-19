@@ -1055,7 +1055,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
-                  href="https://www.indiacode.nic.in/handle/123456789/2263"
+                  href="https://indiacode.gov.in/handle/123456789/2263"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
@@ -1075,7 +1075,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                 <a
                   href="https://www.cibil.com"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="nofollow noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm sm:col-span-2"
                 >
                   <span className="font-semibold text-slate-800">TransUnion CIBIL (Credit Information Reporting &amp; Dispute Resolution)</span>

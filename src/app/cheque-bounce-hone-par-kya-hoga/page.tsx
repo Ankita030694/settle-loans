@@ -960,7 +960,7 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
                   <a
-                    href="https://www.indiacode.nic.in/handle/123456789/2191"
+                    href="https://indiacode.gov.in/handle/123456789/2191"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] hover:underline"
@@ -982,7 +982,7 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
                   <a
-                    href="https://www.indiacode.nic.in/handle/123456789/2042"
+                    href="https://indiacode.gov.in/handle/123456789/2042"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] hover:underline"

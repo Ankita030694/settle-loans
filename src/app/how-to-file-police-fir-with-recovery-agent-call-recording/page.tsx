@@ -981,7 +981,7 @@ export default function PoliceFirWithCallRecordingPage() {
                 </a>
 
                 <a
-                  href="https://www.indiacode.nic.in"
+                  href="https://indiacode.gov.in"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"

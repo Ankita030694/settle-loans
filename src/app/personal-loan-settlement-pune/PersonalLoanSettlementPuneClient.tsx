@@ -863,7 +863,7 @@ export default function PersonalLoanSettlementPuneClient() {
                   <a
                     href="https://www.cibil.com"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="nofollow noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
                     <strong>TransUnion CIBIL India:</strong> Credit Information Companies (Regulation) Act, 2005 — Loan Settlement &amp; Closure Reporting Guidelines

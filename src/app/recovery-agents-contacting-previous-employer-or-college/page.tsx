@@ -980,7 +980,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
               </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
-                  href="https://www.indiacode.nic.in/handle/123456789/19448"
+                  href="https://indiacode.gov.in/handle/123456789/19448"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
@@ -1007,7 +1007,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
-                  href="https://www.indiacode.nic.in/handle/123456789/1999"
+                  href="https://indiacode.gov.in/handle/123456789/1999"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
