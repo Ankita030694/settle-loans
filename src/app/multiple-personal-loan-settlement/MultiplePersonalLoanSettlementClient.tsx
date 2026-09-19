@@ -241,8 +241,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 Negotiating Multiple Personal Loans Into One Settlement
               </h2>
               <p className="text-sm text-slate-700 leading-relaxed">
-                <strong>Yes.</strong> If you owe 3 to 10 different unsecured personal loans and credit cards across multiple banks, NBFCs, and fintech apps, attempting to pay fragmented EMIs leads to continuous default and compounding penal interest. A dedicated debt settlement agency acts as your centralized legal shield: they halt multi-agent harassment under RBI recovery directives, divert incoming legal notices (Sec 138 NI Act & Sec 25 PSS Act), establish a single monthly dedicated settlement accumulation pool, and negotiate bilateral One-Time Settlements (OTS) with each lender sequentially or simultaneously—achieving <strong>40% to 70% total debt reduction</strong> without requiring a high-credit consolidation loan.
-              </p>
+                <strong>Yes.</strong> You can settle multiple unsecured debts together. If you owe 3 to 10 personal loans or cards across banks and fintech apps, a debt settlement agency acts as your legal shield. We halt recovery agent harassment under RBI directives and handle incoming Section 138 or Section 25 notices. We establish a single dedicated settlement fund and negotiate One-Time Settlements (OTS) with each lender—achieving <strong>40% to 70% total debt reduction</strong> without requiring a consolidation loan.</p>
             </div>
 
             {/* SECTION 1 */}
@@ -254,8 +253,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 In India’s hyper-digitized retail credit ecosystem, unsecured personal loans are disbursed in minutes through instant smartphone applications, NBFC digital portals, and aggressive pre-approved credit lines from major commercial banks. While convenient during financial windfalls, an unexpected life event—such as sudden medical emergencies, business margin contraction, job loss, or pay cuts—triggers a rapid multi-debt trap known as <em>credit stacking</em>.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
-                When a borrower carries multiple obligations (for instance, an HDFC personal loan, a Bajaj Finserv flexi-loan, a KreditBee instant advance, and two credit cards with ICICI and SBI), the monthly EMI burden often exceeds 80% to 120% of net monthly take-home income. Borrowers initially resort to <em>cross-borrowing</em>—taking a loan from App B to pay the minimum overdue on Loan A. Within 90 to 180 days, credit limits exhaust, bounce charges compound at 36% to 48% annualized APR, and all accounts simultaneously slide into Non-Performing Asset (NPA) status.
-              </p>
+                Borrowers often carry multiple obligations across different lenders. For example, you may hold loans with HDFC, Bajaj Finserv, SBI, or fintech apps. Each creditor operates on its own collections timeline and stressed-asset policy.</p>
 
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-6">
                 <div className="bg-white border border-slate-200 rounded-xl p-4 shadow-sm">
@@ -297,8 +295,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 The most frequent question asked by distressed multi-loan borrowers is: <em>“Can an agency handle all my banks at once, or do I have to negotiate with each one individually?”</em>
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
-                The answer lies in professional multi-creditor portfolio management. Because Indian banking law treats each loan agreement under the <strong>Indian Contract Act, 1872</strong> as an independent bilateral contract, banks cannot form a collective retail committee against an individual borrower (unlike corporate IBC proceedings in NCLT). However, an authorized debt settlement agency operates a synchronized <strong>Dual-Track Negotiation Engine</strong>:
-              </p>
+                The answer lies in professional portfolio management. Under the <strong>Indian Contract Act, 1872</strong>, Indian banking law treats each loan agreement as an independent contract. Default on one facility does not automatically accelerate another. A structured debt settlement firm uses this statutory reality to implement a sequential settlement triage strategy.</p>
 
               <div className="space-y-4 my-6">
                 <div className="bg-white border border-slate-200 rounded-xl p-4 sm:p-5 shadow-sm">
@@ -307,8 +304,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                     Parallel Legal Representation & Harassment Shielding
                   </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                    Upon enrollment, our Advocates on Record file formal Notices of Representation to all 5–10 lenders concurrently. Under the Reserve Bank of India’s <em>Master Directions on Fair Practices Code and Recovery Agents (updated July 2026 / 2023)</em>, once a customer has appointed legal counsel for financial restructuring, lenders and their outsourced agencies are legally restricted from directly intimidating the borrower. This immediately stops the multi-front phone and field harassment.
-                  </p>
+                    Upon enrollment, our Advocates on Record file formal Notices of Representation to all lenders concurrently. Under the Reserve Bank of India’s <strong>Master Directions on Recovery Guidelines</strong>, lenders must respect formal legal representation. Once initiated, recovery call centers and field agents are legally required to redirect correspondence to your appointed legal counsel.</p>
                 </div>
 
                 <div className="bg-white border border-slate-200 rounded-xl p-4 sm:p-5 shadow-sm">
@@ -582,8 +578,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                     </a>
                   </h3>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
-                    Lenders frequently issue statutory legal notices when automated NACH mandate debits or security cheques bounce. <strong>Crucial Legal Fact:</strong> Receiving a Section 138 or Section 25 notice does not mean immediate arrest. Indian criminal jurisprudence provides a mandatory 15-day cure notice period from receipt. Our legal counsel drafts formal, point-by-point statutory replies establishing genuine financial distress, lack of criminal intent (<em>mens rea</em>), and readiness for compromise settlement, transferring the matter to Lok Adalat proceedings where cases are routinely compounded and closed without trial.
-                  </p>
+                    Lenders frequently issue statutory notices when NACH debits or security cheques bounce. <strong>Crucial Legal Fact:</strong> Section 138 of the NI Act, 1881 and Section 25 of the PSSA, 2007 are compoundable offenses under Indian law. Our legal counsel drafts formal statutory replies establishing genuine financial distress. This prevents ex-parte court summons and compels lenders into formal compromise settlement talks.</p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-4 sm:p-5 bg-white shadow-sm">
@@ -795,8 +790,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 8. Post-Settlement CIBIL Score Rehabilitation
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
-                A common concern among borrowers is the credit report impact. When an account is settled for less than the original contractual dues, the lender reports the trade line status to credit information companies (TransUnion CIBIL, Experian, CRIF High Mark, Equifax) as <strong>“Settled”</strong> or <strong>“Post-Write-off Settled”</strong> rather than “Closed”.
-              </p>
+                A common concern among borrowers is credit report impact. When an account is settled for less than contractual dues, lenders report the trade-line to credit bureaus as <strong>&quot;Settled&quot;</strong> rather than &quot;Closed&quot;. While this causes an initial credit score dip of 50 to 100 points, it is vastly superior to prolonged defaults, &quot;Written Off&quot; flags, or pending court litigation.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
                 While a “Settled” status depresses your score by 50 to 100 points initially, it is vastly superior to leaving accounts in an active <strong>“Written Off”</strong> or perpetual default status with daily mounting arrears. Once all No Dues Certificates are secured, our 3-step credit rehabilitation roadmap restores your credit profile:
               </p>

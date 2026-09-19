@@ -510,8 +510,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
                 1. Admissibility &amp; Single-Party Consent
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When borrowers face persistent defaults on unsecured personal loans or credit card obligations, third-party recovery agencies frequently cross legal boundaries by deploying abusive language, psychological threats, and unlawful social shaming. In response, distressed borrowers routinely capture these hostile exchanges on their smartphones. However, a foundational question frequently arises in legal consultations: Is it lawful to record a telephone conversation without informing the recovery agent, and will an Indian court or police station accept this recording as admissible evidence?
-              </p>
+                When borrowers face defaults on personal loans or credit cards, recovery agencies often cross statutory boundaries. Agents resort to abusive profanity, aggressive shouting, and threats of imminent arrest, violating the RBI Fair Practices Code.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the Indian legal framework, there is no blanket statutory prohibition that prevents an individual participant in a conversation from recording audio for their own legal protection. Unlike certain international jurisdictions that enforce strict two-party consent laws, Indian jurisprudence recognizes the evidentiary value of contemporaneous voice recordings when offered to establish a civil right or prove the commission of a criminal offense. The foundational landmark ruling of the Supreme Court of India in <em>R.M. Malkani v. State of Maharashtra (1973) 1 SCC 471</em> established that a contemporaneous tape-recorded conversation is admissible as a document under the Indian Evidence Act, provided three critical legal conditions are satisfied:
               </p>
@@ -526,8 +525,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
                   <span>Constitutional Right to Privacy vs. Criminal Defense</span>
                 </div>
                 <p className="text-xs sm:text-sm text-amber-800 leading-relaxed">
-                  While the Supreme Court in <em>K.S. Puttaswamy v. Union of India (2017)</em> elevated privacy to a fundamental right under Article 21, the judiciary has repeatedly clarified that privacy cannot serve as a protective shield for individuals committing criminal intimidation, extortion, or regulatory violations over public telecommunications networks.
-                </p>
+                  In <em>K.S. Puttaswamy v. Union of India (2017)</em>, the Supreme Court elevated privacy to a fundamental right. However, recording a phone call in which you are an active participant to document criminal intimidation, extortion, or regulatory violations does not violate privacy laws.</p>
               </div>
             </section>
 
@@ -540,8 +538,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
                 Recording an abusive phone call is merely the initial operational step; converting that raw audio file into legally incontrovertible proof requires meticulous compliance with statutory authentication rules. Under Indian law, electronic records such as MP3 audio files, WAV voice recordings, and digital transcripts are classified as secondary electronic evidence. Historically, Section 65B of the Indian Evidence Act, 1872 governed the admissibility of electronic records. Under the revised criminal jurisprudence, this framework is codified under Section 63 of the Bharatiya Sakshya Adhiniyam, 2023 (BSA).
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                In the seminal three-judge bench decision in <em>Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal (2020) 7 SCC 1</em>, the Supreme Court settled decades of conflicting precedent by holding that a written certificate under Section 65B(4) is an absolute, mandatory condition precedent to the admissibility of any secondary electronic evidence in court. If a borrower produces a pen drive, CD-ROM, or printout of a chat log without this accompanying statutory affidavit, the court is legally prohibited from admitting the material into the evidentiary record.
-              </p>
+                In <em>Arjun Panditrao Khotkar (2020) 7 SCC 1</em>, the Supreme Court held that statutory electronic certification is mandatory when submitting digital evidence. Under Section 63 of the Bharatiya Sakshya Adhiniyam, 2023 (BSA), recorded phone conversations require an electronic certificate.</p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
                 <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
@@ -551,7 +548,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">1. Device Identification &amp; Lawful Custody</p>
-                    <p className="text-slate-600 mt-1">The certificate must specify the exact make, model, IMEI number, and operating system of the smartphone or computer used to record and store the original electronic record, affirming that the device was under the lawful management and operational control of the deponent.</p>
+                    <p className="text-slate-600 mt-1">The certificate must specify the make, model, IMEI, and operating system of the recording device. It must confirm that the device was operating properly and declare that the recording has not been spliced or tampered with.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">2. Normal Operation &amp; Unbroken Integrity</p>
@@ -559,7 +556,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">3. Cryptographic Hash Verification (BSA Schedule)</p>
-                    <p className="text-slate-600 mt-1">Under Section 63 of the BSA, best practices mandate generating a secure cryptographic hash (e.g., SHA-256) of the raw audio file at the moment of capture, recording this unique digital fingerprint within the statutory certificate to demonstrate zero post-recording modification.</p>
+                    <p className="text-slate-600 mt-1">Under Section 63 of the BSA, best practices mandate generating a cryptographic hash (such as SHA-256) of the raw audio file. Generating this hash at the moment of capture proves digital chain-of-custody and prevents allegations of audio manipulation.</p>
                   </div>
                 </div>
               </div>
@@ -624,8 +621,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
                 <li><strong>Doubtful-2 &amp; Loss Assets:</strong> 100% complete provisioning deduction directly eroding institutional equity.</li>
               </ul>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mt-3">
-                Lenders outsource delinquent accounts to third-party recovery agencies on a contingency commission model (ranging between 8% and 22% of collected funds) because formal civil litigation in Indian commercial courts requires 1% to 3% upfront ad-valorem court fees and consumes 3 to 5 years of legal proceedings. Institutional risk committees calculate recovery viability using a Net Present Value (NPV) recovery valuation model:
-              </p>
+                Lenders outsource delinquent accounts to recovery agencies on a commission model ranging between 8% and 22% of collected funds. This financial structure incentivizes rogue agencies to use intimidation rather than lawful recovery channels.</p>
 
               {/* NPV Formula Container Box */}
               <div className="bg-slate-900 text-white rounded-2xl p-5 my-6 shadow-md border border-slate-800">
@@ -637,8 +633,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries across annual periods t, r is the institutional cost-of-capital discount rate, and mandatory deductions account for 3 to 5 years of court friction, advocate retainers, and regulatory capital locked in NPA provisioning reserves.
-                </p>
+                  Here, C_t represents estimated recoveries over time, while r is the bank&apos;s cost-of-capital discount rate. Deductions account for legal fees, regulatory audit penalties, and provisioning capital locked in delinquent accounts.</p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -693,8 +688,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When filing a police complaint, attach the transcribed dialogue of the phone call, the physical pen drive containing the original audio files, and the signed Section 65B/63 BSA certificate. If the local station house officer (SHO) hesitates to register an FIR due to commercial debt misconceptions, your advocate can escalate the matter to the Deputy Commissioner of Police (DCP) under Section 154(3) CrPC / Section 173(4) BNSS, or approach the Judicial Magistrate under Section 156(3) CrPC / Section 175(3) BNSS for mandatory registration directions.
-              </p>
+                When filing a police complaint, attach a written transcript of the call and a USB drive containing the original audio. Include the statutory Section 63 BSA certificate to substantiate charges under BNS Section 351 (Criminal Intimidation) and Section 308 (Extortion).</p>
             </section>
 
             {/* Section 7: Civil Court Injunctions & Section 151 CPC */}
@@ -703,8 +697,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
                 7. Civil Injunctions &amp; Restraining Orders
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                In addition to criminal prosecution, digital evidence serves as the bedrock for securing urgent civil relief against aggressive financial institutions. Under Order 39, Rules 1 and 2 read with Section 151 of the Code of Civil Procedure, 1908 (CPC), a borrower can institute a civil suit for permanent injunction and damages against the lending bank and its collection affiliates.
-              </p>
+                Digital evidence also serves as the bedrock for securing urgent civil relief. When presented before civil courts, verified recordings demonstrate immediate necessity for temporary injunctions against unauthorized workplace and home visits.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 By presenting transcriptions of threatening call recordings alongside verified CCTV footage of unauthorized residential visits, defense counsel can establish all three prerequisite pillars for obtaining an ex-parte ad-interim injunction:
               </p>
@@ -721,8 +714,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
                 8. Escalation to RBI Ombudsman &amp; Remittance Safeguards
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under the Reserve Bank - Integrated Ombudsman Scheme, 2021, scheduled commercial banks and regulated NBFCs face stringent institutional scrutiny for recovery agent violations. When an official complaint is lodged through the RBI Complaint Management System (CMS) accompanied by Section 65B certified audio exhibits, the Ombudsman possesses statutory authority to award compensation up to ₹20 Lakhs for consequential losses, alongside additional damages up to ₹1 Lakh for mental harassment and loss of time.
-              </p>
+                Under the RBI Integrated Ombudsman Scheme, 2021, commercial banks and NBFCs face stringent scrutiny. Submitting time-stamped call recordings alongside customer service complaints forces internal grievance cells to halt recovery activity.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the lender agrees to transition from hostile recovery to an amicable One-Time Settlement (OTS), borrowers must ensure rigorous adherence to settlement remittance protocols:
               </p>
@@ -817,8 +809,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
                   10. SettleLoans Legal Defense Protocol
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating electronic evidence collection, statutory certifications, and criminal harassment complaints requires specialized legal expertise at the intersection of banking litigation, telecommunications law, and the Code of Criminal Procedure. SettleLoans provides end-to-end legal defense for distressed borrowers across India: auditing recorded calls, preparing water-tight Section 65B and Section 63 BSA affidavits, serving immediate cease-and-desist notices to bank collection departments, and negotiating favorable One-Time Settlements directly with institutional decision-makers.
-                </p>
+                  Navigating electronic evidence, statutory certificates, and harassment complaints requires specialized legal expertise. SettleLoans advocates provide complete legal support to protect borrower rights and enforce compliance with RBI directives.</p>
               </div>
 
               {/* CompanySection Component */}

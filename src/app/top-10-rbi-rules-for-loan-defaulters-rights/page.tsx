@@ -526,16 +526,14 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 In the contemporary Indian financial ecosystem, unsecured personal loans, consumer credit lines, credit cards, and micro-business credit facilities have expanded at an unprecedented pace. However, when unanticipated personal emergencies arise—such as sudden corporate layoffs, catastrophic family medical emergencies, critical supply-chain disruptions, or business insolvencies—honest borrowers frequently experience severe liquidity shortfalls. When Equated Monthly Installments (EMIs) default past the statutory 90-day threshold and become categorized as Non-Performing Assets (NPAs), institutional lenders frequently outsource recovery operations to aggressive third-party collection agencies.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Many borrowers mistakenly believe that defaulting on a commercial credit facility forfeits their civil rights, leaving them vulnerable to unlimited institutional pressure. In reality, the Reserve Bank of India (RBI), acting under powers conferred by Section 21 and Section 35A of the Banking Regulation Act, 1949, and the Reserve Bank of India Act, 1934, has established a robust, legally binding regulatory umbrella known as the Fair Practices Code (FPC) and the Master Directions on Outsourcing of Financial Services. These statutory instruments balance the legitimate debt recovery rights of banking institutions against the fundamental constitutional rights of citizens to privacy, personal liberty, and freedom from coercive harassment.
-              </p>
+                Many borrowers believe that loan default forfeits their civil rights, leaving them vulnerable to harassment. In reality, the Reserve Bank of India (RBI) has established an extensive statutory framework under Section 21 and Section 35A of the Banking Regulation Act, 1949. This framework protects borrowers from abusive recovery tactics.</p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-xl my-4">
                 <div className="flex items-center gap-2 text-amber-900 font-bold text-xs uppercase tracking-wider mb-1">
                   <AlertCircle className="w-4 h-4 text-amber-600" />
                   <span>Core Regulatory Principle</span>
                 </div>
                 <p className="text-xs sm:text-sm text-amber-800 leading-relaxed">
-                  The Reserve Bank of India mandates that all Regulated Entities (REs)—including public sector banks, private commercial banks, foreign banks, Non-Banking Financial Companies (NBFCs), and Small Finance Banks—are vicariously liable for the actions of their recovery agents. Any coercive, humiliating, or unlawful conduct by collection staff triggers direct regulatory penalties against the bank.
-                </p>
+                  The RBI mandates that all Regulated Entities (REs)—including commercial banks, NBFCs, and fintech lenders—must treat borrowers with dignity. Lenders cannot subject borrowers to intimidation, humiliation, or persistent harassment in debt recovery.</p>
               </div>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the Indian legal framework, commercial default is governed strictly by the Indian Contract Act, 1872. A failure to make monthly installment payments constitutes a civil breach of contractual obligations, for which lenders possess designated judicial and extra-judicial recovery avenues. Crucially, the law does not permit banks to disregard standard due process, deploy intimidation tactics, or convert civil defaults into extra-judicial debt collection campaigns.
@@ -548,8 +546,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 2. Calling Hours (8 AM–7 PM) & Anti-Harassment Directives
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The most visible touchpoint between distressed borrowers and institutional creditors occurs through collection communications. To curtail widespread predatory practices, the Reserve Bank of India issued landmark Circular RBI/2022-23/108 (DOR.ORG.REC.65/21.04.158/2022-23) titled <em>"Outsourcing of Financial Services - Responsibilities of Regulated Entities Employing Recovery Agents."</em> This circular establishes non-negotiable operational boundaries that govern how, when, and where lenders may communicate with borrowers.
-              </p>
+                Collection communications are strictly regulated. To curtail predatory tactics, the RBI issued Circular RBI/2022-23/108 on Recovery Agents. Lenders and their agencies are barred from calling before 8:00 AM or after 7:00 PM, and cannot contact third parties without consent.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Foremost among these protections is the strict restriction on communication timings. Regulated Entities and their authorized collection personnel are legally barred from contacting borrowers—via telephone calls, SMS messages, WhatsApp chats, or in-person visits—before 8:00 AM in the morning or after 7:00 PM in the evening. Persistent calling, automated dialer harassment during midnight or early morning hours, and calling on national holidays constitute explicit regulatory breaches that provide grounds for immediate grievance filing.
               </p>
@@ -592,8 +589,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 </div>
               </div>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Furthermore, the RBI has banned the practice of public humiliation and social shaming. In the landmark Supreme Court ruling in <em>ICICI Bank Ltd. v. Prakash Kaur &amp; Ors. (2007) 2 SCC 711</em>, the apex court condemned the use of strong-arm recovery agents and hired thugs by commercial banks, affirming that debt recovery must occur strictly within the boundaries of civil law and civilized society.
-              </p>
+                Furthermore, the RBI strictly bans public humiliation and social shaming. In the landmark ruling <em>ICICI Bank v. Shanti Devi Sharma (2007) 2 SCC 711</em>, the Supreme Court condemned using strong-arm recovery agents and hired muscle. The court affirmed that debt recovery must follow due process of law.</p>
             </section>
 
             {/* Section 3: Civil Immunity & Section 420 IPC Myth */}
@@ -602,11 +598,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 3. Protections Against Criminalization: Section 420 Myth
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                One of the most persistent and damaging intimidation tactics utilized by unauthorized collection agencies involves sending fabricated police notices or threatening borrowers with criminal prosecution under Section 420 (Cheating and dishonestly inducing delivery of property) and Section 406 (Criminal breach of trust) of the Indian Penal Code (IPC), now corresponding to the relevant clauses of the Bharatiya Nyaya Sanhita (BNS).
-              </p>
+                A common intimidation tactic involves sending fake police notices or arrest warrants over WhatsApp. Recovery agents often cite Section 420 (Cheating) or Section 406 (Criminal Breach of Trust) of the Indian Penal Code (IPC), threatening imminent imprisonment.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                From a rigorous legal standpoint, a financial default arising out of an inability to pay does not fulfill the essential ingredients of criminal cheating. To establish an offense under Section 420 IPC, the prosecution or complainant must prove beyond reasonable doubt that the accused possessed a fraudulent or dishonest intention (<em>mens rea</em>) at the very inception of the contractual transaction. When a borrower applied for a credit facility using authentic Know Your Customer (KYC) documentation, serviced initial monthly installments responsibly, and subsequently defaulted due to financial distress, there is no fraudulent inducement at inception.
-              </p>
+                Under Indian law, financial default arising from inability to pay does not constitute criminal cheating. To establish an offense under Section 420 IPC, fraudulent intent must be proven at the inception of the loan. In genuine default, the dispute remains purely civil.</p>
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
                 <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
@@ -647,8 +641,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <li><strong>Loss Assets:</strong> Requires 100% provisioning write-off, representing an absolute drag on institutional return on assets (ROA).</li>
               </ul>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mt-3">
-                When a bank files a civil recovery suit under Order 37 of the Code of Civil Procedure (CPC) or approaches a civil court, it incurs significant upfront ad-valorem court fees (1% to 3% of the claim), retains external litigation advocates, and faces judicial proceedings lasting 3 to 5 years. Institutional risk committees therefore evaluate delinquent portfolios through a Net Present Value (NPV) recovery valuation model:
-              </p>
+                When a bank files a civil suit under Order 37 CPC, it incurs substantial expenses. Lenders must pay court fees, maintain legal retainers, and navigate 3 to 7 years of procedural hearings. This reality creates a strong incentive for banks to accept One-Time Settlements.</p>
 
               {/* NPV Formula Box */}
               <div className="bg-slate-900 text-white rounded-2xl p-5 my-6 shadow-md border border-slate-800">
@@ -886,8 +879,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 Once the final settlement installment is remitted in strict compliance with the sanction letter schedule, the post-settlement legal phase begins. Under RBI Directive RBI/2023-24/60, the financial institution is legally obligated to execute account closure, issue a physical and digital No Dues Certificate (NDC), and release any pledged security or original title deeds within 30 days.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Furthermore, the lender is required under the Credit Information Companies (Regulation) Act, 2005 (CICRA) to transmit updated account records to all four credit bureaus operating in India—TransUnion CIBIL, Experian, Equifax, and CRIF High Mark—within 45 days. The account status will transition from active delinquent DPD (Days Past Due) to 'Settled' or 'Post-Settlement Written Off'.
-              </p>
+                Furthermore, lenders are required under CICRA, 2005 to transmit updated account records to credit bureaus. Within 30 days of receiving settlement funds, the bank must update CIBIL, Experian, Equifax, and CRIF High Mark to reflect an outstanding balance of ₹0.</p>
               <div className="bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-2xl p-5 shadow-md border border-slate-700 space-y-3">
                 <div className="flex items-center gap-2 text-blue-400 font-bold text-xs uppercase tracking-wider">
                   <CreditCard className="w-4 h-4" />
@@ -992,8 +984,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                   10. SettleLoans Legal Defense & Debt Resolution Shield
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating institutional recovery harassment, aggressive collection agency tactics, and complex banking regulations requires seasoned legal advocates who specialize in banking litigation, the Code of Criminal Procedure, and RBI Master Directions. SettleLoans stands as India premier legal defense and debt resolution platform. Our advocates protect your dignity by serving formal cease-and-desist notices to stop unlawful harassment, holding abusive collection agencies accountable under criminal and consumer protection laws, and negotiating directly with institutional settlement committees to secure maximum principal waivers backed by authentic, bank-stamped No Dues Certificates.
-                </p>
+                  Navigating recovery harassment and complex banking rules requires seasoned legal advocates. SettleLoans stands as India premier legal defense and debt resolution platform. Our advocates protect your dignity by serving formal cease-and-desist notices to stop unlawful harassment. We hold abusive agencies accountable and negotiate directly with bank committees to secure maximum principal waivers backed by authentic, bank-stamped No Dues Certificates.</p>
               </div>
 
               {/* CompanySection Component */}

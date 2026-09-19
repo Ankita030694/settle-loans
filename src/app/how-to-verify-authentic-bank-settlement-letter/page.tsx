@@ -543,8 +543,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                     <span>RBI Outsourcing Code of Conduct</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Under the <strong>RBI Master Direction on Managing Risks and Code of Conduct in Outsourcing of Financial Services</strong>, regulated banks and NBFCs remain strictly liable for the unlawful actions, fraud, or misrepresentations committed by their outsourced recovery agents.
-                  </p>
+                    Under the <strong>RBI Master Direction on Outsourcing of Financial Services</strong>, banks cannot delegate settlement authority. Regulated lenders are barred from allowing third-party recovery agencies to approve compromise write-offs.</p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2">
                   <div className="flex items-center gap-2 font-bold text-slate-900 text-xs sm:text-sm">
@@ -552,8 +551,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                     <span>Forgery under IPC &amp; BNS</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Fabricating a bank settlement letter constitutes Forgery under <strong>Sections 463, 464, and 468 of the Indian Penal Code (IPC)</strong> and corresponding provisions under <strong>Sections 336 and 338 of the Bharatiya Nyaya Sanhita (BNS)</strong>, punishable by up to seven years imprisonment.
-                  </p>
+                    Fabricating a bank settlement letter constitutes Forgery under <strong>Sections 463, 464, and 468 of the IPC</strong>. It also constitutes Cheating under <strong>Section 420 IPC</strong>, now codified under corresponding provisions of the Bharatiya Nyaya Sanhita (BNS).</p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2">
                   <div className="flex items-center gap-2 font-bold text-slate-900 text-xs sm:text-sm">
@@ -631,8 +629,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                 4. Why Authentic OTS Requires Credit Committee Approval
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To understand why rogue agents cannot legitimately sanction debt waivers, one must understand how Indian commercial banks account for stressed assets and Non-Performing Assets (NPAs). When an unsecured loan defaults, the bank cannot arbitrarily write off principal amounts without formal committee governance. Under the <strong>RBI Master Direction on Compromise Settlements and Technical Write-offs (June 8, 2023)</strong>, every regulated bank and NBFC must operate under a board-approved Compromise Settlement Policy governed by a strict Delegation of Financial Powers (DoFP) matrix.
-              </p>
+                To understand why collection agents cannot sanction waivers, consider how banks account for stressed assets. Under the <strong>RBI Master Direction on Compromise Settlements (June 8, 2023)</strong>, every loan haircut requires authorization from a designated internal bank committee:</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 As a loan ages across delinquency buckets, the bank must set aside regulatory capital reserves out of its operating profits:
               </p>
@@ -690,8 +687,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoverable cash flows over time, r is the bank&apos;s internal hurdle discount rate, and deductions account for 3–5 years of court friction, advocate fees, execution delays, and idle capital trapped in statutory NPA provisions.
-                </p>
+                  Here, C_t represents estimated recoverable cash flows over time, while r is the bank&apos;s discount rate. Deductions account for advocate retainers, court fees, multi-year execution delays, and capital locked in mandatory provisioning.</p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -792,8 +788,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                     <span>Check 5: Unambiguous Debt Discharge &amp; Litigation Withdrawal Clause</span>
                   </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Verify that the letter explicitly declares that receipt of the agreed settlement figure constitutes full and final satisfaction of all outstanding dues, waiving all residual balances, and binding the lender to withdraw all pending legal notices, Section 138 proceedings, and arbitration claims.
-                  </p>
+                    Verify that the letter explicitly declares that the settlement payment constitutes full and final satisfaction of dues. It must also confirm that the bank will withdraw pending Section 138 NI Act or Section 25 PSSA complaints and issue a formal ₹0 No Dues Certificate.</p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-rose-600 bg-slate-50 space-y-1">
@@ -910,16 +905,14 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                   <span>Mandatory Delivery of No Dues Certificate under RBI Circular RBI/2023-24/60</span>
                 </div>
                 <p className="leading-relaxed text-emerald-900">
-                  Under RBI Circular RBI/2023-24/60 (Responsible Lending Conduct – Release of Movable/Immovable Property Documents and Issuance of NDC), all commercial banks and NBFCs are statutorily mandated to issue an official <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> and update credit bureau records within <strong>30 calendar days</strong> of receiving the final settlement tranche. Any unjustified delay makes the bank liable to pay statutory compensation of <strong>₹5,000 per day of delay</strong> directly to the borrower.
-                </p>
+                  Under RBI Circular RBI/2023-24/60, all commercial banks and NBFCs must issue an official No Dues Certificate within 30 calendar days. They are also legally obligated to update credit bureau records within this same 30-day timeline.</p>
               </div>
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding CIBIL Bureau Reporting &amp; Credit Score Rebuilding
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Following authentic settlement execution, the bank will report your loan account to all four authorized credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) with the status remark <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong>, reflecting a current outstanding balance of <strong>₹0</strong>. While this causes a temporary credit score dip of 75 to 125 points, it permanently halts default compounding and eliminates collection harassment. Borrowers can systematically rebuild their CIBIL score back above 750 within 18 to 24 months by utilizing a secured fixed-deposit credit card and maintaining 100% on-time repayment discipline.
-              </p>
+                Following settlement execution, the bank reports your loan account to all four authorized credit bureaus: CIBIL, Experian, Equifax, and CRIF High Mark. The status is marked as &apos;Settled&apos;, reflecting an outstanding balance of ₹0.</p>
             </section>
 
             {/* Section 9: Comparative Matrix */}
@@ -988,8 +981,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                   10. SettleLoans Letter Verification & Legal Audit Services
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating the complex landscape of stressed debt recovery requires experienced banking litigation advocates who understand credit committee approval matrices, RBI regulatory frameworks, and forensic document verification. SettleLoans provides complete legal defense for borrowers across India: auditing settlement letters for forensic authenticity, halting rogue collection agent harassment, engaging directly with bank Zonal Credit Managers, and negotiating maximum lawful haircuts backed by official, bank-stamped No Dues Certificates.
-                </p>
+                  Resolving stressed debt requires experienced banking litigation advocates. Our legal team understands credit committee procedures, forensic letter verification, and statutory borrower rights under RBI directives.</p>
               </div>
 
               {/* CompanySection Component */}

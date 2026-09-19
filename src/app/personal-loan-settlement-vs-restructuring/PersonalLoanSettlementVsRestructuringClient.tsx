@@ -123,16 +123,14 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
       question: "What is the fundamental difference between personal loan settlement and loan restructuring?",
       answer: (
         <p>
-          The fundamental difference centers on <strong>contractual modification versus debt forgiveness</strong>. In a <strong>Loan Restructuring</strong>, the bank modifies the terms of your active contract—such as extending your tenure from 36 to 60 months, lowering interest rates, or granting a short moratorium—to lower your monthly EMI without waiving any principal. You repay 100% of the loan. In a <strong>Loan Settlement (One-Time Settlement or OTS)</strong>, the bank waives 40% to 70% of the total outstanding dues in exchange for a discounted lump sum payment, legally closing the debt.
-        </p>
+          The difference centers on <strong>contractual modification versus debt forgiveness</strong>. In a <strong>Loan Restructuring</strong>, the bank modifies your active contract terms. It may extend your repayment tenure, lower interest rates, or offer an EMI moratorium to make monthly payments manageable without terminating the loan.</p>
       )
     },
     {
       question: "How does loan restructuring affect my CIBIL score compared to loan settlement?",
       answer: (
         <p>
-          Restructuring causes a moderate score drop of <strong>30 to 60 points</strong> and marks the account as <strong>&quot;Restructured&quot;</strong> in your CIBIL report. Because you continue making monthly payments, your score stabilizes and rebuilds within 6 to 12 months. Settlement triggers an immediate drop of <strong>75 to 150 points</strong> and marks the account as <strong>&quot;Settled&quot;</strong> with a ₹0 balance, requiring 18 to 24 months of secured credit usage (like FD-backed credit cards) to restore your score above 750.
-        </p>
+          Restructuring causes a moderate score drop of <strong>30 to 60 points</strong> and marks the trade-line as <strong>&quot;Restructured&quot;</strong>. Settlement triggers an adjustment of <strong>75 to 150 points</strong> and marks the account as <strong>&quot;Settled&quot;</strong> on your CIBIL report, reflecting that dues were resolved via compromise.</p>
       )
     },
     {
@@ -147,8 +145,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
       question: "Can I request loan restructuring after my loan has become an NPA (90+ days overdue)?",
       answer: (
         <p>
-          While legally permissible under RBI&apos;s Prudential Framework for Resolution of Stressed Assets, commercial banks (such as HDFC, SBI, ICICI, Axis, Bajaj Finance) rarely approve restructuring once an account enters deep NPA (90+ DPD) unless you demonstrate substantial, verified proof of revived income. In late-stage delinquency, banks strongly prefer a One-Time Settlement (OTS) to eliminate the bad loan from their balance sheet immediately.
-        </p>
+          While permissible under RBI&apos;s Prudential Framework, commercial banks reserve restructuring for borrowers with temporary cash-flow disruptions. Lenders require proof of ongoing earnings to approve restructured EMIs. If you have permanent income loss, banks will decline restructuring.</p>
       )
     },
     {
@@ -163,8 +160,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
       question: "When should a borrower choose restructuring over loan settlement?",
       answer: (
         <p>
-          Choose restructuring if your financial distress is <strong>temporary</strong> (e.g., temporary job gap, salary delay, short-term medical expense), your ongoing earning power remains intact, you can afford a reduced EMI, and you plan to take a home loan or car loan within the next 2 to 3 years. Choose settlement if you are in <strong>permanent or severe insolvency</strong> (job loss, business closure, debt trap where EMIs exceed income) and cannot sustain ongoing monthly installments.
-        </p>
+          Choose restructuring if your financial distress is <strong>temporary</strong>, such as a short job gap or transient medical expense. This is appropriate if you can service revised EMIs without default. Choose settlement if you have permanent income loss and cannot maintain restructured payments.</p>
       )
     },
     {
@@ -187,16 +183,14 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
       question: "Can I convert a 'Settled' loan status in CIBIL to 'Closed' later, and is it possible with restructuring?",
       answer: (
         <p>
-          Yes. After settling a loan, if your financial capacity improves, you can approach the original lender, pay the waived haircut amount (the discount), and obtain a Comprehensive Final No Dues Certificate to update your CIBIL status from &quot;Settled&quot; to &quot;Closed&quot;. For a restructured loan, once you complete all scheduled repayments, the account automatically transitions to &quot;Closed - Fully Paid&quot; without paying any penalty.
-        </p>
+          Yes. If your financial capacity improves after settlement, you can approach the original lender to pay the waived balance. Once paid, the bank will upgrade your CIBIL record from &quot;Settled&quot; to &quot;Closed&quot; and issue a fresh No Dues Certificate.</p>
       )
     },
     {
       question: "Are recovery agents allowed to harass me while a restructuring or settlement proposal is under review?",
       answer: (
         <p>
-          <strong>No.</strong> Under the RBI Fair Practices Code and Master Direction on Recovery Agents, lenders and their outsourced agents are strictly barred from making abusive calls, contacting relatives, visiting workplaces without consent, or calling outside the 8:00 AM to 7:00 PM window while your formal hardship proposal is pending review. SettleLoans advocates issue formal cease-and-desist notices to protect you from harassment.
-        </p>
+          <strong>No.</strong> Under the RBI Fair Practices Code, lenders and collection agents are strictly prohibited from using abusive language or threatening violence. They cannot call before 8:00 AM or after 7:00 PM, or harass your workplace colleagues.</p>
       )
     }
   ];
@@ -354,8 +348,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                 1. Loan Restructuring vs Settlement: Core Differences
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                When financial distress strikes—whether triggered by sudden job loss, unexpected medical emergencies, business margin collapse, or high-interest credit card traps—borrowers in India face a critical dilemma: <em>Should you negotiate with your bank to restructure your personal loan, or should you execute a One-Time Settlement (OTS)?</em>
-              </p>
+                When financial distress strikes from job loss, medical emergencies, or business downturns, borrowers face mounting debt burdens. As compounding penal interest accumulates, collection calls and legal notices intensify, requiring clear debt resolution.</p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 While both mechanisms provide immediate relief from unmanageable debt, they operate on completely opposite contractual and financial principles. Understanding the distinction between <strong>loan restructuring</strong> (contractual term modification with 100% repayment) and <strong>loan settlement</strong> (debt compromise with principal forgiveness) is essential before approaching your lending institution.
               </p>
@@ -562,8 +555,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                   The Stressed Borrower&apos;s Paradox
                 </h4>
                 <p className="text-sm text-amber-800 leading-relaxed">
-                  Restructuring solves <em>cash flow timing</em> but worsens <em>total solvency</em>. If your income has shrunk permanently or your total debt service ratio exceeds 60% of take-home pay, paying ₹1.49 Lakh extra interest over 5 years through restructuring often results in a secondary default within 12 months. In contrast, an OTS settlement instantly locks in a massive net capital savings of ₹6 Lakhs.
-                </p>
+                  Restructuring solves <em>cash flow timing</em> but increases total interest paid over time. If your income has permanently reduced or debt obligations exceed 60% of earnings, loan settlement provides a definitive exit. It stops compounding debt and prevents long-term insolvency.</p>
               </div>
             </section>
 
