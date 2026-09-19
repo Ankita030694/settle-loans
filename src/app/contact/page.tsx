@@ -62,10 +62,10 @@ export default function ContactPage() {
             <div>
               <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">What to Expect During Your Free Consultation</h2>
               <p className="leading-relaxed mb-4">
-                When you reach out to SettleLoans, our certified financial advisors and legal advocates first review the complete history of your loan defaults, current outstanding balance, principal component, and any unlawful penalties or penal interest levied by your lenders.
+                When you contact SettleLoans, our team reviews your complete loan history. We check your total balance, principal dues, and any unfair bank penalties or extra charges.
               </p>
               <p className="leading-relaxed">
-                We assess your current debt-to-income ratio, identify whether your loans qualify for a One-Time Settlement (OTS) under Reserve Bank of India (RBI) circulars, and devise a customized legal strategy to immediately halt recovery agent harassment while negotiating maximum possible waivers on your outstanding dues.
+                Next, we assess your financial situation. We check if your debt qualifies for a One-Time Settlement (OTS) under RBI rules. Then, we create a legal plan to stop agent harassment and negotiate the highest possible waiver on your debt.
               </p>
             </div>
 
@@ -79,35 +79,35 @@ export default function ContactPage() {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">1. Is my financial information kept confidential?</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Yes, absolutely. We adhere to strict client confidentiality protocols and nondisclosure practices. None of your contact numbers, salary accounts, or debt details are shared with third parties or recovery agencies.
+                    Yes, absolutely. We follow strict client privacy rules. Your contact numbers, salary details, and loan records are never shared with third parties or recovery agencies.
                   </p>
                 </div>
 
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">2. What documents should I have ready before speaking with an advocate?</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Having your latest loan account statements, sanction letters, and any recent bank legal notices (such as Section 138 cheque bounce notices, Lok Adalat summons, or demand letters) helps our legal team assess your case faster and provide accurate waiver estimates.
+                    Please keep your latest loan statements, sanction letters, and any bank legal notices ready. These include Section 138 cheque bounce notices, Lok Adalat summons, or demand letters. Having these documents helps our team review your case faster and calculate accurate waiver estimates.
                   </p>
                 </div>
 
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">3. How quickly can SettleLoans intervene if recovery agents visit my home?</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Under RBI Fair Practices Code, recovery agents are strictly prohibited from using abusive language, making unsolicited calls outside 8:00 AM to 7:00 PM, or harassing your neighbors and employers. Once retained, our legal team issues immediate formal representation notices to your bank nodal officers, establishing formal legal representation.
+                    Under the RBI Fair Practices Code, recovery agents cannot use abusive language. They cannot call before 8:00 AM or after 7:00 PM. They are also barred from contacting your family, neighbors, or workplace. Once you retain our services, our legal team sends formal representation notices to bank Nodal Officers right away.
                   </p>
                 </div>
 
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">4. What happens immediately after I submit this consultation form?</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Once you submit your inquiry, our dedicated debt resolution coordinator analyzes your overall loan portfolio and schedules a confidential one-on-one discovery call with a senior legal associate. We evaluate your hardship grounds, verify any pending court summons or arbitration notices, and outline a realistic settlement waiver projection within 24 business hours.
+                    After you submit your inquiry, our team reviews your loan details. We schedule a confidential call with a legal associate. We review your financial hardship, check any court notices, and share a realistic settlement plan within 24 hours.
                   </p>
                 </div>
 
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">5. Can I schedule an emergency consultation outside business hours?</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Yes. If you are experiencing aggressive recovery agent intimidation, workplace visits, or have received an urgent Lok Adalat notice scheduled for the upcoming weekend, mark your request as urgent in the form comments. Our emergency consumer protection desk reviews distress tickets on priority even outside standard hours.
+                    Yes. If recovery agents visit your home or workplace, please mark your inquiry as urgent. You should also do this if you have an upcoming Lok Adalat date. Our emergency consumer defense desk reviews urgent cases on priority, even outside normal office hours.
                   </p>
                 </div>
               </div>

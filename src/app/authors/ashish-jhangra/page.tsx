@@ -36,13 +36,13 @@ export default function AshishJhangraProfile() {
 
           <div className="prose prose-slate max-w-none prose-p:leading-relaxed prose-p:text-slate-600 prose-li:text-slate-600">
             <p>
-              Hi, I'm Ashish, a legal and debt resolution professional at AMA Legal Solutions. I am passionate about helping individuals and businesses overcome financial challenges through legal guidance, debt resolution, and financial recovery solutions.
+              Hi, I'm Ashish, a debt resolution specialist at AMA Legal Solutions. I help people and businesses resolve heavy debt through legal advice and structured settlements.
             </p>
             <p>
-              At AMA Legal Solutions, I work closely with clients who are facing financial stress due to personal loans, credit cards, business loans, and recovery-related issues. My role is to understand each client's situation, provide practical legal support, and help them explore lawful debt resolution options while protecting their rights.
+              At AMA Legal Solutions, I work closely with borrowers facing financial stress from personal loans, credit cards, and business debts. My role is to review each case, provide practical legal guidance, and protect borrower rights under Indian law.
             </p>
             <p>
-              Over the years, I have advised salaried individuals, self-employed professionals, and MSME entrepreneurs on navigating complex NPA classifications, countering unlawful recovery agent harassment, and obtaining legally enforceable compromise settlements under Reserve Bank of India (RBI) circulars. My advisory methodology focuses on establishing direct legal dialogue with bank Principal Nodal Officers, defending against premature Section 138 cheque bounce or Section 25 PSSA summons, and representing borrowers before National Lok Adalats to ensure debt discharge agreements are final, binding, and non-appealable.
+              Over the years, I have helped salaried professionals and business owners manage NPA loan accounts. I assist clients in halting illegal recovery agent harassment and negotiating compromise settlements under RBI circulars. My work focuses on direct dialogue with bank Nodal Officers. I also help clients respond to Section 138 cheque bounce notices and Section 25 PSSA summons. When required, I represent borrowers before National Lok Adalats to secure final, binding settlement orders.
             </p>
             
             <h2 className="text-xl font-bold text-slate-900 mt-10 mb-6">My Areas of Expertise</h2>
