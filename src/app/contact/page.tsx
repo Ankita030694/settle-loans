@@ -1,5 +1,6 @@
 import ContactForm from "@/components/ContactForm";
 import SettlementLetters from "@/components/SettlementLetters";
+import ContactDiscountBanner from "@/components/ContactDiscountBanner";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Phone, Mail, MapPin, Clock, ShieldCheck, HelpCircle } from "lucide-react";
@@ -16,7 +17,11 @@ export default function ContactPage() {
   return (
     <div className="flex min-h-screen flex-col bg-white">
       <main className="flex-grow">
-        <ContactForm titleAs="h1" className="mt-24 md:mt-28" />
+        <ContactForm
+          titleAs="h1"
+          className="mt-24 md:mt-28"
+          asideContent={<ContactDiscountBanner />}
+        />
         <SettlementLetters />
 
         {/* Contact Information and Consultation Guidelines Section */}

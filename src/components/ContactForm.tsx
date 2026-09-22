@@ -13,6 +13,7 @@ interface ContactFormProps {
     showCloseButton?: boolean;
     titleAs?: 'h1' | 'div';
     className?: string;
+    asideContent?: React.ReactNode;
 }
 
 export default function ContactForm({
@@ -21,6 +22,7 @@ export default function ContactForm({
     showCloseButton = false,
     titleAs = 'div',
     className = '',
+    asideContent,
 }: ContactFormProps) {
     const router = useRouter();
     const [formData, setFormData] = useState({
@@ -159,7 +161,7 @@ export default function ContactForm({
     };
 
     const formContent = (
-        <div className={`relative ${variant === 'section' ? 'w-full max-w-xl bg-white/10 backdrop-blur-sm p-6 md:p-10 rounded-3xl lg:mr-12 xl:mr-24' : 'w-full bg-white rounded-3xl p-6 shadow-2xl relative'}`}>
+        <div className={`relative ${variant === 'section' ? `w-full max-w-xl bg-white/10 backdrop-blur-sm p-6 md:p-10 rounded-3xl ${asideContent ? '' : 'lg:mr-12 xl:mr-24'}` : 'w-full bg-white rounded-3xl p-6 shadow-2xl relative'}`}>
             {showCloseButton && (
                 <button
                     onClick={onCancel}
@@ -352,7 +354,16 @@ export default function ContactForm({
             </div>
 
             {/* Form Container */}
-            {formContent}
+            {asideContent ? (
+                <div className="relative z-10 w-full flex flex-col lg:flex-row items-center lg:items-start justify-end gap-4 lg:gap-8 lg:mr-12 xl:mr-24">
+                    <div className="lg:mt-6 shrink-0">
+                        {asideContent}
+                    </div>
+                    {formContent}
+                </div>
+            ) : (
+                formContent
+            )}
         </section>
     );
 }
