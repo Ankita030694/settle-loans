@@ -3,7 +3,6 @@
 import React, { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { useRouter } from 'next/navigation';
 import { X } from 'lucide-react';
 import { useGoogleReCaptcha } from 'react-google-recaptcha-v3';
 
@@ -24,7 +23,6 @@ export default function ContactForm({
     className = '',
     asideContent,
 }: ContactFormProps) {
-    const router = useRouter();
     const [formData, setFormData] = useState({
         fullName: '',
         phone: '',
@@ -139,7 +137,7 @@ export default function ContactForm({
             localStorage.setItem(`lastSubmission_${formData.phone}`, Date.now().toString());
             localStorage.setItem('formSubmitted', 'true');
             sessionStorage.setItem('formSubmitted', 'true');
-            router.push('/thank-you');
+            window.location.href = '/thank-you';
 
             setSubmitStatus('success');
             if (onCancel) setTimeout(onCancel, 2000);
