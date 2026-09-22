@@ -1,4 +1,5 @@
 import ContactForm from "@/components/ContactForm";
+import SettlementLetters from "@/components/SettlementLetters";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Phone, Mail, MapPin, Clock, ShieldCheck, HelpCircle } from "lucide-react";
@@ -15,7 +16,8 @@ export default function ContactPage() {
   return (
     <div className="flex min-h-screen flex-col bg-white">
       <main className="flex-grow">
-        <ContactForm titleAs="h1" />
+        <ContactForm titleAs="h1" className="mt-24 md:mt-28" />
+        <SettlementLetters />
 
         {/* Contact Information and Consultation Guidelines Section */}
         <section className="py-16 px-4 md:px-8 max-w-7xl mx-auto w-full">

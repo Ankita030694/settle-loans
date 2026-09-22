@@ -12,6 +12,7 @@ interface ContactFormProps {
     onCancel?: () => void;
     showCloseButton?: boolean;
     titleAs?: 'h1' | 'div';
+    className?: string;
 }
 
 export default function ContactForm({
@@ -19,6 +20,7 @@ export default function ContactForm({
     onCancel,
     showCloseButton = false,
     titleAs = 'div',
+    className = '',
 }: ContactFormProps) {
     const router = useRouter();
     const [formData, setFormData] = useState({
@@ -336,7 +338,7 @@ export default function ContactForm({
     }
 
     return (
-        <section className="relative w-full min-h-[80vh] flex items-center justify-end overflow-hidden py-12 px-4 sm:px-6 lg:px-8">
+        <section className={`relative w-full min-h-[80vh] flex items-center justify-end overflow-hidden py-12 px-4 sm:px-6 lg:px-8 ${className}`}>
             {/* Background Image */}
             <div className="absolute inset-0 z-0">
                 <Image
