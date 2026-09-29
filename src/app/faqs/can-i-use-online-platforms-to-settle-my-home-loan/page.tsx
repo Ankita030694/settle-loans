@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faCheck, faTriangleExclamation, faHandshake, faShieldHalved, faScaleBalanced, faChartLine, faUserGroup, faHome, faUserCheck } from "@fortawesome/free-solid-svg-icons";
 import ReviewSnippets from "@/components/ReviewSnippets";
 import CompanyComparison from "@/components/CompanyComparison";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Can You Settle Home Loans Online? | SettleLoans",
@@ -334,6 +335,8 @@ export default function HomeLoanOnlineSettlementPage() {
                                 Furthermore, the time factor plays a massive role. An auction can take 6 months to a year, and during this time, the property sits vacant, potentially deteriorating. The bank also faces the risk of a 'failed auction' where no bidders show up. Professional agencies use these practical risks to convince the bank that a guaranteed payment today, even with a small waiver, is better than an uncertain auction tomorrow.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="sarfaesi-rights" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

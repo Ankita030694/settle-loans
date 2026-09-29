@@ -30,6 +30,7 @@ import {
   CheckCircle2,
   Smartphone,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Stashfin Loan Default Settlement Guide | SettleLoans',
@@ -647,6 +648,8 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 When an account crosses 180 DPD, Akara Capital writes it off internally. A one-time cash settlement lets the bank recover money quickly. This allows the Credit Committee to grant 50% to 60% principal cuts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Stopping NACH Auto-Debits & Late Fees */}
             <section id="stopping-nach-bounce-charges" className="scroll-mt-24 mb-12">

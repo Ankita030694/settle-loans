@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "HDFC Bank Loan Settlement | SettleLoans",
@@ -395,6 +396,8 @@ export default function HDFCBankSettlementPage() {
                 Statistics show that over 15% of unsecured loan borrowers in urban India struggle with repayments at some point in their journey. HDFC Bank's multi-tier recovery process can be overwhelming, making professional intervention critical.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="credit-card-trap" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black text-[#1a202c] mb-6">The HDFC Credit Card Debt Trap: A Structural Reality</h3>

@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Free Loan Settlement Consultation | SettleLoans",
@@ -263,6 +264,8 @@ export default function FreeConsultationPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* New Section: DIY vs Expert */}
             <section id="diy-vs-expert" className="scroll-mt-32 mb-12">

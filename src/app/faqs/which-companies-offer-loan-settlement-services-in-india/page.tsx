@@ -6,6 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faCheck, faHandshake, faShieldHalved, faScaleBalanced, faChartLine, faUserGroup, faTriangleExclamation } from "@fortawesome/free-solid-svg-icons";
 import ReviewSnippets from "@/components/ReviewSnippets";
 import CompanyComparison from "@/components/CompanyComparison";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Top Loan Settlement Companies in India | SettleLoans",
@@ -327,6 +328,8 @@ export default function LoanSettlementCompaniesPage() {
                                 Thirdly, professional agencies help in building a "Hardship Profile." To justify a loss to their auditors, a bank needs a valid reason for the settlement. Simply saying "I don't want to pay" is not enough. A professional agency helps the borrower gather and present documentation such as medical reports, termination letters, or bank statements that prove genuine financial hardship.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <CompanyComparison />
                         <ReviewSnippets

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Gurgaon | SettleLoans",
@@ -311,6 +312,8 @@ export default function GurgaonLoanSettlementPage() {
               <p>Furthermore, the Haryana state has specific regulations concerning private money lending and micro-finance. If your debt involves a non-bank lender that is not registered under the RBI, they are bound by the Haryana Money Lenders Act, which imposes strict caps on interest rates and mandates fair recovery practices. Many 'informal' lenders in the city operate outside these laws, using intimidation rather than legal process. We help our Gurgaon clients identify these legal vulnerabilities in their lenders and use them as defensive shields against aggressive recovery attempts.</p>
               <p>The role of Civil Courts in Gurgaon is also critical in recovery suits. Under the Code of Civil Procedure (CPC), a borrower has the right to defend their case based on 'Genuine Financial Hardship'. We provide the specialized legal drafting needed to present your case before a judge, often steering the litigation toward a compromise decree. This legal strategy transforms a frightening court case into a commercial negotiation where the bank is forced to consider a reasonable lump-sum settlement rather than continuing an uncertain and expensive trial.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="cyber-city-debt-trap" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">The Cyber City Debt Trap: Why IT Professionals Struggle</h3>

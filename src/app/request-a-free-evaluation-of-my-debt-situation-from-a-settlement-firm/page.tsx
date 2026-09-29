@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Free Debt Evaluation from a Settlement Firm | SettleLoans",
@@ -385,6 +386,8 @@ export default function DebtEvaluationPage() {
                 The goal of this evaluation is not to sell you a service; it is to provide you with a mirror. For many of our clients, seeing their financial situation presented objectively for the first time is the moment their recovery begins.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="why-free" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Can Recovery Agents Come to Your Home? | SettleLoans",
@@ -271,6 +272,8 @@ export default function CanRecoveryAgentsComeHomePage() {
                                 </div>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="right-to-refuse-entry" className="scroll-mt-32 mb-20 mt-20">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">

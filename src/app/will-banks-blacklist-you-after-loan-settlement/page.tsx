@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Will Banks Blacklist You After Settlement? | SettleLoans",
@@ -309,6 +310,8 @@ export default function BanksBlacklistAfterSettlementPage() {
                                 A 'Settled' tag is undeniably better than 'Written-off'. While both are considered negative by lenders, a settlement indicates a resolution. Modern lending algorithms at NBFCs and FinTech apps (like KreditBee, Slice, etc.) often overlook a 'Settled' status if it happened more than 2-3 years ago and you've been disciplined since then.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="blacklist-duration" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Is the Blacklist Permanent? The 7-Year Rule</h3>

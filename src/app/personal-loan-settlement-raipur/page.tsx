@@ -30,6 +30,7 @@ import {
   BookOpen,
   Check,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Raipur | SettleLoans',
@@ -634,6 +635,8 @@ export default function PersonalLoanSettlementRaipurPage() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Borrower Protections & Stopping Harassment */}
             <section id="borrower-protections-anti-harassment" className="scroll-mt-24 mb-12">

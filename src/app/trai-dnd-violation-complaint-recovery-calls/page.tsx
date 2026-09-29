@@ -37,6 +37,7 @@ import {
   Radio,
   Smartphone
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'TRAI DND Recovery Call Complaint Guide | SettleLoans',
@@ -535,6 +536,8 @@ export default function TraiDndViolationComplaintRecoveryCallsPage() {
                 When a recovery agency acquires bundles of unregistered SIM cards or routes calls through overseas virtual PBX servers to harass borrowers in India, they commit direct violations of DoT licensing guidelines. Regulatory authorities possess the statutory power to order the immediate disconnection of these lines, seize equipment, and penalize the originating financial institution for utilizing illicit collection channels.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: RBI Fair Practices Code on Debt Collection Calls */}
             <section id="rbi-fair-practices-collection-calls" className="space-y-4">

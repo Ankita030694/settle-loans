@@ -29,6 +29,7 @@ import {
   Eye,
   FileText
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Cyber Complaint for Loan App Blackmail | SettleLoans',
@@ -584,6 +585,8 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Deconstructing Blackmail Playbook */}
             <section id="contact-list-scraping-and-morphed-photo-blackmail" className="space-y-4">

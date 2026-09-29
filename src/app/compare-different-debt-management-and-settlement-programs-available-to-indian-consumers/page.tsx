@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Compare Debt Relief Programs in India | SettleLoans",
@@ -197,6 +198,8 @@ export default function DebtProgramComparisonPage() {
                     <p className="font-bold text-[#1F5EFF]">Maintaining a 'Crisis Routine', focusing on your health, and communicating openly with your family are the most important non-financial steps you can take. A debt settlement is a technical resolution to a technical problem.</p>
                 </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="debt-settlement-deep-dive" className="scroll-mt-32 mb-12">
                 <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">01. Debt Settlement: <span className="text-black">The Surgical Exit</span></h3>

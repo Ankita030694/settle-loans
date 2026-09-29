@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Can Recovery Agents Call Your Family? | SettleLoans',
@@ -281,6 +282,8 @@ export default function RecoveryAgentsCallFamilyPage() {
                                 "The RBI has explicitly stated that banks are responsible for the actions of their outsourced agents. If an agent breaks the law, the bank is legally liable for the damage caused to the borrower's reputation."
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="third-party-contact" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>

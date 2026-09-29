@@ -30,6 +30,7 @@ import {
   CheckCircle2,
   Smartphone,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'ZestMoney Loan Default Settlement Guide | SettleLoans',
@@ -655,6 +656,8 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                 Engaging legal representation after the 90-day NPA inflection point enables borrowers to anchor talks around the lender&apos;s provisioning realities, securing substantial principal write-downs.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Stopping NACH Auto-Debits & Late Fees */}
             <section id="stopping-nach-bounce-charges" className="scroll-mt-24 mb-12">

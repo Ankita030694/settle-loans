@@ -35,6 +35,7 @@ import {
   AlertCircle,
   Home
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Property Loan (LAP) Shortfall Settlement | SettleLoans',
@@ -541,6 +542,8 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
                 This change limits the bank&apos;s powers. The lender can no longer use SARFAESI rules. To collect ₹20 Lakhs or more, the bank must file an Original Application (OA) in the Debt Recovery Tribunal (DRT). For claims under ₹20 Lakhs, the bank must file a civil suit under Order 37 CPC in civil court. Both routes take years.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Law of Limitation: 3-Year DRT Deadline */}
             <section id="law-of-limitation-3-year-window" className="space-y-4">

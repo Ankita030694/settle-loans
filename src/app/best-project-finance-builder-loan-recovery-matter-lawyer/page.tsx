@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Lawyer for Project Finance Loan Recovery | SettleLoans",
@@ -322,6 +323,8 @@ export default function ProjectFinanceLawyerPage() {
                                 </ul>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="rera-vs-lenders" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

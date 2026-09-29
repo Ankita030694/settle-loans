@@ -29,6 +29,7 @@ import {
   CheckCircle2,
   Smartphone,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'CASHe App Loan Settlement Process | SettleLoans',
@@ -659,6 +660,8 @@ export default function CasheLoanSettlementProcessPage() {
                 Once a CASHe loan enters Doubtful Asset or Loss Asset classification, Bhanix Finance recognizes that the legal and administrative costs of prolonged civil recovery far exceed the discounted recovery value. Consequently, the NBFC&apos;s internal Credit Committee becomes highly receptive to structured, lump-sum One-Time Settlement offers submitted through formal legal representation.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting Rapid Late Fees & NACH Bounces */}
             <section id="stopping-cashe-late-fees-nach-bounce" className="scroll-mt-24 mb-12">

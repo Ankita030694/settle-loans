@@ -37,6 +37,7 @@ import {
   Truck,
   Sparkles
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Can Agents Take Furniture or Gold? | SettleLoans',
@@ -553,6 +554,8 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                 Indian law protects wedding ornaments and Strihidhan. Under Indian law, Strihidhan belongs solely to a married woman. Even if her husband defaults on a loan, no one can attach her gold. Demanding a woman&apos;s jewelry for family debt is illegal.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: SARFAESI Act vs Unsecured Debt Limits */}
             <section id="sarfaesi-act-unsecured-debt-limits" className="space-y-4">

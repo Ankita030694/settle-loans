@@ -4,6 +4,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faBuilding, faHome, faLock, faUnlock } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Secured Loan DRT Litigation',
@@ -214,6 +215,8 @@ export default function SecuredLoanLitigationPage() {
                                 The SARFAESI Act is often criticized for being draconian, but the Supreme Court has repeatedly held that the 'due process' must be followed. Banks often take shortcuts in their rush to meet recovery targets. Our job is to find those shortcuts and use them to stall or stop the recovery action.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="13-2-notice" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">

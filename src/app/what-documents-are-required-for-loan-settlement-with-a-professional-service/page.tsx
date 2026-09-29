@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Documents Required for Loan Settlement | SettleLoans",
@@ -302,6 +303,8 @@ export default function LoanSettlementDocumentsPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="category-kyc" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl font-black mb-8">Category 1: Identity and KYC Documents</h3>

@@ -30,6 +30,7 @@ import {
   Shield,
   FileText,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Nashik | SettleLoans',
@@ -640,6 +641,8 @@ export default function PersonalLoanSettlementNashikPage() {
                 Bank managers have internal targets to clear bad loans before quarterly audits. Instead of chasing old debt for years, banks prefer a fast cash settlement. A skilled lawyer starts settlement talks when bank pressure to clear bad loans is highest. This secures the largest debt cuts for you.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="anti-harassment-nach-protection" className="scroll-mt-24 space-y-4">

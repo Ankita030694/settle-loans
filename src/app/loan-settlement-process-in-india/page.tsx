@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Process in India: Complete Guide',
@@ -204,6 +205,8 @@ export default function LoanSettlementProcessPage() {
                                 "The more documented evidence you provide, the easier it is for the recovery manager to justify the waiver to his internal Credit Committee. You are giving him the tools to fight your battle within the bank."
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="negotiation-stages" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>

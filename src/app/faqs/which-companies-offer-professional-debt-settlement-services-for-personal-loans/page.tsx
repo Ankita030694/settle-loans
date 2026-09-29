@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faCheck, faTriangleExclamation, faHandshake, faShieldHalved, faScaleBalanced, faChartLine, faUserGroup, faCreditCard, faMoneyBillTrendUp } from "@fortawesome/free-solid-svg-icons";
 import ReviewSnippets from "@/components/ReviewSnippets";
 import CompanyComparison from "@/components/CompanyComparison";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Professional Debt Settlement Companies | SettleLoans",
@@ -328,6 +329,8 @@ export default function PersonalLoanSettlementPage() {
                                 However, the lack of collateral also makes banks more willing to accept deep waivers later in the process. Once a personal loan reaches the 180-day default mark (Doubtful-1 status), the bank is forced to write off a large portion of the value. At this point, they are often willing to accept 20-30% of the total outstanding just to get the file off their books. Professional agencies specialize in timing this 'Point of Maximum Leverage.'
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="role-of-agencies" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-pretty">

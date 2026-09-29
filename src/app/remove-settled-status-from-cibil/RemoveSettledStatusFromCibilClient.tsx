@@ -36,6 +36,7 @@ import {
   ArrowUpRight,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -447,6 +448,8 @@ export default function RemoveSettledStatusFromCibilClient() {
                 As the matrix proves, <strong>&quot;Settled&quot; is not an irreversible life sentence</strong>. Because you already completed the initial compromise and hold an official OTS agreement, you have the statutory right under Reserve Bank of India customer service guidelines to settle the remaining residual balance and upgrade your record to a pristine &quot;Closed&quot; status.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Step-by-Step 6 Steps Process */}
             <section id="step-by-step-upgrade-process" className="scroll-mt-28 mb-12">

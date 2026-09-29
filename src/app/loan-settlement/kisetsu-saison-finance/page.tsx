@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Kisetsu Saison Finance Loan Settlement | SettleLoans",
@@ -261,6 +262,8 @@ export default function KisetsuSaisonSettlementPage() {
                  The 2026 digital economy has made credit more accessible, but it has also made it more intrusive. Automated bots and AI-powered calling systems can create a sense of unrelenting pressure. We help you create a 'Digital Buffer'. By formalizing the settlement process, we transition the interaction from aggressive automated pings to professional human negotiation. This change in environment is often the first step toward a successful resolution.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="settlement-mechanics" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black text-[#1a202c] mb-6">Technical Mechanics of Kisetsu Saison OTS 2026</h3>

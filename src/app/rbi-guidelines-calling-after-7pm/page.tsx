@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Recovery Agent Calling After 7 PM: RBI Rules | SettleLoans",
@@ -309,6 +310,8 @@ export default function RecoveryAgentCallingAfter7PMPage() {
                 </ul>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="why-7pm-matters" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

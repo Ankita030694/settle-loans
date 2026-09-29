@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Medical Emergency Loan Settlement Support | SettleLoans",
@@ -297,6 +298,8 @@ export default function MedicalEmergenciesSettlementPage() {
                   It is important to understand that the RBI does not 'force' a bank to give you a specific discount. Instead, it creates an environment where 'good faith negotiations' must take place. By referencing these guidelines in your communication with the bank, you signal that you are an informed borrower who knows their rights. This often changes the tone of the conversation from one of demand to one of resolution.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               <section id="negotiation-strategy" className="scroll-mt-32 mb-16 font-sans">
                 <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

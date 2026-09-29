@@ -2,6 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Bank Loan Settlement Guidelines & RBI Rules',
@@ -320,6 +321,8 @@ export default function BankLoanSettlementGuidelinesPage() {
                                 It is important to note that while the RBI provides the framework, it does not mandate that a bank *must* accept a settlement. The final decision is always a commercial one made by the bank's credit or recovery committee. They will assess your "capacity to pay" vs. the "cost of litigation" to determine if a settlement is in their best interest. This is where strategic negotiation becomes vital.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="settlement-process" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Bank Loan Settlement Process: A Detailed Step-by-Step Guide</h3>

@@ -32,6 +32,7 @@ import {
   UserX,
   AlertTriangle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -389,6 +390,8 @@ export default function InstantAppLoanSettlementClient() {
                 In addition to visual blackmail, tele-callers frequently impersonate high-ranking police officers, Central Bureau of Investigation (CBI) sleuths, or judicial magistrates. They circulate forged legal summonses, counterfeit arrest warrants, and fake FIR documents bearing official state emblems to coerce instant money transfers. Borrowers must understand that authentic law enforcement agencies never serve arrest warrants via instant messaging applications or act as recovery agents for commercial digital applications. Fabricating official seals is a non-bailable offense under the Bharatiya Nyaya Sanhita, 2023.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Protections: IT Act, IPC/BNS & RBI Digital Lending Norms */}
             <section id="statutory-legal-protections" className="scroll-mt-24 mb-12">

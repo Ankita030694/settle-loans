@@ -30,6 +30,7 @@ import {
   Shield,
   FileText,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Nagpur | SettleLoans',
@@ -640,6 +641,8 @@ export default function PersonalLoanSettlementNagpurPage() {
                 Banks want to clean their balance sheets before fiscal audits. Rather than holding non-earning bad loans, banks prefer quick cash recovery. We time your settlement petition to secure the highest possible waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="anti-harassment-nach-protection" className="scroll-mt-24 space-y-4">

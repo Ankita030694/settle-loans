@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Recovery Agents Calling Family Members? | SettleLoans",
@@ -329,6 +330,8 @@ export default function RecoveryAgentsCallingFamilyPage() {
                 When an agent calls your relative, they almost always use a sense of urgency. They might say that you are 'absconding' or that a 'police case' is about to be filed. This is purely a tactic to cause panic. By understanding that these actions are prohibited by the regulator, you can react with confidence rather than fear.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="why-agents-call-family" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

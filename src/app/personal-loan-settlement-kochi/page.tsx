@@ -34,6 +34,7 @@ import {
   MapPin,
   Sparkles
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Debt Settlement Advocates in Kochi Kerala | SettleLoans',
@@ -634,6 +635,8 @@ export default function Page() {
                 The Hon&apos;ble High Court of Kerala has repeatedly affirmed in numerous landmark judgments that banking institutions and finance companies cannot deploy extra-judicial force, musclemen, or coercive intimidation to recover unsecured loans. Recovery of contractual debts must adhere strictly to statutory due process under civil law. The Kerala High Court has established that financial institutions bear direct vicarious liability for the illegal and intimidatory actions of their outsourced collection agencies.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Notice Defense in Ernakulam Magistrate Courts */}
             <section id="ernakulam-court-notice-defense" className="scroll-mt-24 mb-12">

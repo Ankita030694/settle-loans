@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Hero FinCorp Loan Settlement Guide | SettleLoans',
@@ -615,6 +616,8 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 When a loan is in Doubtful status, HFCL sets aside full funds for the loss. A lump-sum OTS gives them fast cash. This makes credit managers approve large principal waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Bounce Charges & Penal Levies */}
             <section id="stopping-hero-fincorp-bounce-charges-nach" className="scroll-mt-24 mb-10">

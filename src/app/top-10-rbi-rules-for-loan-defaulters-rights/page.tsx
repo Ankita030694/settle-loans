@@ -38,6 +38,7 @@ import {
   Receipt,
   FileSpreadsheet
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Top 10 RBI Rules for Loan Defaulters' Rights",
@@ -591,6 +592,8 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 also, the RBI strictly bans public humiliation and social shaming. In the landmark ruling <em>ICICI Bank v. Shanti Devi Sharma (2007) 2 SCC 711</em>, the Supreme Court condemned using strong-arm recovery agents and hired muscle. The court affirmed that debt recovery must follow due process of law.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Civil Immunity & Section 420 IPC Myth */}
             <section id="civil-default-immunity-section-420-myth" className="space-y-4">

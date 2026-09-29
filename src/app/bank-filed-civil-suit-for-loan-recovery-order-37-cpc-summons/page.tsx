@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Bank Civil Suit: Order 37 CPC Summons Guide | SettleLoans",
@@ -286,6 +287,8 @@ export default function Order37SummonsPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="why-banks-use-it" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Banks File Civil Suits Under Order 37</h3>

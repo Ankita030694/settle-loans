@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement in Andhra Pradesh | 3500+ Word Legal Guide",
@@ -293,6 +294,8 @@ export default function AndhraPradeshLoanSettlementPage() {
               <p>Another vital provision of the Act is the requirement for lenders to maintain clear and transparent accounts and to provide receipts for every payment. Many informal lenders in Vijayawada and Guntur fail to do this, preferring to deal in cash without records. This violation itself can be grounds for legal action against the lender. At SettleLoans, we rigorously audit the lender's compliance with these provisions. By exposing their regulatory lapses, we gain significant leverage in settlement negotiations, often forcing them to accept a fair closure rather than face legal scrutiny.</p>
               <p>The Act also empowers the state government to appoint "Inspectors of Money Lending" who have the power to search premises and seize records of illegal lending. While this is an administrative function, knowing that such mechanisms exist allows us to draft powerful legal notices that compel lenders to behave. We ensure that you are not just another victim of usury but an informed citizen exercising your rights under the state's laws.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="agricultural-debt-relief-act" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">The Andhra Pradesh Agricultural Indebtedness (Relief) Act 1987</h3>

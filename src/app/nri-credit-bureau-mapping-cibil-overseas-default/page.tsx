@@ -28,6 +28,7 @@ import {
   Plane,
   FileText
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Will Loan Default Affect Overseas Credit? | SettleLoans',
@@ -563,6 +564,8 @@ export default function NriCreditBureauMappingPage() {
                 Because there is zero algorithmic, technical, or legal interoperability between an Indian PAN/Aadhaar database and a foreign SSN or Emirates ID repository, credit profiles remain entirely segregated. Even though international conglomerates like TransUnion and Experian operate subsidiaries in both India and overseas jurisdictions, their underlying databases operate on completely isolated corporate servers separated by strict statutory and jurisdictional firewalls.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Country-Specific Credit Bureau Mechanics */}
             <section id="country-specific-bureau-mechanics" className="space-y-4">

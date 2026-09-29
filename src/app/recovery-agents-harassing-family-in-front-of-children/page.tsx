@@ -41,6 +41,7 @@ import {
   UserX,
   Volume2
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Stop Recovery Agents Harassing Family | SettleLoans',
@@ -611,6 +612,8 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
                 Presenting proof of child distress to bank leaders and ombudsmen turns a debt dispute into a major regulatory violation for the lender.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Constitutional Privacy, Inviolability of Home & Criminal Law */}
             <section id="constitutional-privacy-domestic-peace-ipc" className="space-y-4">

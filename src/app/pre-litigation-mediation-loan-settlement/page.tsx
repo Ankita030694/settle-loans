@@ -34,6 +34,7 @@ import {
   BadgePercent,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Pre-Litigation Mediation for Loan Default | SettleLoans',
@@ -586,6 +587,8 @@ export default function PreLitigationMediationLoanSettlementPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting Recovery Harassment & Invalidation of Coercive Tactics */}
             <section id="halting-recovery-agent-harassment" className="space-y-4">

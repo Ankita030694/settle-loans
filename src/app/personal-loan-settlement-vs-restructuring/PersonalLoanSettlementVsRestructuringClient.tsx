@@ -40,6 +40,7 @@ import {
   Briefcase,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -558,6 +559,8 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                   Restructuring solves <em>cash flow timing</em> but increases total interest paid over time. If your income has permanently reduced or debt debts exceed 60% of earnings, loan settlement provides a definitive exit. It stops compounding debt and prevents long-term insolvency.</p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: CIBIL Score & Status Code Deep Dive */}
             <section id="cibil-score-mechanics" className="scroll-mt-28 mb-12">

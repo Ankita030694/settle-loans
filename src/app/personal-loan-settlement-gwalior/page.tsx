@@ -29,6 +29,7 @@ import {
   Landmark,
   Percent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Advocates Gwalior | SettleLoans',
@@ -584,6 +585,8 @@ export default function Page() {
                   The permanent bench of the High Court of Madhya Pradesh at Gwalior exercises jurisdiction over Gwalior, Morena, and Bhind. Following the Supreme Court benchmark in <em>ICICI Bank Ltd. v. Shanti Devi Sharma</em>, the MP High Court prohibits lenders from deploying recovery musclemen or coercive pressure. Under Article 226 of the Constitution, borrowers facing unlawful harassment can petition the High Court for injunctive relief and enforce due process.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: District Court & Section 138/25 Notice Defense */}
               <section id="gwalior-district-court-notice-defense" className="scroll-mt-24 mb-12">

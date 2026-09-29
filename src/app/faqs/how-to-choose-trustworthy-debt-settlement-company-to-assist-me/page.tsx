@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faCheck, faTriangleExclamation, faHandshake, faShieldHalved, faScaleBalanced, faChartLine, faUserGroup, faUserShield, faBuildingColumns } from "@fortawesome/free-solid-svg-icons";
 import ReviewSnippets from "@/components/ReviewSnippets";
 import CompanyComparison from "@/components/CompanyComparison";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "FAQ: Choosing a Trustworthy Debt Firm | SettleLoans",
@@ -350,6 +351,8 @@ export default function TrustworthyCompanyPage() {
                                 Furthermore, professionalism is defined by what an agency REFUSES to do. A predatory agency will promise to 'delete your CIBIL record' or 'wipe your debt in 10 days.' A professional firm will tell you the hard truth: that settlement takes time, it affects your credit score, and it requires a disciplined payment plan. Trust is often built on these difficult but honest conversations.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="red-flag-checklist" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

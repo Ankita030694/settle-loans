@@ -24,6 +24,7 @@ import {
   faUserTie,
   faLandmark
 } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const dynamic = 'force-static';
 export const revalidate = 86400;
@@ -361,6 +362,8 @@ export default function BusinessLoanSettlementPage() {
               </p>
             </div>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           {/* Why Banks Agree */}
           <section id="why-banks-agree" className="scroll-mt-32 mb-12">

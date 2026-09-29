@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Ignoring Calls of Recovery Agent? | SettleLoans",
@@ -376,6 +377,8 @@ export default function IgnoringCallsPage() {
                 </p>
              </div>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           <section id="legal-escalation" className="scroll-mt-32 mb-12">
             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">Legal Escalation: Detailed Breakdown of NI Act vs PSS Act</h3>

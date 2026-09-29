@@ -37,6 +37,7 @@ import {
   Wallet,
   ArrowUpRight
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Can Bank Freeze Salary Account for Loan Default? Guide',
@@ -607,6 +608,8 @@ export default function BankFreezeSalaryAccountPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The Domino Effect of an Account Freeze */}
             <section id="domino-effect-unlawful-account-freeze" className="space-y-4">

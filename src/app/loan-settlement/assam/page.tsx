@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement in Assam | Microfinance & Debt Relief",
@@ -302,6 +303,8 @@ export default function AssamLoanSettlementPage() {
               </ul>
               <p>We have successfully used this Act to file formal complaints against erratic MFIs, forcing them to come to the negotiation table. For our clients in rural and semi-urban Assam, this Act is a game-changer, leveling the playing field against powerful financial institutions.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="bandhan-bank-factor" className="scroll-mt-32 mb-16">
                <h3 className="text-3xl font-black mb-6">The "Bandhan Bank" & MFI Dominance in Assam</h3>

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Can Recovery Agents Contact Your Employer? | SettleLoans",
@@ -217,6 +218,8 @@ export default function WorkplaceHarassmentPage() {
                 Furthermore, the RBI has clearly stated that recovery agents must observe strict timing windows—they are generally not allowed to call outside the hours of 8:00 AM to 7:00 PM. Calling your office line repeatedly to jam the reception desk or speaking rudely to your company’s receptionist is a tactic known as "call bombing," which is heavily penalized by regulatory authorities when reported.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Gray Insight Box & 4-Grid */}
             <section id="privacy-laws" className="scroll-mt-32 mb-16">

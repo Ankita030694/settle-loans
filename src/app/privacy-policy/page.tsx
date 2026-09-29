@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 import Link from "next/link";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Privacy Policy & Data Protection | SettleLoans",
@@ -91,6 +92,8 @@ export default function PrivacyPolicyPage() {
                 We use this general data to fix bugs, improve speed, and boost platform security.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Cookies & Tracking Tools */}
             <section className="mb-12">

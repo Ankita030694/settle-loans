@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in India | SettleLoans",
@@ -302,6 +303,8 @@ export default function LoanSettlementPage() {
               This option typically becomes available when you have defaulted on repayment due to genuine financial hardship such as job loss, salary cuts, medical emergencies, or business failure. For example, if you owe a lender ₹1,50,000 but offer only ₹80,000 as a lump sum, and the lender accepts this to clear the debt, you have "settled" the loan. While it offers immediate relief, it is important to understand the long-term impact on your credit history.
             </p>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           {/* Section 3: Why Banks Agree (New) */}
           <section id="why-banks-agree" className="scroll-mt-32 mb-12">

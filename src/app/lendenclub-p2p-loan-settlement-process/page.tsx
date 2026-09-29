@@ -30,6 +30,7 @@ import {
   CheckCircle2,
   Users,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'LenDenClub P2P Loan Settlement | SettleLoans',
@@ -647,6 +648,8 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 Past 180 days, legal fees cost more than the loan is worth. Innofin Solutions prefers quick cash recovery via an OTS. This lets borrowers get the highest possible debt waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Stopping e-NACH Bounces & Penal Accumulation */}
             <section id="stopping-nach-penalties" className="scroll-mt-24 mb-12">

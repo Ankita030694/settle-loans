@@ -2,6 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Lawyer for DRT Account Documents & Defense',
@@ -200,6 +201,8 @@ export default function DrtAccountDocumentsPage() {
                                 Every rupee claimed by the bank must be backed by a specific entry in the SOA. If the bank has charged a fee not mentioned in your Sanction Letter, or if they have compounded interest on penal charges (which is strictly forbidden by the RBI), the entire claim becomes suspect.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="bankers-books-act" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Understanding the Bankers' Books Evidence Act, 1891</h3>

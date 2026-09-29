@@ -39,6 +39,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Bank of Baroda Personal Loan Settlement | SettleLoans',
@@ -609,6 +610,8 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 also, as an NPA ages on Bank of Baroda&apos;s balance sheet, RBI provisioning guidelines mandate heavy capital write-offs. For a Substandard NPA (up to 12 months delinquent), the bank provisions 15% of the outstanding balance. Over time, an unsecured personal loan transitions into Doubtful Asset status (D1: 25%, D2: 40%, D3: 100%) or Loss Asset status (100% written off). By this stage, Bank of Baroda has already absorbed the economic loss on its profit and loss statement. In these advanced stages, recovering 40% to 50% of the loan principal in liquid cash represents an immediate profit recovery and provision reversal for the bank.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Section 171 Banker Lien & Account Shield */}
             <section id="section-171-bankers-lien-salary-protection" className="scroll-mt-24 mb-10">

@@ -2,6 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Debt Consolidation Loan Eligibility & Options',
@@ -289,6 +290,8 @@ export default function DebtConsolidationEligibilityPage() {
                                 Understanding the core essence of this tool is the first step toward eligibility. Lenders want to see that you are using this loan to improve your financial health, not just as a way to access more credit for spending. Your intent, backed by a solid plan, is what lenders look for during the evaluation phase.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="standard-criteria" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Standard Eligibility Checklist: Are You Ready?</h3>

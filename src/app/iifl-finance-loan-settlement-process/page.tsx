@@ -30,6 +30,7 @@ import {
   CheckCircle2,
   Coins,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'IIFL Finance Loan Settlement Guide | SettleLoans',
@@ -649,6 +650,8 @@ export default function IIFLFinanceLoanSettlementPage() {
                 When a loan is 180+ DPD, IIFL writes off the debt. An OTS payment gives them quick cash. This helps credit teams grant large loan waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Bounce Charges & Penal Levies */}
             <section id="stopping-iifl-bounce-charges-nach" className="scroll-mt-24 mb-12">

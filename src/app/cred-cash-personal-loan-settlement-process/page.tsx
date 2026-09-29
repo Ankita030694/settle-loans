@@ -30,6 +30,7 @@ import {
   CheckCircle2,
   Smartphone,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'CRED Cash Loan Settlement Guide | SettleLoans',
@@ -659,6 +660,8 @@ export default function CredCashPersonalLoanSettlementPage() {
                 After 180 days, the lender books the loss on its balance sheet. A single cash payment helps them recover money fast. This allows them to offer large principal cuts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Stopping NACH Bounce Charges & Penal Fees */}
             <section id="halting-nach-bounce-penal-charges" className="scroll-mt-24 mb-12">

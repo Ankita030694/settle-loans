@@ -30,6 +30,7 @@ import {
   CheckCircle2,
   Smartphone,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'LazyPay Loan Settlement Process | SettleLoans',
@@ -655,6 +656,8 @@ export default function PayULazyPayLoanSettlementPage() {
                 Past 180 DPD, PayU Finance absorbs write-offs against balance-sheet reserves. A lump-sum compromise settlement provides immediate liquidity recovery, justifying substantial debt waivers by Credit Committees.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting Compounding Interest, Late Fees & e-NACH Presentations */}
             <section id="stopping-interest-bounce-charges" className="scroll-mt-24 mb-12">

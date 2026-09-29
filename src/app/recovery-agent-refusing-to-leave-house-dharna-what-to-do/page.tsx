@@ -38,6 +38,7 @@ import {
   DoorClosed,
   Users
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "What to Do If Recovery Agents Won't Leave | SettleLoans",
@@ -604,6 +605,8 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                 Banks are liable for their agencies. A single doorstep dharna creates major legal and financial risk for the bank.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Criminal Trespass, Public Nuisance & Intimidation under BNS / IPC */}
             <section id="criminal-trespass-public-nuisance-bns-ipc" className="space-y-4">

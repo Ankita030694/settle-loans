@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Legal Notice for Loan Recovery: Complete Defense',
@@ -293,6 +294,8 @@ export default function LegalNoticeForLoanRecoveryPage() {
                                 "A SARFAESI notice doesn't mean you must vacate tomorrow. It is a demand for payment. If you can't pay, it's a demand for an explanation of why the bank shouldn't take possession."
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="ni-act-138" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden text-justify">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>

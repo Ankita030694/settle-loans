@@ -29,6 +29,7 @@ import {
   AlertCircle,
   Bike
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Illegal Vehicle Repossession Rules | SettleLoans',
@@ -578,6 +579,8 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Protections, RBI Fair Practices Code & Mandatory Notice Protocols */}
             <section id="statutory-protections-rbi-fair-practices" className="space-y-4">

@@ -37,6 +37,7 @@ import {
   Mic,
   FileWarning
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Recovery Agent Calling After 7 PM | SettleLoans',
@@ -511,6 +512,8 @@ export default function RbiGuidelinesCallingAfter7pmComplaintPage() {
                 When agents call after 7:00 PM, their conduct often breaches the Bharatiya Nyaya Sanhita, 2023 (BNS). Threatening arrest over an unpaid loan violates Section 351(2) BNS for criminal intimidation. Shouting vulgar insults triggers Section 352 BNS for provoking breach of peace, while harassing female borrowers invokes Section 79 BNS. These offenses expose telecallers and agency supervisors to immediate police complaints.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Timestamped Call Logs and Digital Evidence Standards */}
             <section id="forensic-call-log-evidence-admissibility" className="space-y-4">

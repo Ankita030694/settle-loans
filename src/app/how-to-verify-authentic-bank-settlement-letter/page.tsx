@@ -30,6 +30,7 @@ import {
   MailCheck,
   Landmark,
 } from "lucide-react";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Verify Authentic Bank Settlement Letter | SettleLoans",
@@ -583,6 +584,8 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Fatal Consequences of Fake Settlement Letters */}
             <section id="fatal-consequences-of-fake-settlements" className="space-y-4">

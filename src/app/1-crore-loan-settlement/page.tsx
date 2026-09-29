@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: '1 Crore Loan Settlement: High-Value Debt | SettleLoans',
@@ -254,6 +255,8 @@ export default function OneCroreLoanSettlement() {
                                 </div>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="corporate-debt" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

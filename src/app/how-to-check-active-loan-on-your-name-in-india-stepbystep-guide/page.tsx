@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "How to Check Active Loans on Your Name | SettleLoans",
@@ -359,6 +360,8 @@ export default function CheckActiveLoansGuidePage() {
                 Furthermore, regular checking allows you to spot 'Hard Inquiries' that you did not authorize. Every time a lender checks your score for a loan application, it slightly lowers your score. If you see inquiries from five different lenders in one month for loans you didn't apply for, it is a clear sign that your data is being shopped around by identity thieves.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="data-flow" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How Credit Data Flows in India</h3>

@@ -34,6 +34,7 @@ import {
   CreditCard,
   Laptop,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement for IT Professionals | SettleLoans',
@@ -666,6 +667,8 @@ export default function ITProfessionalsLoanSettlementPage() {
                 The most acute danger during this phase is the psychological trap of &quot;debt cycling&quot;—using high-interest credit cards or personal loans from new fintech apps to pay the minimum dues on older loans. This practice rapidly depletes liquid severance reserves, triggers multiple CIBIL hard inquiries, and accelerates financial collapse without reducing core principal debt.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Legal Protections & Zero HR Exposure */}
             <section id="legal-protections-workplace-privacy" className="scroll-mt-24 mb-12">

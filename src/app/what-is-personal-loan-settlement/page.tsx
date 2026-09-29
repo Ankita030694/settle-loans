@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "What is Personal Loan Settlement? | SettleLoans",
@@ -309,6 +310,8 @@ export default function WhatIsPersonalLoanSettlementPage() {
               In technical terms, the bank moves the loan to a "Loss" category on their balance sheet after it has been an NPA for a significant period. By offering a settlement, you are helping the bank recover something from a "dead" asset, which is why they eventually agree to waivers often exceeding fifty percent of the total due.
             </p>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           <section id="why-settle" className="scroll-mt-32 mb-16">
             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Do Settlements Happen?</h3>

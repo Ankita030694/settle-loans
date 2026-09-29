@@ -29,6 +29,7 @@ import {
   Landmark,
   Percent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Trivandrum | SettleLoans',
@@ -614,6 +615,8 @@ export default function Page() {
                   The Kerala High Court bans harsh loan recovery acts. Lenders cannot use muscle power to harass debtors at home or work. Loan recovery must follow civil law and respect privacy under Article 21 of the Constitution of India.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: Vanchiyoor Court & Section 138/25 Defense */}
               <section id="vanchiyoor-court-notice-defense" className="scroll-mt-24 mb-12">

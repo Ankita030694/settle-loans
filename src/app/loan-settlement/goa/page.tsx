@@ -14,6 +14,7 @@ import {
   faUserShield, 
   faTriangleExclamation 
 } from '@fortawesome/free-solid-svg-icons';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement in Goa | Legal Debt Relief & Stop Harassment',
@@ -248,6 +249,8 @@ const Page = () => {
                         <p>Furthermore, the Portuguese Civil Code impacts how succession and inheritance are handled. If a debt is inherited, the liability of the heirs is often limited to the value of the inherited estate. We help Goan families navigate these sensitive situations, ensuring that the next generation is not unfairly burdened by the debts of their ancestors. Our goal is to use the law as a shield, protecting your family's heritage while we arrive at a fair monetary settlement with your creditors.</p>
                         <p>Knowledge is power, and in Goa, knowledge of the Civil Code is the ultimate power for a borrower. We don't just negotiate; we educate our clients on their rights, ensuring that they are never intimidated by aggressive bank legal departments who might not fully appreciate the Goan context.</p>
                     </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                     <section id="goa-money-lending-act" className="scroll-mt-32 mb-16">
                         <h3 className="text-3xl font-black mb-6">Debt Protection under the Goa Money Lenders Act, 2013</h3>

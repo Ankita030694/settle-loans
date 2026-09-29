@@ -4,6 +4,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck, faChartPie, faGavel, faClock, faCircleExclamation } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Loan Write-Off vs. Loan Settlement Guide | SettleLoans",
@@ -191,6 +192,8 @@ export default function LoanWriteOffVsSettlementPage() {
                                 CRITICAL: Even after a write-off, the banking laws (including the SARFAESI Act for secured loans and Civil Recovery for unsecured loans) grant the bank the right to recover every single rupee of the principal, interest, and penal charges.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="settlement-defined" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

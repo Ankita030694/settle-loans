@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Equitas Bank Loan Settlement Guide | SettleLoans',
@@ -550,6 +551,8 @@ During early SMA stages (DPD 1 to 90), Equitas SFB focuses on collections. Branc
 
 When a loan becomes Doubtful or gets written off, Equitas SFB covers the full loan value in loss reserves. Recovering cash via an OTS gives the bank a fast recovery gain. It cleans bad loan assets from their balance sheet. This gives the bank strong reason to grant a 40% to 60% debt waiver. </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Bounce Charges & Penal Levies */}
             <section id="stopping-equitas-bounce-charges-nach" className="scroll-mt-24 mb-12">

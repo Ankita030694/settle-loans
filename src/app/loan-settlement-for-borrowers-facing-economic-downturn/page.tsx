@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Loan Settlement in Economic Downturn | SettleLoans",
@@ -302,6 +303,8 @@ export default function EconomicDownturnSettlementPage() {
                                 </div>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="rbi-2025-guidelines" className="scroll-mt-32 mb-20">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#1F5EFF] pl-6 font-sans">

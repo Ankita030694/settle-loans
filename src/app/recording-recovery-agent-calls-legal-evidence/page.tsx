@@ -39,6 +39,7 @@ import {
   HardDrive,
   Smartphone
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Record Recovery Agent Calls for Evidence | SettleLoans',
@@ -561,6 +562,8 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Tripartite Evidence Gathering Protocol */}
             <section id="tripartite-evidence-gathering-protocol" className="space-y-4">

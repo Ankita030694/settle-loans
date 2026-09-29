@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "RBI New Recovery Guidelines July 2026 | SettleLoans",
@@ -276,6 +277,8 @@ export default function RBIRecoveryGuidelines2026Page() {
                                 </div>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="contact-hours-window" className="scroll-mt-32 mb-20 p-12 bg-gray-900 rounded-[48px] text-white shadow-2xl relative overflow-hidden">
                             <div className="absolute bottom-0 right-0 w-48 h-48 bg-blue-500/10 rounded-full -mr-24 -mb-24 blur-3xl"></div>

@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Top 10 Instant Loan Apps in India: Review | SettleLoans",
@@ -316,6 +317,8 @@ export default function TopLoanAppsIndiaPage() {
                                 The impact of this revolution is profound. It has reduced the reliance on informal and often predatory moneylenders, providing a safer and more transparent alternative for emergency funding. Furthermore, the competition from FinTechs is forcing traditional banks to innovate and improve their own digital offerings, ultimately benefiting the consumer.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="selection-criteria" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Our Criteria for Selecting the Best Instant Loan Apps</h3>

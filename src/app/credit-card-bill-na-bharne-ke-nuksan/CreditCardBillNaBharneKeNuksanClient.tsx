@@ -32,6 +32,7 @@ import {
   Percent,
   AlertTriangle,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -406,6 +407,8 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 The instant you fail to clear the total statement balance in full, the bank revokes the interest-free credit window across your entire account. From that exact moment forward, interest begins compounding daily from the exact date each purchase was swiped. If you make cash withdrawals from an ATM using your credit card, interest compounds from Day 1 alongside cash advance transaction fees of 2.5% to 3.0%. Added to this are tiered Late Payment Charges (ranging from ₹500 to ₹1,300 per billing cycle) and Overlimit Charges if accumulated interest pushes the ledger beyond your sanctioned credit limit.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The Minimum Amount Due Trap Exposed */}
             <section id="minimum-amount-due-trap" className="scroll-mt-24 mb-12">

@@ -35,6 +35,7 @@ import {
   Smartphone,
   CheckCircle,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'MoneyView Loan Settlement: OTS Rules | SettleLoans',
@@ -619,6 +620,8 @@ export default function MoneyViewLoanSettlementPage() {
                 </ul>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Protections & Legal Notice Defense */}
             <section id="statutory-protections-section-25-pssa-defense" className="scroll-mt-24 mb-12">

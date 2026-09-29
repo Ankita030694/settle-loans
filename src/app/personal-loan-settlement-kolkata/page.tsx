@@ -40,6 +40,7 @@ import {
   AlertCircle,
   MapPin
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Advocates in Kolkata | SettleLoans',
@@ -641,6 +642,8 @@ export default function Page() {
                   The Hon&apos;ble Calcutta High Court has consistently affirmed across multiple landmark judgments that financial institutions cannot deploy coercive, extra-legal, or muscular methods to recover personal loan dues. The court has maintained that financial institutions are fully accountable for the civil and criminal wrongs committed by their outsourced recovery agents and that bank claims must strictly respect statutory due process.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: Statutory Legal Notice Defense in Bankshall & Alipore Courts */}
               <section id="bankshall-alipore-court-defense" className="scroll-mt-24 mb-12">

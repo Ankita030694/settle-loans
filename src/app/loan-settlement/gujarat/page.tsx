@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement in Gujarat | 3500+ Word Legal Guide",
@@ -309,6 +310,8 @@ export default function GujaratLoanSettlementPage() {
               <p>Another vital provision of the Act is Section 36, which specifically addresses the "molestation" of debtors. This section makes it a punishable offense for a lender or their agent to use any form of harassment, intimidation, or public shaming to recover a debt. If a recovery agent visits your home or workplace and creates a nuisance, they are in direct violation of the Gujarat Money Lenders Act. At SettleLoans, we use this provision to stop the cycle of harassment immediately. By issuing formal legal notices citing the 2011 Act, we redirect all communication to our legal team, ensuring that you are treated with the dignity that the law mandates.</p>
               <p>Moreover, the Act ensures transparency by requiring lenders to maintain comprehensive accounts and provide debtors with regular statements and a "Passbook." If a lender fails to provide these documents, it is considered a deficiency under the law. We meticulously audit the lenders' compliance with these record-keeping requirements. Any procedural lapse by the lender becomes a powerful leverage point during our settlement negotiations. In essence, the Gujarat Money Lenders Act 2011 is not just a regulatory document; it is a declaration of rights for every borrower in the state, and we are experts at enforcing it on your behalf.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="high-court-recovery-rulings" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">Gujarat High Court Rulings and Your Rights Against Recovery Harassment</h3>

@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'FlexiLoans Business Loan Settlement | SettleLoans',
@@ -694,6 +695,8 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                 Past 90 days, the loan transitions into Non-Performing Asset (NPA) status, requiring Epimoney to freeze interest recognition and allocate mandatory balance-sheet capital provisions. Once an account exceeds 180 DPD into Doubtful Asset or technical write-off status, an upfront cash settlement provides an immediate accounting write-back to operational profits, enabling credit committees to sanction 40% to 60% principal haircuts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Bounce Charges & Penal Levies */}
             <section id="stopping-flexiloans-nach-bounce-charges" className="scroll-mt-24 mb-12">

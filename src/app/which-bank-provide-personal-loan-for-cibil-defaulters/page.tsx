@@ -2,6 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan for CIBIL Defaulters: Real Facts',
@@ -301,6 +302,8 @@ export default function CibilDefaulterLoanPage() {
                                 The key to getting a loan as a defaulter is to demonstrate that your current financial situation is stable and that the reasons for your past default (such as a medical emergency or job loss) have been resolved.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="top-nbfcs" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Top NBFCs Providing Personal Loans for Low CIBIL Scores</h3>

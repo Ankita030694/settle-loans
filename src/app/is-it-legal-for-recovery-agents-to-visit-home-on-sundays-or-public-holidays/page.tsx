@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Can Recovery Agents Visit Home on Sundays? | SettleLoans",
@@ -263,6 +264,8 @@ export default function SundayRecoveryRulesPage() {
                 </ul>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Sunday and Holiday Rules */}
             <section id="holiday-rules" className="scroll-mt-32 mb-16">

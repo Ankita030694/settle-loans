@@ -43,6 +43,7 @@ import {
   Layers,
   ArrowUpRight
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Copyable Template Box Component with visual feedback
 function CopyableTemplateBox({
@@ -684,6 +685,8 @@ Residential Address: [Your Full Postal Address]`;
                   When a loan enters Doubtful (D1/D2) or Loss Asset status, the bank has already deducted 100% of the unsecured amount from its capital profits as mandatory RBI provisions. When you pay an OTS settlement sum on a written-off account, <strong>100% of that cash flows directly into the bank&apos;s current quarter operating profit</strong>. This occurs because the bank already wrote off the asset and absorbed the loss. This accounting dynamic gives informed borrowers large negotiating leverage.</p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="internal-haircut-calculation-formula" className="scroll-mt-28 mb-14">

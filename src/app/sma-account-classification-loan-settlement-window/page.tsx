@@ -28,6 +28,7 @@ import {
   Clock,
   Layers
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'SMA Account & Loan Settlement Window | SettleLoans',
@@ -574,6 +575,8 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Deconstructing SMA-0, SMA-1 & SMA-2 */}
             <section id="deconstructing-sma-0-sma-1-sma-2-thresholds" className="space-y-4">

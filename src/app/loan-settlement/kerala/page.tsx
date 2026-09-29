@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Kerala | SettleLoans",
@@ -291,6 +292,8 @@ export default function KeralaLoanSettlementPage() {
               <p>Thiruvananthapuram, with its large population of government employees and healthcare professionals, sees a different kind of debt. Here, loans are often taken for large life events such as education, home construction, or weddings. While these are necessary expenses, any unexpected medical emergency or a temporary loss of income can turn these manageable loans into a toxic cycle of debt. The mental health toll of this pressure is immense, often leading to social isolation and extreme stress.</p>
               <p>Breaking this cycle requires more than just better financial planning; it requires a strategic legal intervention. By choosing a formal loan settlement, you are taking a proactive step to resolve your liabilities. It is not about running away from your responsibilities but about recognizing your current financial limitations and reaching a compromise that is fair to both you and the lender. Our team is dedicated to guiding the residents of these cities through this process with dignity and legal precision.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="why-settle-kerala" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6 leading-tight">Why Consider Loan Settlement in the Kerala Context?</h3>

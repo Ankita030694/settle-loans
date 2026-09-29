@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Rajasthan | SettleLoans",
@@ -290,6 +291,8 @@ export default function RajasthanLoanSettlementPage() {
               <p>Furthermore, the establishment of specialized Commercial Courts in districts like Jaipur and Jodhpur has streamlined the resolution of high value business debts. These courts are designed to handle complex commercial disputes with greater speed and technical expertise. For entrepreneurs and MSMEs in Rajasthan, this means that their legal defenses are heard by judges who understand the nuances of business contracts and financial distress. We leverage these judicial forums to protect our clients' interests, frequently citing state specific precedents that favor fair mediation over forced liquidation.</p>
               <p>Another critical aspect of the legal environment in Rajasthan is the proactive role of the District Legal Services Authorities (DLSA). Beyond just organizing Lok Adalats, the DLSA provides a platform for pre-litigation mediation. This is an excellent opportunity for borrowers to resolve disputes before they even reach a formal court setup. Our team specializes in presenting your financial hardship during these mediation sessions, often achieving settlements that are much more favorable than what a bank might offer through its standard recovery channels.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="moneylenders-act" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">Rajasthan Money Lenders Act, 1963: Borrower Protections</h3>

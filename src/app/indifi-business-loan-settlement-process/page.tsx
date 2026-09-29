@@ -30,6 +30,7 @@ import {
   CheckCircle2,
   Smartphone,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Indifi Business Loan Settlement Process | SettleLoans',
@@ -639,6 +640,8 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
                 Once an account becomes an NPA, lenders prefer cash. A fast lump-sum payment ends the case. You earn a solid debt discount.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting E-NACH & Legal Threats */}
             <section id="halting-enach-threats" className="scroll-mt-24 mb-12">

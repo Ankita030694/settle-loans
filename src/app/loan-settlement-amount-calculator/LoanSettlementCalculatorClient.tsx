@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export default function LoanSettlementCalculatorClient() {
     const [principal, setPrincipal] = useState<string>("");
@@ -279,6 +280,8 @@ export default function LoanSettlementCalculatorClient() {
                                 Most borrowers make the mistake of negotiating based on emotion. A smart borrower negotiates based on the bank's provisioning math. Banks are required by the RBI to set aside a certain percentage of their capital for every NPA. By settling, the bank frees up this capital, which is a significant incentive used in high-level debt resolution strategy.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="bank-internal-logic" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Bank's Internal Logic: The Haircut Philosophy</h3>

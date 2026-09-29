@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Can I Settle a Secured Loan in India? | SettleLoans",
@@ -281,6 +282,8 @@ export default function SecuredVsUnsecuredSettlementPage() {
                 An unsecured loan, such as a personal loan, a credit card balance, or a digital app loan, is backed by nothing but your signature and your promise to pay. There is no car to tow away and no house to lock up. This makes unsecured loans "higher risk" for the bank, but paradoxically, it often makes them "easier" to settle for the borrower.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="can-secured-settle" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Can Secured Loans Be Settled in India?</h3>

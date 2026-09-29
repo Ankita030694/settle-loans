@@ -38,6 +38,7 @@ import {
   HeartPulse,
   Users
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Senior Citizen & Pensioner Loan Settlement | SettleLoans',
@@ -605,6 +606,8 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Senior Citizens Act & Anti-Harassment Protections */}
             <section id="senior-citizens-act-welfare" className="space-y-4">

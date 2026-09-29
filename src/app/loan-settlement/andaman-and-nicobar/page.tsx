@@ -2,6 +2,7 @@ import React from 'react';
 import { Metadata } from 'next';
 import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement in Andaman and Nicobar | SettleLoans',
@@ -234,6 +235,8 @@ const Page = () => {
                         <p>We also pay close attention to the **Andaman and Nicobar Islands Money Lenders Regulation**. This local regulation aims to protect borrowers from unregulated private lenders who often charge exorbitant interest rates. If you have been forced into a debt cycle by a lender operating without a license or charging illegal rates, we help you leverage these local laws to defend your position. Our legal team audits your loan history to find any discrepancies that can be used to strengthen your case during the negotiation phase.</p>
                         <p>Knowing your rights is half the battle won. In the islands, where information can sometimes travel slowly, having a professional firm that is up to date with the latest Supreme Court rulings and RBI mandates is invaluable. We ensure that you are never intimidated by the technical jargon used by bank collection departments. We translate the law into a language of relief and results.</p>
                     </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                     <section id="types-of-loan-settlement" className="scroll-mt-32 mb-16">
                         <h3 className="text-3xl font-black mb-6">Settling Different Types of Loans in the Islands</h3>

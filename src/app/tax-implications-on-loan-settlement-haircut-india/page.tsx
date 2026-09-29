@@ -40,6 +40,7 @@ import {
   FileSpreadsheet,
   Receipt
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Tax on Loan Settlement Haircut in India | SettleLoans',
@@ -545,6 +546,8 @@ export default function TaxImplicationsLoanSettlementPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Analysis: Section 28(iv), 41(1), 56(2)(x) & 194R */}
             <section id="income-tax-provisions-section-28iv-41-1-194r" className="space-y-4">

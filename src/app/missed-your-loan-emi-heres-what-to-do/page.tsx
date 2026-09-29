@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Missed Your Loan EMI? Here's What to Do | SettleLoans",
@@ -302,6 +303,8 @@ export default function MissedEMIPage() {
               </div>
               <p>The key here is speed. Banks typically wait 72 hours before starting 'Level 1' recovery calls. If you contact them first, you might preempt the more aggressive tactics.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="grace-period" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">

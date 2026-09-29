@@ -43,6 +43,7 @@ import {
   Coins,
   Flame
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -445,6 +446,8 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
                 Forensic accounting confirmed that out of Kotak Mahindra Bank&apos;s ₹4,20,000 aggregate claim, ₹2,65,000 (over 63% of the total amount) consisted purely of capitalized interest, penal charges, and tax levies. Demonstrating this structural inflation established the baseline for negotiating an institutional haircut.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Kotak Retail NPA Mechanics */}
             <section id="banking-accounting-npa-provisioning" className="mb-10 scroll-mt-24">

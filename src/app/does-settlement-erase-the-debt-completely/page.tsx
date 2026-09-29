@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Does Loan Settlement Erase Debt Completely? | SettleLoans",
@@ -259,6 +260,8 @@ export default function DebtSettlementTruthPage() {
               Note: A 'Settled' status tells every future lender that you did not fulfill your original promise. You paid what you could, but you didn't pay what you owed.
             </p>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           <section id="cibil-impact" className="scroll-mt-32 mb-16">
             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Your CIBIL Score</h3>

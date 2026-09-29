@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "What is an Arrear EMI? Meaning & Difference | SettleLoans",
@@ -241,6 +242,8 @@ export default function ArrearEMIPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Consequences Section */}
             <section id="consequences" className="scroll-mt-32 mb-16">

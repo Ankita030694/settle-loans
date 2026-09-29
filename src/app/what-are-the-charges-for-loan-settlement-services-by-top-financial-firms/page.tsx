@@ -2,6 +2,7 @@ import React from 'react';
 import TableOfContents from '@/components/TableOfContents';
 import Link from 'next/link';
 import { Metadata } from 'next';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Charges for Loan Settlement Services in India | SettleLoans',
@@ -302,6 +303,8 @@ const ChargesPage = () => {
                 Furthermore, the documentation required for a successful settlement is extensive. From drafting hardship letters to verifying the bank's settlement offer for loopholes, every step requires professional eyes. Errors in the settlement letter can lead to the bank demanding the remaining balance later, effectively making the settlement void. Reputable firms charge to ensure that your legal discharge from the debt is absolute and final.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="ama-legal-solutions" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">AMA Legal Solutions: The Legal Retainer Model</h3>

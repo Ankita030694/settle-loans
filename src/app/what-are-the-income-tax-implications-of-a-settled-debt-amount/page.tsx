@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Tax Implications of Settled Debt in India | SettleLoans",
@@ -282,6 +283,8 @@ export default function TaxImplicationsPage() {
                 In a landmark case, the Supreme Court of India highlighted that for a receipt to be taxable as a business profit, it must have a direct nexus with the business. A loan taken to buy a car for personal use or to fund a family wedding simply does not have that nexus. Therefore, for millions of salaried individuals in India who settle their credit cards or personal loans, the tax department generally does not have a legal leg to stand on to demand tax on the waived amount.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="section-41-1" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Deep Dive: Section 41(1) and Trading Liabilities</h3>

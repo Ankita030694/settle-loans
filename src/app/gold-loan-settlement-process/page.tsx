@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Gold Loan Settlement & Auction Process: Guide',
@@ -203,6 +204,8 @@ export default function GoldLoanSettlementProcessPage() {
                                 "Market volatility is not a default, but failing to respond to a margin call is. Always keep a buffer of 10% in your LTV calculation to avoid sudden liquidation."
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="auction-notice-rights" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Convert Settled Loan to Closed Later: Improve CIBIL",
@@ -300,6 +301,8 @@ export default function ConvertSettledToClosedPage() {
                 When you settle, the bank reports it to credit bureaus like CIBIL, Experian, or CRIF High Mark. The status shows as "Settled," and the "Amount Overdue" might be zero, but the history of the waiver is saved. This waiver is what keeps your score from rising to its potential.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="impact-on-borrowing" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

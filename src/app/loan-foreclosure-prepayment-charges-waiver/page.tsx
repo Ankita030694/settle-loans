@@ -2,6 +2,7 @@ import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Foreclosure and Prepayment Charges Waiver Guide",
@@ -214,6 +215,8 @@ export default function LoanForeclosureWaiverPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* New Section: Calculating Savings */}
             <section id="calculating-savings" className="scroll-mt-32 mb-16">

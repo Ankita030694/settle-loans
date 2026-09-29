@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement for Traders in India | SettleLoans",
@@ -340,6 +341,8 @@ export default function LoanSettlementForTradersPage() {
                 The 'Personal Guarantee' trap is also significant. Many traders pledge their family home or their wife's jewelry as collateral for business loans. While this helps in getting a lower interest rate initially, it creates massive emotional stress when the business faces a downturn. The fear of losing the family home can lead to irrational financial decisions, like selling inventory at a loss just to pay the next EMI. This 'burning the house to keep the room warm' strategy is what we work to prevent through professional settlement.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="legal-realities" className="scroll-mt-32 mb-16 px-4 md:px-0">
                <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight">

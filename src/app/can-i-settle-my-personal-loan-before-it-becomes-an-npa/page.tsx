@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Pre-NPA Loan Settlement: Settle Before Default | SettleLoans",
@@ -311,6 +312,8 @@ export default function PreNPASettlementPage() {
               In technical terms, the bank moves the loan to a "Loss" category on their balance sheet only after it has been an NPA. By offering a settlement early, the bank would have to take a premature loss, which conflicts with RBI provisioning norms. This is the structural reason early settlements are rejected.
             </p>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           {/* Section 3: why-settle */}
           <section id="why-settle" className="scroll-mt-32 mb-16">

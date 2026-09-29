@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Avoid Recovery Agents: Legal Risks of Changing Number",
@@ -296,6 +297,8 @@ export default function LegalConsequencesChangingNumberPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Skip Tracing */}
             <section id="skip-tracing" className="scroll-mt-32 mb-16">

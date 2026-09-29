@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan App Harassment: Contacts & Gallery Access Rights",
@@ -280,6 +281,8 @@ export default function LoanAppHarassmentPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* How they hack */}
             <section id="how-they-hack" className="scroll-mt-32 mb-16">

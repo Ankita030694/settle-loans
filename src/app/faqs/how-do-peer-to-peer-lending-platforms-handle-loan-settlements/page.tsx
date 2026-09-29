@@ -4,6 +4,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck, faShieldHalved, faHandshake, faScaleBalanced, faCircleInfo } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "How P2P Lending Platforms Handle Loan Settlements",
@@ -259,6 +260,8 @@ export default function P2PLoanSettlementPage() {
                                 Most platforms have internal algorithms or "majority approval" rules for settlements. For example, if 70% of the lenders for a specific loan agree to a settlement offer, the platform may proceed with the closure. This decentralized decision-making process can be slow, but it often yields better discounts than traditional banks if the hardship is proven to be genuine.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="settlement-mechanics" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

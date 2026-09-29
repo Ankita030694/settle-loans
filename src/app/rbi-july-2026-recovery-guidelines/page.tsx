@@ -2,6 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'RBI Recovery Guidelines: Borrower Rights Guide',
@@ -203,6 +204,8 @@ export default function RbiJuly2026GuidelinesPage() {
                                 The transition period leading up to July 2026 has been provided to allow banks to overhaul their internal systems, train their agents, and establish the required grievance redressal channels. As we approach the implementation date, it is crucial for every Indian citizen to understand the specific pillars of this new framework.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="time-constraints" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Strict Contact Hours: The 8 AM to 7 PM Rule</h3>

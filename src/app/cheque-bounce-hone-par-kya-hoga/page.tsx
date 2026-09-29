@@ -30,6 +30,7 @@ import {
   ShieldQuestion,
   HandCoins
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Cheque Bounce Hone Par Kya Hoga: Legal Defense Guide',
@@ -523,6 +524,8 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* SECTION 3: 15-Day Notice & Limitation Deadlines */}
             <section id="statutory-notice-timelines-and-deadlines" className="mb-10 scroll-mt-24">

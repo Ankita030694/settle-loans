@@ -34,6 +34,7 @@ import {
   BadgePercent,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Can Bank File FIR for Loan Default? Section 420 Myth',
@@ -564,6 +565,8 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
                 Similarly, Section 406 IPC requires the entrustment of property in a fiduciary capacity. When a bank disburses a personal loan, the legal ownership of the money passes unconditionally to the borrower, creating a creditor-debtor relationship rather than a trustee-beneficiary arrangement. so, criminal breach of trust cannot legally arise from the non-repayment of a personal loan.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Fake Police Notices & Recovery Agent Tactics */}
             <section id="fake-police-notices-recovery-tactics" className="space-y-4">

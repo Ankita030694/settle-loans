@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Kotak Bank Loan Settlement | SettleLoans",
@@ -244,6 +245,8 @@ export default function KotakBankSettlementPage() {
                 In the current 2026 financial landscape: banks are increasingly open to settlements to clean up their retail NPA logs. Kotak Mahindra Bank has specific internal targets for resolving 'written off' accounts: which you can leverage to get unprecedented discounts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="credit-card-trap" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black text-[#1a202c] mb-6">The Kotak Credit Card Debt Trap: A Structural Problem</h3>

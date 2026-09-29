@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "How to Negotiate Personal Loan Settlement | SettleLoans",
@@ -332,6 +333,8 @@ export default function NegotiatePersonalLoanSettlementPage() {
                                 The RBI also mandates that every bank must have a grievance redressal mechanism. If a recovery agent crosses the line, you have the right to complain to the bank's nodal officer and, if not resolved, to the Banking Ombudsman. This "ombudsman threat" is a powerful tool in your negotiation arsenal.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="financial-assessment" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

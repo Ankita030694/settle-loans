@@ -29,6 +29,7 @@ import {
   CheckCircle2,
   Smartphone,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'DMI Finance Loan Settlement Process Guide | SettleLoans',
@@ -639,6 +640,8 @@ export default function DMIFinanceLoanSettlementPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Stopping e-NACH Bounces & Penal Fees */}
             <section id="halting-nach-bounce-penalties" className="scroll-mt-24 mb-12">

@@ -30,6 +30,7 @@ import {
   Mountain,
   Hotel,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const dynamic = 'force-static';
 export const revalidate = 86400;
@@ -634,6 +635,8 @@ export default function PersonalLoanSettlementDehradunPage() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Bank NPA Accounting & NPV Recovery Mathematics */}
             <section id="bank-npa-accounting-npv-formula" className="scroll-mt-24 mb-12">

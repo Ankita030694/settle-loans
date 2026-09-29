@@ -2,6 +2,7 @@ import React from 'react';
 import { Metadata } from 'next';
 import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Can Banks Contact Your Guarantor? | SettleLoans',
@@ -287,6 +288,8 @@ export default function Page() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
             
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">RBI Rules on Recovery Calls to Guarantors</h3>

@@ -34,6 +34,7 @@ import {
   FileCheck2,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component
 const FAQItem = ({
@@ -435,6 +436,8 @@ export default function CibilDisputeWrongOverdueEntryClient() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: CICRA 2005 & ₹100/Day RBI Compensation */}
             <section id="cicra-2005-rbi-regulations" className="scroll-mt-28 mb-12">

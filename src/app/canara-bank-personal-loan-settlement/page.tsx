@@ -39,6 +39,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Canara Bank Personal Loan Settlement | SettleLoans',
@@ -611,6 +612,8 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 Moreover, under RBI provisioning norms, Canara Bank must allocate substantial capital provisions against aging NPAs. An unsecured Substandard loan (delinquent up to 12 months) requires a 15% provision. Once the debt transitions into Doubtful categories (D1: 25%, D2: 40%, D3: 100%) or Loss Asset status (100% written off), Canara Bank has already absorbed the loss on its balance sheet. Recovering 40% to 50% of the principal in immediate liquid funds allows the bank to reverse provisions and book a net profit recovery, creating powerful economic incentives for approving One-Time Settlements.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Section 171 Banker Lien & Account Shield */}
             <section id="section-171-bankers-lien-salary-protection" className="scroll-mt-24 mb-10">

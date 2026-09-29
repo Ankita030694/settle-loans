@@ -32,6 +32,7 @@ import {
   Award,
   CheckCircle2
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -452,6 +453,8 @@ export default function CaseStudyNriDubaiClient() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Power of Attorney & Consular Attestation */}
             <section id="power-of-attorney-consulate-process" className="mb-10 scroll-mt-24">

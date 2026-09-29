@@ -34,6 +34,7 @@ import {
   BadgePercent,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Na Chukane Par Kya Hota Hai? | SettleLoans',
@@ -550,6 +551,8 @@ export default function LoanNaChukaneParKyaHogaPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Recovery Agent Coercion & Fake Notices */}
             <section id="recovery-agent-tactics-and-harassment" className="space-y-4">

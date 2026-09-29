@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Can Banks Freeze UPI Accounts for Loan Recovery?",
@@ -319,6 +320,8 @@ export default function CanBanksFreezeUPIAccountPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* NPCI Guidelines */}
             <section id="npci-guidelines" className="scroll-mt-32 mb-16">

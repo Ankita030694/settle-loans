@@ -32,6 +32,7 @@ import {
   Calculator,
   Gavel
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -371,6 +372,8 @@ export default function BajajHarassmentStoppedClient() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Workplace Harassment & Privacy Laws */}
             <section id="workplace-harassment-legal-implications" className="mb-10 scroll-mt-24">

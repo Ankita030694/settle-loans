@@ -29,6 +29,7 @@ import {
   Factory,
   Wrench,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Jamshedpur | SettleLoans',
@@ -663,6 +664,8 @@ export default function PersonalLoanSettlementJamshedpurPage() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Bank NPA Accounting & NPV Recovery Economics */}
             <section id="bank-npa-accounting-npv-formula" className="scroll-mt-24 mb-12">

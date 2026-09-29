@@ -31,6 +31,7 @@ import {
   Briefcase,
   FileText,
 } from "lucide-react";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Job Loss & Layoff Loan Settlement Guide | SettleLoans",
@@ -654,6 +655,8 @@ export default function JobLossLoanSettlementPage() {
                 When presenting this dossier through legal counsel, each exhibit is cross-referenced with a formal Hardship Affidavit executed on non-judicial stamp paper. This formalization shows absolute transparency, disarms aggressive recovery litigation, and provides the branch credit officer with the internal audit compliance necessary to recommend a 50% to 70% principal waiver to the Zonal Stressed Assets Committee.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: NPA Lifecycle & Provisioning Timing */}
             <section id="npa-provisioning-timeline-unemployment" className="scroll-mt-24 mb-12">

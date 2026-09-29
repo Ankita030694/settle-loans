@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "How to Settle Your Loan in India: Guide | SettleLoans",
@@ -265,6 +266,8 @@ export default function HowToSettleLoanPage() {
               <p>It is crucial to distinguish between 'cloing' a loan and 'settling' a loan. Closure happens when you pay back every rupee of the principal and interest. Settlement happens when you pay a compromise amount. While both result in a debt free status, settlement leaves a specific mark on your credit report. This 'Settled' status tells future lenders that you were unable to meet your full obligations, which temporarily impacts your creditworthiness. However, compared to the alternative of a permanent default or a 'Written Off' status, settlement is a proactive and much healthier choice for long term financial recovery.</p>
               <p>At SettleLoans, we specialize in making this process transparent. We believe every borrower should know exactly what they are signing up for, including the benefits and the trade-offs. Our goal is to ensure that when you settle, you do so from a position of knowledge and strength, backed by professional legal advice.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="bank-motivation" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">The Bank's Internal Logic: Why Lenders Agree to Negotiate</h3>

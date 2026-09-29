@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "How to Stop Loan Recovery Harassment | SettleLoans",
@@ -308,6 +309,8 @@ export default function StopLoanHarassmentPage() {
                 Furthermore, the RBI 2026 directions have introduced a "Responsible Business Conduct" framework. This mandates that banks must have a dedicated mechanism to monitor recovery agents in real time. If an agent is found using high pressure tactics, the bank must take action or face heavy penalties from the regulator. Documentation is your best friend here. Always keep a log of call timings, record every interaction, and save every threatening SMS or WhatsApp message.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="complaint-process" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

@@ -39,6 +39,7 @@ import {
   BadgePercent,
   Coins
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component
 const FAQItem = ({
@@ -482,6 +483,8 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                 Personal loan contracts do not establish any security interest over your flat, residential house, agricultural land, or motor vehicle. Therefore, any recovery agent or collection officer claiming to invoke SARFAESI against your property is making a fraudulent and legally baseless misrepresentation.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="recovery-agent-myths" className="scroll-mt-28 mb-14">

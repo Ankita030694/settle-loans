@@ -37,6 +37,7 @@ import {
   Search,
   MessageSquareWarning
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Fake Court Summons on WhatsApp Rules | SettleLoans',
@@ -555,6 +556,8 @@ export default function FakeCourtNoticeWhatsAppPage() {
                 Borrowers can check any notice on the e-Courts website (services.ecourts.gov.in). Search using the CNR number or party name. If no case appears, the document is an extortion attempt.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="statutory-criminal-laws-bns-ipc" className="space-y-4">
               <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Criminal Protections</h3>

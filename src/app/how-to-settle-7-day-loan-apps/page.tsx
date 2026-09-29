@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "How to Settle 7-Day Loan Apps in India | SettleLoans",
@@ -171,6 +172,8 @@ export default function SevenDayLoanSettlementPage() {
                 Developers of these apps use "Shadow coding" techniques where the app looks like a simple utility or a small game to the Play Store audit team, but once installed on a user's phone, it downloads the malicious lending module from an external server. This "Dynamic payload" is what allows them to stay on major platforms for weeks before being flagged.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="illegal-mechanics" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">Mechanics of the Trap: How They Control You</h3>

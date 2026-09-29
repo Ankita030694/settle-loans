@@ -2,6 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Improve CIBIL Score After Loan Settlement Guide',
@@ -303,6 +304,8 @@ export default function ImproveCibilAfterSettlementPage() {
                                 To a future lender, this settled status signals a high risk. They fear that if you hit another rough patch, you might ask for another settlement instead of paying them back in full. This is why rebuilding your credit requires more than just time; it requires active intervention.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="technical-impact" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Technical Impact of Settlement on Your CIBIL Score</h3>

@@ -42,6 +42,7 @@ import {
   AlertCircle,
   BadgePercent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Kotak Mahindra Bank Loan Settlement | SettleLoans',
@@ -618,6 +619,8 @@ export default function KotakBankPersonalLoanSettlementPage() {
                 When an account is assigned to Phoenix ARC, borrowers receive an official intimation letter notifying them of the novation. Phoenix ARC purchases these delinquent portfolios at steep institutional discounts (often 15 to 25 paise on the rupee). so, when handled with sound legal representation, negotiating a compromise settlement with Phoenix ARC frequently yields large haircuts of 50% to 65% on the original principal debt.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Banker's Lien & Harassment Shield */}
             <section id="bankers-lien-section-171-harassment-defense" className="space-y-4">

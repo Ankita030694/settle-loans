@@ -2,6 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Trading Loan Settlement: Legal Help & Options',
@@ -225,6 +226,8 @@ export default function TradingLoanSettlementPage() {
                                 It is important to understand that a settlement is a last resort. It is intended for those who have suffered genuine losses and have no other way to clear their obligations. While it provides immediate relief, it does have implications for your credit history, which we will discuss in detail later in this guide. However, for many, the relief of being debt free outweighs the temporary dip in their credit score.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="types-of-trading-loans" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Types of Trading Debts in India: A Deep Dive</h3>

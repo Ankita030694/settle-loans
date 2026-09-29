@@ -32,6 +32,7 @@ import {
   FileCheck2,
   Percent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'One Time Settlement (OTS) Kaise Kare | SettleLoans',
@@ -529,6 +530,8 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* SECTION 3: RBI Statutory Framework & Compromise Rules */}
             <section id="rbi-statutory-framework-and-compromise-rules" className="mb-10 scroll-mt-24">

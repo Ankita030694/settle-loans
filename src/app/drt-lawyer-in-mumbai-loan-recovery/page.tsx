@@ -2,6 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'DRT Lawyer in Mumbai for Loan Recovery Defense',
@@ -184,6 +185,8 @@ export default function MumbaiDrtLawyerPage() {
                                 To survive this, you need a lawyer who understands the "Mumbai Timeline." We monitor every step of the bank's action, from the minute they file an application before the Chief Metropolitan Magistrate (CMM) or the District Magistrate (DM) in Thane or Palghar, ensuring we are ready with an interim stay application in the DRT.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="jurisdiction-details" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Understanding Mumbai DRT Jurisdictions (DRT 1, 2 & 3)</h3>

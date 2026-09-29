@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement in Bihar | 3500+ Word Legal Guide",
@@ -310,6 +311,8 @@ export default function BiharLoanSettlementPage() {
               <p>Furthermore, the Act requires lenders to provide clear receipts and regular statements of accounts. If a lender fails to do this, it is considered a violation of the law. This provides an excellent leverage point during settlement negotiations. At SettleLoans, we utilize every facet of the Bihar legal framework to ensure our clients are not exploited. Knowledge of these state specific laws is what allows us to negotiate from a position of strength, achieving waivers that would otherwise be impossible.</p>
               <p>The 1974 Act also provides a mechanism for 'Deposit of Money in Court'. If a lender refuses to accept a fair payment or refuses to issue a receipt, the borrower can actually deposit the amount in a local court, which then serves as a legal proof of payment. This prevents lenders from claiming 'willful default' later. We guide our clients through these highly technical procedures, ensuring that every penny they pay is legally documented and accounted for, leaving no room for future disputes.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="public-demands-recovery-act" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">The Impact of the Bihar Public Demands Recovery Act, 1914</h3>

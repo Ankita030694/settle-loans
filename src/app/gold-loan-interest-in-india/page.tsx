@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Gold Loan Interest Rates & Settlement | Guide',
@@ -295,6 +296,8 @@ export default function GoldLoanInterestPage() {
                                 "If you need money in 24 hours, go to a bank. If you need it in 24 minutes, go to an NBFC. Just be prepared to pay for those 23 minutes with higher interest."
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="rate-determinants" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden text-justify">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>

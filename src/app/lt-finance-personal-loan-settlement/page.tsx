@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'L&T Finance Personal Loan Settlement | SettleLoans',
@@ -646,6 +647,8 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 Once a loan reaches 180+ DPD, L&amp;T Finance writes it off on its balance sheet. A lump-sum OTS payment provides immediate cash recovery. This gives the Credit Committee a strong reason to grant large debt waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Bounce Charges & Penal Levies */}
             <section id="stopping-ltf-bounce-charges-nach" className="scroll-mt-24 mb-12">

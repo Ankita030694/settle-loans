@@ -41,6 +41,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export default function LokAdalatMeLoanSettlementClient() {
   const [activeId, setActiveId] = useState<string>('understanding-lok-adalat-loan-settlement');
@@ -353,6 +354,8 @@ export default function LokAdalatMeLoanSettlementClient() {
                 Borrowers must also remain vigilant against deceptive tactics deployed by third-party recovery agencies. Unscrupulous recovery agents frequently forge simulated &quot;Lok Adalat Final Summons&quot; on WhatsApp, complete with fake police logos, fictitious advocate stamps, and urgent countdown timers threatening arrest within 24 hours. A legitimate Lok Adalat notice contains an authentic Pre-Litigation Case (PLC) Number. It clearly names the DLSA or TLSC, specifies the exact courtroom within the court complex, and provides official court registry contact details.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Attendance Rules, Zero Coercion & Arrest Myths Debunked */}
             <section id="attendance-rules-arrest-myths-debunked" className="scroll-mt-24 mb-10">

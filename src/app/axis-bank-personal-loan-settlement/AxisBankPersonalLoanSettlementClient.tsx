@@ -41,6 +41,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -481,6 +482,8 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 The critical strategic inflection point occurs when the account transfers to SARB after 90 days. While local branches are evaluated on EMI collection targets, SARB desks are judged on bad-debt recoveries and NPA portfolio reduction. SARB officers hold delegated financial powers to evaluate compromise settlements based on commercial recovery benchmarks.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Banker's Right of Set-Off & Burgundy Account Shield */}
             <section id="bankers-lien-setoff-protections" className="scroll-mt-24 mb-12">

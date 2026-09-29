@@ -28,6 +28,7 @@ import {
   Percent,
   Clock
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Varanasi | SettleLoans',
@@ -545,6 +546,8 @@ export default function PersonalLoanSettlementVaranasiPage() {
                 Section 60(1) CPC protects basic home items, clothes, and weaver tools from court seizure. It also protects minimum wage amounts. Lenders cannot take property without a court order. Forced seizure is illegal trespass under BNS and IPC.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Varanasi Kutchery & Judicial Jurisdictions */}
             <section id="varanasi-kutchery-court-jurisdictions" className="space-y-4">

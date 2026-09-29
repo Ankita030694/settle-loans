@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'LiquiLoans P2P Loan Settlement | SettleLoans',
@@ -628,6 +629,8 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 Once a loan is overdue past 180 days, peer lenders absorb the accounting loss. A lump-sum OTS payment provides quick cash recovery, prompting NDX P2P to grant large debt discounts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Bounce Charges & Mandate Cancellations */}
             <section id="stopping-liquiloans-nach-bounce-charges" className="scroll-mt-24 mb-12">

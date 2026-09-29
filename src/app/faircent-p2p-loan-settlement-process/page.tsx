@@ -31,6 +31,7 @@ import {
   Users,
   Percent,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Faircent & P2P Loan Settlement Process | SettleLoans',
@@ -654,6 +655,8 @@ export default function FaircentP2PLoanSettlementPage() {
                 The structural challenge for P2P platforms lies in legal enforceability. A ₹5 Lakh loan is fragmented among 50 separate retail investors across different states. so, filing person civil recovery suits under Order 37 CPC in local courts is financially unviable. The legal fees, advocate retainers, court fees, and service expenses rapidly exceed the recoverable principal. Recognizing this legal friction, P2P platforms and lender committees routinely accept large OTS haircuts to recover liquid capital quickly.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting Automated NACH Presentations & Bounce Fees in P2P Escrows */}
             <section id="stopping-p2p-nach-bounce-penalties" className="scroll-mt-24 mb-12">

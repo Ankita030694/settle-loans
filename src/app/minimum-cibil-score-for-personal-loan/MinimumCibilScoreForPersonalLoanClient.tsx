@@ -34,6 +34,7 @@ import {
   FileCheck2,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component
 const FAQItem = ({
@@ -484,6 +485,8 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Hidden Underwriting Criteria: FOIR & DPD Strings */}
             <section id="foir-and-underwriting" className="scroll-mt-28 mb-12">

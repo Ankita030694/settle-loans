@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Delhi | 40-70% Waiver",
@@ -306,6 +307,8 @@ export default function DelhiLoanSettlementPage() {
               <p>The debt spiral usually starts with a single credit card. You use it for an emergency, then you pay only the minimum due. Then you take a personal loan to pay off the credit card. Then you take another loan to pay the EMIs of the first loan. In Delhi, this cycle is incredibly common. The availability of 'instant loans' has only made it easier to enter this trap. Before you know it, you are working just to pay interest, while your actual debt remains unchanged or even grows because of penalties.</p>
               <p>Breaking this cycle requires a radical shift in strategy. Continuing to borrow is not the answer. Negotiating a one time settlement is. We understand that residents of Delhi take pride in their financial integrity. We want you to know that choosing settlement is not an act of dishonesty; it is a pragmatic financial decision made under genuine distress. It is a legally recognized way to end a cycle that has no other outlet.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="why-settle" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">Why Should You Settle Your Loan in Delhi NCR?</h3>

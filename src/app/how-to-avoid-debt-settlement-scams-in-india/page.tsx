@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "How to Avoid Debt Settlement Scams in India | Red Flags 2024",
@@ -214,6 +215,8 @@ export default function ScamPreventionPage() {
                 </li>
               </ul>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="vulnerable-groups-protections" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">

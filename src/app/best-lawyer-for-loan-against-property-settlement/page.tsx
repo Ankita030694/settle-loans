@@ -4,6 +4,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faHome, faBuilding, faCalendarAlt, faScaleBalanced, faInfoCircle, faCertificate, faUserShield, faHandHoldingUsd } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Lawyer for Loan Against Property Settlement',
@@ -214,6 +215,8 @@ export default function LAPSettlementPage() {
                                 "The SARFAESI Act is procedural. Any mistake the bank makes in the notification process, the valuation of the property, or the timing of the auction can be used as a legal leverage to stop the proceedings in the Debt Recovery Tribunal."
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="lap-mechanics" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">

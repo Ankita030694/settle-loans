@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Federal Bank Personal Loan Settlement | SettleLoans',
@@ -643,6 +644,8 @@ export default function FederalBankLoanSettlementPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Stopping NACH Bounce Charges & Penal Fees */}
             <section id="stopping-nach-bounce-penalties" className="scroll-mt-24 mb-12">

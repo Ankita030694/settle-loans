@@ -41,6 +41,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -439,6 +440,8 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* SECTION 3: Personal Guarantees & Directors' Liability */}
             <section id="personal-guarantees-and-directors-liability" className="mb-10 scroll-mt-24">

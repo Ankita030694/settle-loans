@@ -37,6 +37,7 @@ import {
   FileSpreadsheet,
   Laptop
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'File RBI Ombudsman Harassment Complaint | SettleLoans',
@@ -544,6 +545,8 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
                 Note the legal deadline. You must file your RBI Ombudsman complaint within <strong>one year</strong> of receiving the bank&apos;s final reply. If the bank never replied, file within one year and 30 days from your complaint date. Missing these deadlines ends your right to seek relief under the scheme.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Grounds for Harassment Complaints */}
             <section id="statutory-grounds-under-integrated-scheme" className="space-y-4">

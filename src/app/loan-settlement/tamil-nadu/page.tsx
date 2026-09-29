@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Tamil Nadu | 40-70% Waiver",
@@ -289,6 +290,8 @@ export default function TamilNaduLoanSettlementPage() {
               <p>One of the most insidious aspects of modern debt is the "multiple loan syndrome." To pay off one EMI, borrowers often take another loan from an app or a non-banking financial company (NBFC). This creates a vicious cycle of borrowing that eventually becomes unmanageable. The stress of constant calls from recovery agents, the fear of legal notices, and the impact on family life can be devastating. Many individuals in Tamil Nadu suffer in silence, unaware that there are legal mechanisms designed to provide them with relief.</p>
               <p>It is important to understand that debt is not a moral failure; it is a financial circumstance. Banks and financial institutions are aware that a certain percentage of loans will always face repayment issues. This is why the concept of "settlement" exists within the banking system itself. Our role at SettleLoans is to navigate these internal banking processes on your behalf, ensuring that you get the most favorable terms possible while being protected from any illegal recovery tactics.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="why-settle" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">The Power of Strategic Loan Settlement: A Prudent Financial Choice</h3>

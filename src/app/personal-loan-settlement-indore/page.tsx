@@ -30,6 +30,7 @@ import {
   BookOpen,
   Check,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Lawyer in Indore | SettleLoans',
@@ -658,6 +659,8 @@ export default function PersonalLoanSettlementIndorePage() {
                 When an unsecured personal loan or commercial credit facility in Indore reaches Doubtful Asset classification or undergoes technical write-off, the bank has already recognized the financial loss on its audited financial statements. Consequently, when an experienced loan settlement lawyer presents a structured, lump-sum settlement proposal backed by verifiable hardship proof, it represents an immediate cash write-back to the bank&apos;s operating profit, incentivizing Zonal Credit Committees to sanction substantial debt waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Stopping Recovery Aggression & Halting Unlawful NACH Sweeps */}
             <section id="anti-harassment-nach-protection" className="scroll-mt-24 mb-12">

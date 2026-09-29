@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCoins, faFileInvoiceDollar, faBuildingColumns, faGavel, faScaleBalanced, faCalculator, faSection, faHandHoldingDollar, faStar, faChartLine, faCheck } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Tax Implications of Loan Settlement | SettleLoans",
@@ -305,6 +306,8 @@ export default function TaxImplicationsPage() {
                                 </div>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="section-28" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

@@ -27,6 +27,7 @@ import {
   CheckCircle2,
   GraduationCap,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'mPokket Loan Settlement Process Guide | SettleLoans',
@@ -613,6 +614,8 @@ export default function MPokketLoanSettlementPage() {
                 </li>
               </ul>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Stopping e-NACH & Compounded Fees */}
             <section id="halting-auto-debit-bounces-penalties" className="scroll-mt-24 mb-12">

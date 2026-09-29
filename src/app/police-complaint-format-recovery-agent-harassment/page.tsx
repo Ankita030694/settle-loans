@@ -34,6 +34,7 @@ import {
   BadgePercent,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Police Complaint Against Recovery Agent Format | SettleLoans',
@@ -582,6 +583,8 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                 In addition to these core provisions, complaints cite Section 504 IPC (Intentional insult) and Section 354D IPC (Stalking). These sections apply when recovery agents make continuous abusive calls or track the physical movements of borrowers and their family members.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Step-by-Step Legal Draft Protocol for Police SHO & SP Complaints */}
             <section id="complaint-drafting-architecture" className="space-y-4">

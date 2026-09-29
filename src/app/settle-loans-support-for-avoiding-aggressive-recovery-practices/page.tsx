@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Stop Aggressive Recovery Practices | SettleLoans",
@@ -302,6 +303,8 @@ export default function AggressiveRecoverySupportPage() {
                  <p className="opacity-80 leading-relaxed">This is why you must deal with the bank directly through professional intermediaries like SettleLoans. We bypass the aggressive agents and speak directly to the bank's settlement officers, who are trained to look at the financial reality rather than using intimidation.</p>
                </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">RBI Guidelines 2025: Concrete Rules for Recovery</h3>

@@ -13,6 +13,7 @@ import {
   faUserShield, 
   faTriangleExclamation 
 } from '@fortawesome/free-solid-svg-icons';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement in Himachal Pradesh | Legal Debt Relief",
@@ -248,6 +249,8 @@ const Page = () => {
                         <p>The Act also requires lenders to maintain proper accounts and provide copies of loan agreements and receipts for all payments to the borrower. Failure to do so is a violation of the Act. We help our clients demand these documents. If the lender cannot produce them, it weakens their legal standing significantly. This transparency is vital for ensuring that you are not being cheated by hidden fees or manipulated account statements.</p>
                         <p>Furthermore, the Act provides protection against coercive recovery methods. Any form of harassment or intimidation by a moneylender or their agents is a punishable offense. SettleLoans provides an immediate legal shield, issuing notices to these lenders and, if necessary, involving the local authorities to ensure your safety and privacy. You have the right to be treated with respect, regardless of your debt status.</p>
                     </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                     <section id="agricultural-debt-relief" className="scroll-mt-32 mb-16">
                         <h3 className="text-3xl font-black mb-6">Navigating the Himachal Pradesh Relief of Agricultural Indebtedness Act, 1976</h3>

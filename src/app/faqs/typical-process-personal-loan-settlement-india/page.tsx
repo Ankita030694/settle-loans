@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Process for Personal Loan Settlement in India | SettleLoans",
@@ -311,6 +312,8 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                                 The typical process for setting a personal loan in India is now a high-volume activity. Banks have standardized their "floor rates" - the minimum percentage of the principal they are allowed to accept to settle an account. These rates change every quarter based on the bank's Non-Performing Asset (NPA) targets. This is why professional negotiators often wait for "Quarter End" or "Financial Year End" (March) to strike the best deals, as banks are under extreme pressure to clean their balance sheets during these periods.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="economic-impact" className="scroll-mt-32 mb-16">
                             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter">The Economic Impact of Personal Loan Defaults</h3>

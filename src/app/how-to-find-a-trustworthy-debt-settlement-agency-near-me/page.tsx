@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Find Debt Settlement Agency Near Me | SettleLoans",
@@ -252,6 +253,8 @@ export default function FindAgencyNearMePage() {
               <p className="text-lg leading-relaxed mb-6">                However, it is important to remember that the best debt settlement providers in India often combine a strong physical presence with advanced digital capabilities. Firms like <strong><a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</a></strong> have offices in major cities but serve clients India-wide through their robust legal network. This hybrid approach ensures that no matter where you are, you receive the same gold standard of service. When searching for an agency nearby, focus on finding those that offer the best of both worlds: local accessibility and national expertise.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="local-search" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

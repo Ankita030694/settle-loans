@@ -29,6 +29,7 @@ import {
   Check,
   BookOpen,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Bhopal | SettleLoans',
@@ -647,6 +648,8 @@ export default function PersonalLoanSettlementBhopalPage() {
                 Once a loan is written off, the bank has booked the loss. An immediate cash OTS gives the bank fresh funds. This makes Zonal Credit Committees approve large principal cuts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Stopping Recovery Aggression & Halting Unlawful NACH Sweeps */}
             <section id="anti-harassment-nach-protection" className="scroll-mt-24 mb-12">

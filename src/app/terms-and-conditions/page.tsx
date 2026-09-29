@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 import Link from "next/link";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Terms and Conditions - SettleLoans",
@@ -68,6 +69,8 @@ export default function TermsAndConditionsPage() {
                 ))}
               </ul>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Limitation of Liability */}
             <section className="mb-12">

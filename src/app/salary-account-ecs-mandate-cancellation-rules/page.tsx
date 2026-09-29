@@ -37,6 +37,7 @@ import {
   Wallet,
   ArrowUpRight
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Salary Account ECS Mandate Cancellation | SettleLoans',
@@ -607,6 +608,8 @@ export default function SalaryAccountEcsMandateCancellationPage() {
                 Revoking an ECS mandate cancels the debit tool. It does not erase the debt. However, stopping the debit protects your wages and ends penalty fees. It lets you negotiate a fair settlement.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The Threat of Section 25 PSSA & Section 138 NI Act */}
             <section id="debunking-fraud-allegations-pssa-25" className="space-y-4">

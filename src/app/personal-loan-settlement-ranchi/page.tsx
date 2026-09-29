@@ -27,6 +27,7 @@ import {
   AlertCircle,
   Receipt
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Ranchi | SettleLoans',
@@ -586,6 +587,8 @@ export default function PersonalLoanSettlementRanchiPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Borrower Protections: RBI Fair Practices Code, High Court Precedents & Anti-Harassment Law in Jharkhand */}
             <section id="statutory-borrower-protections-jharkhand" className="space-y-4">

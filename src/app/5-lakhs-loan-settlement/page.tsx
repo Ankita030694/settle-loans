@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "5 Lakhs Loan Settlement Process in India | SettleLoans",
@@ -329,6 +330,8 @@ export default function FiveLakhsLoanSettlementPage() {
                                 Furthermore, the SARFAESI Act, which allows banks to take possession of collateral, generally applies to secured loans. For a 5 lakh unsecured personal loan, the bank's powers are much more limited. They must go through the civil court or Lok Adalat to get a decree against you. This is a slow and expensive process for the bank, which is why they ultimately prefer a negotiated settlement over litigation.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="process" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

@@ -31,6 +31,7 @@ import {
   Landmark,
   MapPin
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Madurai | SettleLoans',
@@ -574,6 +575,8 @@ export default function PersonalLoanSettlementMaduraiPage() {
                 Paying small token amounts to agents does not clear your loan. It only goes toward extra fees. Legal representation protects your rights and moves banks directly into formal OTS talks.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Protections & Judicial Framework */}
             <section id="statutory-protections-madurai-bench-rbi" className="space-y-4">

@@ -28,6 +28,7 @@ import {
   AlertCircle,
   Percent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Section 25 PSSA Notice for Loan Default | SettleLoans',
@@ -627,6 +628,8 @@ export default function Page() {
                 <p className="text-slate-700 leading-relaxed text-base md:text-lg">
                   If a lender fails to send a demand notice within 30 days of dishonor, or files a complaint past the 30-day limitation window, the court cannot take cognizance. The petition becomes procedurally defective under law.</p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: Absence of Mens Rea & Civil Debt Realities */}
               <section id="mens-rea-civil-vs-criminal-jurisprudence" className="scroll-mt-24 mb-12">

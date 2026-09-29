@@ -34,6 +34,7 @@ import {
   Stethoscope,
   Receipt,
 } from "lucide-react";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Medical Emergency Loan Default Settlement Guide",
@@ -657,6 +658,8 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 When these verified records are indexed chronologically into a formal legal submission, the bank&apos;s legal team cannot dispute the authenticity of the financial catastrophe. The dossier legally shifts the borrower from a standard collection target into a protected compassionate-grounds category.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The 90–180 Day NPA Transition & Zonal Credit Committee Governance */}
             <section id="npa-lifecycle-zonal-committee-timing" className="scroll-mt-24 mb-12">

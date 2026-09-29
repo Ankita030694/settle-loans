@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Check Loan Settlement Eligibility Online | SettleLoans",
@@ -260,6 +261,8 @@ export default function EligibilityCheckerPage() {
               </div>
             </div>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           {/* Section 3: NPA Status Rules */}
           <section id="npa-status" className="scroll-mt-32 mb-12">

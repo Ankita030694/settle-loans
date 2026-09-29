@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "IDFC First Bank Loan Settlement | SettleLoans",
@@ -244,6 +245,8 @@ export default function IDFCFirstBankSettlementPage() {
                 Industry data suggests that for unsecured loans defaulted for over 180 days: banks like IDFC First are increasingly open to settlements to clean their retail balance sheets for the 2026 fiscal year.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="credit-card-trap" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black text-[#1a202c] mb-6">The IDFC First Credit Card Debt Trap: Understanding the Math</h3>

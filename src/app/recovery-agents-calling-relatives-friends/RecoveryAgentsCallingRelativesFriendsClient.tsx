@@ -35,6 +35,7 @@ import {
   PhoneIncoming,
   ShieldX
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component
 const FAQItem = ({
@@ -458,6 +459,8 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Comparison Table 1: Permitted vs Illegal Practices */}
             <div className="my-8">

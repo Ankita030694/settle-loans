@@ -35,6 +35,7 @@ import {
   Percent,
   XCircle,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component with smooth Lucide toggle
 const FAQItem = ({
@@ -528,6 +529,8 @@ export default function LokAdalatNoticeClient() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="why-banks-choose-lok-adalat" className="scroll-mt-28 mb-14">

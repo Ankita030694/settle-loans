@@ -37,6 +37,7 @@ import {
   Percent,
   Sparkles
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Best Secured Cards After Settlement | SettleLoans',
@@ -523,6 +524,8 @@ export default function BestSecuredCreditCardsPage() {
                 The RBI Master Direction on Credit Card and Debit Card – Issuance and Conduct Directions, 2022 (updated 2024) outlines prudential standards for regulated entities. Crucially, no RBI regulation prohibits commercial banks or NBFCs from issuing credit to individuals with past settlements. In the absence of wilful default declarations, borrowers retain full civil rights to restore creditworthiness through secured instruments anchored in Section 171 of the Indian Contract Act, 1872.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The Mechanics of FD-Backed Secured Credit Cards */}
             <section id="mechanics-fd-backed-credit-cards" className="space-y-4">

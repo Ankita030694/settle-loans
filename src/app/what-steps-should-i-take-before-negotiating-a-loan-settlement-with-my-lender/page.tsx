@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Steps Before Negotiating Loan Settlement Guide',
@@ -209,6 +210,8 @@ export default function NegotiationStepsPage() {
                                 Calculating your "Sacrifice Threshold" is critical. This is the maximum amount you are willing to pay. In the Indian market, aiming for 30-40% of the principal is a standard starting point for unsecured debts, while for secured debts, the math revolves around asset value minus legal costs.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="hardship-proof" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>

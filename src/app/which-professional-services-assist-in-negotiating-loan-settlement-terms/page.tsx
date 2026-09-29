@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Services That Assist in Loan Settlement | SettleLoans",
@@ -385,6 +386,8 @@ export default function ProfessionalServicesPage() {
                 This is why DIY settlement attempts often fail. A borrower might settle for a 20% discount, while a professional firm like CredSettle or SettleLoans could have secured 60% using the same facts but better timing and legal leverage.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="why-professional" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase tracking-tighter">

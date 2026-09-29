@@ -27,6 +27,7 @@ import {
   BadgePercent,
   MapPin
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Guwahati | SettleLoans',
@@ -583,6 +584,8 @@ export default function PersonalLoanSettlementGuwahatiPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: PSU Bank SARB Mechanics in Guwahati */}
             <section id="psu-bank-sarb-guwahati-mechanics" className="space-y-4">

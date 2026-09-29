@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faShieldAlt, faGavel, faScaleBalanced, faHandshake, faCheckCircle, faExclamationTriangle, faClock, faIdCard, faDoorOpen, faUserShield } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Recovery Agent Home Visit Rules & Rights | SettleLoans",
@@ -233,6 +234,8 @@ export default function RecoveryHomeVisitRulesPage() {
                 Remember, the bank's internal policy cannot overrule the RBI's national mandate. If an agent claims their &quot;bank allows them to visit until 9 PM,&quot; they are lying. You should never feel guilty about refusing to speak with someone who is violating these fundamental timing rules.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="identification" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

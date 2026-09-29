@@ -41,6 +41,7 @@ import {
   Receipt,
   FileSpreadsheet
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -551,6 +552,8 @@ export default function PersonalLoanSettlementFeesClient() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Percentage of Savings vs. Enrolled Debt */}
             <section id="savings-vs-debt-fee-model" className="scroll-mt-28 mb-14">

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'What Happens if Loan EMI is Not Paid? Legal Guide',
@@ -203,6 +204,8 @@ export default function EmiNotPaidPage() {
                                 The "Debt Trap" starts here. If your EMI is Rs. 50,000 and you miss it for 3 months, the total dues aren't Rs. 1.5 Lakhs. With penalties and penal interest, the figure is likely closer to Rs. 1.7 Lakhs. For a borrower already in distress, this extra 20k is often the breaking point.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="credit-damage" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>

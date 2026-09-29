@@ -30,6 +30,7 @@ import {
   Landmark,
   Percent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Debt Settlement Services in Jaipur | SettleLoans',
@@ -614,6 +615,8 @@ export default function Page() {
                   The Hon&apos;ble Rajasthan High Court (Jaipur Bench) has established across multiple authoritative judgments that financial institutions and recovery agencies cannot adopt strong-arm, coercive, or extra-judicial recovery measures. The court has repeatedly affirmed that commercial lenders are vicariously liable for unlawful harassment committed by recovery agents, holding that all debt recovery must strictly follow established civil due process.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: Statutory Legal Notice Defense in Jaipur District Courts (Bani Park) */}
               <section id="statutory-notices-bani-park-defense" className="scroll-mt-24 mb-12">

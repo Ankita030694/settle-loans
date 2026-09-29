@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Sample Letter to Bank for Loan: Guide & Format",
@@ -313,6 +314,8 @@ export default function SampleLetterToBankForLoanPage() {
                                 Another critical aspect is that an excellently worded letter often speeds up the evaluation process. The loan committee does not have to hunt for information scattered across various forms. Everything they need to know regarding the "who, what, and why" is summarized neatly on page one. Consequently, processing times shrink and you receive your decision much faster.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="types-of-loans" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Types of Bank Loans and Their Specific Letter Requirements</h3>

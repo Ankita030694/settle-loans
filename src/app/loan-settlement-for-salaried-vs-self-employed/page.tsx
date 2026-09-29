@@ -40,6 +40,7 @@ import {
   Layers,
   ArrowUpRight
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement: Salaried vs Self-Employed | SettleLoans',
@@ -583,6 +584,8 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
                 Understanding these differing legal exposures allows debt defense advocates to formulate tailored negotiation strategies: leveraging statutory wage caps to force compromise settlements for salaried employees, while using commercial insolvency and balance sheet depletion to negotiate deep haircuts for business owners.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Hardship Documentation Matrix */}
             <section id="insolvency-documentation-matrix" className="space-y-4">

@@ -37,6 +37,7 @@ import {
   LifeBuoy,
   Phone
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Stop Recovery Agent Mental Harassment | SettleLoans',
@@ -571,6 +572,8 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                 High Courts and the Supreme Court refuse to quash FIRs under Section 306 IPC / Section 108 BNS. Lenders cannot use recovery targets to torture borrowers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Constitutional Sanctity: Article 21 & Supreme Court Mandates */}
             <section id="constitutional-sanctity-article-21" className="space-y-4">

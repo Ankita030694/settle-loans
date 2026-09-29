@@ -38,6 +38,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Copyable Template Box Component with visual feedback
 function CopyableTemplateBox({
@@ -809,6 +810,8 @@ PAN: [Your PAN]`;
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="comparison-letter-types" className="scroll-mt-28 mb-14">

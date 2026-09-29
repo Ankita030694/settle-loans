@@ -31,6 +31,7 @@ import {
   MapPin,
   Banknote,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Bhubaneswar | SettleLoans',
@@ -609,6 +610,8 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 Personal loan default carries no criminal fines. Police in Bhubaneswar and Cuttack cannot file FIRs or detain borrowers for debt. If agencies cross legal lines, a settlement lawyer issues formal cease-and-desist notices to the bank. We can also file complaints with the RBI Ombudsman.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Delinquency Timeline & Bank NPA Balance-Sheet Accounting */}
             <section id="npa-accounting-delinquency-timeline" className="scroll-mt-24 mb-12">

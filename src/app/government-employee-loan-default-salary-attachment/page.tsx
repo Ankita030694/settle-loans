@@ -38,6 +38,7 @@ import {
   Briefcase,
   GraduationCap
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Govt Employee Loan Default & Salary Attachment Rules',
@@ -615,6 +616,8 @@ export default function GovernmentEmployeeLoanDefaultPage() {
                 Crucially, under the <strong>second proviso to Section 60(1)(i) CPC</strong>, when any portion of a government servant&apos;s salary has been attached in execution of a decree for a cumulative period of <strong>24 months</strong>, that salary is granted total statutory immunity from any further attachment in execution of the same decree, or any subsequent decree for a further mandatory hiatus of <strong>12 full months</strong>. These protections ensure that no creditor can indefinitely paralyze a public servant&apos;s livelihood.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Departmental Notices & CAT Jurisprudence */}
             <section id="departmental-notices-cat-precedents" className="space-y-4">

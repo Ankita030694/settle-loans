@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Lawyer for Loan Settlement During DRT | SettleLoans",
@@ -300,6 +301,8 @@ export default function LoanSettlementDRTPage() {
                                 We also look at the 'Bankers' Books Evidence Act' requirements. If the bank hasn't provided a proper digital certificate for their electronic records, those records are technically inadmissible. While DRTs are more flexible than civil courts, they cannot ignore a fundamental lack of evidence. Using these technical 'Paper Shields' buys you the time needed to arrange funds for a settlement.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="ots-strategies" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

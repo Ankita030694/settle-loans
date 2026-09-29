@@ -30,6 +30,7 @@ import {
   faListCheck,
   faUserShield
 } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Credit Card Settlement Services India | SettleLoans",
@@ -306,6 +307,8 @@ export default function CreditCardSettlementPage() {
                </p>
             </div>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           {/* DEEP DIVE: The Trap (Slightly Expanded) */}
           <section id="the-math-of-debt" className="scroll-mt-32">

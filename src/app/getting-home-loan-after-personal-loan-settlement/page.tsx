@@ -32,6 +32,7 @@ import {
   Home,
   Percent,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Home Loan After Personal Loan Settlement | SettleLoans',
@@ -594,6 +595,8 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 Settlement remarks stay on credit bureau records for up to seven years. Your three-digit CIBIL score can recover within 24 to 36 months if you pay on time. However, the &apos;Settled&apos. tag still triggers automated bank rejections. That is why credit rebuilding and manual underwriting are essential.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: SARFAESI & Secured Housing Risk Dynamics */}
             <section id="statutory-mortgage-protections-rbi" className="scroll-mt-24 mb-12">

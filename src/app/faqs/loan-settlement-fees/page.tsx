@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Fees & Transparent Pricing | SettleLoans",
@@ -294,6 +295,8 @@ export default function LoanSettlementFeesPage() {
                 *Note: The 35% figure is an average target. In some difficult cases, banks may demand 40-45%, while in older NPA cases, we have achieved 20-25% settlements. The 15% service fee remains constant on the total outstanding value.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: DIY vs Professional Economics (NEW) */}
             <section id="diy-economics" className="scroll-mt-32 mb-12">

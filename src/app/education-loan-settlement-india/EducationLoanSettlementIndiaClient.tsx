@@ -28,6 +28,7 @@ import {
   Building2,
   Lock,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -428,6 +429,8 @@ export default function EducationLoanSettlementIndiaClient() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="parent-coapplicant-legal-liabilities" className="scroll-mt-24 mb-10">

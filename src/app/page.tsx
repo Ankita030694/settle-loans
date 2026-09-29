@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Hero from "@/components/Hero";
 import SettlementLetters from "@/components/SettlementLetters";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 import ProcessSection from "@/components/ProcessSection";
 import Services from "@/components/Services";
 import BankGrid from "@/components/BankGrid";
@@ -42,6 +43,7 @@ export default function Home() {
       <div className="relative z-10">
         <Hero />
         <SettlementLetters />
+        <LoanSettlementAssessmentFunnel variant="full" />
         <ProcessSection />
         <Services />
         <BankGrid />

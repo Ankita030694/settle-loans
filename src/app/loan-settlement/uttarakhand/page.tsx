@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Uttarakhand | SettleLoans",
@@ -285,6 +286,8 @@ export default function UttarakhandLoanSettlementPage() {
               <p>Before long, a significant portion of your income goes towards paying just the interest, while the principal amount remains untouched. This situation is unsustainable and can lead to a state of total financial paralysis. Breaking this cycle requires a firm decision to stop borrowing and start settling. Loan settlement is not just about reducing the amount you owe; it is about reclaiming your financial future. It allows you to pay a reduced lump sum amount and close the account permanently, giving you the clean break you need to start fresh.</p>
               <p>We specialized in helping residents of Uttarakhand navigate this complex process. Our approach is based on transparency, legal expertise, and a deep understanding of the local financial landscape. We believe that everyone deserves a second chance at financial stability, and we are here to provide the professional support needed to achieve it. By choosing settlement, you are taking a proactive step towards resolving your debts in a way that is recognized by the law and the banking system.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="why-settle-uttarakhand" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">Why Should You Settle Your Loan in Uttarakhand?</h3>

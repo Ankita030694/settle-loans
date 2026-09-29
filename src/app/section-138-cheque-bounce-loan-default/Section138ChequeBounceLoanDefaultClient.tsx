@@ -35,6 +35,7 @@ import {
   BadgeAlert,
   CheckSquare
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component
 const FAQItem = ({
@@ -534,6 +535,8 @@ SettleLoans Legal Advisory Network`;
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="supreme-court-rulings" className="scroll-mt-28 mb-14">

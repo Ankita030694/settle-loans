@@ -39,6 +39,7 @@ import {
   ServerCrash,
   FileWarning
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'DPDP Act Complaint Against Loan Apps | SettleLoans',
@@ -541,6 +542,8 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
                 Scraping an address book breaks Section 6 and Section 8. The people in the list never gave consent. Thus, the lender has no right to hold or call those numbers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: RBI Digital Lending Directives */}
             <section id="rbi-digital-lending-guidelines-permissions" className="space-y-4">

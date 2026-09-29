@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "IndusInd Bank Loan Settlement | SettleLoans",
@@ -330,6 +331,8 @@ export default function IndusIndBankSettlementPage() {
                 IndusInd Bank's credit card division is known for its rigorous follow-ups. Unlike some other banks, they often keep the debt in-house for a longer period before selling it to an Asset Reconstruction Company (ARC). This gives you a window to negotiate directly with the bank's own collections managers, who have the authority to provide waivers on interest and sometimes even a portion of the principal. However, their first offer will always be to "Regularize" the account, which is often impossible for someone already in financial distress. This is where professional intervention becomes vital to shift the conversation toward a permanent closure.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="personal-loan-crisis" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black text-[#1a202c] mb-6">Navigating the IndusInd Personal Loan Crisis</h3>

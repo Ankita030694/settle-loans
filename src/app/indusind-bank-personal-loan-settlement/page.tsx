@@ -32,6 +32,7 @@ import {
   UserCheck,
   BadgePercent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'IndusInd Bank Personal Loan Settlement | SettleLoans',
@@ -609,6 +610,8 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
                 Borrowers must never ignore a formal legal notice. Serving an advocate-drafted reply within the statutory 15-day window establishes genuine hardship, disputes excessive penal compound interest, and creates the legal foundation for an amicable One-Time Settlement (OTS).
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Banker's Lien & Harassment Shield */}
             <section id="bankers-lien-section-171-harassment-defense" className="space-y-4">

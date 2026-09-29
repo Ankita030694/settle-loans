@@ -26,6 +26,7 @@ import {
   UserCheck,
   BadgePercent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Remove Post-Write-Off Settled CIBIL | SettleLoans',
@@ -503,6 +504,8 @@ export default function RemovePostWriteOffSettledRemarkPage() {
                 To cleanse active balance sheets and optimize capital adequacy under Basel III, lenders execute technical write-offs. The loan is derecognized from branch registers and transferred to a memorandum ledger, designated as the Advance Under Collection Account (AUCA). An internal write-off does not extinguish civil debt liability. However, when the borrower remits settlement funds, branch software credits the memorandum account without central reconciliation, prompting automated bureau feeds to transmit the conflicting Post-Write-Off Settled remark.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Framework */}
             <section id="statutory-framework-cicra-rbi-directions" className="space-y-4">

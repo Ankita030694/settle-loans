@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { Metadata } from "next";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Types of Unsecured Loans in India | SettleLoans",
@@ -259,6 +260,8 @@ export default function TypesOfUnsecuredLoansPage() {
                                 Depending on your credit score and relationship with the bank, loan amounts can range from ₹50,000 to as high as ₹40,00,000, with repayment tenures spanning 1 to 5 years.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="credit-cards" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">

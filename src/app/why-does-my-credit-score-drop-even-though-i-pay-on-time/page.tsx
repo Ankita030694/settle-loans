@@ -4,6 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight, faCircleCheck, faShieldHalved, faScaleBalanced, faClock, faAddressCard, faHandHoldingDollar, faExclamationTriangle } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Why Credit Score Drops Despite On-Time Pay | SettleLoans",
@@ -348,6 +349,8 @@ export default function CreditScoreDropPage() {
                  In the Indian context, where the middle class is increasingly moving toward 'Credit First' living, these percentages are more critical than ever. Lenders like SBI, HDFC, and ICICI use automated 'knock-out' rules based on these percentages. If your utilization (30%) is too high, you might be rejected even if your payment history (35%) is flawless. This is the cold reality of algorithmic banking.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="utilization-trap" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">

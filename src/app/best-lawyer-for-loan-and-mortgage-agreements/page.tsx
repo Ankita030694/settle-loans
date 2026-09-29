@@ -4,6 +4,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faGraduationCap, faBook, faCalendarAlt, faScaleBalanced, faInfoCircle, faCertificate, faUniversity, faUserGraduate, faSignature, faScroll, faLandmark, faFileSignature } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Lawyer for Loan & Mortgage Agreements | India',
@@ -221,6 +222,8 @@ export default function LoanMortgageAgreementsPage() {
                                 </div>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="legal-components" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">

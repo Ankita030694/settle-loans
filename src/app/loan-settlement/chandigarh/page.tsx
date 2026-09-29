@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Chandigarh | SettleLoans",
@@ -289,6 +290,8 @@ export default function ChandigarhLoanSettlementPage() {
               <p>Navigating this requires a nuanced approach. For instance, a legal notice for a resident in Mohali might need to reference Punjab state amendments to financial laws, while one for Panchkula would fall under Haryana's jurisdiction. Chandigarh itself is governed by central laws applicable to Union Territories. SettleLoans is uniquely positioned to handle this complexity. Our legal team is well versed in the jurisdictional nuances of the Tricity region. We ensure that no matter where you live or where your bank branch is located, you receive the most effective legal protection available.</p>
               <p>We also understand the local banking culture. Whether it is the State Bank of India's main branch in Sector 17, HDFC Bank's regional office, or the various cooperative banks operating in the periphery, we have established channels of communication. This local intelligence allows us to bypass the generic call center runarounds and speak directly to decision makers who have the authority to approve your settlement proposal.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="drt-chandigarh-role" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">The Critical Role of DRT Sector 17 in Debt Resolution</h3>

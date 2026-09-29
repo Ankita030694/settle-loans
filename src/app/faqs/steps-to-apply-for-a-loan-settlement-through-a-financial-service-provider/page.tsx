@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck, faShieldHalved, faScaleBalanced, faClockRotateLeft } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "How to Apply for Loan Settlement | SettleLoans",
@@ -318,6 +319,8 @@ export default function SettlementStepsPage() {
                                 During this phase, you will define your "Settlement Budget". This is the maximum lump sum you can realistically arrange through savings, PF withdrawal, or family support. A professional provider will never suggest an amount that you cannot fulfill, as a failed settlement agreement is often worse for your records than no agreement at all.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="phase-2-onboarding" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

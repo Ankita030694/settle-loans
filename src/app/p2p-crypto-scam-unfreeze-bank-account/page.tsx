@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "P2P Crypto Scam Unfreeze Bank Account | SettleLoans",
@@ -297,6 +298,8 @@ export default function P2PCryptoScamUnfreezePage() {
                 Most P2P traders are completely unaware that they are interacting with stolen money. They see a successful payment in their bank and release the assets. The difficulty arises because the law initially treats every recipient of stolen money as a suspect until proven otherwise. This is why immediate action and proper documentation are vital.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="freezing-legal-logic" className="scroll-mt-32 mb-16">
               <h4 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6">The Legal Logic Behind Bank Account Freezes</h4>

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Compare Debt Settlement Fees & Success Rates India 2024",
@@ -217,6 +218,8 @@ export default function FeesSuccessRatePage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="settlement-vs-consolidation" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">

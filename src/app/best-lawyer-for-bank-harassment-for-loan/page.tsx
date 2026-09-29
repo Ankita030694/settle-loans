@@ -4,6 +4,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faUserShield, faPhoneSlash } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Lawyer for Bank Harassment for Loan Recovery',
@@ -282,6 +283,8 @@ export default function BankHarassmentLawyerPage() {
                                 <p className="text-red-800 leading-relaxed">Many NBFCs and digital loan apps hire third-party 'recovery agencies' who believe they are 'private police'. They have NO legal authority to enter your house, touch your belongings, or threaten you. If they do so, it is criminal trespass and extortion.</p>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="rbi-fair-practices" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">

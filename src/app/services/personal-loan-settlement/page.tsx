@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faChartLine, faCalculator, faGavel, faUserInjured, faCheck, faBrain, faHouse, faStar } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Personal Loan Settlement Services in India | SettleLoans",
@@ -228,6 +229,8 @@ export default function PersonalLoanSettlementPage() {
               </p>
             </div>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           {/* Section 138 Warning */}
           <section className="mb-16">

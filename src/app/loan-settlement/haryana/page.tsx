@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Haryana | 40-70% Waiver",
@@ -289,6 +290,8 @@ export default function HaryanaLoanSettlementPage() {
               <p>In the 2024 industrial climate, we have witnessed a trend where temporary downturns lead to accounts being classified as Non-Performing Assets (NPAs). The stress is particularly high in the automobile supply chain and the textile sectors of Panipat. Borrowers frequently cite job loss or high EMI burdens as the primary reasons for default. When banks initiate recovery, the tactics can be aggressive, often ignoring the genuine financial hardships faced by the borrowers.</p>
               <p>Our approach in these industrial corridors is targeted. We understand that a factory owner in Sonipat faces different challenges than a service professional in DLF Cyber City. By tailoring our negotiation strategies to the specific sector and the lender's regional policies, we achieve waivers that allow businesses to survive and individuals to reclaim their lives. Debt should not mean the end of your enterprise or your peace of mind.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="why-settle-in-haryana" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">Strategic Loan Settlement: Reclaiming Your Fiscal Narrative</h3>

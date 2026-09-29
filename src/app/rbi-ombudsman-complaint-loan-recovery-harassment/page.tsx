@@ -35,6 +35,7 @@ import {
   AlertCircle,
   FileSpreadsheet
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'RBI Ombudsman Complaint for Recovery Harassment Guide',
@@ -578,6 +579,8 @@ export default function RbiOmbudsmanComplaintPage() {
                 When a bank or NBFC engages in any of these prohibited actions, the borrower gains immediate legal standing to start formal regulatory cases. The RBI Ombudsman treats recovery harassment not merely as an person consumer grievance, but as a systemic compliance breakdown that exposes the financial institution to severe administrative penalties and supervisory audit ratings downgrades.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Mandatory 30-Day Pre-Filing Protocol */}
             <section id="mandatory-30-day-escalation-protocol" className="space-y-4">

@@ -33,6 +33,7 @@ import {
   UserCheck,
   MapPin
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component
 const FAQItem = ({
@@ -407,6 +408,8 @@ export default function PersonalLoanSettlementMumbaiClient() {
                 Additionally, financial institutions frequently invoke standard arbitration clauses in loan contracts, unilaterally appointing sole arbitrators based in Mumbai or Delhi without mutual consent. In landmark rulings such as <em>Perkins Eastman Architects DPC v. HSCC India Ltd (2020)</em> and <em>TRF Ltd. v. Energo Engineering Projects Ltd.</em>, the Supreme Court ruled that unilateral arbitrator appointments are void ab initio. Experienced Mumbai advocates challenge these unilateral arbitrations before the High Court of Bombay and City Civil Courts, staying ex-parte interim awards under Section 9 or Section 17 of the Arbitration Act and forcing the bank into bilateral settlement discussions.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Role of a Mumbai Settlement Advocate */}
             <section id="role-of-settlement-advocate" className="scroll-mt-24 mb-12">

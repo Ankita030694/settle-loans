@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Possession Notice Challenge: DRT Stay Guide | SettleLoans",
@@ -306,6 +307,8 @@ export default function PossessionNoticeChallengePage() {
                 </ul>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="symbolic-vs-physical" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black mb-6 leading-tight">

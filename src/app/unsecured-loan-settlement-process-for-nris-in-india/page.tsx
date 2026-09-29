@@ -2,6 +2,7 @@ import React from 'react';
 import type { Metadata } from "next";
 import Link from 'next/link';
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Unsecured Loan Settlement for NRIs in India',
@@ -183,6 +184,8 @@ export default function NRILoanSettlementPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="legal-implications" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Can Bank File Case Against NRI in India?</h3>

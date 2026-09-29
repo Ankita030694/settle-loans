@@ -49,6 +49,7 @@ import {
   Ban,
   TrendingDown
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -522,6 +523,8 @@ export default function HowToSettleCreditCardDebtClient() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Delinquency & NPA Lifecycle */}
             <section id="delinquency-npa-lifecycle" className="scroll-mt-28 mb-12">

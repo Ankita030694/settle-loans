@@ -29,6 +29,7 @@ import {
   FileText,
   BookOpen
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Settle Loan During RBI Ombudsman | SettleLoans',
@@ -550,6 +551,8 @@ export default function LoanSettlementBankingOmbudsmanPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: CMS Portal Pressure & Bank Compliance Escalation */}
             <section id="cms-portal-pressure-compliance-escalation" className="space-y-4">

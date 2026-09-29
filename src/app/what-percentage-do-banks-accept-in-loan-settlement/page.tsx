@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "What Percentage Do Banks Settle Loans For? | SettleLoans",
@@ -294,6 +295,8 @@ export default function BankSettlementPercentagePage() {
                                 It is a common misconception that banks will settle for 10% or 15%. While internet rumors suggest otherwise, the reality of RBI audits and bank profitability means that a settlement below 25% of the total outstanding is extremely rare for a standard personal loan. However, for credit cards with massive compounded interest, the waiver as a percentage of the total might look higher, but internally the bank is still trying to recover at least the principal.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="banks-vs-nbfcs" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Banks vs NBFCs: How the Percentages Differ</h3>

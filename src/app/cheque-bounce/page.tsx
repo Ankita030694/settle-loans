@@ -23,6 +23,7 @@ import {
   faUnlockKeyhole,
   faArrowTrendUp
 } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Cheque Bounce (Sec 138) Lawyer & Settlement Services",
@@ -358,6 +359,8 @@ export default function ChequeBouncePage() {
                 </div>
             </div>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
            {/* Consequences */}
            <section id="consequences" className="scroll-mt-32 mb-16">

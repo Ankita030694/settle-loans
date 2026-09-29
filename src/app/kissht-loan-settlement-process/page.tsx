@@ -31,6 +31,7 @@ import {
   Smartphone,
   MessageSquareOff,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Kissht App Loan Settlement Guide | SettleLoans',
@@ -646,6 +647,8 @@ export default function KisshtLoanSettlementProcessPage() {
                 Once a loan is classified as a Doubtful Asset or subjected to technical write-off, Si Creva Capital has already absorbed 100% provisioning on its quarterly profit-and-loss statements. Under these accounting realities, receiving an upfront lump-sum payment represents an immediate cash write-back to the NBFC, providing risk officers with the regulatory and financial room to approve substantial debt haircuts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting Recovery Harassment & RBI Directives */}
             <section id="stopping-recovery-harassment-rbi" className="scroll-mt-24 mb-12">

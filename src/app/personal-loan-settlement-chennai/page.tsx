@@ -40,6 +40,7 @@ import {
   AlertCircle,
   MapPin
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Chennai | SettleLoans',
@@ -644,6 +645,8 @@ export default function Page() {
                   The Hon&apos;ble Madras High Court has repeatedly affirmed in numerous landmark judgments that banks and financial corporations cannot resort to extra-judicial coercion, harassment, or muscular collection methods to recover delinquent personal loans. Recovery of civil money claims must strictly adhere to statutory due process. The court has maintained that financial institutions are fully accountable for the civil and criminal wrongs committed by their outsourced recovery agents.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: Statutory Notice Defense in Chennai Courts */}
               <section id="statutory-notices-defense-chennai-courts" className="scroll-mt-24 mb-12">

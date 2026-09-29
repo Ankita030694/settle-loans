@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Bajaj Finance Loan Settlement | SettleLoans",
@@ -258,6 +259,8 @@ export default function BajajFinanceSettlementPage() {
                 In 2016, with the launch of their digital platform and the subsequent explosion of the Bajaj Finserv App, they transitioned into what they are today: a digital conglomerate. By the time we reached 2026, Bajaj Finance had moved almost entirely to algorithmic underwriting. This history is important for you as a borrower because it explains their recovery behavior. They have the legacy grit of an auto-finance company combined with the high-tech tracking of a modern fintech. When you settle with them, you are dealing with decades of institutional knowledge in debt management.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="algorithmic-engine" className="scroll-mt-24 mb-16">
               <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">The Algorithmic Credit Engine and App Scoring</h3>

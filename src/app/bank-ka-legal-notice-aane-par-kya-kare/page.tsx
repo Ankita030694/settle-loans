@@ -29,6 +29,7 @@ import {
   ShieldQuestion,
   HandCoins
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Bank Ka Legal Notice Aane Par Kya Kare: 15-Day Action Plan',
@@ -518,6 +519,8 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* SECTION 3: The 15-Day Critical Reply Window */}
             <section id="the-15-day-statutory-reply-window" className="mb-10 scroll-mt-24">

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "How to Manage Loan With No Job in India | SettleLoans",
@@ -236,6 +237,8 @@ export default function HowToManageLoanNoJobPage() {
                 Shift your mindset from being a 'defaulter' to being a 'negotiator'. In the eyes of the bank, your loan is now a Non-Performing Asset (NPA). It is a bad investment for them. Your job is to help them get at least a part of that investment back through a fair settlement, rather than forcing them to spend years and thousands of rupees in court cases for a 0% recovery.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="rights-deep-dive" className="scroll-mt-32 mb-24">
               <h3 className="text-4xl font-black text-[#2E2E2E] mb-12">Legal Rights Deep Dive: Your Shield</h3>

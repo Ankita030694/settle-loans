@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Which Banks Offer Debt Consolidation Loans? | SettleLoans",
@@ -221,6 +222,8 @@ export default function DebtConsolidationBanksPage() {
               </div>
             </div>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           <section id="nbfc-options" className="scroll-mt-32 mb-16">
              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">NBFCs: For Faster and More Relaxed Approvals</h3>

@@ -36,6 +36,7 @@ import {
   Send,
   CreditCard
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'RBI ₹100 Daily CIBIL Delay Compensation | SettleLoans',
@@ -509,6 +510,8 @@ export default function Rbi100RupeesDailyCompensationCibilDelayPage() {
                 Alternatively, if the borrower lodges the dispute directly with the lending bank or NBFC, the lender is allotted 21 calendar days to investigate the discrepancy, correct its internal records, and transmit the revised ledger file to all four licensed credit bureaus. The credit bureaus then possess exactly 9 calendar days to update their proprietary score databases and inform the customer. If either institution exceeds its assigned window and the cumulative resolution time crosses 30 calendar days, legal liability crystallizes automatically, creating an immediate debt payable to the complainant.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="qualifying-grounds-for-compensation" className="space-y-4">

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement with IARC | SettleLoans",
@@ -292,6 +293,8 @@ export default function IARCPage() {
                 The RBI regulates ARCs under a separate set of guidelines than commercial banks. This means they have different reporting requirements and different incentives. For a bank, a bad loan is a mark of failure in their underwriting. For IARC, a bad loan is their raw material. They are experts in resolving these situations, and they are motivated to close files quickly to maintain their own portfolio health. This creates a perfect opportunity for a borrower who is ready to settle and close the chapter on their debt.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="settlement-guide" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Detailed Guide to IARC Loan Settlement Process</h3>

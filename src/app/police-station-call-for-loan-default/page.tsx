@@ -29,6 +29,7 @@ import {
   Siren,
   FileWarning
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Recovery Agent Police Call: Legal Rights & Protection',
@@ -585,6 +586,8 @@ export default function PoliceStationCallForLoanDefaultPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Anatomy of Fake Police Summons & Digital Forgery */}
             <section id="anatomy-of-fake-police-notices" className="space-y-4">

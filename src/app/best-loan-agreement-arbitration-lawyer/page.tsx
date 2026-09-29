@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Loan Agreement Arbitration Lawyer in India | SettleLoans",
@@ -301,6 +302,8 @@ export default function LoanArbitrationLawyerPage() {
                                 We also look for 'Vague Clauses'. If a clause says "disputes may be referred to arbitration" instead of "shall be referred", it is considered an optional clause. We use this to redirect the case to a regular civil court or a consumer forum, where the borrower often has better protections against aggressive lenders.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="section-9-interim" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Business Loan Foreclosure Letter Format | SettleLoans',
@@ -258,6 +259,8 @@ export default function BusinessLoanForeclosurePage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* When to Use Section */}
             <section id="when-to-use" className="scroll-mt-32 mb-16">

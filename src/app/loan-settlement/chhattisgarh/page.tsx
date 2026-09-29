@@ -14,6 +14,7 @@ import {
   faUserShield, 
   faTriangleExclamation 
 } from '@fortawesome/free-solid-svg-icons';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement in Chhattisgarh | SettleLoans',
@@ -249,6 +250,8 @@ const Page = () => {
                         <p>It is also crucial to understand the limitations of the bank's power. For unsecured loans like personal loans and credit cards, banks cannot simply seize your property or lock your home without following a rigorous judicial process. They cannot file a criminal case just because you missed a payment; debt default is primarily a civil matter. By educating our clients in Chhattisgarh about these boundaries, we empower them to stand their ground. We take over all legal communications, ensuring that no notice goes unanswered and no threat goes unchallenged.</p>
                         <p>Our legal team also monitors developments in the Chhattisgarh High Court and other local forums. We stay updated on rulings that affect consumer rights and debt recovery. This local expertise, combined with a national perspective on banking, makes SettleLoans a formidable advocate for your interests. We don't just negotiate; we litigate defenses when necessary, ensuring that you are never bullied into a settlement that you cannot afford.</p>
                     </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                     <section id="mining-sector-debt" className="scroll-mt-32 mb-16">
                         <h3 className="text-3xl font-black mb-6">Navigating Mining and Industrial Debt Cycles</h3>

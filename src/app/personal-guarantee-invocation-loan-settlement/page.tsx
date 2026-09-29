@@ -38,6 +38,7 @@ import {
   ArrowUpRight,
   TrendingDown
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Guarantee Invocation Rules | SettleLoans',
@@ -562,6 +563,8 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="tribunal-jurisdictions-drt-ibc-crosswinds" className="scroll-mt-24 space-y-4">

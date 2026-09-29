@@ -32,6 +32,7 @@ import {
   UserCheck,
   CheckCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -501,6 +502,8 @@ export default function CannotPayPersonalLoanEmiClient() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The 30-to-180-Day Timeline */}
             <section id="bank-recovery-timeline" className="scroll-mt-28 mb-14">

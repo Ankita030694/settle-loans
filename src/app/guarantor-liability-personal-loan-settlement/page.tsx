@@ -35,6 +35,7 @@ import {
   AlertCircle,
   Users
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Guarantor Liability in Loan Settlement | SettleLoans',
@@ -585,6 +586,8 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Recovery Agent Harassment Against Family */}
             <section id="family-harassment-rbi-protections" className="space-y-4">

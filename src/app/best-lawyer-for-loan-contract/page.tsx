@@ -4,6 +4,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faUserShield, faStamp } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Loan Contract Disputes | India',
@@ -281,6 +282,8 @@ export default function LoanContractLawyerPage() {
                                 <p className="text-gray-600 leading-relaxed">In modern lending, the application form is the 'Offer', and the Sanction Letter is the 'Acceptance'. The Loan Agreement is the formalization of this cycle. If there is a conflict between the Sanction Letter and the Agreement, the Agreement usually prevails due to the 'Entire Agreement' clause.</p>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="core-financial-clauses" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">

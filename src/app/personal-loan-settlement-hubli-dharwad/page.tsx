@@ -32,6 +32,7 @@ import {
   Truck,
   FileText,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Hubli Dharwad | SettleLoans',
@@ -600,6 +601,8 @@ export default function HubliDharwadLoanSettlementPage() {
                 To enforce an unsecured debt, a lender must file an ordinary summary suit under Order XXXVII of the Code of Civil Procedure (CPC) in local civil courts. Even if a money decree is granted after years of litigation, Section 60(1) of the CPC strictly exempts tools of artisans, agricultural implements, and residential premises from judicial attachment. This statutory immunity protects borrowers from asset loss and provides our banking advocates powerful legal leverage during compromise negotiations.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Anti-Harassment Shields & RBI Recovery Regulations */}
             <section id="anti-harassment-karnataka-laws" className="scroll-mt-24 mb-12">

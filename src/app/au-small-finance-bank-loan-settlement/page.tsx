@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'AU Small Finance Bank Settlement | SettleLoans',
@@ -652,6 +653,8 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 When a loan becomes a Doubtful Asset or gets written off, AU Bank absorbs the loss. An immediate settlement provides fresh cash recovery for the bank. This justifies large principal waivers at senior committee levels.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Bounce Charges & Penal Levies */}
             <section id="stopping-au-bank-bounce-charges-nach" className="scroll-mt-24 mb-12">

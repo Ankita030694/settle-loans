@@ -3,6 +3,7 @@
 import React, { useEffect, useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 const tableOfContents = [
   { id: 'why-need-lawyer', title: 'Why Do You Need a Personal Loan Settlement Lawyer?' },
@@ -104,6 +105,8 @@ export default function PersonalLoanSettlementLawyerClient() {
           </div>
         </div>
       </section>
+
+            <LoanSettlementAssessmentFunnel />
 
       {/* Main Layout Grid */}
       <div className="w-full max-w-[1920px] mx-auto px-4 md:px-6 lg:px-8 xl:px-10 pt-8 pb-16">

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Choose a Trustworthy Debt Settlement Firm | SettleLoans",
@@ -257,6 +258,8 @@ export default function ChooseTrustworthyProviderPage() {
                 On the other hand, a trustworthy provider brings order to the chaos. They take over the communication, ensuring that you are treated with dignity as per the RBI's Fair Practice Code. They analyze your financial situation with empathy, creating a realistic settlement plan that works for you and is acceptable to the lender. This professional approach not only improves the chances of a successful settlement but also provides you with the mental space to focus on rebuilding your life.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="evolution" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

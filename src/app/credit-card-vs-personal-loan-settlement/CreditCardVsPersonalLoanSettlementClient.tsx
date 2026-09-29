@@ -45,6 +45,7 @@ import {
   Split,
   PieChart
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -436,6 +437,8 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                 Once an asset is 100% provisioned, any recovery achieved through a One-Time Settlement (OTS) is booked directly as clean, immediate non-interest profit. so, bank credit card recovery managers have extensive decentralized mandate powers to authorize deep settlement haircuts without requiring board-level sign-offs. Personal loans, conversely, undergo standard provisioning of 15% to 25% during the sub-standard phase, and retail credit committees enforce stricter floor recovery thresholds to safeguard disbursed principal capital.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Haircut Depth Comparison */}
             <section id="settlement-haircuts-discount-depth" className="scroll-mt-28 mb-12">

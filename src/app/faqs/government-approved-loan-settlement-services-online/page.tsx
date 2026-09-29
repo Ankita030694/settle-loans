@@ -6,6 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faCheck, faTriangleExclamation, faHandshake, faShieldHalved, faScaleBalanced, faChartLine, faUserGroup, faBuilding, faGavel, faLandmark, faFileLines } from "@fortawesome/free-solid-svg-icons";
 import ReviewSnippets from "@/components/ReviewSnippets";
 import CompanyComparison from "@/components/CompanyComparison";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Government-Approved Loan Settlement Services | SettleLoans",
@@ -192,6 +193,8 @@ export default function GovernmentApprovedFAQ() {
                                 </ul>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="lok-adalat" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

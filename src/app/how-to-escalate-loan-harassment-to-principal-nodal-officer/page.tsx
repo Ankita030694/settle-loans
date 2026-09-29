@@ -39,6 +39,7 @@ import {
   Send,
   Layers
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Escalate Loan Harassment to Nodal Officer | SettleLoans',
@@ -590,6 +591,8 @@ export default function PNOEscalationHarassmentPage() {
                 When you cite these laws in a complaint to the PNO, the bank acts fast. They know that ignoring abuse leads to RBI audits and court fines.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Documenting Agent Coercion & Building the Evidentiary Dossier */}
             <section id="documenting-agent-coercion-evidence" className="space-y-4">

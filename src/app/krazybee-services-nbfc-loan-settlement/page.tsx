@@ -31,6 +31,7 @@ import {
   Smartphone,
   AlertTriangle,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'KrazyBee NBFC Loan Settlement | SettleLoans',
@@ -658,6 +659,8 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Legal Notice Deconstruction & Statutory Protections */}
             <section id="legal-notice-deconstruction-defense" className="scroll-mt-24 mb-12">

@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Education Loan Co-Signer Liability for Parents | SettleLoans",
@@ -291,6 +292,8 @@ export default function ParentsLegalLiabilityPage() {
                   </p>
                 </div>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Legal Liability */}
               <section id="legal-liability" className="scroll-mt-32 mb-16">

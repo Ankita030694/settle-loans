@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "How Long Does Debt Settlement Take? | SettleLoans",
@@ -247,6 +248,8 @@ export default function SettlementTimelinePage() {
                 Lenders are not equal. Some have aggressive automated systems while others rely on manual recovery. Knowing the internal rhythm of your specific lenders allows you to predict when they will hit their "Desperation Point."
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="phase-2-stopping-payments" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">

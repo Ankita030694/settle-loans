@@ -4,6 +4,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faIndustry, faChartLine, faCheckCircle } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Lawyer for MSME Personal Loan Disputes & Relief',
@@ -207,6 +208,8 @@ export default function MSMELoanLawyerPage() {
                                 As your MSME lawyers, we use these sections as a counter-offensive. If you defaulted on your loan because a buyer didn't pay you, we don't just defend your loan-we go after the buyer to recover your money with massive penal interest, which then clears your loan voluntarily.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="payment-recovery" className="scroll-mt-32 mb-20">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">Strategic Payment Recovery System</h3>

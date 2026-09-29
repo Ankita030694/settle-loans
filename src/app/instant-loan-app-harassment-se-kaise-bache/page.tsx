@@ -35,6 +35,7 @@ import {
   AlertOctagon,
   LifeBuoy
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Instant Loan App Harassment Se Kaise Bache | SettleLoans',
@@ -533,6 +534,8 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* SECTION 3: Immediate Emergency Action: Cyber Crime Portal & 1930 Helpline */}
             <section id="emergency-action-cybercrime-portal" className="mb-10 scroll-mt-24">

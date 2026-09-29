@@ -4,6 +4,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faCar, faCalendarAlt, faScaleBalanced, faInfoCircle, faCertificate } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Car Loan Settlement in India',
@@ -219,6 +220,8 @@ export default function CarLoanSettlementPage() {
                                 "A bank would often rather take a guaranteed cash settlement today than wait for an uncertain auction result in the future. The goal of a settlement lawyer is to make the bank realize that the cash-in-hand today is better than the metal-in-the-yard tomorrow."
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="legal-framework" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">

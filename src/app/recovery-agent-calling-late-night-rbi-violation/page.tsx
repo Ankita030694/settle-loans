@@ -42,6 +42,7 @@ import {
   VolumeX,
   Zap
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Late Night Recovery Calls RBI Rules | SettleLoans',
@@ -611,6 +612,8 @@ export default function RecoveryAgentCallingLateNightPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Criminal Intimidation & BNS Statutory Penalties */}
             <section id="criminal-intimidation-bns-penalties" className="space-y-4">

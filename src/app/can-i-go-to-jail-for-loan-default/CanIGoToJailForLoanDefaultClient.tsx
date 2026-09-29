@@ -43,6 +43,7 @@ import {
   ShieldX,
   LifeBuoy
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component
 const FAQItem = ({
@@ -529,6 +530,8 @@ Yours faithfully,
                 In dozens of landmark judgments, the Supreme Court and High Courts have consistently quashed frivolous criminal complaints filed by banks against defaulters, observing that commercial lenders cannot convert a purely civil recovery dispute into a criminal intimidation tool. If you took a loan honestly and paid your initial EMIs, any subsequent inability to pay is 100% civil.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="timeline-of-default" className="scroll-mt-28 mb-14">

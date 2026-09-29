@@ -27,6 +27,7 @@ import {
   BadgePercent,
   Coins
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Bank Sold Loan to ARC Settlement Process | SettleLoans',
@@ -578,6 +579,8 @@ export default function BankSoldLoanToArcSettlementPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The ARC Business Model & Discounted Purchases */}
             <section id="arc-business-model-discounted-purchases" className="space-y-4">

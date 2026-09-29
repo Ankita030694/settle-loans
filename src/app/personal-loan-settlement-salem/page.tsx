@@ -25,6 +25,7 @@ import {
   ChevronDown,
   ArrowRight,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Company in Salem | SettleLoans',
@@ -583,6 +584,8 @@ export default function Page() {
                   The Madras High Court has established definitive precedents regarding debt recovery in Tamil Nadu. The Court consistently ruled that lenders cannot employ muscular recovery tactics or publicly humiliate debtors. Lawful recovery must follow due judicial process, upholding the borrower constitutional right to dignity and privacy under Article 21.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: Hasthampatti District Court Summons & Section 138/25 Defense */}
               <section id="hasthampatti-court-notice-defense" className="scroll-mt-24 mb-12">

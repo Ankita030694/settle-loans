@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement After Failed Settlement | SettleLoans",
@@ -292,6 +293,8 @@ export default function LoanSettlementFailedPage() {
               Lenders quickly move to recovery mode. If your loan was already an NPA (Non-Performing Asset), they might sell the debt to an Asset Reconstruction Company (ARC) at this stage. This is where companies like IARC come into the picture.
             </p>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           <section id="understanding-iarc" className="scroll-mt-32 mb-12">
             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">

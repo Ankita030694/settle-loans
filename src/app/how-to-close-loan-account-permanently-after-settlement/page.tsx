@@ -37,6 +37,7 @@ import {
   RefreshCw,
   Ban
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'How to Permanently Close Settled Loan | SettleLoans',
@@ -536,6 +537,8 @@ export default function PermanentLoanAccountClosurePage() {
                 Check that the account status flag changes from &quot;NPA&quot. to &quot;Settled &amp. Closed&quot;. If the statement shows any balance, report it to the bank Nodal Officer immediately.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Step 2 — Securing the Physical Branch No Dues Certificate (NDC) with Official Bank Seal */}
             <section id="step-2-physical-branch-ndc-seal" className="space-y-4">

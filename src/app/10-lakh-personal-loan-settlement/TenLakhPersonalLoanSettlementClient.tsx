@@ -41,6 +41,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -456,6 +457,8 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* SECTION 3: Section 25 PSSA & Section 138 NI Act Defense */}
             <section id="statutory-notices-section-25-pssa-section-138-ni-act" className="mb-10 scroll-mt-24">

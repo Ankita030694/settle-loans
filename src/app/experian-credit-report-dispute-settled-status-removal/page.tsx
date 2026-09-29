@@ -39,6 +39,7 @@ import {
   RefreshCw,
   Search
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Remove Settled Status from Experian | SettleLoans',
@@ -611,6 +612,8 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The Mechanical Anatomy of Credit Bureau Inaccuracies */}
             <section id="anatomy-of-experian-reporting-errors" className="space-y-4">

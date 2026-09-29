@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Standard Chartered Loan & Credit Card Settlement',
@@ -603,6 +604,8 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Delinquency Timeline & Central Hub Escalation */}
             <section id="delinquency-timeline-central-hub" className="scroll-mt-24 mb-12">

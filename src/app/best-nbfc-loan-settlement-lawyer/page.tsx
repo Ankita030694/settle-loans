@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Best NBFC Loan Settlement Lawyer in India | SettleLoans",
@@ -292,6 +293,8 @@ export default function NBFCLoanSettlementLawyerPage() {
                                 </div>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="role-of-settlement-lawyer" className="scroll-mt-32 mb-20 p-12 bg-gray-900 rounded-[48px] text-white shadow-2xl">
                             <h3 className="text-3xl md:text-4xl font-black mb-8 uppercase tracking-tighter italic text-blue-400">

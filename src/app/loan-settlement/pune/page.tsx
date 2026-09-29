@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Pune | SettleLoans",
@@ -257,6 +258,8 @@ export default function PuneLoanSettlementPage() {
               <p>The beauty of a Lok Adalat settlement is its finality. The award passed by the Lok Adalat has the same status as a decree of a civil court. It is binding on both the bank and the borrower, and there is no provision for an appeal. This means once you reach an agreement on a waiver and a payment plan in Lok Adalat, the bank cannot suddenly demand more money later. It provides a clean, legal break from the past.</p>
               <p>We guide our Pune clients through the Lok Adalat process, ensuring they are prepared for the negotiations. Banks are often more willing to offer deep waivers in this forum because it saves them the time and expense of prolonged litigation. Whether your case is pending in the Pune District Court or is still at the pre-litigation stage, we help you use the Lok Adalat system to secure a settlement that fits your current financial capacity.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="maharashtra-money-lending-act" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6 uppercase tracking-tighter text-black">The Maharashtra Money Lending (Regulation) Act, 2014</h3>

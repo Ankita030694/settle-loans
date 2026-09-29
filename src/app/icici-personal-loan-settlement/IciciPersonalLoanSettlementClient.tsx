@@ -26,6 +26,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 const FAQItem = ({
   question,
@@ -426,6 +427,8 @@ export default function IciciPersonalLoanSettlementClient() {
                 When an overdue loan breaches 90 days, ICICI Bank allocates capital provisioning against its balance sheet. When a loan reaches Doubtful status (over 180 days past due), the bank absorbs 100% provisioning. An upfront cash settlement allows the bank to write back these provisions into profits. This creates a strong financial incentive for the bank to approve large debt haircuts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="icici-ots-policy-haircut-formula" className="scroll-mt-24 mb-10">

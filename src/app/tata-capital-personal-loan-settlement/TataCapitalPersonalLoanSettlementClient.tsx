@@ -31,6 +31,7 @@ import {
   CheckCircle2,
   AlertTriangle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -468,6 +469,8 @@ export default function TataCapitalPersonalLoanSettlementClient() {
                 Once an unsecured personal loan is classified as a Doubtful Asset or subjected to technical write-off, Tata Capital has already absorbed the loss on its quarterly profit-and-loss statement. Under such circumstances, an upfront lump-sum settlement delivers an immediate net cash write-back to the NBFC&apos;s operating profit, providing senior risk committees with the financial justification to sanction significant principal waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Bounce Charges & Penal Levies */}
             <section id="stopping-tata-capital-bounce-charges-nach" className="scroll-mt-24 mb-12">

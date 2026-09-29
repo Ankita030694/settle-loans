@@ -34,6 +34,7 @@ import {
   BadgePercent,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'How to Reply to Bank Arbitration Notice | SettleLoans',
@@ -596,6 +597,8 @@ export default function BankArbitrationNoticeReplyPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Danger of Default: Ignoring Arbitration Notices */}
             <section id="danger-of-default-ignoring-arbitration" className="space-y-4">

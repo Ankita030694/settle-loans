@@ -28,6 +28,7 @@ import {
   AlertCircle,
   Banknote
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -439,6 +440,8 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 When an account enters Doubtful Asset or write-off status, Bajaj Finance has recognized the accounting loss. A structured cash settlement delivers an immediate write-back to operating profits, enabling senior credit committees to sanction deep concessions.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Bounce Charges & Penal Fees */}
             <section id="stopping-bajaj-bounce-charges-nach" className="scroll-mt-24 mb-12">

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Chennai | SettleLoans",
@@ -225,6 +226,8 @@ export default function ChennaiLoanSettlementPage() {
               <p className="mb-8">When the inventory doesn't move as fast as the high-interest EMIs, the business owner is forced to take "Loan 2" to pay "Loan 1." By 'Loan 4,' the debt is no longer a business liability; it's a existential threat to the family. Our Chennai George Town desk specializes in <strong>Commercial Debt Restructuring</strong>. We help small business owners move away from these predatory cycles by negotiating with the larger banks and NBFCs, allowing for a structured settlement that saves the shop and the reputation in the community.</p>
               <p className="mb-0">We understand the "Merchant Heart" of Chennai. We know that for a T. Nagar businessman, pride is as important as profit. We ensure that your settlement is handled with absolute discretion, ensuring that your suppliers and competitors never find out about your financial restructuring, while giving you the breathing room to pivot your business.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="harassment-legal-shield" className="scroll-mt-32 mb-20 bg-red-50/20 p-10 rounded-3xl border border-red-100">
               <h3 className="text-3xl font-black mb-8 text-red-600 uppercase tracking-tighter">Tamil Nadu Police & Your Shield Against Harassment</h3>

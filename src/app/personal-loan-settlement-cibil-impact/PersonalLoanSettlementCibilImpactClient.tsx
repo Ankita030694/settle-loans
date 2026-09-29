@@ -32,6 +32,7 @@ import {
   Percent,
   CheckCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component
 const FAQItem = ({
@@ -512,6 +513,8 @@ export default function PersonalLoanSettlementCibilImpactClient() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Comparison Table 2 */}
             <div className="my-8">

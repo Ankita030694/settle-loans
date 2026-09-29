@@ -29,6 +29,7 @@ import {
   Clock,
   Landmark
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Order 37 CPC Summary Suit for Loan Recovery | SettleLoans',
@@ -577,6 +578,8 @@ export default function Order37SummarySuitDefensePage() {
                 </ul>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The Hazard of Inaction */}
             <section id="consequences-of-default-ex-parte-decrees-execution" className="space-y-4">

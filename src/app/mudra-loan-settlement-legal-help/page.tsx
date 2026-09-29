@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Mudra Loan Settlement Legal Help | SettleLoans",
@@ -278,6 +279,8 @@ export default function MudraLoanSettlementPage() {
                                 Banks in India are under immense pressure from the RBI to keep their NPA levels low. This pressure often trickles down to the Mudra borrower in the form of aggressive recovery tactics. Understanding that your loan is now an NPA is the first step toward resolution. Once an account is an NPA, the bank's flexibility to offer a 'Settlement' increases, as they would rather recover a portion of the fund than have the entire amount sit as a 'Loss Asset' on their balance sheet.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="legal-consequences" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

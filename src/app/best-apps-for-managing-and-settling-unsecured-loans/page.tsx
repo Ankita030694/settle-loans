@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Best Apps for Settling Unsecured Loans | SettleLoans",
@@ -327,6 +328,8 @@ export default function BestAppsLoanSettlementPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="settlement-apps" className="scroll-mt-32 mb-20">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">2. Dedicated Settlement Platforms</h3>

@@ -2,6 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Bank Loan Settlement Rules in India | Guide',
@@ -317,6 +318,8 @@ export default function BankLoanSettlementRulesPage() {
                                 <strong>Expert Insight:</strong> The RBI's Integrated Ombudsman scheme provides a recourse if a bank fails to follow its own board-approved policy or engages in coercive recovery practices during the settlement negotiation phase. If a bank refuses to even entertain a valid settlement proposal without a valid reason, it could be seen as a violation of fair practice codes.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="legal-framework" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Legal Pressure Points: SARFAESI & DRT</h3>

@@ -2,6 +2,7 @@ import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Professional Loan Foreclosure Charges Guide | SettleLoans",
@@ -220,6 +221,8 @@ export default function ProfessionalLoanForeclosurePage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* New Section: Impact on Practice */}
             <section id="impact-on-practice" className="scroll-mt-32 mb-16">

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Odisha | SettleLoans",
@@ -293,6 +294,8 @@ export default function OdishaLoanSettlementPage() {
               <p>The Act also mandates that lenders must maintain clear accounts and provide receipts for every payment made by the borrower. In many cases in rural and semi urban Odisha, lenders fail to provide these basic documents. highlighting these procedural lapses gives us significant leverage during negotiations. We demand a full reconciliation of accounts based on the legal interest rates, often finding that the borrower has already paid back more than the principal amount plus legal interest.</p>
               <p>Furthermore, the Act protects borrowers from intimidation and harassment. It outlines penalties for lenders who molest or abet the molestation of a debtor for the recovery of a debt. By citing these sections in our legal notices, we send a strong message to aggressive lenders that any harassment will be met with strict legal action, including filing police complaints under the relevant sections of the Act.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="debt-relief-act" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">The Odisha Debt Relief Act, 1980 & Scheduled Areas Regulation</h3>

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Auction Notice Challenge: DRT Stay Guide | SettleLoans",
@@ -300,6 +301,8 @@ export default function AuctionNoticeChallengePage() {
                 Understanding these rules is crucial because banks often take shortcuts. They might try to combine these notices or shorten the timelines to expedite the sale. Any such deviation is a goldmine for your legal challenge in the Debt Recovery Tribunal (DRT).
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Content Expansion for 5000 words begins here */}
             {/* I will keep adding large sections with rich details */}

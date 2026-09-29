@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGavel, faScaleBalanced, faShieldHalved, faHandshake, faBuildingCircleCheck, faCircleExclamation, faFileSignature, faScaleUnbalanced, faUserTie, faStar } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Lawyer for MSME Business Loan Disputes | SettleLoans",
@@ -308,6 +309,8 @@ export default function MSMELoanDisputePage() {
                                 </ul>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="sarfaesi-challenges" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

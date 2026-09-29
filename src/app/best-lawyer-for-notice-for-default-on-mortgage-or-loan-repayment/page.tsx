@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFileShield, faScaleBalanced, faShieldHalved, faEnvelopeOpenText, faLandmark, faHandHoldingDollar, faCircleExclamation, faGavel, faBriefcase, faStar, faHandshakeSimple } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Lawyer for Mortgage Default Notice Defense | SettleLoans",
@@ -307,6 +308,8 @@ export default function MortgageDefaultNoticePage() {
                                 A skilled lawyer will analyze the 13(2) notice with a fine-tooth comb. If the bank has included penal interest in the principal demand, or if they have not properly described the boundaries of the property, the notice can be set aside by the DRT.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="responding-to-recall" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">How to Respond to a Bank Recall Notice</h3>

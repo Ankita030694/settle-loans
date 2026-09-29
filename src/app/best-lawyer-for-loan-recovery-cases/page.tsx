@@ -4,6 +4,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faScaleBalanced, faInfoCircle, faCertificate, faUniversity, faHammer, faBriefcaseMedical, faLandmark, faScaleUnbalanced, faPassport, faBuildingColumns } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Loan Recovery Cases in India',
@@ -211,6 +212,8 @@ export default function LoanRecoveryCasesPage() {
                                 </li>
                             </ul>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="cheque-bounce" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">

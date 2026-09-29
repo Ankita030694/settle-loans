@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "SARFAESI Auction Reserve Price Rules | SettleLoans",
@@ -296,6 +297,8 @@ export default function Page() {
                   Unfortunately, many borrowers find that the bank sets the reserve price significantly lower than the actual market value—and sometimes even below the government circle rate. This gross undervaluation can severely harm the borrower, leaving them with massive residual debt even after losing their home.
                 </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Undervaluation Section */}
             <section id="undervaluation-sarfaesi" className="scroll-mt-32 mb-16">

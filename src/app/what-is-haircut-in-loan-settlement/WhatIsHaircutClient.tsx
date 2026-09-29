@@ -45,6 +45,7 @@ import {
   Split,
   PieChart
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -411,6 +412,8 @@ export default function WhatIsHaircutClient() {
                 Carrying heavily provisioned, delinquent loans severely damages a bank&apos;s financial health. It elevates the Gross NPA ratio, depresses return on equity, and locks up statutory capital that could otherwise be deployed into profitable lending. When an account has reached Doubtful or Loss status with 100% provisioning, the bank has already absorbed the loss on paper. Consequently, when a borrower offers an immediate cash settlement, every single rupee recovered flows directly into the bank&apos;s profit and loss statement as **instant non-interest recovery income**. This accounting reality creates powerful commercial motivation for banks to authorize substantial haircuts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Unsecured vs Secured Haircuts */}
             <section id="unsecured-vs-secured-haircuts" className="scroll-mt-28 mb-12">

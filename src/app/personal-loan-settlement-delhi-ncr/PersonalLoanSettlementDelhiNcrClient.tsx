@@ -34,6 +34,7 @@ import {
   MapPin,
   Calculator
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component
 const FAQItem = ({
@@ -415,6 +416,8 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
                 Furthermore, lenders frequently orchestrate unilateral arbitration proceedings by appointing sole arbitrators seated in Delhi without obtaining the borrower&apos;s explicit post-dispute consent. In landmark judgments including <em>Perkins Eastman Architects DPC v. HSCC India Ltd (2020)</em> and <em>TRF Ltd. v. Energo Engineering Projects Ltd.</em>, the Supreme Court unequivocally held that any party ineligible to act as an arbitrator cannot unilaterally appoint one. Specialized advocates leverage these binding precedents before the High Court of Delhi and District Commercial Courts to stay illegal arbitral awards and force lenders to negotiate a transparent, bilateral settlement.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Strategic Role of an NCR Advocate */}
             <section id="role-of-settlement-lawyer" className="scroll-mt-24 mb-12">

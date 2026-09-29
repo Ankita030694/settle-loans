@@ -4,6 +4,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faIndustry, faChartLine, faCheckCircle, faShieldAlt, faFileAlt, faHandshake, faUserTie } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Lawyer for MSME Loan Recovery Defense | Relief',
@@ -293,6 +294,8 @@ export default function MSMELoanRecoveryDefencePage() {
                                 A critical legal debate is which of these acts takes precedence. Recently, the Supreme Court of India clarified that the SARFAESI Act, specifically Section 26E (Priority to secured creditors), prevails over the MSMED Act when it comes to the recovery of dues by a bank. However, this does not mean the MSMED Act is useless. It remains a vital tool for business survival and for challenging the jurisdiction of recovery actions if the bank has failed to follow the MSME-specific restructuring guidelines.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="sarfaesi-defense" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">

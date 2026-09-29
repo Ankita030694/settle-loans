@@ -38,6 +38,7 @@ import {
   StopCircle,
   Video
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Recovery Agents Blocking House Gate | SettleLoans',
@@ -527,6 +528,8 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
                 Penal statutes operate separately from loan contracts. Even with unpaid debts, agents cannot break criminal law. When an agent blocks your path or takes property, the police must act. Under the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS), police must register complaints and start formal action.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Constitutional Right to Locomotion & Landmark Supreme Court Precedents */}
             <section id="constitutional-locomotion-puttaswamy" className="space-y-4">

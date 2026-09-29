@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Will Loan Settlement Block Your Credit Cards?",
@@ -314,6 +315,8 @@ export default function CreditCardBlockAfterSettlement() {
                   </ul>
                 </div>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Numbered Steps */}
               <section id="algorithmic-risk" className="scroll-mt-32 mb-16">

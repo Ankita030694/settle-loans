@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "../../components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Overdue Loan Legal Protection in India | SettleLoans",
@@ -316,6 +317,8 @@ export default function OverdueLoanProtectionPage() {
                                 If a recovery agent calls you at midnight, visits your office without permission, or uses abusive language, they are in violation of RBI norms. At SettleLoans, we specialize in documenting these violations and filing them with the Banking Ombudsman, often resulting in heavy penalties for the bank and immediate relief for you.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="limitation-act-protection" className="scroll-mt-32 mb-20">
                             <h3 className="text-3xl md:text-5xl font-black mb-8 leading-tight">The Limitation Act Protection: <br /><span className="text-black">The 3-Year Time Bar</span></h3>

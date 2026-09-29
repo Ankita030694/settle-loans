@@ -29,6 +29,7 @@ import {
   Clock,
   RefreshCw
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'RBI Debt Resolution vs Loan Settlement | SettleLoans',
@@ -576,6 +577,8 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Anatomy of Restructuring */}
             <section id="anatomy-of-restructuring-tenure-moratorium" className="space-y-4">

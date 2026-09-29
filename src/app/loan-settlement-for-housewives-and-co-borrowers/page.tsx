@@ -38,6 +38,7 @@ import {
   Users,
   Home
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Settlement for Housewives & Co-Borrowers | SettleLoans',
@@ -529,6 +530,8 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
                 If a housewife has no salary, business, or land, the bank cannot seize anything. Lenders cannot take assets that do not exist. They also cannot touch ancestral family property or assets owned by relatives.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Protections: Stridhan Rights & Section 60(1)(a) CPC Exemptions */}
             <section id="stridhan-section-60-cpc-protections" className="space-y-3">

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Can I Get a Loan After Settlement? | SettleLoans",
@@ -260,6 +261,8 @@ export default function LoanAfterSettlementPage() {
               </div>
             </div>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           {/* Section 3: The Cooling-Off Period */}
           <section id="cooling-off" className="scroll-mt-32 mb-12">

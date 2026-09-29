@@ -2,6 +2,7 @@ import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "RBI IRACP Norms: Loan Classification, SMA & NPA Meaning",
@@ -123,6 +124,8 @@ export default function RbiIracpNormsPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Blue Important Box */}
             <section id="sma-classification" className="scroll-mt-32 mb-16">

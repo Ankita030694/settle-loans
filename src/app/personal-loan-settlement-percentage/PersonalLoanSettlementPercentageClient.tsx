@@ -38,6 +38,7 @@ import {
   BadgeAlert,
   Coins
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -535,6 +536,8 @@ export default function PersonalLoanSettlementPercentageClient() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Key Determinants Dictating Percentage */}
             <section id="key-determinants" className="scroll-mt-28 mb-14">

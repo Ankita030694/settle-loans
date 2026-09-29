@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'How to Reply to a SARFAESI 13(2) Notice | Stall Bank Auction',
@@ -261,6 +262,8 @@ export default function SarfaesiReplyPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* How to Reply (Numbered Steps) */}
             <section id="how-to-reply" className="scroll-mt-32 mb-16">

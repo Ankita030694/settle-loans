@@ -45,6 +45,7 @@ import {
   Split,
   PieChart
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -618,6 +619,8 @@ export default function LoanSettlementVsDebtConsolidationClient() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: CIBIL Score & Underwriting Impact */}
             <section id="cibil-score-underwriting-impact" className="scroll-mt-28 mb-12">

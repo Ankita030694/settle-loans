@@ -34,6 +34,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Union Bank Personal Loan Settlement | SettleLoans',
@@ -541,6 +542,8 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 Between Day 90 and Day 120, your loan moves to the <strong>Stressed Asset Management Branch (SAMB)</strong>. Base branch staff cannot grant cuts. But SAMB officers hold power to review files. They can approve 40% to 60% principal waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Section 171 Banker Lien & Account Shield */}
             <section id="section-171-bankers-lien-salary-protection" className="scroll-mt-24 mb-10">

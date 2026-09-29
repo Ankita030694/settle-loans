@@ -38,6 +38,7 @@ import {
   FileSearch,
   ReceiptText
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Unfair Bank Loan Agreement Terms | SettleLoans',
@@ -600,6 +601,8 @@ export default function UnfairContractTermsLoanAgreementsPage() {
                 This was reaffirmed in <em>Pioneer Urban Land and Infrastructure Ltd. v. Govindan Raghavan (2019) 5 SCC 725</em>. The Apex Court held that one-sided terms are unfair trade practices. Borrowers are not bound by bad terms.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Anatomy of Oppressive Banking Clauses */}
             <section id="anatomy-of-abusive-loan-clauses" className="space-y-4">

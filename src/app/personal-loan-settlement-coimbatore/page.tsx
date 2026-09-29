@@ -30,6 +30,7 @@ import {
   Briefcase,
   Factory,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Coimbatore | SettleLoans',
@@ -621,6 +622,8 @@ export default function CoimbatoreLoanSettlementPage() {
                 Under Section 60(1)(c) CPC, livelihood tools cannot be seized in court cases. This protects workshop tools and textile looms across Western Tamil Nadu.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Anti-Harassment & Workplace Defense */}
             <section id="anti-harassment-tamil-nadu-laws" className="scroll-mt-24 mb-12">

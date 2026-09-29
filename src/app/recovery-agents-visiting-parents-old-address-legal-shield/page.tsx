@@ -39,6 +39,7 @@ import {
   HeartHandshake,
   Users
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Recovery Agents Visiting Parents Address | SettleLoans',
@@ -512,6 +513,8 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
                 In standard unsecured loans, parents are complete strangers to the contract. Demands for parental gold or savings are illegal. Even in an Order 37 CPC summary suit, court orders apply only to the borrower&apos;s assets. Parental pensions and properties remain fully protected under Section 60 CPC.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Criminal Trespass: Sec 329 BNS & Sec 441 IPC */}
             <section id="criminal-trespass-section-329-bns" className="space-y-4">

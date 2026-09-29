@@ -28,6 +28,7 @@ import {
   Clock,
   FileText
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: '3-Year Limitation Act Loan Recovery | SettleLoans',
@@ -572,6 +573,8 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
                 This time limit applies across all debt recovery forums. Under Section 24 of the RDB Act, DRTs cannot hear cases filed after 3 years. Under Section 36 of the SARFAESI Act, banks cannot take asset actions if the debt is time-barred. Creditors lose their legal power to sue after 36 months.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The Traps - Section 18 and Section 19 */}
             <section id="debt-revival-traps-section-18-and-section-19" className="space-y-4">

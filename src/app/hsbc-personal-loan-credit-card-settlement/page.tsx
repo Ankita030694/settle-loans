@@ -33,6 +33,7 @@ import {
   Mail,
   FileText,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'HSBC Loan Settlement Process in India | SettleLoans',
@@ -663,6 +664,8 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 When an HSBC personal loan or Premier credit card reaches the Doubtful Asset stage (overdue past 180 days) or undergoes technical write-off, the bank has already absorbed the loss on its quarterly profit and loss statement. At this advanced delinquency stage, an upfront lump-sum compromise settlement represents an immediate, risk-free net recovery that directly boosts HSBC&apos;s operating cash flow and improves its Net NPA ratios, providing senior credit committees with strong commercial justification to grant substantial debt haircuts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Workplace Privacy Rights & Anti-Harassment */}
             <section id="corporate-workplace-privacy-defense" className="scroll-mt-24 mb-12">

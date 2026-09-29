@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement During Medical Emergency | SettleLoans",
@@ -293,6 +294,8 @@ export default function LoanSettlementMedicalEmergencyPage() {
                 </ul>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="legal-rights" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black mb-8">Your Legal Rights as a Distressed Borrower</h3>

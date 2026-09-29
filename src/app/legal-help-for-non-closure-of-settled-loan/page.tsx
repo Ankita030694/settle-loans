@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Legal Help for Non-Closure of Settled Loan | SettleLoans",
@@ -280,6 +281,8 @@ export default function NonClosureSettledLoanPage() {
                                 For many of our clients, this realization comes at the worst possible time—when they are applying for a home loan, a business loan, or even a credit card to restart their lives. A 'Settled' status is already a hurdle, but an 'Active Default' is an absolute wall. The legal help we provide is focused on tearing down that wall by forcing the bank to acknowledge the reality of your repayment.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="noc-legal-requirement" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

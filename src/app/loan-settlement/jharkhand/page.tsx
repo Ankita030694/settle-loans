@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement in Jharkhand | 3500+ Word Legal Guide",
@@ -312,6 +313,8 @@ export default function JharkhandLoanSettlementPage() {
               <p>It is also important to note that the CNT and SPT Acts are not just "shields" but also "weapons" of justice. If a bank has illegally accepted protected land as collateral, the entire loan agreement can sometimes be challenged. We perform a deep-dive audit of every client's loan documents to identify such procedural and substantive flaws. In several cases in the Santhal Parganas region, we have successfully used these arguments to secure waivers of over 80% on the total outstanding amount. Knowledge is power, and in Jharkhand, knowledge of tenurial laws is the key to financial survival.</p>
               <p>Furthermore, the 'Land Reforms' department in Ranchi frequently issues circulars that clarify the status of mortgaged lands. We stay updated with these administrative changes to ensure our clients get the most current legal advice. Whether you are in the heart of the Chota Nagpur plateau or the plains of Santhal Pargana, your property rights are a vital component of your debt resolution strategy. We ensure that these rights are never trampled upon by aggressive financial institutions.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="jharkhand-private-money-lending" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">The Jharkhand Private Money Lending (Regulation) Act, 2016</h3>

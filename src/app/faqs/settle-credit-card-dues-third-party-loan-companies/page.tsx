@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "FAQ: Settle Credit Cards via Debt Companies | SettleLoans",
@@ -406,6 +407,8 @@ export default function SettleCreditCardDuesPage() {
                                 Unlike home loans or car loans, credit card debt is entirely unsecured. There is no collateral that the bank can seize if you fail to pay. However, banks compensate for this risk by charging exorbitant interest rates and late payment fees. The "Minimum Amount Due" (MAD) trap is the most common pitfall. Banks encourage borrowers to pay just 5% of their total outstanding balance. While this prevents the account from being marked as a default immediately, it allows the remaining 95% to accrue interest at nearly 4% per month, compounded.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="what-are-third-party" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

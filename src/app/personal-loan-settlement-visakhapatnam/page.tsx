@@ -34,6 +34,7 @@ import {
   MapPin,
   Sparkles
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Vizag | SettleLoans',
@@ -588,6 +589,8 @@ export default function Page() {
                 The Andhra Pradesh High Court has set clear rules for recovery. Lenders cannot use force or recovery goons to collect debts. All recovery must follow legal due process. Banks remain liable for any illegal acts by their recovery agents.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Notice Defense in Visakhapatnam Courts */}
             <section id="vizag-court-notice-defense" className="scroll-mt-24 mb-12">

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Digital Lending Loan Settlement Requests | SettleLoans",
@@ -286,6 +287,8 @@ export default function DigitalLendingSettlementPage() {
               <p className="text-lg leading-relaxed mb-6">These companies have filled a massive gap in the Indian market, providing credit to those who might be overlooked by traditional banks due to a lack of formal income proof or a thin credit file. They use alternative data points, such as your digital footprint and transaction history, to assess creditworthiness. This has led to an explosion of \"instant loans\" and \"Buy Now Pay Later\" (BNPL) schemes across the country.</p>
               <p className="text-lg leading-relaxed">While the user interface might be a sleek mobile app, the underlying logic is governed by RBI regulations. These platforms must be transparent about their lending partners and provide a Key Fact Statement (KFS) to every borrower. Understanding that your \"app loan\" is actually a formal agreement with a regulated NBFC is the first step toward handling a settlement request professionally.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="settlement-processing" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Fintech Lenders Process Loan Settlement Requests</h3>

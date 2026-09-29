@@ -31,6 +31,7 @@ import {
   CheckCheck,
   HelpCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component
 const FAQItem = ({
@@ -541,6 +542,8 @@ Yours faithfully,
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="penal-code-violations" className="scroll-mt-28 mb-14">

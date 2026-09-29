@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Legal Risks of Non-Payment in Debt Settlement | SettleLoans",
@@ -246,6 +247,8 @@ export default function LegalImplicationsPage() {
                 It is also worth noting that courts are now moving towards "paperless" 138 trials to speed up the process. This makes it even more important for you to respond to every summons and attend hearings via video conferencing if permitted. Ignoring the court is what leads to warrants, not the debt itself.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="section-25-pss-act" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

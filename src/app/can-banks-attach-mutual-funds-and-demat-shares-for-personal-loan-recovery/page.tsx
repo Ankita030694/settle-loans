@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Can Banks Attach Mutual Funds & Demat Shares for Loan?",
@@ -202,6 +203,8 @@ export default function AssetAttachmentPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Blue Important Box Section */}
             <section id="can-banks-seize" className="scroll-mt-32 mb-16">

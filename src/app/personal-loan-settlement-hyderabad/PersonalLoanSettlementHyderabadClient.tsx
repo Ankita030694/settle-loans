@@ -34,6 +34,7 @@ import {
   MapPin,
   Calculator
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component
 const FAQItem = ({
@@ -408,6 +409,8 @@ export default function PersonalLoanSettlementHyderabadClient() {
                 Furthermore, institutional lenders frequently invoke boiler-plate arbitration clauses in loan agreements, unilaterally appointing sole arbitrators based in other metro centers without mutual agreement. In milestone rulings including <em>Perkins Eastman Architects DPC v. HSCC India Ltd (2020)</em> and <em>TRF Ltd. v. Energo Engineering Projects Ltd.</em>, the Supreme Court ruled that unilateral arbitrator appointments are void ab initio. Experienced Hyderabad advocates challenge these unilateral proceedings before the High Court of Telangana and City Civil Courts, securing stay orders against ex-parte awards and compelling the bank to engage in good-faith bilateral settlement talks.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Role of a Hyderabad Settlement Advocate */}
             <section id="role-of-hyderabad-advocate" className="scroll-mt-24 mb-12">

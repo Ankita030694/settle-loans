@@ -4,6 +4,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faBuilding, faCalendarAlt, faScaleBalanced, faInfoCircle, faCity, faIndustry } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Business Loan Settlement India',
@@ -219,6 +220,8 @@ export default function BusinessLoanSettlementPage() {
                                 "The MSME Act is not a suggestion; it is a mandate. A bank that ignores the restructuring framework for a small business is in direct violation of RBI directives, and we use this to turn the tide in favor of the entrepreneur."
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="drt-vs-civil" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">

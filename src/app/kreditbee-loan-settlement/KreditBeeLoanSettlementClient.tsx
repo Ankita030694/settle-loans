@@ -30,6 +30,7 @@ import {
   Smartphone,
   Scale,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 const tocItems = [
   { id: 'understanding-kreditbee-lending', title: '1. App Ecosystem & Krazybee NBFC Setup' },
@@ -413,6 +414,8 @@ export default function KreditBeeLoanSettlementClient() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Stopping Harassment Bots & NACH Bounces */}
             <section id="stopping-kreditbee-harassment-nach" className="scroll-mt-24 mb-12">

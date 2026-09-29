@@ -6,6 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faCheck, faTriangleExclamation, faHandshake, faShieldHalved, faScaleBalanced, faChartLine, faUserGroup, faQuoteLeft, faCheckCircle, faGlobe } from "@fortawesome/free-solid-svg-icons";
 import ReviewSnippets from "@/components/ReviewSnippets";
 import CompanyComparison from "@/components/CompanyComparison";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "User Reviews: Loan Settlement Platforms | SettleLoans",
@@ -184,6 +185,8 @@ export default function UserReviewsFAQ() {
                                 </div>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <CompanyComparison />
 

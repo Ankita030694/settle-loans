@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Education Loan Default Consequences in India | SettleLoans",
@@ -273,6 +274,8 @@ export default function EducationLoanDefaultPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Key Consequences */}
             <section id="consequences" className="scroll-mt-32 mb-16">

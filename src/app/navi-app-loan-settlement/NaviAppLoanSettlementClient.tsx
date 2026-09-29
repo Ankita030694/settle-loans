@@ -45,6 +45,7 @@ import {
   Smartphone,
   Monitor
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 const tocItems = [
   { id: 'navi-lending-ecosystem-digital-underwriting', title: '1. Navi Lending Architecture & Default Cycles' },
@@ -369,6 +370,8 @@ export default function NaviAppLoanSettlementClient() {
                 To break this punitive cycle, distressed borrowers should not borrow from other high-cost predatory apps to service bounce charges. Instead, formal legal representation should be engaged to issue a formal representation to Navi Finserv, revoke the electronic debit mandate through official banking channels, and transition the conversation into structured One-Time Settlement negotiations.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Section 25 PSSA & Digital Summons Defense */}
             <section id="statutory-notices-section-25-pssa-digital-defense" className="scroll-mt-24 md:scroll-mt-28 space-y-4">

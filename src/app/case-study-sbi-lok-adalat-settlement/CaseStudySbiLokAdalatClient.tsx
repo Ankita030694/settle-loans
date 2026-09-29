@@ -22,6 +22,7 @@ import {
   HelpCircle,
   Gavel
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -370,6 +371,8 @@ export default function CaseStudySbiLokAdalatClient() {
                 First, Lok Adalat is an Alternative Dispute Resolution (ADR) statutory body designed exclusively for amicable, consensual settlement. It is not a trial court, criminal tribunal, or enforcement agency. Second, Lok Adalat conciliators and presiding judges hold zero legal authority to issue arrest warrants, impose criminal penalties, or order unilateral asset attachments. Third, appearance at Lok Adalat is entirely voluntary; no order can ever be passed without the explicit, written consent of both the borrower and the bank. Fourth, and most crucially, Lok Adalat represents the most borrower-friendly statutory forum in India, where PSU banks operate under mandate to grant deep financial haircuts to clear non-performing balance sheet assets.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: SBI SAMB & NPA Accounting */}
             <section id="sbi-accounting-sarb-provisioning" className="mb-10 scroll-mt-24">

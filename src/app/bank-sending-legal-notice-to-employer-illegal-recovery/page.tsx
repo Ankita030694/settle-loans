@@ -39,6 +39,7 @@ import {
   UserX,
   ArrowUpRight
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Bank Contacting Employer HR About Loan? Legal Defenses',
@@ -609,6 +610,8 @@ export default function BankSendingLegalNoticeToEmployerPage() {
                 When a recovery agent contacts your employer, they violate these codified RBI directives and constitutional mandates. Because commercial banks remain vicariously liable for the actions of their recovery agents, legal advocates can leverage these regulatory breaches to hold senior bank management directly accountable.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Criminal Defamation, IPC/BNS Provisions & Tort Liabilities */}
             <section id="criminal-defamation-tort-protections" className="space-y-4">

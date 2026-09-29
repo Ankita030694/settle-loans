@@ -45,6 +45,7 @@ import {
   Split,
   PieChart
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -390,6 +391,8 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
                 Crucially, writing off the loan allows the bank to claim substantial corporate income tax deductions under Section 36(1)(vii) of the Income Tax Act, 1961, which permits scheduled commercial banks to deduct bad debts written off as irrecoverable against taxable profits. However, the RBI prudential guidelines explicitly state that a technical write-off is executed without prejudice to the bank&apos;s legal right of recovery. The borrower remains fully indebted, and any subsequent recovery achieved from the debtor is credited directly to the bank&apos;s profit and loss statement as non-interest recovery income.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Loan Waive-Off Defined */}
             <section id="loan-waive-off-defined" className="scroll-mt-28 mb-12">

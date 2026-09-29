@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "5 Crore Loan Settlement in India | SettleLoans",
@@ -200,6 +201,8 @@ export default function FiveCroreLoanSettlementPage() {
                                 If the audit comes back "clean" (i.e., NO FRAUD detected), your leverage increases ten-fold. You have now proven that you are an honest borrower who met with an unfortunate business outcome. This documentation allows the bank's committee to approve a "haircut" (reduction in principal) without fear of vigilance inquiries later.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="msme-framework" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">MSME Revival & Rehabilitation Framework</h3>

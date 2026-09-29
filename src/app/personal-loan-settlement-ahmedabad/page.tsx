@@ -37,6 +37,7 @@ import {
   TrendingDown,
   MapPin
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Lawyer in Ahmedabad | SettleLoans',
@@ -569,6 +570,8 @@ export default function PersonalLoanSettlementAhmedabadPage() {
                 Furthermore, the Supreme Court of India in landmark precedents—including <em>ICICI Bank Ltd. v. Prakash Kaur</em> and <em>Arnesh Kumar v. State of Bihar</em>—has unequivocally declared that banks cannot employ musclemen or extrajudicial recovery agents to threaten debtors, affirming that recovery must adhere strictly to established rule of law.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Gujarat Court Jurisdictions: Mirzapur, Bhadra & GSLSA */}
             <section id="gujarat-court-jurisdictions" className="space-y-4">

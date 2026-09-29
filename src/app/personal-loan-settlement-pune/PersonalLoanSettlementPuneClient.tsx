@@ -42,6 +42,7 @@ import {
   AlertCircle,
   MapPin
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -460,6 +461,8 @@ export default function PersonalLoanSettlementPuneClient() {
                 During the Special Mention Account stages (SMA-0 to SMA-2), lending institutions refuse compromise proposals, demanding full repayment of overdue EMIs along with accumulated late fees. However, once the account crosses the <strong>90-day delinquency threshold</strong>, it is formally categorized as a Non-Performing Asset (NPA). The bank must quarantine 25% of the outstanding loan value from its operating profits as a statutory provision. Once the account crosses 365 days, the bank is forced to make a 100% provision, recognizing the loan as a total balance-sheet loss. At this stage, any cash recovery achieved through an OTS directly enhances the bank&apos;s profitability as write-back income, creating maximum leverage for professional settlement advocates.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Civil Contract Law vs. Coercive Criminal Threats in Pune Jurisdictions */}
             <section id="civil-law-vs-criminal-intimidation" className="scroll-mt-24">

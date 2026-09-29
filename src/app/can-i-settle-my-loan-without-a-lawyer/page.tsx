@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Can I Settle My Loan Without a Lawyer? | RBI Guidelines 2025",
@@ -263,6 +264,8 @@ export default function SettleWithoutLawyerPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="nodal-officer-strategy" className="scroll-mt-32 mb-12">
                 <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

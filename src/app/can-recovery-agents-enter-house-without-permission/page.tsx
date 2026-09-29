@@ -37,6 +37,7 @@ import {
   DoorClosed,
   EyeOff
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Can Recovery Agents Enter Your House? | SettleLoans',
@@ -530,6 +531,8 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
                 The law is clear. No loan agreement clause can override criminal law. Even if a loan form mentions inspection visits, it gives no right to trespass. Forcing entry into your home is an actionable crime.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Constitutional Right to Privacy & Landmark Supreme Court Precedents */}
             <section id="constitutional-privacy-puttaswamy" className="space-y-4">

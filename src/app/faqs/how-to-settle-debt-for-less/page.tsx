@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "How to Settle Debt for Less: Waiver Guide | SettleLoans",
@@ -265,6 +266,8 @@ export default function SettleDebtForLessPage() {
               <p>You also need to assess your 'Settlement Capital.' How much lump-sum money can you realistically aggregate? In the Indian context, a lump-sum offer is 10 times more powerful than an offer to pay in installments. Whether it is from a PF withdrawal, selling an unused asset, or borrowing from family, having a clear 'settlement fund' is your primary leverage. If you offer 3 lakhs today for a 6 lakh debt, the bank manager sees a real, tangible recovery. If you offer 10,000 a month for 30 months, they just see a risky repayment plan that could fail again.</p>
               <p>Lastly, document your 'Hardship Profile.' Why did you fail to pay? A vague excuse won't work. You need a verifiable crisis. Did your company shut down? Do you have hospital bills for a parent? Did your business partner commit a fraud? These are the facts that move the needle in a bank's zonal committee meetings. At SettleLoans, we help you package these facts into a professional 'Hardship Brief' that commands respect.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="timing-is-everything" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">The Art of Timing: When to Strike for the Lowest Deal</h3>

@@ -41,6 +41,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -451,6 +452,8 @@ export default function HdfcPersonalLoanSettlementClient() {
                 Once an account breaches the mandatory 90-day overdue threshold, HDFC Bank is legally required to classify the loan as an NPA and allocate capital provisioning against its balance sheet. In the Substandard and Doubtful-1 stages, the bank must set aside large provisioning reserves. This requirement creates a strong incentive for credit officers to accept upfront cash settlements. A settlement immediately releases locked capital back to operating profitability.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: HDFC OTS Policy & Haircut Formula */}
             <section id="hdfc-ots-policy-haircut-formula" className="scroll-mt-24 mb-12">

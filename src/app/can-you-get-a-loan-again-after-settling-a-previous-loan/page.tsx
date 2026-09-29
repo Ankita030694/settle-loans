@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Can You Get a Loan After Settlement? | SettleLoans",
@@ -287,6 +288,8 @@ export default function LoanAgainAfterSettlementPage() {
                                 It is also important to note that CIBIL keeps a history of your 'Days Past Due' (DPD). The months leading up to the settlement will show '90+', '120+', or '180+' DPD. This tells future lenders that you struggled for a long time before finally settling. This is why rebuilding must focus on adding as many '000' (Zero DPD) months to your new products as possible.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="timeline" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">The Recovery Timeline: When Can You Apply?</h3>

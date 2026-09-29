@@ -40,6 +40,7 @@ import {
   HeartHandshake,
   Sparkles
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Section 60 CPC Attachment Exemptions Guide | SettleLoans',
@@ -605,6 +606,8 @@ export default function Section60CpcExemptionsPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Salary Attachment Formula & 24-Month Cap */}
             <section id="salary-attachment-formula-limits" className="space-y-4">

@@ -2,6 +2,7 @@ import React from 'react';
 import { Metadata } from 'next';
 import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Telangana | 40-70% Waiver",
@@ -239,6 +240,8 @@ const Page = () => {
                         <p>The Act also contains stringent provisions against the harassment of debtors. It explicitly prohibits any form of intimidation, physical force, or public humiliation by lenders or their agents. Violations can lead to rigorous imprisonment and heavy fines. We empower our clients by informing them of these rights. If you are being bullied by a lender in Warangal or Karimnagar, we guide you on how to file a formal complaint under this Act. The mere involvement of legal counsel who understands these specific state laws often causes aggressive lenders to back down and become much more reasonable in their settlement demands.</p>
                         <p>Furthermore, the Act prohibits the use of 'blank cheques' or 'signed blank papers' as predatory security. This is a common tactic used to scare borrowers with the threat of criminal cases. We help you take preventive legal actions, such as filing 'Stop Payment' instructions and documenting the circumstances under which these papers were signed. Our goal is to ensure that you are never held hostage by illegal lending practices. The Telangana Money Lenders Act is a shield, and we ensure it is used effectively to protect your family and your future.</p>
                     </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                     <section id="tslsa-lok-adalat-hyderabad" className="scroll-mt-32 mb-16">
                         <h3 className="text-3xl font-black mb-6">TSLSA and Lok Adalats: Efficient Dispute Resolution</h3>

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Find Certified Financial Planners for Debt | SettleLoans",
@@ -266,6 +267,8 @@ export default function CFPDebtPlanningPage() {
                 "A true financial planner seeks not to hide the debt, but to dismantle the trap that created it."
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="technical-audit" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The 50 Point Strategic Technical Audit</h3>

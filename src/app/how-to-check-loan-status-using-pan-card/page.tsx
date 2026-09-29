@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "How to Check Loan Status Using PAN Card | Fraud Check",
@@ -277,6 +278,8 @@ export default function CheckLoanStatusPANPage() {
                 Understanding this ecosystem is crucial. Fraudsters don't actually hack the credit bureaus; instead, they exploit vulnerabilities in the digital lending process. They convince an NBFC to issue a loan against your PAN, and the NBFC dutifully reports it to the bureau, unknowingly creating a legitimate-looking but fraudulent record on your profile.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="common-fraud-tricks" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "OTS Full Form in Banking: Guide | SettleLoans",
@@ -265,6 +266,8 @@ export default function OTSFullFormPage() {
               <p>Either the borrower can propose an OTS, or the bank can offer a pre-approved scheme. The bank evaluates the 'realizable value' of any collateral involved. For unsecured loans like personal loans or credit cards, the bank's leverage is lower, leading to higher waiver percentages. The bank's credit committee then reviews the borrower's hardship claims (such as job loss or medical emergency) to decide the final settlement figure. Once agreed, a formal 'Settlement Letter' or 'Sanction Letter' is issued, which is the most critical document in this entire journey.</p>
               <p>Once the borrower receives this letter, they must make the payment within the stipulated timeframe. Most banks require a significant portion to be paid upfront, with the remainder following within 30 to 60 days. Upon the final payment, the account is closed, and the 'No Dues Certificate' is issued, marking the legal end of the liability. At SettleLoans, we manage every step of this mechanical process to ensure no deadlines are missed and no legal loopholes remain open.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="rbi-guidelines-2024" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">Staying Compliant: RBI Guidelines for OTS (2024-25)</h3>

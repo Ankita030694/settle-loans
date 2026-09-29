@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Aditya Birla Loan Settlement Process | SettleLoans',
@@ -660,6 +661,8 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 Once an unsecured personal or business loan is categorized as a Doubtful Asset or subjected to technical write-off, Aditya Birla Finance has already absorbed the loss on its quarterly financial statements. Under these circumstances, an upfront lump-sum compromise settlement delivers an immediate net cash write-back to ABFL&apos;s operating profit, providing senior risk committees with the financial justification to sanction substantial principal waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Bounce Charges & Penal Levies */}
             <section id="stopping-abfl-bounce-charges-nach" className="scroll-mt-24 mb-12">

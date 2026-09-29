@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Poonawalla Fincorp Loan Settlement Guide | SettleLoans',
@@ -656,6 +657,8 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                 Once a loan reaches Doubtful Asset status or is subjected to technical write-off, Poonawalla Fincorp has already provisioned for the accounting loss. Under these conditions, an upfront compromise settlement delivers an immediate net cash recovery to the NBFC&apos;s profit statement, providing senior credit committees with solid justification to grant substantial principal haircuts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Bounce Penalties & Multi-Sweep Presentations */}
             <section id="halting-nach-bounce-penal-charges" className="scroll-mt-24 mb-12">

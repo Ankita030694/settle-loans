@@ -36,6 +36,7 @@ import {
   MapPin,
   Factory
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Vadodara | SettleLoans',
@@ -546,6 +547,8 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 As NPAs grow older, RBI rules force banks to set aside cash reserves. A fast cash settlement frees up these locked funds. This makes bank credit committees happy to grant deep OTS discounts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Section 171 Banker Lien & Account Shield */}
             <section id="section-171-bankers-lien-account-protection" className="scroll-mt-24 mb-10">

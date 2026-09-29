@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Government-Approved Loan Settlement Services Online",
@@ -378,6 +379,8 @@ export default function GovernmentApprovedPage() {
                 Note: Any service asking for an "Upfront Government Fee" to pay off your loan is almost certainly a scam. Legal fees for consultancy firms like SettleLoans are for expertise and negotiation never for the "government" to pay your debt.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

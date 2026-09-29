@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Letter & NOC Format | SettleLoans",
@@ -286,6 +287,8 @@ export default function LoanSettlementLetterNOCPage() {
                 <p className="text-sm text-amber-800 leading-relaxed font-medium">Never use the word "Refusal" in your letter. Use the word "Inability". Refusal implies intent not to pay, which can lead to criminal charges. Inability implies a physical/financial circumstance which is a civil matter.</p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="sample-request-template" className="scroll-mt-32 mb-16">
               <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Template: Loan Settlement Request Format</h4>

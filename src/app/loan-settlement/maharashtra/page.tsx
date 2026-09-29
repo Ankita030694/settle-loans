@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Maharashtra Debt Settlement Services | SettleLoans",
@@ -287,6 +288,8 @@ export default function MaharashtraLoanSettlementPage() {
               <p>The psychological toll of this financial burden is amplified by the city's unforgiving nature. A job loss or a medical emergency can quickly turn a manageable debt into a life-altering crisis. In neighborhoods from Colaba to Dahisar, families are increasingly finding themselves in a situation where they are paying interest on interest, with no clear end to the cycle. This is where the concept of a legal loan settlement becomes critical. It is a strategic tool designed to stop the compounding of debt and reach a final, affordable compromise with the lenders.</p>
               <p>Our Mumbai division focuses on the nuances of the metropolitan banking sector. We negotiate with headquarters and zonal offices of major banks located right here in the city. By leveraging our proximity and professional relationships with bank legal teams, we ensure that our Mumbai-based clients receive the most favorable settlement terms, often achieving waivers that allow them to restart their financial lives with a clean slate.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="pune-it-corridor-debt" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6 leading-tight">Pune's IT Corridor: The Cost of Aspirational Living</h3>

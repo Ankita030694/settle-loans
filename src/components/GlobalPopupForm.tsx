@@ -16,11 +16,37 @@ export default function GlobalPopupForm() {
     }
 
     const timer = setTimeout(() => {
+      // Prevent popup if user is actively interacting with the settlement funnel or has submitted
+      if (typeof window !== 'undefined') {
+        const isFunnelActive = sessionStorage.getItem('sl_funnel_active') === 'true';
+        const isSubmitted = 
+          sessionStorage.getItem('formSubmitted') === 'true' ||
+          localStorage.getItem('formSubmitted') === 'true';
+
+        // Check if an active element is currently inside the assessment funnel
+        const activeEl = document.activeElement;
+        const isInteractingWithAssessment = activeEl && document.getElementById('settlement-assessment')?.contains(activeEl);
+
+        if (isFunnelActive || isSubmitted || isInteractingWithAssessment) {
+          return;
+        }
+      }
+
       setIsOpen(true);
     }, 2000); // 2 seconds delay
 
     return () => clearTimeout(timer);
   }, [pathname]);
+
+  // Listen for custom block event dispatched when user interacts with the on-page funnel
+  useEffect(() => {
+    const handleBlock = () => {
+      setIsOpen(false);
+    };
+
+    window.addEventListener('block-global-popup', handleBlock);
+    return () => window.removeEventListener('block-global-popup', handleBlock);
+  }, []);
 
   // Close on escape key
   useEffect(() => {

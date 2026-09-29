@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Bengaluru | SettleLoans",
@@ -236,6 +237,8 @@ export default function BengaluruLoanSettlementPage() {
                </ul>
                <p className="mb-0">Our legal team helps Bengaluru residents break this cycle. We negotiate settlements that prioritize "Cash Flow Restoration." By closing out high-interest personal loans and credit cards, we help you regain control of your monthly salary, ensuring that your hard-earned money goes toward your future, not just your landlord's security deposit interest.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="tech-sector-debt-crisis" className="scroll-mt-32 mb-20 bg-blue-50/20 p-10 rounded-3xl border border-blue-100">
               <h3 className="text-3xl font-black mb-8 text-[#1F5EFF] uppercase tracking-tighter">Tech & Startup Debt: The Whitefield to Electronic City Crisis</h3>

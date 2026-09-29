@@ -33,6 +33,7 @@ import {
   FileText,
   Percent,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'PNB Personal Loan Settlement Process | SettleLoans',
@@ -659,6 +660,8 @@ export default function PnbPersonalLoanSettlementPage() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Section 171 Banker's Lien & Account Shield */}
             <section id="bankers-lien-pnb-cbs-defense" className="scroll-mt-24 mb-12">

@@ -27,6 +27,7 @@ import {
   MapPin,
   Factory,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Trichy | SettleLoans',
@@ -628,6 +629,8 @@ export default function TrichyLoanSettlementPage() {
                 For fabricators in Thuvakudi and Thiruverumbur, Section 60(1)(c) of the Civil Procedure Code protects artisan tools, livelihood machinery, and basic personal necessities from court attachment. Because unsecured lenders cannot seize workshop machinery, banks prefer negotiated cash settlements over futile civil trials.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Anti-Harassment & Workplace Defense */}
             <section id="anti-harassment-tamil-nadu-laws" className="scroll-mt-24 mb-12">

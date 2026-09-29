@@ -41,6 +41,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -427,6 +428,8 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                 During the early Special Mention Account stages (SMA-0 to SMA-2), the lender treats the default as temporary delinquency, refusing any debt waiver. Once the account crosses <strong>90 Days Past Due</strong>, however, the bank must classify the asset as a Non-Performing Asset (NPA) and quarantine a mandatory 25% provisioning charge against its operating profits. Once the default exceeds 12 to 18 months, the bank provisions 100% of the loan amount, effectively recognizing the ₹5 Lakh asset as a total accounting loss. At this juncture, any recovered capital directly boosts the bank&apos;s bottom line as write-back profit, paving the way for maximum compromise concessions.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The Mathematical Haircut Formula & Realistic Slabs */}
             <section id="realistic-settlement-percentages-haircut-formula" className="scroll-mt-24">

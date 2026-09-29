@@ -3,6 +3,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import Head from 'next/head';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Fibe EarlySalary Loan Settlement Guide | SettleLoans",
@@ -260,6 +261,8 @@ export default function FibeSettlementPage() {
                  Because Fibe's cost of capital is higher than traditional banks, they are often more desperate to recover liquidity. This 'Desperation Gap' is where SettleLoans finds the best deals. We know exactly when Fibe's risk managers are under pressure to 'Churn the Portfolio', allowing us to push for waivers that a traditional bank would never consider.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="grievance-framework" className="scroll-mt-24 mb-16">
               <h3 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">The Grievance Redressal Framework</h3>

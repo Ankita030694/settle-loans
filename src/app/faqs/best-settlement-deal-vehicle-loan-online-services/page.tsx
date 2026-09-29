@@ -6,6 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faCheck, faTriangleExclamation, faHandshake, faShieldHalved, faScaleBalanced, faChartLine, faUserGroup, faCar, faTruck, faFileSignature, faBuildingShield } from "@fortawesome/free-solid-svg-icons";
 import ReviewSnippets from "@/components/ReviewSnippets";
 import CompanyComparison from "@/components/CompanyComparison";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Settlement Deals for Vehicle Loans in India | SettleLoans",
@@ -188,6 +189,8 @@ export default function VehicleLoanFAQ() {
                                 Professional firms like SettleLoans use these procedural lapses as leverage. If a bank has repossessed a vehicle illegally, a strong legal notice can often force them to return the vehicle and agree to a favorable settlement.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="legal-remedies" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

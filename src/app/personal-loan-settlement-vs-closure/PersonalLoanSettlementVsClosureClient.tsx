@@ -37,6 +37,7 @@ import {
   Layers,
   FileSpreadsheet
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -592,6 +593,8 @@ export default function PersonalLoanSettlementVsClosureClient() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Future Loan Eligibility */}
             <section id="future-loan-eligibility" className="scroll-mt-28 mb-14">

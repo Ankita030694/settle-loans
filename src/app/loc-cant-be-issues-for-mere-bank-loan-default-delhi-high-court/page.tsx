@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Delhi HC: No LOC for Mere Bank Loan Default",
@@ -235,6 +236,8 @@ export default function LOCDelhiHighCourtPage() {
                                 This expanded power led to a surge in LOCs against corporate borrowers. The Delhi High Court has now stepped in to clarify that "economic interest" does not mean the recovery of a specific loan amount from a single borrower. Instead, it refers to grave economic crimes that could destabilize the nation's financial system.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="mere-default-myth" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The "Mere Bank Loan Default" Myth</h3>

@@ -37,6 +37,7 @@ import {
   Users,
   Home
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Action on Recovery Agents Misbehaviour | SettleLoans',
@@ -564,6 +565,8 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">When a bank or NBFC allows male agents to harass women at home, the lender is legally responsible. Lenders cannot shift the blame to outsourced collection agencies.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Criminal Law Protections: Sections 74, 75 & 79 BNS (IPC 354 & 509) */}
             <section id="bns-ipc-criminal-protections" className="space-y-4">

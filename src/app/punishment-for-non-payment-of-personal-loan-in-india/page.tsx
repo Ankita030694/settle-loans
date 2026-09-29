@@ -2,6 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Punishment for Non Payment of Loan in India',
@@ -282,6 +283,8 @@ export default function PunishmentPage() {
                                 Criminal proceedings only enter the picture if there is evidence of fraud (IPC 420) or if there is a cheque bounce (Section 138 of the NI Act). If you took the loan with honest intentions and have not engaged in forgery, you are fundamentally safe from criminal "punishment" in the traditional sense of the word.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="immediate-consequences" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Immediate Aftermath of a Personal Loan Default</h3>

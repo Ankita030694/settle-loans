@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Interest Savings by Settling Loans Early | SettleLoans",
@@ -379,6 +380,8 @@ export default function InterestSavingsDigitalPage() {
                 Traditional recovery agents have no incentive to save you interest; their commissions are tied to how much they can squeeze out of you. Conversely, digital services like CredSettle or SettleLoans are built on a success model where their reputation grows with the amount they save for the client. This alignment of interests is the bedrock of digital debt resolution.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="math-of-savings" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

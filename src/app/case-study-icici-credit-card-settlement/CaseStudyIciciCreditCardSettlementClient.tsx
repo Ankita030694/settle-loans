@@ -43,6 +43,7 @@ import {
   Coins,
   Flame
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -445,6 +446,8 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
                 Consequently, out of the ₹5,00,000 claimed by ICICI Bank, a staggering ₹3,20,000 (64% of the total claim) consisted entirely of accumulated interest, late fees, and tax surcharges. Recognizing this distortion is the foundational cornerstone of our debt settlement negotiation strategy.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: ICICI Retail NPA Mechanics */}
             <section id="banking-accounting-npa-provisioning" className="mb-10 scroll-mt-24">

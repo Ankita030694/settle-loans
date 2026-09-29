@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Lawyer for Bank Loan Recovery Defence | SettleLoans",
@@ -301,6 +302,8 @@ export default function BankLoanRecoveryDefencePage() {
                                 Another critical area is the "Valuation Audit". Banks must obtain a valuation from a government-approved valuer before an auction. Often, they use "Distress Value" as the "Market Value" to facilitate a quick sale to their preferred buyers. We challenge these reports in the Tribunal, forcing the bank to produce the actual inspection notes and market comparisons. A flawed valuation is a violation of the borrower's "Right to Property" and is a powerful ground for a Stay Order.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="npa-contestation" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

@@ -39,6 +39,7 @@ import {
   UserX,
   FileSpreadsheet
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Can Agents Freeze Family Bank Accounts? | SettleLoans',
@@ -613,6 +614,8 @@ export default function FamilyBankAccountFreezeDefensePage() {
                 Credit bureaus track credit scores by individual PAN. A loan default goes only on the borrower&apos;s PAN. It has zero impact on family credit scores.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Boundaries: Banker Set-Off vs Third Parties */}
             <section id="statutory-limits-banker-set-off-lien" className="space-y-4">

@@ -41,6 +41,7 @@ import {
   IdCard,
   GraduationCap
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Check Recovery Agent ID & DRA Certificate | SettleLoans',
@@ -544,6 +545,8 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
                 The third paper is the IIBF Debt Recovery Agent (DRA) 100-Hour Certificate. The Indian Institute of Banking &amp. Finance issues this award. Agents complete 100 hours of legal training. They must pass a national exam. Agents must also hold a Police Clearance Certificate (PCC).
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Legal Right to Refuse Entry, Criminal Trespass & Privacy */}
             <section id="legal-right-to-refuse-entry-trespass" className="space-y-4">

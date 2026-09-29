@@ -31,6 +31,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 const FAQItem = ({
   question,
@@ -430,6 +431,8 @@ export default function SbiPersonalLoanSettlementClient() {
                 SARB transfer marks the ideal window for compromise. Because SBI absorbs 100% provisioning on Doubtful assets, recovering 35% to 50% principal provides immediate balance-sheet recovery.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="sbi-rin-samadhan-ots-policy" className="scroll-mt-24 mb-10">

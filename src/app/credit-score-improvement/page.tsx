@@ -19,6 +19,7 @@ import {
   faRotateRight,
   faHandshake
 } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 
 export const metadata: Metadata = {
@@ -400,6 +401,8 @@ export default function CreditScoreImprovementPage() {
                </div>
             </div>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
            {/* NEW SECTION: Understanding Score Ranges */}
            <section id="score-ranges" className="scroll-mt-32 mb-16">

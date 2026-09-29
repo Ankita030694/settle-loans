@@ -31,6 +31,7 @@ import {
   ShieldAlert,
   AlertTriangle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'CIBIL Score Kaise Sudhare Settlement Ke Baad | SettleLoans',
@@ -594,6 +595,8 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* SECTION 3: No Dues Certificate & CICRA Audit */}
             <section id="no-dues-certificate-and-cicra-audit" className="mb-10 scroll-mt-24">

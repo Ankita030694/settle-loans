@@ -29,6 +29,7 @@ import {
   AlertCircle,
   Receipt
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'How to Settle Bank Overdraft Loan | SettleLoans',
@@ -582,6 +583,8 @@ export default function BankOverdraftFacilitySettlementPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Danger of Default & Compounding Penalties */}
             <section id="danger-of-compounding-penalties-frozen-accounts" className="space-y-4">

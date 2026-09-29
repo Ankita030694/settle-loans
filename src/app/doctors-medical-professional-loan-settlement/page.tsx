@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement for Doctors in India | SettleLoans',
@@ -632,6 +633,8 @@ export default function DoctorsLoanSettlementPage() {
                 Most doctors facing collection pressure carry multiple high-ticket unsecured professional loans alongside business credit cards. Because these unsecured facilities carry zero underlying mortgage on clinic premises or diagnostic machinery, the lending institution holds no summary power of asset seizure. The lender&apos;s recovery options are limited to formal civil litigation, which takes several years in Indian courts, creating strong economic leverage for the doctor to negotiate an authorized One-Time Settlement (OTS).
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Safeguarding Medical Equipment & Practice Assets */}
             <section id="safeguarding-medical-equipment" className="scroll-mt-24 mb-12">

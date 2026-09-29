@@ -42,6 +42,7 @@ import {
   PhoneForwarded,
   FileWarning
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Report Fake Police Recovery Calls | SettleLoans',
@@ -607,6 +608,8 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
                 Lawyers record these crimes. This holds banks liable. Lenders stop rogue agents fast.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: RBI Master Directions & Supreme Court Precedents */}
             <section id="rbi-master-directions-supreme-court" className="space-y-4">

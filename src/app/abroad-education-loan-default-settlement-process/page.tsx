@@ -540,6 +540,8 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
               </p>
             </section>
 
+            <LoanSettlementAssessmentFunnel />
+
             {/* Section 3: Statutory Protections for Aging Parents */}
             <section id="statutory-shields-for-aging-parents" className="space-y-4">
               <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Protections for Aging Parents</h3>
@@ -1138,4 +1140,5 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
       </div>
     </div>
   );
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 }

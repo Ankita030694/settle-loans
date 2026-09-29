@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Can Bank File Case for Personal Loan Default? | SettleLoans",
@@ -265,6 +266,8 @@ export default function PersonalLoanCaseGuidePage() {
                                 <p className="text-sm leading-relaxed font-bold italic opacity-80">Did the bank include hidden insurance charges? Is the interest rate higher than what was promised in the sanction letter? These are valid 'Triable Issues' that can stall a summary suit and provide you leverage for settlement.</p>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="section-138-ni-act-criminal" className="scroll-mt-32 mb-20 p-12 bg-gray-900 rounded-[48px] text-white shadow-2xl relative overflow-hidden">
                             <h3 className="text-3xl md:text-4xl font-black mb-8 uppercase tracking-tighter italic text-red-500">

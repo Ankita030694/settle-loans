@@ -28,6 +28,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Lendingkart Loan Settlement Process | SettleLoans',
@@ -626,6 +627,8 @@ export default function LendingkartBusinessLoanSettlementPage() {
                 Upon reaching Doubtful status, Lendingkart absorbs the balance-sheet loss. A cash settlement represents an immediate net recovery, enabling Credit Committees to sanction substantial principal haircuts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Auto-Debits, Daily Sweeps & Penal Compounding */}
             <section id="stopping-nach-bounce-charges-daily-debits" className="scroll-mt-24 mb-12">

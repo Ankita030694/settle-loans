@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Student Loan Settlement Programs in India | SettleLoans",
@@ -394,6 +395,8 @@ export default function StudentLoanSettlementPage() {
                 Professional negotiators at Amalegal Solutions use this internal "Provisioning Logic" to explain to the bank why a settlement today is better than a litigation tomorrow. In the banking world, a "Known Loss Today" is better than an "Unknown Loss Tomorrow."
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="sbi-ots-2024" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">

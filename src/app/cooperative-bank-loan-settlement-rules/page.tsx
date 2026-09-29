@@ -30,6 +30,7 @@ import {
   Receipt,
   Landmark
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Cooperative Bank Loan Settlement Rules | SettleLoans',
@@ -586,6 +587,8 @@ export default function CooperativeBankLoanSettlementRulesPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Section 101 Recovery Certificates & Co-operative Court Disputes */}
             <section id="section-101-recovery-certificates-attachment" className="space-y-4">

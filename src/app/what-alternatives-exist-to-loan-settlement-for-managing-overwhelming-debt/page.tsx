@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Alternatives to Loan Settlement for Debt | SettleLoans",
@@ -344,6 +345,8 @@ export default function DebtAlternativesPage() {
                 Why pay for a mistake for 7 years when you can resolve it in 2? This is the core question we help you answer. By shifting your focus from "how do I pay less" to "how do I pay right," you open doors that a settlement would permanently weld shut.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="consolidation" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

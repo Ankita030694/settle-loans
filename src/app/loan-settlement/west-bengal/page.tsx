@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in West Bengal | SettleLoans",
@@ -304,6 +305,8 @@ export default function WestBengalLoanSettlementPage() {
               <p>The "Minimum Amount Due" feature on credit cards is often the beginning of the end for many borrowers. It gives a false sense of security while the principal amount remains untouched and the interest compounds at 36-48% annually. For a small business owner in Posta or a teacher in Behala, this can lead to a situation where they are essentially working only to pay off the bank's interest.</p>
               <p>Breaking this cycle requires a fundamental shift in strategy. Instead of struggling to keep up with impossible payments, a structured loan settlement allows you to address the core problem. By negotiating a one-time settlement, you can halt the interest accumulation and settle the entire liability for a fraction of the total outstanding amount, thereby reclaiming your financial future.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="why-settle" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">Why Choose Loan Settlement in West Bengal?</h3>

@@ -2,6 +2,7 @@ import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Missed EMI? Guide to Regain Control | SettleLoans',
@@ -186,6 +187,8 @@ export default function MissedEmiGuidePage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* 5-Step Plan Section */}
             <section id="5-step-plan" className="scroll-mt-32 mb-16">

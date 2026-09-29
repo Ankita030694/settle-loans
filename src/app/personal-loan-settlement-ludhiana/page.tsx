@@ -39,6 +39,7 @@ import {
   MapPin,
   TrendingDown
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Ludhiana | SettleLoans',
@@ -535,6 +536,8 @@ export default function PersonalLoanSettlementLudhianaPage() {
                 If agencies break rules, we file complaints with the Banking Ombudsman and local magistrates.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Civil Court & DRT Jurisdictions in Punjab */}
             <section id="civil-court-drt-jurisdiction-ludhiana" className="space-y-4">

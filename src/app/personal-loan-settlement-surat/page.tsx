@@ -32,6 +32,7 @@ import {
   FileText,
   TrendingDown
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Services in Surat | SettleLoans',
@@ -582,6 +583,8 @@ export default function PersonalLoanSettlementSuratPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Danger of Default & Legal Escalation */}
             <section id="danger-of-default-escalations-surat" className="space-y-4">

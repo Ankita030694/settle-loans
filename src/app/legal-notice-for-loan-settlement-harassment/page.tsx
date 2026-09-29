@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Legal Notice for Loan Harassment: Guide | SettleLoans",
@@ -303,6 +304,8 @@ export default function LoanHarassmentLegalNoticePage() {
                 Most borrowers feel helpless because they think that since they owe money, the bank can do anything. This is a myth. Debt is a civil liability. Harassment is a criminal liability. The two are handled in completely different courtrooms. A bank has a right to your money, but they do not have a right to your identity, your privacy, or your peace.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="rbi-fair-practice-code" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

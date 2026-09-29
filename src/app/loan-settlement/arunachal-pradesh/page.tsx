@@ -15,6 +15,7 @@ import {
   faUserShield, 
   faTriangleExclamation // replacement for faExclamationTriangle
 } from '@fortawesome/free-solid-svg-icons';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement in Arunachal Pradesh | SettleLoans',
@@ -247,6 +248,8 @@ const Page = () => {
                         <p>The Act also stipulates interest rate caps to preventing usury. While the exact rates are notified by the government, the principle is clear: predatory lending is illegal. If you are stuck in a cycle of paying endless interest without the principal reducing, we can leverage this Act to challenge the lender's claims. We demand a full accounting of all payments made, often revealing that the borrower has already paid back more than the fair legal due.</p>
                         <p>Furthermore, the Act mandates the maintenance of proper accounts and the issuance of receipts. In many cases in Naharlagun and commercial centers, informal lending happens on trust or rough slips of paper. Lenders refuse to give formal receipts to evade taxes and legal scrutiny. By exposing these statutory violations, SettleLoans shifts the leverage in favor of the borrower, often compelling the lender to agree to a fair, one-time settlement rather than face legal action under the Act.</p>
                     </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                     <section id="tribal-land-protections" className="scroll-mt-32 mb-16">
                         <h3 className="text-3xl font-black mb-6">Tribal Rights and Bank Recovery: A Crucial Shield</h3>

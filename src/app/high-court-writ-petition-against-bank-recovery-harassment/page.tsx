@@ -29,6 +29,7 @@ import {
   Landmark,
   BadgeAlert
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Writ Petition for Recovery Harassment | SettleLoans',
@@ -554,6 +555,8 @@ export default function HighCourtWritBankHarassmentPage() {
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> In <em>ICICI Bank v. Prakash Kaur</em>, the Supreme Court ruled that banks cannot use musclemen for recovery. Banks must follow the law. High Courts across India issue strict orders based on this ruling. These orders stop recovery visits and mandate police inquiries against abusive agents. </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Threshold for Constitutional Intervention & Police Inaction */}
             <section id="threshold-for-constitutional-intervention" className="space-y-4">

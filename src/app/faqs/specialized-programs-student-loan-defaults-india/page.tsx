@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "FAQ: Education & Student Loan Settlement | SettleLoans",
@@ -403,6 +404,8 @@ export default function StudentLoanSettlementPage() {
                                 Under the IBA Model Scheme, loans up to 7.5 lakhs require NO collateral or third party guarantee. Since these are technically unsecured, banks are surprisingly flexible in accepting settlement offers, as their legal recovery costs often exceed the remaining principal on these small-ticket accounts.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="cgfsel-guarantee" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">

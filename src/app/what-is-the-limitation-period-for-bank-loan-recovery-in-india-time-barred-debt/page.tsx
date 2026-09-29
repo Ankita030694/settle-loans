@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Limitation Period for Loan Recovery in India | SettleLoans",
@@ -286,6 +287,8 @@ export default function TimeBarredDebtPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* What is a Time Barred Debt */}
             <section id="what-is-time-barred-debt" className="scroll-mt-32 mb-16">

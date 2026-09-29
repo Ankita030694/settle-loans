@@ -14,6 +14,7 @@ import {
   faUserShield, 
   faTriangleExclamation 
 } from '@fortawesome/free-solid-svg-icons';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Meghalaya | SettleLoans",
@@ -252,6 +253,8 @@ const Page = () => {
                         <p>Furthermore, we ensure that our clients are fully aware of their rights under this Act. We have seen instances where bank recovery departments try to intimidate borrowers by threatening to 'seal their house' or 'sell their land'. We step in as a legal shield, clarifying that such threats are often legally hollow in the context of Meghalaya's special status. By exposing these empty threats, we shift the power dynamic back in favor of the borrower, leading to much more favorable settlement terms.</p>
                         <p>Knowledge of the Land Transfer Act is the ultimate defense for a Meghalaya resident. We don't just negotiate; we educate. We ensure that you are never bullied by bank legal teams who might not fully appreciate the unique legal landscape of the Sixth Schedule areas. Protecting your ancestral land while resolving your debt is our primary objective.</p>
                     </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                     <section id="tribal-debt-rights" className="scroll-mt-32 mb-16">
                         <h3 className="text-3xl font-black mb-6">Upholding the Debt Rights of Tribal Borrowers</h3>

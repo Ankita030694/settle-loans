@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "YES Bank Loan Settlement Guide | SettleLoans",
@@ -204,6 +205,8 @@ export default function YesBankSettlementPage() {
                     </p>
                 </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="credit-trap" className="scroll-mt-32 mb-32">
                 <h4 className="text-4xl font-black text-[#1a202c] mb-12">3. YES First & YES Prosperity: The Math of the Credit Trap</h4>

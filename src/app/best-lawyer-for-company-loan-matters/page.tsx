@@ -18,6 +18,7 @@ import {
     faCircleExclamation
 } from '@fortawesome/free-solid-svg-icons';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: 'Best Lawyer for Company Loan Matters | SettleLoans',
@@ -265,6 +266,8 @@ const CompanyLoanMattersPage = () => {
                                 Section 29A is perhaps the most litigated section of the IBC. It defines who is 'Ineligible' to submit a resolution plan. Generally, a promoter whose account has been an NPA for more than a year is disqualified. However, MSME promoters have certain exemptions under Section 240A which we aggressively leverage to help owners regain control of their businesses.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="nclt-defense" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">NCLT Litigation: Proactive Defense Strategies</h3>

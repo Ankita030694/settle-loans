@@ -41,6 +41,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -384,6 +385,8 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
                 To resolve unsecured commercial NPA exposures, Axis Bank routes distressed accounts to its specialized <strong>Stressed Assets Resolution Branch (SARB)</strong> and Commercial Credit Committees. These specialized recovery wings operate under Board-approved compromise settlement policies aligned with the <em>Reserve Bank of India Framework for Compromise Settlements and Technical Write-offs (2023)</em>, empowering credit authorities to write off substantial principal balances when enterprise insolvency is incontrovertibly established.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Axis Bank NPA Provisioning Rules */}
             <section id="axis-bank-npa-provisioning-accounting" className="mb-10 scroll-mt-24">

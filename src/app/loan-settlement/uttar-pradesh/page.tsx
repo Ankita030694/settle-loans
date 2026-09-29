@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Uttar Pradesh | SettleLoans",
@@ -291,6 +292,8 @@ export default function UttarPradeshLoanSettlementPage() {
               <p>Noida, on the other hand, is home to a vast population of corporate employees and tech professionals who often rely heavily on multiple credit cards. The "Minimum Amount Due" feature on credit card bills is a common trap here. It gives a sense of temporary relief while the principal amount remains untouched and interest rates as high as 42% annually continue to eat into the borrower's future. For many young professionals in Sector 62 or Sectors 125 to 135, the cycle of debt becomes a major source of mental health stress.</p>
               <p>Breaking free from this cycle requires more than just better budgeting. It requires a strategic legal intervention. By choosing a structured loan settlement, you can stop the endless cycle of interest and settle your liabilities for a fraction of what is owed, allowing you to restart your financial life with dignity.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="why-settle-up" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">Why Choose Loan Settlement in Uttar Pradesh?</h3>

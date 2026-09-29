@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Loan Default EMI Foreclosure Assistance | SettleLoans",
@@ -324,6 +325,8 @@ export default function LoanDefaultEMIAsistancePage() {
                                 <p className="text-center font-bold text-gray-800">The 90 Day NPA Journey in India</p>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="mechanics-of-foreclosure" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

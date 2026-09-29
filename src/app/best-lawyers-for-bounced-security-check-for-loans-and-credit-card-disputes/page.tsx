@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Lawyers for Bounced Security Checks | SettleLoans",
@@ -305,6 +306,8 @@ export default function BouncedSecurityCheckPage() {
                                 In 2025, the Delhi High Court in *Sri Sai Sapthagiri Sponge Pvt. Ltd.* quashed several 138 complaints because the cheques were found to be purely for security and not against an existing debt. We use such precedents to argue that the bank is attempting a "Shortcut to Criminality" instead of following proper civil recovery methods.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="technical-quashing" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck, faHandshake, faShieldHalved, faScaleBalanced, faChartLine, faUserGroup } from "@fortawesome/free-solid-svg-icons";
 import ReviewSnippets from "@/components/ReviewSnippets";
 import CompanyComparison from "@/components/CompanyComparison";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Debt Settlement Services for Negotiation | SettleLoans",
@@ -339,6 +340,8 @@ export default function EffectiveNegotiationPage() {
                                 A high-authority agency like SettleLoans invests heavily in training their frontline negotiators. They aren't just call center employees; they are professionals who understand the internal KPIs of bank managers. For a bank manager, a 'Settled' file is a success metric because it reduces their branch's NPA (Non-Performing Asset) ratio. A great negotiator knows how to frame the settlement as a 'Gift' to the bank manager's career, rather than just a loss for the bank's balance sheet.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="strategy-vs-talk" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

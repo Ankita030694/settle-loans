@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement for Salaried People | SettleLoans",
@@ -318,6 +319,8 @@ export default function LoanSettlementSalariedPage() {
                 When the total EMIs exceed 50% of the take-home pay, the situation becomes precarious. At 70%, it becomes a mathematical impossibility to sustain. This is where the spiral begins. The pressure to maintain a certain lifestyle and the fear of social judgment often lead salaried people to suffer in silence until the recovery agents start calling the office or the neighbors. Breaking this silence is the first and most critical move toward freedom.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="what-is-settlement" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

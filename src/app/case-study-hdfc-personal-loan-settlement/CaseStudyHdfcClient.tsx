@@ -41,6 +41,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -429,6 +430,8 @@ export default function CaseStudyHdfcClient() {
                 As Rahul&apos;s loan crossed 120 days of default, HDFC Bank was already forced to lock up significant regulatory capital to provision against the asset. In banking accounting, an uncollected NPA continuously depresses the bank&apos;s Capital Adequacy Ratio (CAR) and Return on Assets (ROA). Consequently, recovering ₹3.2 Lakhs of clear, unencumbered liquidity via an upfront compromise settlement allows the bank to reverse ₹2.0+ Lakhs of provisions straight back into operating profitability.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Hardship Dossier & NPV Valuation */}
             <section id="hardship-audit-npv-valuation" className="mb-10 scroll-mt-24">

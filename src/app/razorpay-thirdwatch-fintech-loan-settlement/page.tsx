@@ -30,6 +30,7 @@ import {
   CheckCircle2,
   CreditCard,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Merchant Cash Advance Loan Settlement | SettleLoans',
@@ -615,6 +616,8 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
                 A payment aggregator cannot act as an extralegal recovery arm for a partner lending NBFC. Withholding operational checkout funds to offset an unpaid loan without an explicit Civil Court attachment order under Order 38 Rule 5 CPC is unlawful. Furthermore, RBI Digital Lending Guidelines (2022) require strict firewalls between payment aggregators and lenders, mandating that loan recovery occur directly through bank accounts without gateway diversion.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting Daily NACH Sweeps & Stopping Deductions */}
             <section id="stopping-daily-nach-deductions" className="scroll-mt-24 mb-12">

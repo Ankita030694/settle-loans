@@ -30,6 +30,7 @@ import {
   AlertOctagon,
   Landmark
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Should You Pay Cash to Recovery Agents? | SettleLoans',
@@ -564,6 +565,8 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The Mechanics of Cash Misappropriation */}
             <section id="mechanics-of-cash-misappropriation" className="space-y-4">

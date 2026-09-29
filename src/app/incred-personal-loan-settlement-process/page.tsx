@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'InCred Personal Loan Settlement | SettleLoans',
@@ -652,6 +653,8 @@ export default function InCredPersonalLoanSettlementPage() {
                 When a personal loan turns into a Doubtful Asset or is written off, InCred books the loss. Getting a lump-sum settlement brings immediate cash back to their books. This motivates risk officers to approve large principal waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Bounce Charges & Penal Levies */}
             <section id="stopping-incred-bounce-charges-nach" className="scroll-mt-24 mb-12">

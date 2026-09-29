@@ -5,6 +5,7 @@ import "./globals.css";
 import Footer from "@/components/Footer";
 import WhatsAppWidget from "@/components/WhatsAppWidget";
 import GlobalPopupForm from "@/components/GlobalPopupForm";
+import InteractiveLeadModal from "@/components/InteractiveLeadModal";
 import PageViewTracker from "@/components/PageViewTracker";
 import { Analytics } from "@vercel/analytics/next";
 import Script from "next/script";
@@ -132,6 +133,7 @@ export default function RootLayout({
           </div>
           <Footer />
           <GlobalPopupForm />
+          <InteractiveLeadModal />
           <WhatsAppWidget />
           <Analytics />
         </ReCaptchaWrapper>

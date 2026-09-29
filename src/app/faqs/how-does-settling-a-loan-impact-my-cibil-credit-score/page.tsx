@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "How Loan Settlement Impacts CIBIL Score | SettleLoans",
@@ -321,6 +322,8 @@ export default function CibilImpactPage() {
                                 It is also worth noting that the impact is more severe for unsecured debts like personal loans and credit cards. Since there was no collateral for the bank to sell, the loss is directly borne by the institution. Lenders view this specific type of "unsecured default" much more harshly than a settled vehicle loan where the car was at least repossessed.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="reporting-standards" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

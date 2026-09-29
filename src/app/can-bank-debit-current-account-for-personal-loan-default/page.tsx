@@ -39,6 +39,7 @@ import {
   Briefcase,
   Users
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Can Bank Debit Current Account for Loan? | SettleLoans',
@@ -600,6 +601,8 @@ export default function CanBankDebitCurrentAccountPage() {
                 Because company structures differ, banks cannot treat business accounts as personal savings reserves. When banks break these legal rules, borrowers can seek quick court orders and claim damages.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: High Court Rulings, Statutory Protections & Cash Flow Protections */}
             <section id="high-court-rulings-operational-cash-flow" className="space-y-4">

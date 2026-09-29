@@ -42,6 +42,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settle Kaise Kare: Full Guide | SettleLoans',
@@ -605,6 +606,8 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* SECTION 3: Legal Protections & Civil Law Shields */}
             <section id="statutory-protections-civil-law-shields" className="mb-10 scroll-mt-24">

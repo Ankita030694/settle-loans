@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan EMI Bounce Charges Explained | RBI Limits',
@@ -297,6 +298,8 @@ export default function PersonalLoanEmiBounceChargesPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* RBI Guidelines Section */}
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">

@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'SMFG India Credit Loan Settlement Guide | SettleLoans',
@@ -656,6 +657,8 @@ export default function SmfgIndiaCreditLoanSettlementPage() {
                 Once an unsecured personal or commercial installment loan is categorized as a Doubtful Asset or subjected to technical write-off, SMFG India Credit has already absorbed the loss on its quarterly profit and loss statement. Under these accounting conditions, an upfront lump-sum compromise settlement delivers an immediate net cash write-back to SMFG&apos;s operating balance sheet, providing senior risk committees with the financial justification to sanction substantial principal waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting NACH Bounce Charges & Penal Levies */}
             <section id="stopping-smfg-bounce-charges-nach" className="scroll-mt-24 mb-12">

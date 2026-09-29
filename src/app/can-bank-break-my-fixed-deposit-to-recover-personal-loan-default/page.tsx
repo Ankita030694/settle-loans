@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata = {
   title: 'Banker\'s Right of Set-Off: Can Banks Break Your FD?',
@@ -301,6 +302,8 @@ export default function BankersRightOfSetOffPage() {
                   </ul>
                 </div>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               <section id="can-they-break-fd" className="scroll-mt-32 mb-16">
                 <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">

@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Script from 'next/script';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export default function PersonalLoanSettlementServicesClient() {
   const [activeSection, setActiveSection] = useState("guidelines");
@@ -173,6 +174,8 @@ export default function PersonalLoanSettlementServicesClient() {
           </div>
         </div>
       </section>
+
+            <LoanSettlementAssessmentFunnel />
 
       {/* Main Content Layout */}
       <div className="w-full max-w-[1920px] mx-auto px-4 md:px-6 lg:px-8 xl:px-10 pt-8">

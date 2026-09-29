@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faShieldAlt, faGavel, faScaleBalanced, faHandshake, faCheckCircle, faExclamationTriangle, faPhoneSlash } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Recovery Agent Harassment Complaint | SettleLoans",
@@ -228,6 +229,8 @@ export default function RecoveryHarassmentComplaintPage() {
                 If someone visits your home without an ID card or an authorization letter from the bank, you have every right to ask them to leave and register a complaint for criminal trespass if they refuse.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

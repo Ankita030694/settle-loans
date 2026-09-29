@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "SBI Loan Settlement Guide 2026 | SettleLoans",
@@ -301,6 +302,8 @@ export default function SBILoanSettlementPage() {
                   </p>
                </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="rinn-samadhan-deepdive" className="scroll-mt-32 mb-32 bg-[#004687]/5 p-20 rounded-[80px] border border-[#004687]/10">
                <h3 className="text-3xl font-black text-[#004687] mb-12">3. Rinn Samadhan Scheme Deep Dive: The 2026 Operational Blueprint</h3>

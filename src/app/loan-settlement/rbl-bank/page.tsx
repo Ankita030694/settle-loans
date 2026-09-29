@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "RBL Bank Loan Settlement & Credit Card OTS Guide 2026",
@@ -349,6 +350,8 @@ export default function RBLBankSettlementPage() {
                 In 2026, RBL has also increased its use of external "Collection Service Providers" (CSPs). These agencies are paid on commission, which often leads them to use aggressive tactics that violate the RBI's Fair Practice Code. We help you identify these violations early, document them, and use them as leverage during the settlement negotiation to force a more favorable outcome for you.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="debt-trap" className="scroll-mt-32 mb-32">
                 <h4 className="text-4xl font-black text-[#1a202c] mb-12">3. The 46% Interest Monster: Killing the SuperCard Cycle</h4>

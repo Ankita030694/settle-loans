@@ -35,6 +35,7 @@ import {
   Flame,
   ArrowRight
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -383,6 +384,8 @@ export default function CaseStudy25LakhMultipleBankSettlementClient() {
                 SettleLoans capitalizes on these institutional differences by staging negotiations according to each lender&apos;s internal provisioning milestones. By demonstrating that unrecovered unsecured credit facilities yield zero liquidation value in civil execution proceedings, our legal representatives establish that immediate cash recovery through a structured One-Time Settlement delivers a demonstrably higher Net Present Value than protracted civil litigation across Indian courts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Financial Audit & Multi-Bank Haircut Math */}
             <section id="financial-breakdown-settlement-math" className="space-y-4">

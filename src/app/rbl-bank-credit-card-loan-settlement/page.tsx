@@ -27,6 +27,7 @@ import {
   Percent,
   Check,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'RBL Bank Credit Card Settlement Guide | SettleLoans',
@@ -611,6 +612,8 @@ export default function RblBankCreditCardSettlementPage() {
                 When a borrower undergoes involuntary financial distress and ceases payments entirely, RBL Bank continues to apply revolving interest, late penalties, and GST for multiple consecutive billing cycles. Consequently, a borrower who initially utilized ₹1,50,000 for emergency expenses faces an inflated statement claiming ₹3,85,000. In professional One-Time Settlement negotiations, our legal forensic audits isolate these unearned phantom charges, establishing the true core principal base as the sole rational benchmark for settlement valuation.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: RBL Bank Accounting, NPA Classification & Provisioning Dynamics */}
             <section id="npa-provisioning-accounting" className="mb-10 scroll-mt-24">

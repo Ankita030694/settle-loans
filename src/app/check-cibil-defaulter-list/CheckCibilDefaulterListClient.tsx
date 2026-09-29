@@ -34,6 +34,7 @@ import {
   FileCheck2,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component
 const FAQItem = ({
@@ -443,6 +444,8 @@ export default function CheckCibilDefaulterListClient() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Wilful Defaulters vs Retail Hardship */}
             <section id="wilful-defaulter-vs-retail" className="scroll-mt-28 mb-12">

@@ -41,6 +41,7 @@ import {
   Building,
   KeyRound
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Stop Recovery Calls to Neighbours | SettleLoans',
@@ -568,6 +569,8 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">When agents contact your landlord or speak with neighbours, the bank breaks regulatory rules. Banks remain liable for agency actions. Advocates use these violations to demand action before the Banking Ombudsman and courts.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Criminal Defamation, Criminal Trespass & Society Injunctions */}
             <section id="criminal-defamation-trespass-laws" className="space-y-4">

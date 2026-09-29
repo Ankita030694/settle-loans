@@ -30,6 +30,7 @@ import {
   Smartphone,
   CreditCard,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Freo MoneyTap Credit Line Settlement | SettleLoans',
@@ -603,6 +604,8 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 </li>
               </ul>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting e-NACH Sweeps & Predatory Penalties */}
             <section id="stopping-enach-bounce-charges-sweeps" className="scroll-mt-24 mb-12">

@@ -48,6 +48,7 @@ import {
   XCircle,
   Shield
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Copyable Template Box Component with visual feedback
 function CopyableTemplateBox({
@@ -662,6 +663,8 @@ ENCLOSURES:
                 <strong>Crucial Legal Nuance:</strong> In an unsecured loan settlement (credit cards, personal loans, business loans), the document issued by the bank is specifically titled <strong>No Dues Certificate</strong> or <strong>Settlement Closure Letter</strong>. It must explicitly state that the agreed amount has been received in full and final settlement and that the balance has been written off under the bank&apos;s board-approved compromise settlement policy.
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="rbi-30-day-statutory-mandate" className="scroll-mt-28 mb-14">

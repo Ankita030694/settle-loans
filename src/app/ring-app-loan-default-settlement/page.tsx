@@ -31,6 +31,7 @@ import {
   Smartphone,
   MessageSquareOff,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Ring App Loan Default & Settlement Guide | SettleLoans',
@@ -692,6 +693,8 @@ export default function RingAppLoanDefaultSettlementPage() {
                 When a Ring app loan remains defaulted past 180 days, the NBFC has absorbed full loss provisioning on its books. At this juncture, securing a lump-sum One-Time Settlement delivers an immediate cash write-back to the lender&apos;s balance sheet, giving senior risk officers strong mathematical justification to sanction 50% to 60% debt haircuts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Stopping Auto-Dialers, Harassment & NACH Sweeps */}
             <section id="halting-nach-sweeps-calling-bots" className="scroll-mt-24 mb-12">

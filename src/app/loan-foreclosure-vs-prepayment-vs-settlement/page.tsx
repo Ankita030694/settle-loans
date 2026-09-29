@@ -32,6 +32,7 @@ import {
   PieChart,
   Landmark
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Foreclosure vs Prepayment vs Settlement | SettleLoans',
@@ -562,6 +563,8 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
                 Floating-rate retail loans carry zero prepayment fees. In contrast, fixed-rate loans and business loans may carry prepayment charges. These typically range from 2% to 4% plus GST if stated in the agreement.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: CIBIL & Credit Bureau Forensics */}
             <section id="cibil-credit-bureau-forensics" className="space-y-4">

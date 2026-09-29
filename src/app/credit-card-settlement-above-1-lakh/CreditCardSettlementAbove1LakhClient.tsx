@@ -42,6 +42,7 @@ import {
   Split,
   PieChart,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -438,6 +439,8 @@ export default function CreditCardSettlementAbove1LakhClient() {
                 </table>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Why Credit Cards Yield the Deepest Discounts (60%–70% Haircut Physics) */}
             <section id="haircut-depth-discounts" className="scroll-mt-28 mb-12">

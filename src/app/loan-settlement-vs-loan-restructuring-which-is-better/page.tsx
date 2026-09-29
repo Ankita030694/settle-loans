@@ -2,6 +2,7 @@ import React from 'react';
 import type { Metadata } from "next";
 import Link from 'next/link';
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement vs Restructuring: Comparison',
@@ -310,6 +311,8 @@ export default function LoanRestructuringVsSettlement() {
                 Under the latest <strong className="text-[#1F5EFF]">RBI loan restructuring guidelines</strong>, banks are empowered to create custom resolution plans for stressed assets without classifying them as NPAs, provided the restructuring is done before the account officially defaults beyond 90 days.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="what-is-loan-settlement" className="scroll-mt-24">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What is Loan Settlement?</h3>

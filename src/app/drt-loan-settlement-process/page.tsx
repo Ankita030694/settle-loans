@@ -34,6 +34,7 @@ import {
   BadgePercent,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'DRT Loan Settlement Process in India | SettleLoans',
@@ -589,6 +590,8 @@ export default function DRTLoanSettlementProcessPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Threat of Inaction: Ex-Parte Recovery Certificates */}
             <section id="threat-of-inaction-ex-parte-rc" className="space-y-4">

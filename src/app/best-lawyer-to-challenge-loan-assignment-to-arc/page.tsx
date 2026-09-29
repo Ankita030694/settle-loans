@@ -4,6 +4,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faBuilding, faShieldAlt, faFileSignature, faCheckCircle, faSearch, faExclamationTriangle, faHandshake } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Challenge Loan Assignment to ARC | Best Lawyer',
@@ -273,6 +274,8 @@ export default function ChallengeARCPage() {
                                 Their primary role is "Asset Reconstruction" and "Securitization." However, because their profit motive is directly linked to how much they can recover from the borrower, they are often far more aggressive than original banks. To prevent misuse, the law mandates strict compliance with the RBI's "Guidelines on Asset Reconstruction" and the specific provisions of Section 5 of SARFAESI.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="assignment-process" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">

@@ -39,6 +39,7 @@ import {
   UserX,
   ArrowUpRight
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Lok Adalat Order Non-Compliance by Bank | SettleLoans',
@@ -585,6 +586,8 @@ export default function LokAdalatOrderNonCompliancePage() {
                 When a bank manager delays compliance, the bank breaches a court decree. The court award replaces the old loan contract.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Civil Procedure Enforcement: Executing the Award Under Order 21 CPC */}
             <section id="order-21-cpc-civil-execution" className="space-y-4">

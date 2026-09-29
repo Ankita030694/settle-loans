@@ -28,6 +28,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Fix CRIF & Equifax Settlement Disputes | SettleLoans',
@@ -646,6 +647,8 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 Showing an active balance on a settled loan violates the law. Under Section 63 of the Indian Contract Act 1872, accepting a settlement discharges the debt completely. The lender cannot claim that money anymore.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Framework: CICRA 2005 & RBI Rules */}
             <section id="statutory-safeguards-cicra-rbi" className="scroll-mt-24 mb-12">

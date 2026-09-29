@@ -35,6 +35,7 @@ import {
   AlertCircle,
   Coins
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Gold Loan Shortfall Notice Settlement Guide | SettleLoans',
@@ -554,6 +555,8 @@ export default function GoldLoanShortfallSettlementPage() {
                 When a bank or NBFC breaches any of these mandatory regulatory safeguards—such as auctioning jewellery without verified proof of service of the 14-day notice, failing to publish local vernacular advertisements, or selling pledged items to internal dealer cartels at depressed rates—the entire auction process becomes legally vitiated. Such procedural violations strip the lender of any equitable or legal entitlement to demand residual shortfalls in subsequent civil proceedings.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="nbfc-bank-auction-irregularities" className="space-y-4">

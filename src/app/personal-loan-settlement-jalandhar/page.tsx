@@ -39,6 +39,7 @@ import {
   MapPin,
   TrendingDown
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement in Jalandhar | SettleLoans',
@@ -601,6 +602,8 @@ export default function PersonalLoanSettlementJalandharPage() {
                 If collection agencies breach these statutes in Jalandhar, our advocates file representations with the bank Principal Nodal Officer and escalate complaints to the RBI Integrated Ombudsman.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: District Courts, DRT & NRI Legal Jurisdictions */}
             <section id="civil-court-drt-jurisdiction-jalandhar" className="space-y-4">

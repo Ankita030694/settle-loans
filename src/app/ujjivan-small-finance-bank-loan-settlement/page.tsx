@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Ujjivan Bank Loan Settlement Guide | SettleLoans',
@@ -649,6 +650,8 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 In Doubtful status, the bank sets aside 50% to 100% of the loan amount. A settlement offers instant cash to the bank. Thus, the Credit Committee readily approves high waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: RBI Protections Against Coercive Recovery */}
             <section id="rbi-anti-coercive-recovery-protections" className="scroll-mt-24 mb-12">

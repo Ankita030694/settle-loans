@@ -2,6 +2,7 @@ import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Experian Credit History vs CIBIL | Check & Fix Errors Free',
@@ -267,6 +268,8 @@ export default function ExperianCreditHistoryPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Blue Important Box Section */}
             <section id="experian-vs-cibil" className="scroll-mt-32 mb-16">

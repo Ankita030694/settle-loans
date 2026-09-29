@@ -28,6 +28,7 @@ import {
   CheckCircle2,
   CreditCard,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'SBI Credit Card Settlement Guide | SettleLoans',
@@ -598,6 +599,8 @@ export default function SBICardCreditCardSettlementPage() {
                 When payments stop, late fees of up to ₹1,300 per month get added. An audit separates actual purchase principal from inflated charges to set a baseline for OTS.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Delinquency Timeline & NPA Stages */}
             <section id="sbi-card-delinquency-timeline-npa" className="scroll-mt-24 mb-12">

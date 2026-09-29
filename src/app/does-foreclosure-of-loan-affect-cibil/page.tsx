@@ -2,6 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Does Loan Foreclosure Affect CIBIL Score? Guide',
@@ -285,6 +286,8 @@ export default function LoanForeclosureCibilPage() {
                                 It is important to remember that foreclosure is a sign of financial strength. It shows that the borrower has managed their finances so well that they can afford to clear a significant liability ahead of schedule.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="prepayment-vs-default" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Critical Difference: Prepayment vs. Default Foreclosure</h3>

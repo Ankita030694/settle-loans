@@ -23,6 +23,7 @@ import {
   faListCheck,
   faMoneyBillTransfer
 } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan App Settlement Services in India | SettleLoans",
@@ -380,6 +381,8 @@ export default function AppLoanSettlementPage() {
                 </div>
             </div>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           {/* New Section: Checklist */}
           <section id="check-list" className="scroll-mt-32 mb-16">

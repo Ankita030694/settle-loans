@@ -29,6 +29,7 @@ import {
   Landmark,
   Percent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Debt Settlement in Prayagraj | SettleLoans',
@@ -578,6 +579,8 @@ export default function Page() {
                   The seat of the Hon&apos;ble Allahabad High Court in Prayagraj provides vital constitutional protections for borrowers. Following the landmark ruling in <em>ICICI Bank Ltd. v. Shanti Devi Sharma</em>, the Allahabad High Court has prohibited banks from deploying recovery musclemen or using extra-judicial coercion. Under Article 226 of the Constitution, borrowers facing illegal harassment or arbitrary recovery measures can seek judicial intervention to enforce due process of law.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: Statutory Legal Notice Defense in Prayagraj District Courts */}
               <section id="prayagraj-district-court-notice-defense" className="scroll-mt-24 mb-12">

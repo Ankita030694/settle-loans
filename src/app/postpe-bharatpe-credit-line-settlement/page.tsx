@@ -30,6 +30,7 @@ import {
   CheckCircle2,
   Smartphone,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'PostPe & BharatPe Line Settlement | SettleLoans',
@@ -654,6 +655,8 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 Once a loan stays unpaid for 90 days, the lender marks it as an NPA. After 180 days, the lender writes off the bad balance. A one-time lump-sum settlement gives the bank quick cash recovery and earns you a major debt waiver.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Stopping NACH Bounce Charges & QR Sweeps */}
             <section id="stopping-nach-bounce-charges" className="scroll-mt-24 mb-12">

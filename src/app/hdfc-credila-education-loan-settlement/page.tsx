@@ -30,6 +30,7 @@ import {
   CheckCircle2,
   GraduationCap,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'HDFC Credila Education Loan Settlement | SettleLoans',
@@ -571,6 +572,8 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 Within two years, a ₹35 Lakh loan can grow to ₹55 Lakhs or ₹65 Lakhs. During OTS talks, our advocates audit the loan ledger. We require Credila to remove added interest and penal fees under RBI Fair Lending rules. This anchors your settlement discount to the original money borrowed.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Delinquency Timeline & Ind AS 109 Provisioning */}
             <section id="credila-delinquency-npa-timeline" className="scroll-mt-24 mb-12">

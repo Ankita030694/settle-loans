@@ -4,6 +4,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck, faPeopleGroup, faHandshakeSlash, faFileSignature, faScaleUnbalanced } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Settling Joint Loans: Implications & Guide | SettleLoans",
@@ -183,6 +184,8 @@ export default function JointLoanSettlementPage() {
                                 This is why a settlement for a joint loan must always be a **Composite Settlement**. It must name all co-borrowers in the sanction letter to ensure the liability is terminated for everyone simultaneously. If a settlement letter only names the primary borrower, the co-borrower remains a "Defaulting party" in the bank's system.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="cibil-impact" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

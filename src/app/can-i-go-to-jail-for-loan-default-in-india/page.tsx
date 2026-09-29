@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Can I Go to Jail for Loan Default in India? | SettleLoans",
@@ -243,6 +244,8 @@ export default function LoanDefaultJailPage() {
                                 As long as your intentions were honest at the time of taking the loan and you haven't committed any fraud, your case remains in the civil domain. The bank's only legal recourse is to try and recover the money through civil courts or the Debt Recovery Tribunal (DRT). They cannot use the police as their personal recovery agents.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="section-138" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Risk of Section 138: Cheque Bounce Laws</h3>

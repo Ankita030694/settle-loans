@@ -32,6 +32,7 @@ import {
   AlertCircle,
   FileWarning
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Wilful Defaulter Notice Reply Defense | SettleLoans',
@@ -606,6 +607,8 @@ export default function WilfulDefaulterNoticeReplyPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Repercussions & Supreme Court Doctrine */}
             <section id="statutory-repercussions-jah-developers" className="space-y-4">

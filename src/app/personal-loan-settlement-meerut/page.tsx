@@ -29,6 +29,7 @@ import {
   Landmark,
   Percent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Meerut | SettleLoans',
@@ -609,6 +610,8 @@ export default function Page() {
                   The Hon&apos;ble Allahabad High Court has ruled that banks cannot use force or threats. Lenders are fully responsible for their recovery agents. All recovery steps must follow civil law.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: Statutory Legal Notice Defense in Meerut District Court */}
               <section id="meerut-district-court-notice-defense" className="scroll-mt-24 mb-12">

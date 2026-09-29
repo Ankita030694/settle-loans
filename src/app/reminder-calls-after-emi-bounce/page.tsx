@@ -2,6 +2,7 @@ import React from 'react';
 import { Metadata } from 'next';
 import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Reminder Calls After EMI Bounce: Your Rights | SettleLoans',
@@ -151,6 +152,8 @@ export default function ReminderCallsAfterEmiBouncePage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Your Rights Section */}
             <section id="your-rights" className="scroll-mt-32 mb-16">

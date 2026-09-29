@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
 import { Metadata } from 'next';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Does Loan Default Affect Passport & Visa? | SettleLoans',
@@ -300,6 +301,8 @@ export default function LoanDefaultPassportVisaPage() {
                 In India, civil disputes do not classify you as a criminal. Criminal fraud involves a deliberate intent to deceive the bank—such as submitting forged documents to obtain the loan. Law enforcement agencies and immigration authorities are primarily concerned with criminal cases, not civil inability to pay.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="passport-renewal" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Passport Renewal</h3>

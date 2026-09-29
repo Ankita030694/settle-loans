@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Lawyers in Noida | SettleLoans",
@@ -309,6 +310,8 @@ export default function NoidaLoanSettlementPage() {
               <p>Furthermore, the legal framework in Uttar Pradesh includes safeguards against illegal recovery practices. While banks have a right to recover their dues, they must do so within the bounds of the Indian Contract Act and the guidelines set by the Reserve Bank of India. In Noida, where recovery agents can sometimes be particularly aggressive, it is essential to have a legal shield that redirected all communication to professionals. We provide the necessary documentation and representation to ensure that your case is handled with the dignity you deserve.</p>
               <p>Additionally, the role of mediation in the district courts of Noida has gained significance. Courts often encourage parties to resolve banking disputes through mediation before the formal trial begins. This is an excellent opportunity for a structured settlement. Our legal team in Noida specializes in drafting 'Financial Hardship Petitions' that clearly explain your inability to pay the full amount, backed by medical records, termination letters, or income statements. This evidence based approach makes it much harder for banks to push for unrealistic recovery targets.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="delhi-noida-comparison" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">How Noida Loan Settlement Compares to Delhi NCR</h3>

@@ -36,6 +36,7 @@ import {
   Home,
   FileWarning
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Does SARFAESI Act Apply to Personal Loans? | SettleLoans',
@@ -566,6 +567,8 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
                 In landmark constitutional rulings including <em>Transcore v. Union of India</em> and <em>Mardia Chemicals v. Union of India</em>, the Supreme Court authoritatively held that extraordinary SARFAESI remedies require a prior, registered, and perfected security interest over identifiable property. Because personal loan borrowers execute clean promissory loan contracts without depositing title deeds or registering charges with the Sub-Registrar, commercial lenders remain unsecured creditors with zero SARFAESI enforcement rights.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Recovery Harassment Forensics: Fake Notices & Criminal Intimidation */}
             <section id="recovery-harassment-forensics" className="space-y-4">

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Karnataka | 40-70% Waiver",
@@ -286,6 +287,8 @@ export default function KarnatakaLoanSettlementPage() {
               <p>The rise of digital lending platforms has exacerbated this issue. These apps offer instant money but often hide exorbitant interest rates and predatory collection practices behind a polished interface. For a resident of Karnataka, breaking this cycle requires more than just better budgeting; it requires a strategic legal intervention. Negotiating a one-time settlement allows you to halt the interest growth and settle your debt for a fraction of the total outstanding amount.</p>
               <p>We work with clients to audit their entire debt portfolio, identifying which loans are the most toxic and which ones offer the best opportunities for significant waivers. By taking a holistic view of your finances, we help you regain control over your future in a way that is both legal and ethical.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="why-settle-karnataka" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">Why Choose Loan Settlement in Karnataka?</h3>

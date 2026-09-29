@@ -37,6 +37,7 @@ import {
   Lock,
   Laptop
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive FAQ Item Component
 const FAQItem = ({
@@ -426,6 +427,8 @@ export default function PersonalLoanSettlementBangaloreClient() {
                 By insulating your salary flow and daily operating funds from arbitrary banking offsets, you restore financial stability and create the liquidity necessary to fund an orderly One-Time Settlement.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Court Summons & Bailable Legal Defense */}
             <section id="court-summons-and-bailable-defense" className="scroll-mt-24 mb-12">

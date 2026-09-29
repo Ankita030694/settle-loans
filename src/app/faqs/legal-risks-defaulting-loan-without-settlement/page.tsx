@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Legal Risks of Defaulting on a Loan | SettleLoans",
@@ -405,6 +406,8 @@ export default function LegalRisksLoanDefaultPage() {
                                 An account is typically classified as an NPA when the Equated Monthly Installment (EMI) has been overdue for more than 90 days. Once this threshold is crossed, the lender's recovery department or specialized debt recovery agencies take over. If you do not initiate a settlement, the bank will move from persuasive communication to formal legal proceedings.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="civil-risks" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

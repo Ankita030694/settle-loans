@@ -30,6 +30,7 @@ import {
   Scale,
   ShieldAlert
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Waive Penal Interest & Charges on Loan Default | SettleLoans',
@@ -589,6 +590,8 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
                 </li>
               </ul>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Forensic Audit Methodology */}
             <section id="forensic-audit-methodology-bank-ledger" className="space-y-4">

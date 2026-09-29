@@ -4,6 +4,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faMicrophoneAlt } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Unsecured Loan Settlement India',
@@ -224,6 +225,8 @@ export default function UnsecuredLoanLawyerPage() {
                     <article className="w-full lg:w-3/5 flex-1 prose prose-slate max-w-none">
                         <section id="introduction"><h2>Introduction</h2><div className="content"></div></section>
                         <section id="legal-definition"><h3>Legal Definition</h3><div className="content"></div></section>
+
+            <LoanSettlementAssessmentFunnel />
                         <section id="harassment-protection" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Drawing the Line: Protection from Collection Harassment

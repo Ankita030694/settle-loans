@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Alternatives to Loan Settlement in India | SettleLoans",
@@ -409,6 +410,8 @@ export default function AlternativesToSettlementPage() {
                                 When you settle a loan, the bank marks it as "Settled" in your CIBIL report. This status acts as a red flag for any future lender. For the next 7 years, getting a home loan, a business loan, or even a premium credit card becomes a challenge. For those in sensitive career sectors, the impact can even be professional.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="consolidation-loans" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

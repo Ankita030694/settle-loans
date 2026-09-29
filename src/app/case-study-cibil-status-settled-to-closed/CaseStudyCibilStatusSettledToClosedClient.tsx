@@ -41,6 +41,7 @@ import {
   RefreshCw,
   Home
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -454,6 +455,8 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                 When an account remains tagged as <strong>&quot;Written-Off&quot;</strong>, the lender has transferred the defaulted balance to off-balance-sheet non-accrual ledgers without receiving compromise funds, maintaining an ongoing overdue status. Converting a record from &quot;Settled&quot; to &quot;Closed&quot; requires compelling the bank to update both the account status flag and clear the historical Written-Off amount fields to zero.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 4: Client Profile & Financial Breakdown */}
             <section id="client-case-profile-breakdown" className="space-y-4">

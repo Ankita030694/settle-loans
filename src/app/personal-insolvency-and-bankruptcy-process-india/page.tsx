@@ -27,6 +27,7 @@ import {
   BadgePercent,
   TrendingDown
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Insolvency & Bankruptcy in India | SettleLoans',
@@ -580,6 +581,8 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The Fresh Start Process */}
             <section id="fresh-start-process-eligibility-limits" className="space-y-4">

@@ -29,6 +29,7 @@ import {
   Landmark,
   Percent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Agra | SettleLoans',
@@ -604,6 +605,8 @@ export default function Page() {
                   The Allahabad High Court has ruled that banks cannot use private muscle men or extra-judicial pressure to collect dues. Banks are legally responsible for any illegal harassment by their collection agents.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: Statutory Legal Notice Defense in Agra District Court */}
               <section id="agra-district-court-notice-defense" className="scroll-mt-24 mb-12">

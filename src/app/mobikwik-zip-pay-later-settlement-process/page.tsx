@@ -29,6 +29,7 @@ import {
   Award,
   CheckCircle2,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'MobiKwik Zip Pay Later Settlement | SettleLoans',
@@ -640,6 +641,8 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 After 180 days, the NBFC writes off the defaulted loan on its books. Any recovery from an OTS brings fresh cash to the lender. This gives credit teams room to approve large principal discounts.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Halting Predatory Late Fees & Mandates */}
             <section id="halting-predatory-fees-mandates" className="scroll-mt-24 mb-12">

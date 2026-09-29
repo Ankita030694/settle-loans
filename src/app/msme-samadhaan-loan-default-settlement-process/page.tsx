@@ -30,6 +30,7 @@ import {
   Factory,
   Wrench
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'MSME Samadhaan Loan Default Guide | SettleLoans',
@@ -521,6 +522,8 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">An MSEFC filing provides vital proof during bank settlement talks. It proves that default happened. frozen market dues, not fund diversion. This encourages bank committees to approve structured One-Time Settlements.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: RBI Prudential Framework */}
             <section id="rbi-prudential-framework-msme-restructuring" className="space-y-4">

@@ -42,6 +42,7 @@ import {
   FileSpreadsheet,
   HardDrive
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'File Police FIR for Recovery Harassment | SettleLoans',
@@ -594,6 +595,8 @@ export default function PoliceFirWithCallRecordingPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: BNS & IPC Substantive Criminal Offenses */}
             <section id="criminal-offenses-bns-ipc" className="scroll-mt-28 space-y-4">

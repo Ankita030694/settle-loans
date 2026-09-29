@@ -31,6 +31,7 @@ import {
   GraduationCap,
   Percent,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Avanse Education Loan Settlement | SettleLoans',
@@ -546,6 +547,8 @@ Pensions and PF are 100% safe from court attachment under Section 60(1)(g) and S
 
 RBI rules ban calls before 8:00 AM or after 7:00 PM. Agents cannot visit offices or contact relatives. A Cease-and-Desist Notice to Avanse Nodal Officers stops abuse right away.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Delinquency Timeline & Balance Sheet Provisioning */}
             <section id="delinquency-timeline-npa-stages" className="scroll-mt-24 mb-12">

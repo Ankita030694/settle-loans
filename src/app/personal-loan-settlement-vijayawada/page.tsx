@@ -31,6 +31,7 @@ import {
   MapPin,
   Banknote,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Vijayawada | SettleLoans',
@@ -613,6 +614,8 @@ export default function PersonalLoanSettlementVijayawadaPage() {
                 Loan default is not a crime. Banks cannot file police FIRs for unpaid debts. The Supreme Court confirmed that civil debt cannot be turned into criminal cases. If agents cross legal lines, our lawyers issue cease-and-desist notices to bank nodal officers. We also file complaints with the RBI Ombudsman.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Delinquency Timeline & NPA Accounting */}
             <section id="npa-accounting-delinquency-timeline" className="scroll-mt-24 mb-12">

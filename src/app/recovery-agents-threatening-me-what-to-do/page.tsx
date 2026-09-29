@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Recovery Agents Threatening Me? Legal Help | SettleLoans",
@@ -272,6 +273,8 @@ export default function RecoveryHarassmentPage() {
                                 </div>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="ipc-criminal-protections" className="scroll-mt-32 mb-20 p-12 bg-[#2E2E2E] rounded-[48px] shadow-2xl relative mt-20 text-white">
                             <h3 className="text-3xl md:text-4xl font-black mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter italic">

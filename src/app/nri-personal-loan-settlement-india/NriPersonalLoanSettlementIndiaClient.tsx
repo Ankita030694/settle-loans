@@ -34,6 +34,7 @@ import {
   Globe2,
   CreditCard,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 interface FAQItemProps {
   question: string;
@@ -453,6 +454,8 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                 Arrest at an airport is legally possible only if a criminal magistrate has issued a Non-Bailable Warrant (NBW) due to an individual repeatedly evading judicial summons in an active criminal prosecution (such as fraud or forgery under Section 420 IPC / Section 318 BNS). In standard loan disputes, banks operate strictly within civil and quasi-criminal recovery frameworks, where legal representation readily manages all court appearances without personal detention.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3 */}
             <section id="consular-poa-bridge" className="scroll-mt-28 mb-14">

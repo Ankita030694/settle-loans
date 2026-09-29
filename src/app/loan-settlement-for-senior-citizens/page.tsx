@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement for Senior Citizens in India | SettleLoans",
@@ -235,6 +236,8 @@ export default function SeniorCitizenLoanSettlementPage() {
                 Understanding this landscape is crucial because it helps frame why loan settlement is not just a financial choice but a necessity for survival. When your interest payments start exceeding your monthly pension, the situation is no longer sustainable. Recognizing the need for a professional settlement is the first step toward reclaiming your life.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="causes" className="scroll-mt-32 mb-12">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

@@ -44,6 +44,7 @@ import {
   Database,
   ArrowUpRight
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Stop Recovery Calls from Virtual Numbers | SettleLoans',
@@ -571,6 +572,8 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">The Supreme Court confirmed in the <em>Puttaswamy (2017)</em> case that privacy is a basic right under <strong>Article 21</strong>. No lender can subject debtors to non-stop digital stalking or automated spamming.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Vicarious Liability */}
             <section id="holding-lending-banks-vicariously-liable" className="space-y-4">

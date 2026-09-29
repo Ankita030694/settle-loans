@@ -27,6 +27,7 @@ import {
   BadgePercent,
   Coins
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Cheque Bounce Warrant for Loan Default | SettleLoans',
@@ -573,6 +574,8 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Supreme Court Guidelines */}
             <section id="supreme-court-guidelines-cheque-bounce-warrants" className="space-y-4">

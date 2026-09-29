@@ -26,6 +26,7 @@ import {
   UserCheck,
   Factory
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Rajkot | SettleLoans',
@@ -528,6 +529,8 @@ export default function PersonalLoanSettlementRajkotPage() {
                 Unsecured personal loans and digital credit lines have no mortgage charge on your plant, machines, or home. Lenders cannot seal workshops or auction assets without a civil court order. Civil suits in Gujarat courts take 3 to 7 years. Because of this, lenders prefer fast out-of-court OTS settlements.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Statutory Protections for Saurashtra Borrowers */}
             <section id="statutory-shields-promoter-protection" className="space-y-4">

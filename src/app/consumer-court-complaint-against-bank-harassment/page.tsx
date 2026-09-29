@@ -36,6 +36,7 @@ import {
   HeartPulse,
   DollarSign
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Consumer Court Case Against Bank Harassment | SettleLoans',
@@ -596,6 +597,8 @@ export default function ConsumerCourtBankHarassmentPage() {
                 Under the common law doctrine of <strong>vicarious liability</strong>, lending institutions cannot evade accountability by outsourcing debt collection to third-party recovery firms. The National Consumer Disputes Redressal Commission (NCDRC) has consistently held that because recovery agencies act under an explicit agency agreement for the financial benefit of the principal bank, any act of intimidation, defamation, or breach of statutory conduct by the agent is legally imputed directly to the bank.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Documenting Tortious Harassment & Evidentiary Threshold */}
             <section id="evidentiary-threshold-dcdrc-claims" className="space-y-4">

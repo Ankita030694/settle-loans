@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "10 Lakhs Loan Settlement in India | SettleLoans",
@@ -314,6 +315,8 @@ export default function TenLakhsLoanSettlementPage() {
                                 By presenting a cohesive hardship case, you are essentially providing the committee with the 'Justification' they need to approve your settlement. They want the file closed just as much as you do; you just need to give them the right data points to make it happen within their policy framework.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="hardship-proof" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">

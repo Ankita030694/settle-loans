@@ -29,6 +29,7 @@ import {
   Landmark,
   Percent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Jodhpur | SettleLoans',
@@ -600,6 +601,8 @@ export default function Page() {
                   The Rajasthan High Court at Jodhpur ruled under Article 226. Banks stay liable for agent actions. Coercive recovery methods are strictly banned.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: Statutory Legal Notice Defense in Jodhpur District Courts (Paota) */}
               <section id="paota-district-court-notice-defense" className="scroll-mt-24 mb-12">

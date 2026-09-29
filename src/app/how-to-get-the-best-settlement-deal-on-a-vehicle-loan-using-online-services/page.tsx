@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Vehicle Loan Settlement Guide in India | SettleLoans",
@@ -336,6 +337,8 @@ export default function VehicleLoanSettlementPage() {
                 However, repossession is also a headache for the bank. They have to pay yard fees, auctioneers, and manage the legal paperwork. Furthermore, the value of the vehicle depreciates every single day it sits in a yard. This is the 'Content Gap' in common knowledge that you can use to your advantage. By showing the bank that a settlement is faster and more certain than an auction, you can secure a favorable deal.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="step-by-step-process" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The 5 Step Settlement Process: From Default to Freedom</h3>

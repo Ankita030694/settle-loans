@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Submit Loan Settlement Offer to Lender | SettleLoans",
@@ -276,6 +277,8 @@ export default function SubmitLoanSettlementOfferPage() {
                 Your settlement offer should ideally be a One Time Settlement (OTS). While some banks allow 2-3 installments, the best discounts are reserved for those who can pay in one go. If you can only afford 30% of the total dues, that is your starting point. Do not promise 50% to "win" a settlement only to default on the settlement itself - this will make you ineligible for any future waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="documentation-prep" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 2: Building Your Hardship Evidence File</h3>

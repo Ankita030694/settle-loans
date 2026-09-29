@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "10 Crore Loan Settlement in India | SettleLoans",
@@ -189,6 +190,8 @@ export default function TenCroreLoanSettlementPage() {
                                 However, the IBC also provides a shield. The "Moratorium" period once a case is admitted stops all other recovery actions, including SARFAESI and civil suits. This provides a temporary breathing space to finalize a "Section 12A Withdrawal."
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="consortium-banking" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Consortium Debt Strategy: Harmonizing Multiple Lenders</h3>

@@ -25,6 +25,7 @@ import {
   faScaleUnbalancedFlip,
   faHandshake
 } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 
 export const metadata: Metadata = {
@@ -414,6 +415,8 @@ export default function NBFCSettlementPage() {
                 **The Speed Factor:** With an NBFC, you do not have the luxury of time. Ignoring notices can lead to an "Ex-Parte" Award against you very quickly. SettleLoans intervenes immediately to check this speed, ensuring due process is followed.
             </p>
           </section>
+
+            <LoanSettlementAssessmentFunnel />
 
           {/* Arbitration Deep Dive */}
           <section id="arbitration-trap" className="scroll-mt-32 mb-16">

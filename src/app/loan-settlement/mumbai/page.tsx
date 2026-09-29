@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Mumbai | SettleLoans",
@@ -240,6 +241,8 @@ export default function MumbaiLoanSettlementPage() {
               <p className="mb-6">When you appoint us, our Mumbai field team and legal experts leverage this proximity. We don't wait for your branch to call you; we initiate the dialog directly where the power lies. This "Top-Down" approach is why our Mumbai clients often see settlement figures that individual borrowers simply cannot achieve on their own. We understand the internal hierarchies of banks in BKC, allowing us to escalate matters when a settlement seems stuck at the lower levels.</p>
               <p className="mb-0 italic">Pro Tip: If you are an IT professional in BKC or a media person in Andheri, you are physically close to the solution. Don't let the distance between your debt and your relief feel like a canyon. We bridge that gap every single day.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="lok-adalat-roadmap" className="scroll-mt-32 mb-20">
               <h3 className="text-3xl font-black mb-8 text-black uppercase tracking-tight">Mumbai Lok Adalat 2026: Your Roadmap to Closure</h3>

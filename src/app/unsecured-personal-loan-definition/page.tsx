@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Unsecured Personal Loan Definition & Guide",
@@ -308,6 +309,8 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                                 Ultimately, the choice between a secured and an unsecured loan depends on your specific financial situation, the urgency of your need, and your willingness or ability to pledge assets. By recognizing the fundamental mechanisms that drive these products, borrowers can navigate the financial landscape with greater confidence and strategic foresight.
                             </p>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="core-characteristics" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Core Characteristics of Unsecured Personal Loans</h3>

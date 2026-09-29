@@ -35,6 +35,7 @@ import {
   AlertCircle,
   Car
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Car Loan Repossession & Shortfall Settlement | SettleLoans',
@@ -588,6 +589,8 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: RBI Master Directions & Mandatory Pre-Sale Notices */}
             <section id="rbi-master-directions-fair-practices" className="space-y-4">

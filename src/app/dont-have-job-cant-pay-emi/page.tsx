@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Lost Job & Can't Pay EMI? Relief Options | SettleLoans",
@@ -310,6 +311,8 @@ export default function JobLossLoanPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="job-loss-impact" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Why Job Loss is a "Genuine Hardship"</h3>

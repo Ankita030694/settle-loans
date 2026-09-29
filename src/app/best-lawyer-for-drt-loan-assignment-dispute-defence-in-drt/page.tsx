@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFileShield, faGavel, faBuildingColumns, faUserShield, faScaleBalanced, faShieldHalved } from "@fortawesome/free-solid-svg-icons";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "Lawyer for DRT Loan Assignment Disputes | SettleLoans",
@@ -297,6 +298,8 @@ export default function DRTLoanAssignmentPage() {
                                 </div>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="arc-mechanics" className="scroll-mt-32 mb-12">
                             <h3 className="text-3xl font-black mb-6">How Asset Reconstruction Companies Operate</h3>

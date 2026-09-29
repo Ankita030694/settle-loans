@@ -27,6 +27,7 @@ import {
   TrendingUp,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Trading & Crypto Loss Loan Settlement | SettleLoans',
@@ -575,6 +576,8 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* SECTION 3: Bank NPA Accounting & NPV Recovery Mechanics */}
             <section id="bank-npa-accounting-npv-recovery-model" className="scroll-mt-24">

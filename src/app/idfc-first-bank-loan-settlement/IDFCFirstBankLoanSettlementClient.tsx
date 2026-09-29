@@ -45,6 +45,7 @@ import {
   Smartphone,
   Monitor
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 const tocItems = [
   { id: 'idfc-retail-lending-delinquencies', title: '1. IDFC First Retail Portfolio & Default Lifecycle' },
@@ -371,6 +372,8 @@ export default function IDFCFirstBankLoanSettlementClient() {
                 By relying on an automated digital portal, borrowers accept sub-optimal terms dictated by bank algorithms. Engaging experienced debt settlement advocates levels the playing field, transforming an automated recovery confrontation into a legally protected, high-concession commercial resolution.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Legal Summons, Section 171 Lien & Harassment Shield */}
             <section id="statutory-notices-pssa-harassment-defense" className="scroll-mt-24 md:scroll-mt-28 space-y-4">

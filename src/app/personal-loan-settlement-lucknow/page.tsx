@@ -30,6 +30,7 @@ import {
   Landmark,
   Percent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Advocates in Lucknow | SettleLoans',
@@ -614,6 +615,8 @@ export default function Page() {
                   The Hon&apos;ble Allahabad High Court and its Lucknow Bench have consistently held across numerous authoritative judgments that financial institutions cannot adopt coercive, strong-arm, or extra-judicial measures for loan recovery. The court has repeatedly ruled that banks and NBFCs are vicariously liable for unlawful conduct, criminal intimidation, or harassment committed by their recovery agents, affirming that debt recovery must strictly follow established civil due process.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: Statutory Legal Notice Defense in Lucknow District Court */}
               <section id="statutory-notices-kaisarbagh-defense" className="scroll-mt-24 mb-12">

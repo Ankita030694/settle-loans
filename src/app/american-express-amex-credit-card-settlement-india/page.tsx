@@ -32,6 +32,7 @@ import {
   FileText,
   AlertTriangle,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Amex Credit Card Settlement in India | SettleLoans',
@@ -602,6 +603,8 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 On Amex Charge Cards, non-payment triggers default interest from the date of each purchase. An original ₹15 Lakh spend can grow to ₹24 Lakhs within a year. During an OTS, a full ledger audit separates real spending from penal interest. Legal advocates demand a 100% waiver on all penalty charges.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Delinquency Timeline & NPA Classification */}
             <section id="amex-delinquency-timeline-npa" className="scroll-mt-24 mb-12">

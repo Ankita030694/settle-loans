@@ -29,6 +29,7 @@ import {
   CheckCircle2,
   HeartHandshake,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Microfinance Loan Settlement Process & RBI Rules',
@@ -617,6 +618,8 @@ export default function MicrofinanceLoanSettlementPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Delinquency Lifecycle & Ind AS 109 NPA Provisioning */}
             <section id="mfi-delinquency-npa-accounting" className="scroll-mt-24 mb-12">

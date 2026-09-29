@@ -38,6 +38,7 @@ import {
   EyeOff,
   GraduationCap
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Stop Recovery Calls to Work & College | SettleLoans',
@@ -593,6 +594,8 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
                 In <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)</em>, the Supreme Court upheld privacy under <strong>Article 21 of the Constitution</strong>. Debt distress does not take away your personal dignity.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: RBI Fair Practices Code & Criminal Stalking Laws */}
             <section id="rbi-fair-practices-bns-stalking" className="space-y-4">

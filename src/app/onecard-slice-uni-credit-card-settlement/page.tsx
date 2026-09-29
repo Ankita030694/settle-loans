@@ -33,6 +33,7 @@ import {
   AlertTriangle,
   Smartphone,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'OneCard, Slice & Uni Card Settlement | SettleLoans',
@@ -649,6 +650,8 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Delinquency Timeline & NPA Provisioning */}
             <section id="delinquency-timeline-npa-stages" className="scroll-mt-24 mb-12">

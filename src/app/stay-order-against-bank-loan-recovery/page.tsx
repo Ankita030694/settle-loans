@@ -37,6 +37,7 @@ import {
   Wallet,
   ArrowUpRight
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Stay Order Against Loan Recovery: Guide | SettleLoans',
@@ -622,6 +623,8 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
                 Similarly, in landmark rulings like <strong>Sardar Trilok Singh (1979)</strong> and <strong>Citicorp Maruti Finance Ltd. (2012)</strong>, the Supreme Court took a firm stance. The Court ruled that forcible asset repossession or physical recovery without a court decree violates civil law. Such conduct constitutes criminal offenses punishable under the IPC and BNS.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Documenting Coercive Harassment */}
             <section id="documenting-coercive-harassment-legal-breach" className="space-y-4">

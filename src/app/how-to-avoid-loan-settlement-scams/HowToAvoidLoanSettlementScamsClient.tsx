@@ -32,6 +32,7 @@ import {
   CreditCard,
   FileText,
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -554,6 +555,8 @@ export default function HowToAvoidLoanSettlementScamsClient() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Forensic OTS Letter Verification */}
             <section id="forensic-ots-audit" className="scroll-mt-28 mb-14">

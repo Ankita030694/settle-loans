@@ -39,6 +39,7 @@ import {
   CalendarX,
   Sun
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Can Recovery Agents Visit on Holidays? | SettleLoans',
@@ -522,6 +523,8 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
                 When agents visit on holidays without written notice, they break RBI rules. You can quote these rules, refuse entry, and tell them to send written letters.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Privacy Rights & Sec 329 BNS Trespass */}
             <section id="constitutional-privacy-criminal-trespass" className="space-y-4">

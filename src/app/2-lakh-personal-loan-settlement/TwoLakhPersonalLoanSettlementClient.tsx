@@ -41,6 +41,7 @@ import {
   UserCheck,
   AlertCircle
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -425,6 +426,8 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                 During the early Special Mention Account phases (SMA-0 to SMA-2), the lender treats the overdue amount as temporary cash-flow friction and routinely refuses any concession on principal or interest. However, once default crosses <strong>90 Days Past Due</strong>, the account is reclassified as a Non-Performing Asset (NPA), forcing the lender to lock away a mandatory 25% provisioning charge from operating profits. When the debt ages past 12 months, the bank completes a 100% balance-sheet provision, writing off the asset entirely. At this stage, any recovery achieved through an OTS settlement is treated as pure write-back profit, creating optimal leverage for deep compromise waivers.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: The Mathematical Haircut Formula & Realistic Slabs */}
             <section id="mathematical-haircut-formula-slabs" className="scroll-mt-24">

@@ -19,6 +19,7 @@ import {
   Check,
   Sparkles
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -319,6 +320,8 @@ export default function MultipleAppLoanSettlementClient() {
                 The continuous psychological barrage induced severe panic attacks, acute sleep deprivation, and extreme workplace anxiety, pushing Rahul to the brink of complete emotional collapse. Trapped in a state of terror, he attempted to negotiate piecemeal with individual telecallers, only to be deceived into making small token payments that were entirely absorbed into non-statutory penal charges without reducing his core outstanding principal debt.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Regulatory Red Lines */}
             <section id="rbi-digital-lending-violations" className="mb-10 scroll-mt-24">

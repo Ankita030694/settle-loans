@@ -29,6 +29,7 @@ import {
   Landmark,
   Percent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Kanpur | SettleLoans',
@@ -606,6 +607,8 @@ export default function Page() {
                   The Hon&apos;ble Allahabad High Court has ruled that banks cannot use force or extra-judicial tactics to recover debt. Lenders remain liable for any harassment by recovery agents. All debt recovery must follow due legal process.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: Statutory Legal Notice Defense in Kanpur Nagar District Court */}
               <section id="kanpur-nagar-court-notice-defense" className="scroll-mt-24 mb-12">

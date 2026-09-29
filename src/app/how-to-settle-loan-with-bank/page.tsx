@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: "How to Settle Loan with Bank in India | SettleLoans",
@@ -197,6 +198,8 @@ export default function HowToSettleLoanWithBankPage() {
                                 ))}
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="step-by-step" className="scroll-mt-32 mb-16 text-white bg-[#2E2E2E] p-12 rounded-[40px] border-l-[12px] border-[#1F5EFF]">
                             <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight">The 6-Step Legal Process</h3>

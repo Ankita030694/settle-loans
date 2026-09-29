@@ -31,6 +31,7 @@ import {
   Clock,
   Sparkles
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Full Settlement vs Compromise Settlement | SettleLoans',
@@ -573,6 +574,8 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
                 </ul>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Section 3: Bank Accounting Mechanics: NPA Provisioning & Write-Offs */}
             <section id="bank-accounting-provisions-write-off-mechanics" className="space-y-4">

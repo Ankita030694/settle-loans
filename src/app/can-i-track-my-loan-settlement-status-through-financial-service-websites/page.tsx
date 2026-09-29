@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Track Loan Settlement Status Online | SettleLoans",
@@ -289,6 +290,8 @@ export default function TrackLoanSettlementStatusPage() {
                 By actively tracking your status through a professional service website, you ensure that every step of the process is documented and every milestone is verified. This provides you with the peace of mind that your journey toward a debt-free life is actually moving in the right direction.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="mediator-platforms" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Role of Financial Service Providers</h3>

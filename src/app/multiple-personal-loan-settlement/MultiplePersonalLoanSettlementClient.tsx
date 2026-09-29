@@ -28,6 +28,7 @@ import {
   X,
   ExternalLink
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 const TOC_SECTIONS = [
   { id: 'multi-debt-crisis', title: '1. Anatomy of the Multi-Debt Spiral in India' },
@@ -372,6 +373,8 @@ export default function MultiplePersonalLoanSettlementClient() {
                 </div>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* SECTION 4: 4-Sided Bordered Comparison Table */}
             <section id="comparison-matrix" className="mb-10 scroll-mt-24">

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Punjab | SettleLoans",
@@ -305,6 +306,8 @@ export default function PunjabLoanSettlementPage() {
               <p>This reliance on credit cards for luxury consumption and lifestyle maintenance has created a new kind of urban debt in cities like Jalandhar and Phagwara. When the expected remittance is delayed or when the interest on multiple credit cards starts to compound, the situation spiral out of control. Many people find themselves using one credit card to pay the minimum due on another, a classic sign of a debt trap.</p>
               <p>We specialize in understanding these nuanced financial patterns. We help families reconcile their lifestyle choices with their actual financial capacity by settling past debts and creating a sustainable path forward. Our approach considers the seasonal nature of income and the specific pressure of NRI-linked financial obligations, ensuring a settlement that is realistic for the long term.</p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="kcc-crisis" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl font-black mb-6">The Crisis of Agricultural Debt and Kisan Credit Cards (KCC)</h3>

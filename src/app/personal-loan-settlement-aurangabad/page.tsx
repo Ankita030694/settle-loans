@@ -29,6 +29,7 @@ import {
   Landmark,
   Percent
 } from 'lucide-react';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Lawyer Aurangabad | SettleLoans',
@@ -628,6 +629,8 @@ export default function Page() {
                   The Bombay High Court (Aurangabad Bench) strictly prohibits high-handed debt collection. Judicial rulings confirm that recovery must adhere to statutory due process and borrower dignity.
                 </p>
               </section>
+
+            <LoanSettlementAssessmentFunnel />
 
               {/* Section 3: District Court & Section 138/25 Defense */}
               <section id="adalat-road-court-notice-defense" className="scroll-mt-24 mb-12">

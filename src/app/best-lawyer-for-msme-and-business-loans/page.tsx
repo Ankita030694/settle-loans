@@ -20,6 +20,7 @@ import {
     faTruckFast
 } from '@fortawesome/free-solid-svg-icons';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
     title: 'Lawyer for MSME & Business Loans in India | SettleLoans',
@@ -261,6 +262,8 @@ const MSMEAndBusinessLoansPage = () => {
                                 </p>
                             </div>
                         </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                         <section id="sarfaesi-msme" className="scroll-mt-32 mb-16">
                             <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Fighting SARFAESI: Protecting Your Assets</h3>

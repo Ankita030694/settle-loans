@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: 'CIBIL Dispute: Wrong Overdue Entry Process | SettleLoans',
@@ -265,6 +266,8 @@ export default function CibilDisputePage() {
                 It's essential not just to accept these penalties as a fact of life but actively fight to clear the data. Never assume that the error will "expire" quickly. Standard negative remarks can stay on your record for up to 7 years.
               </p>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Gray Insight Box */}
             <section id="why-it-happens" className="scroll-mt-32 mb-16">

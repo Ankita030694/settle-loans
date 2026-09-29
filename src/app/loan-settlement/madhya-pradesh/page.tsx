@@ -14,6 +14,7 @@ import {
   faUserShield, 
   faTriangleExclamation 
 } from '@fortawesome/free-solid-svg-icons';
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Loan Settlement in Madhya Pradesh | Legal Debt Relief",
@@ -245,6 +246,8 @@ const Page = () => {
                         <p>Furthermore, the Act mandates that every money lender in Madhya Pradesh must be registered and hold a valid license. Any loan provided by an unregistered lender is legally unrecoverable. This means that if you have borrowed from an unlicensed source in places like Satna or Rewa, the lender cannot use the legal machinery to force repayment. At SettleLoans, we help our clients audit their loan agreements to identify such legal lapses. When we find that a lender has violated the MP Money Lenders Act, we use this information to negotiate aggressive waivers, often reducing the debt to just a fraction of the original claim.</p>
                         <p>The Act also prohibits the use of coercive tactics and requires lenders to maintain transparent accounts. Many private lenders in small towns often use 'signed blank papers' or 'undated cheques' as security. These practices are strictly regulated and often illegal under the Act. We help you take the necessary preventive steps to protect yourself from the misuse of such documents, ensuring that your legal standing remains secure while we work on a final settlement.</p>
                     </section>
+
+            <LoanSettlementAssessmentFunnel />
 
                     <section id="lok-adalat-mp-solutions" className="scroll-mt-32 mb-16">
                         <h3 className="text-3xl font-black mb-6">Leveraging Lok Adalats for Debt Resolution in MP</h3>
