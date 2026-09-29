@@ -5,6 +5,7 @@ import Image from 'next/image';
 import CompanySection from '@/components/CompanySection';
 import StatsStrip from '@/components/StatsStrip';
 import SidebarTOC from '@/components/SidebarTOC';
+import LoanSettlementAssessmentFunnel from '@/components/LoanSettlementAssessmentFunnel';
 import {
   ShieldCheck,
   AlertTriangle,
@@ -1140,5 +1141,4 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
       </div>
     </div>
   );
-import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 }
