@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# GSC Query Dumps
+vehicle_auto_car_movable_assets_queries.csv

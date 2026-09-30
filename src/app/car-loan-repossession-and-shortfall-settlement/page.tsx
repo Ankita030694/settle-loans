@@ -38,7 +38,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Car Loan Repossession & Shortfall Settlement | SettleLoans',
+  title: 'Car Loan Repossession & Shortfall | SettleLoans',
   description: 'Vehicle seized or facing a car loan shortfall recovery notice? Learn Supreme Court rulings against forceful repossession.',
   keywords: [
     'car loan repossession rules and settlement',
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement',
   },
   openGraph: {
-    title: 'Car Loan Repossession & Shortfall Settlement | SettleLoans',
+    title: 'Car Loan Repossession & Shortfall | SettleLoans',
     description: 'Vehicle seized or facing a car loan shortfall recovery notice? Learn Supreme Court rulings against forceful repossession.',
     url: 'https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement',
     siteName: 'SettleLoans',
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Car Loan Repossession & Shortfall Settlement | SettleLoans',
+    title: 'Car Loan Repossession & Shortfall | SettleLoans',
     description: 'Vehicle seized or facing a car loan shortfall recovery notice? Learn Supreme Court rulings against forceful repossession.',
     images: ['https://www.settleloans.in/images/infographics/car-loan-repossession-and-shortfall-settlement.jpg'],
   },
@@ -323,6 +323,22 @@ const jsonLdGraph = {
             "@type": "Answer",
             "text": "Under RBI Circular RBI/2023-24/60, all regulated commercial banks and NBFCs are legally obligated to release all original documentation, remove hypothecation marks with regional transport offices (RTO), and issue an unambiguous No Dues Certificate within 30 days of settlement completion. Failure to do so makes the lender liable to pay compensation of ₹5,000 per day of delay to the borrower."
           }
+        },
+        {
+          "@type": "Question",
+          "name": "How does the car loan shortfall deficit calculator work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A car loan shortfall deficit calculator compares your total outstanding loan balance against the net vehicle auction proceeds after subtracting statutory depreciation and repossession costs. If the auction was conducted below fair market value, borrowers can legally challenge the deficit to settle the residual balance at a 50% to 100% waiver."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if I receive a car loan shortfall recovery notice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "When you receive a car loan shortfall recovery notice, do not panic or pay blindly. Demand an audited certified copy of the vehicle auction valuation report, verify whether mandatory 30-day pre-sale notices were served, and engage legal advocates to contest inflated penal interest and negotiate a final zero-balance settlement."
+          }
         }
       ]
     },
@@ -423,7 +439,7 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
           </div>
 
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Car Loan Repossession Rules &amp; Shortfall Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">Supreme Court Protections, Illegal Seizure Defense &amp; ₹0 Residual Settlement Guide</span>
+            Car Loan Repossession Rules &amp; <span className="text-[#3b82f6] md:text-[#60a5fa]">Shortfall Settlement Guide</span>
           </h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
@@ -901,6 +917,7 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
                 {(jsonLdGraph['@graph'][4] as any).mainEntity.map((faq: any, idx: number) => (
                   <details
                     key={idx}
+                    name="faq-accordion"
                     className="group border border-slate-200 rounded-2xl overflow-hidden bg-white shadow-sm transition-all"
                   >
                     <summary className="w-full p-4 sm:p-5 flex justify-between items-center text-left cursor-pointer list-none focus:outline-none gap-3 hover:bg-slate-50">

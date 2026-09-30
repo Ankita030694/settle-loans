@@ -73,7 +73,9 @@ export default function Page() {
         { "@type": "Question", "name": "Are musclemen allowed for loan recovery in India?", "acceptedAnswer": { "@type": "Answer", "text": "Absolutely not. The Supreme Court of India and the RBI have strictly banned the use of musclemen, goons, or any physical force for loan recovery." } },
         { "@type": "Question", "name": "What documents should the repo agent show before seizing the car?", "acceptedAnswer": { "@type": "Answer", "text": "They must show a valid authorization letter from the bank, a copy of the final notice issued to you, and their valid identity card." } },
         { "@type": "Question", "name": "Can I claim compensation for illegal seizure?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, if the repossession was illegal, involved force, or humiliated you publicly, you can file a case in the consumer court or civil court claiming damages." } },
-        { "@type": "Question", "name": "How can SettleLoan help if my car is seized?", "acceptedAnswer": { "@type": "Answer", "text": "SettleLoan provides legal guidance to challenge illegal vehicle seizures, negotiates with the bank on your behalf, and helps secure the release of your vehicle." } }
+        { "@type": "Question", "name": "How can SettleLoan help if my car is seized?", "acceptedAnswer": { "@type": "Answer", "text": "SettleLoan provides legal guidance to challenge illegal vehicle seizures, negotiates with the bank on your behalf, and helps secure the release of your vehicle." } },
+        { "@type": "Question", "name": "How to get hypothecation removed from RC after settling a defaulted vehicle?", "acceptedAnswer": { "@type": "Answer", "text": "Upon completing settlement, the bank must issue a No Objection Certificate (NOC) and two signed copies of RTO Form 35 (Notice of Termination of Hypothecation Agreement). Submit these to your local RTO or online via Parivahan Sewa to cancel the financier's endorsement on your vehicle RC." } },
+        { "@type": "Question", "name": "Can recovery agents demand vehicle handover without a police intimation letter?", "acceptedAnswer": { "@type": "Answer", "text": "No. RBI Master Directions mandate that recovery agents or repossession teams must serve prior written intimation to the local police station before taking custody of any hypothecated asset. Demanding vehicle handover without verified police acknowledgement is a violation of law." } }
       ]
     }
   ];
@@ -483,6 +485,26 @@ export default function Page() {
                   </summary>
                   <div className="mt-4 text-gray-600 leading-relaxed">
                     SettleLoan provides legal guidance to challenge illegal vehicle seizures, negotiates with the bank on your behalf, and helps secure the release of your vehicle.
+                  </div>
+                </details>
+
+                <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
+                  <summary className="font-bold text-lg text-[#2E2E2E] flex justify-between items-center outline-none">
+                    How to get hypothecation removed from RC after settling a defaulted vehicle?
+                    <span className="text-[#1F5EFF] group-open:rotate-45 transition-transform text-2xl">+</span>
+                  </summary>
+                  <div className="mt-4 text-gray-600 leading-relaxed">
+                    Upon completing settlement, the bank must issue a No Objection Certificate (NOC) and two signed copies of RTO Form 35 (Notice of Termination of Hypothecation Agreement). Submit these to your local RTO or online via Parivahan Sewa to cancel the financier&apos;s endorsement on your vehicle RC.
+                  </div>
+                </details>
+
+                <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
+                  <summary className="font-bold text-lg text-[#2E2E2E] flex justify-between items-center outline-none">
+                    Can recovery agents demand vehicle handover without a police intimation letter?
+                    <span className="text-[#1F5EFF] group-open:rotate-45 transition-transform text-2xl">+</span>
+                  </summary>
+                  <div className="mt-4 text-gray-600 leading-relaxed">
+                    No. RBI Master Directions mandate that recovery agents or repossession teams must serve prior written intimation to the local police station before taking custody of any hypothecated asset. Demanding vehicle handover without verified police acknowledgement is a violation of law.
                   </div>
                 </details>
 
