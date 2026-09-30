@@ -5,6 +5,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
     return [
         {
+            url: `${baseUrl}/two-wheeler-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/commercial-vehicle-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/vehicle-repossession-laws-india`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/car-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
             url: `${baseUrl}/personal-loan-settlement-salem`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
