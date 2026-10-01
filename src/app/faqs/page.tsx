@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Metadata } from "next";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 
 export const metadata: Metadata = {
@@ -277,6 +278,8 @@ export default function FAQsPage() {
 
         {/* Main Content Layout */}
         <div id="content" className="w-full max-w-7xl mx-auto px-4 md:px-8 lg:px-12 py-16 text-[var(--color-text-body)]">
+
+          <LoanSettlementAssessmentFunnel />
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {/* Card 1 */}

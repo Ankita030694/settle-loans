@@ -4,7 +4,6 @@ import localFont from "next/font/local";
 import "./globals.css";
 import Footer from "@/components/Footer";
 import WhatsAppWidget from "@/components/WhatsAppWidget";
-import InteractiveLeadModal from "@/components/InteractiveLeadModal";
 import PageViewTracker from "@/components/PageViewTracker";
 import { Analytics } from "@vercel/analytics/next";
 import Script from "next/script";
@@ -131,7 +130,6 @@ export default function RootLayout({
              {children}
           </div>
           <Footer />
-          <InteractiveLeadModal />
           <WhatsAppWidget />
           <Analytics />
         </ReCaptchaWrapper>

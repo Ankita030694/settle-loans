@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from '@/components/LoanSettlementAssessmentFunnel';
 import { ShieldCheck, Scale, AlertTriangle, FileText, CheckCircle2, IndianRupee, AlertCircle, PhoneCall, Check, Star, ArrowRight, BookOpen } from 'lucide-react';
 
 export const metadata = {
@@ -204,6 +205,8 @@ export default function PersonalBankruptcyIndia() {
                 </p>
               </div>
             </div>
+
+            <LoanSettlementAssessmentFunnel />
 
             <div id="understanding-ibc" className="scroll-mt-32 mb-16">
               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Personal Insolvency under IBC</h3>

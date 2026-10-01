@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Two-Wheeler & Bike Loan Settlement | SettleLoans",
@@ -280,6 +281,8 @@ export default function TwoWheelerLoanSettlementPage() {
                 </p>
               </div>
             </section>
+
+            <LoanSettlementAssessmentFunnel />
 
             <section id="can-bike-loans-be-settled" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
   title: "Commercial Vehicle Loan Settlement | SettleLoans",
@@ -280,6 +281,11 @@ export default function CommercialVehicleLoanSettlementPage() {
                 </p>
               </div>
             </section>
+
+            {/* In-Page Interactive Assessment Funnel */}
+            <div className="mb-16">
+              <LoanSettlementAssessmentFunnel />
+            </div>
 
             <section id="asset-classes-covered" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">

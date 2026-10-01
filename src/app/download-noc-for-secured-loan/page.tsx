@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from '@/components/LoanSettlementAssessmentFunnel';
 
 export const metadata: Metadata = {
   title: 'Download NOC for Secured Loans Online | SettleLoans',
@@ -139,6 +140,11 @@ export default function DownloadNOCPage() {
                   Fortunately, navigating the <strong className="text-[#2E2E2E]">vehicle loan NOC online</strong> process has never been easier. We will guide you on how to bypass branch visits and handle the paperwork digitally.
                 </p>
               </div>
+            </div>
+
+            {/* In-Page Interactive Assessment Funnel */}
+            <div className="mb-16">
+              <LoanSettlementAssessmentFunnel />
             </div>
 
             {/* Digital vs Physical NOC */}

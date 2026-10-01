@@ -2,6 +2,7 @@
 
 import React, { useEffect, useState } from 'react';
 import Link from 'next/link';
+import LoanSettlementAssessmentFunnel from '@/components/LoanSettlementAssessmentFunnel';
 
 const TABLE_OF_CONTENTS = [
   { id: 'introduction', label: 'Introduction to Personal Loan Debt Relief' },
@@ -207,6 +208,8 @@ export default function PersonalLoanDebtSettlementClient() {
                   className="w-full h-auto object-cover object-center m-0" 
                 />
               </div>
+
+              <LoanSettlementAssessmentFunnel />
 
               <h3 id="debt-settlement-vs-consolidation" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 Debt Settlement vs. Consolidation

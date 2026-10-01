@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
+import LoanSettlementAssessmentFunnel from '@/components/LoanSettlementAssessmentFunnel';
 
 export const metadata: Metadata = {
   title: "Why EMI Payments Keep Failing: NACH Bounces Explained",
@@ -263,6 +264,8 @@ export default function WhyEmiFailsPage() {
                 </p>
               </div>
             </div>
+
+            <LoanSettlementAssessmentFunnel />
 
             {/* Blue Important Box */}
             <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
