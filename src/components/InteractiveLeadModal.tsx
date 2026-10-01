@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect, useCallback } from 'react';
 import { usePathname } from 'next/navigation';
-import { X, Scale } from 'lucide-react';
+import { X } from 'lucide-react';
 import InteractiveLeadFunnel from './InteractiveLeadFunnel';
 
 interface ModalDetailEvent extends Event {
@@ -12,13 +12,47 @@ interface ModalDetailEvent extends Event {
   };
 }
 
+/**
+ * Checks if current pathname is a utility, compliance, transactional, or admin route
+ * where interactive lead popups must strictly NEVER appear.
+ */
+export function isUtilityOrExcludedRoute(path?: string | null): boolean {
+  if (!path) return false;
+  const p = path.toLowerCase();
+
+  // Exact matches for utility, legal compliance, and index sitemap pages
+  if (
+    p === '/contact' ||
+    p === '/thank-you' ||
+    p === '/privacy-policy' ||
+    p === '/terms-and-conditions' ||
+    p === '/all-queries' ||
+    p === '/html-sitemap' ||
+    p === '/sitemap.xml' ||
+    p === '/robots.txt'
+  ) {
+    return true;
+  }
+
+  // Prefix matches for administrative, author profiles, and backend API routes
+  if (
+    p.startsWith('/admin') ||
+    p.startsWith('/authors') ||
+    p.startsWith('/api')
+  ) {
+    return true;
+  }
+
+  return false;
+}
+
 export default function InteractiveLeadModal() {
   const [isOpen, setIsOpen] = useState<boolean>(false);
   const [activeTopic, setActiveTopic] = useState<string | undefined>(undefined);
   const [initialStep, setInitialStep] = useState<number>(1);
   const pathname = usePathname();
 
-  // Helper to safely check if popup is dismissed or form already submitted
+  // Helper to safely check if popup is dismissed or form already submitted in this session
   const isBlockedBySession = useCallback(() => {
     if (typeof window === 'undefined') return true;
     try {
@@ -32,8 +66,23 @@ export default function InteractiveLeadModal() {
     }
   }, []);
 
-  // Close modal and set session memory so it does NOT repeat automatically
-  const handleClose = () => {
+  // Helper to check if user is actively typing or interacting with an on-page inline funnel
+  const isInteractingWithInlineFunnel = useCallback(() => {
+    if (typeof window === 'undefined') return false;
+    try {
+      const isFunnelActive = sessionStorage.getItem('sl_funnel_active') === 'true';
+      const activeEl = document.activeElement;
+      const isInsideInlineAssessment = Boolean(
+        activeEl && document.getElementById('settlement-assessment')?.contains(activeEl)
+      );
+      return isFunnelActive || isInsideInlineAssessment;
+    } catch (e) {
+      return false;
+    }
+  }, []);
+
+  // Close modal and remember dismissal in session so it never auto-repeats annoying popups
+  const handleClose = useCallback(() => {
     setIsOpen(false);
     if (typeof window !== 'undefined') {
       try {
@@ -42,11 +91,14 @@ export default function InteractiveLeadModal() {
         // ignore storage errors
       }
     }
-  };
+  }, []);
 
-  // Custom Event listener: allows ANY button, link, or script site-wide to open the modal
+  // Custom Event Listener: allows ANY button, link, or script site-wide to trigger the modal
   useEffect(() => {
     const handleOpenEvent = (e: ModalDetailEvent) => {
+      // Never open on utility/admin routes even if triggered via event
+      if (isUtilityOrExcludedRoute(pathname)) return;
+
       if (e.detail?.topic) {
         setActiveTopic(e.detail.topic);
       }
@@ -63,34 +115,57 @@ export default function InteractiveLeadModal() {
       window.removeEventListener('open-lead-modal', handleOpenEvent as EventListener);
       window.removeEventListener('open-interactive-lead-modal', handleOpenEvent as EventListener);
     };
-  }, []);
+  }, [pathname]);
 
-  // Smart non-intrusive auto-trigger with session memory
+  // Global Click Delegation: Enables buttons with [data-open-modal], [data-lead-modal],
+  // .js-open-lead-modal, or href="#lead-assessment" / href="#lead-modal" to open the modal
   useEffect(() => {
-    // Never auto-popup on contact, thank-you, or admin pages
-    if (
-      pathname === '/contact' || 
-      pathname === '/thank-you' || 
-      pathname?.startsWith('/admin')
-    ) {
+    const handleGlobalClick = (e: MouseEvent) => {
+      if (isUtilityOrExcludedRoute(pathname)) return;
+
+      const target = (e.target as HTMLElement)?.closest(
+        '[data-open-modal], [data-lead-modal], .js-open-lead-modal, a[href="#lead-assessment"], a[href="#lead-modal"]'
+      );
+
+      if (target) {
+        e.preventDefault();
+        const topic = target.getAttribute('data-topic') || undefined;
+        const stepAttr = target.getAttribute('data-step');
+        const step = stepAttr ? parseInt(stepAttr, 10) : 1;
+
+        if (topic) setActiveTopic(topic);
+        if (step && !isNaN(step)) setInitialStep(step);
+        setIsOpen(true);
+      }
+    };
+
+    document.addEventListener('click', handleGlobalClick);
+    return () => document.removeEventListener('click', handleGlobalClick);
+  }, [pathname]);
+
+  // Smart non-intrusive auto-triggers with session memory
+  useEffect(() => {
+    // 1. Strictly block all utility, admin, contact, and compliance pages
+    if (isUtilityOrExcludedRoute(pathname)) {
       setIsOpen(false);
       return;
     }
 
+    // 2. Block if already dismissed or submitted
     if (isBlockedBySession()) {
       return;
     }
 
     // Timer trigger: 35 seconds of engaged reading
     const timer = setTimeout(() => {
-      if (!isBlockedBySession()) {
+      if (!isBlockedBySession() && !isInteractingWithInlineFunnel()) {
         setIsOpen(true);
       }
     }, 35000);
 
-    // Scroll depth trigger: when user scrolls past 50% of the page
+    // Scroll depth trigger: when user scrolls past 55% of the page
     const handleScroll = () => {
-      if (isBlockedBySession() || isOpen) return;
+      if (isBlockedBySession() || isOpen || isInteractingWithInlineFunnel()) return;
       const scrollTotal = document.documentElement.scrollHeight - window.innerHeight;
       if (scrollTotal > 0) {
         const scrolledPercent = (window.scrollY / scrollTotal) * 100;
@@ -101,9 +176,9 @@ export default function InteractiveLeadModal() {
       }
     };
 
-    // Exit intent trigger on desktop (user cursor moves towards browser tab/exit)
+    // Exit intent trigger on desktop (user cursor moves toward browser tab/exit)
     const handleMouseLeave = (e: MouseEvent) => {
-      if (isBlockedBySession() || isOpen) return;
+      if (isBlockedBySession() || isOpen || isInteractingWithInlineFunnel()) return;
       if (e.clientY <= 10) {
         setIsOpen(true);
         document.removeEventListener('mouseleave', handleMouseLeave);
@@ -118,7 +193,7 @@ export default function InteractiveLeadModal() {
       window.removeEventListener('scroll', handleScroll);
       document.removeEventListener('mouseleave', handleMouseLeave);
     };
-  }, [pathname, isOpen, isBlockedBySession]);
+  }, [pathname, isOpen, isBlockedBySession, isInteractingWithInlineFunnel]);
 
   // Lock body scroll and handle ESC key
   useEffect(() => {
@@ -137,7 +212,7 @@ export default function InteractiveLeadModal() {
       window.removeEventListener('keydown', handleKeyDown);
       document.body.style.overflow = 'unset';
     };
-  }, [isOpen]);
+  }, [isOpen, handleClose]);
 
   return (
     <>
