@@ -587,7 +587,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Post-Settlement Reporting Gaps &amp; ₹0 Balance</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement Reporting Failures</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement Reporting Failures</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In a One-Time Settlement, the borrower and lender agree on a discounted payment. The borrower pays the agreed amount. The lender waives the rest of the principal, interest. And fines.
               </p>
@@ -656,7 +656,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Statutory Protections &amp; Legal Framework</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">3. CICRA 2005 &amp; Statutory Bureau Protections</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">3. CICRA 2005 &amp; Statutory Bureau Protections</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrower rights for credit report accuracy are protected under CICRA 2005 and its 2006 Rules. These laws give borrowers legal power to fix wrong records.
               </p>
@@ -677,7 +677,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. Lender Accounting Friction &amp; Valuation Framework</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Lender Accounting &amp; Bureau Update Delays</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Lender Accounting &amp; Bureau Update Delays</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Credit bureau updates often stall due to internal bank processes. Under RBI IRACP norms and Ind AS 109 rules, bad loans require heavy financial reserves.
               </p>
@@ -716,9 +716,9 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Statutory Bureau Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         CRIF High Mark &amp; Equifax Loan Settlement Dispute Resolution Workflow
-                      </h4>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -765,7 +765,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step Dispute Execution Manual</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to File an Online Dispute with CRIF High Mark and</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to File an Online Dispute with CRIF High Mark and</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Filing a credit bureau dispute requires clear proof and following official steps. Follow this six-step guide:
               </p>
@@ -773,10 +773,10 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Getting Bureau Reports and ID Numbers.
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     First, get fresh credit reports from both bureaus. Note the Report ID for CRIF High Mark. Note the 9-digit CRN for Equifax. You need these numbers to open a dispute.
                   </p>
@@ -784,10 +784,10 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Gathering Settlement Proof.
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Save clear PDF scans of three documents: your official OTS Sanction Letter, bank payment receipts with UTR numbers. And your formal No Dues Certificate.
                   </p>
@@ -795,10 +795,10 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting on the CRIF High Mark Portal.
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Go to the CRIF High Mark dispute portal (<em>crifhighmark.com</em>). Enter your details and Report ID. Choose the settled account, select the balance error option, upload your PDFs. And save the Service Request number.
                   </p>
@@ -806,10 +806,10 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Submitting on the Equifax India Portal.
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Visit the Equifax India dispute portal (<em>equifax.co.in</em>). Enter your CRN, PAN. And loan details. Upload your settlement letter and NDC. You can also email a copy to <em>ecissupport@equifax.com</em>.
                   </p>
@@ -817,10 +817,10 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Sending Notice to the Lender&apos;s Nodal Officer.
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Bureaus send disputes to lenders for checks. Send a formal notice to the lender&apos;s Principal Nodal Officer under CICRA Section 21. Mention your ticket numbers to trigger the 21-day timeline.
                   </p>
@@ -828,10 +828,10 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Getting Free Updated Credit Reports.
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     After 30 days, download fresh reports from CRIF and Equifax. Under RBI rules, bureaus must give you a free report showing ₹0 balance and &apos;Settled&apos. status.
                   </p>
@@ -845,7 +845,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. RBI Mandatory Timelines &amp; ₹100/Day Penalty</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Mandatory 30-Day Resolution Window</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Mandatory 30-Day Resolution Window</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In the past, lenders and bureaus blamed each other for delays. To solve this, the RBI issued Circular RBI/2023-24/72 (DOR.MCS.REC.48/01.01.001/2023-24) to enforce strict dispute timelines.
               </p>
@@ -910,7 +910,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Document Forensics &amp; NDC Verification</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter &amp; No Dues Certificate (NDC) Forensic Audit</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter &amp; No Dues Certificate (NDC) Forensic Audit</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Submitting incomplete settlement papers can stall a dispute. Unofficial receipts from collection agents are not accepted by credit bureaus.
               </p>
@@ -934,7 +934,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. Score Trajectory &amp; 18-Month Recovery Plan</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CRIF High Mark &amp; Equifax Score Trajectory Post-Settlement &amp;</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CRIF High Mark &amp; Equifax Score Trajectory Post-Settlement &amp;</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Fixing a bureau dispute will not jump your score to 800 overnight. Changing the status to &apos;Settled&apos. with a ₹0 balance stops monthly damage and begins credit recovery.
               </p>
@@ -958,7 +958,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Advocacy &amp; Representation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers Trust SettleLoans for Bureau Disputes</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers Trust SettleLoans for Bureau Disputes</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Dealing with credit bureaus and lenders requires legal precision. SettleLoans audits loan ledgers, files CICRA Section 21 disputes. And escalates cases to the RBI Ombudsman. We ensure your CRIF and Equifax reports reflect a ₹0 balance.
               </p>
@@ -975,7 +975,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: CRIF High Mark &amp; Equifax Settlement Disputes</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: CRIF High Mark &amp; Equifax Settlement Disputes</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1001,10 +1001,10 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1066,10 +1066,10 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Credit &amp; Debt Settlement Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/cibil-dispute-wrong-overdue-entry"

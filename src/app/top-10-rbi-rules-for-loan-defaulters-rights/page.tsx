@@ -543,9 +543,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
 
             {/* Section 2: Calling Hours, Privacy & Harassment Bans */}
             <section id="calling-hours-privacy-harassment-bans" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Calling Hours (8 AM–7 PM) & Anti-Harassment Directives
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Collection notices are strictly regulated. To curtail predatory tactics, the RBI issued Circular RBI/2022-23/108 on Recovery Agents. Lenders and their agencies are barred from calling before 8:00 AM or after 7:00 PM, and cannot contact third parties without consent.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -597,18 +597,18 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
 
             {/* Section 3: Civil Immunity & Section 420 IPC Myth */}
             <section id="civil-default-immunity-section-420-myth" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Protections Against Criminalization: Section 420 Myth
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A common intimidation tactic involves sending fake police notices or arrest warrants over WhatsApp. Recovery agents often cite Section 420 (Cheating) or Section 406 (Criminal Breach of Trust) of the Indian Penal Code (IPC), threatening imminent imprisonment.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under Indian law, financial default arising from inability to pay does not constitute criminal cheating. To establish an offense under Section 420 IPC, fraudulent intent must be proven at the inception of the loan. In genuine default, the dispute remains purely civil.</p>
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Landmark Supreme Court Jurisprudence on Loan Defaults</span>
-                </h4>
+                </h2>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Hridaya Ranjan Prasad Verma v. State of Bihar (2000) 4 SCC 168</p>
@@ -631,9 +631,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
 
             {/* Section 4: Bank Accounting & NPV Recovery Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank NPA Provisioning Dynamics & NPV Recovery Valuation
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To comprehend why financial institutions use aggressive psychological pressure rather than starting legitimate court cases, one must examine institutional balance sheet mechanics. Under the Reserve Bank of India Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), scheduled commercial banks must classify delinquent loans into progressive stages:
               </p>
@@ -685,9 +685,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
 
             {/* Section 6: Comprehensive Breakdown of the Top 10 RBI Rules */}
             <section id="comprehensive-breakdown-top-10-rules" className="space-y-6">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Breakdown of Top 10 RBI Rules for Loan Defaulters
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has woven a comprehensive statutory tapestry across multiple master directions, circulars, and ombudsman regulations. Below is the authoritative, detailed breakdown of the top 10 statutory rules that safeguard every borrower in India:
               </p>
@@ -698,9 +698,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">1</span>
-                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Strict Permitted Calling Hours (8:00 AM to 7:00 PM)
-                    </h4>
+                    </h2>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Circular RBI/2022-23/108 (DOR.ORG.REC.65/21.04.158/2022-23).<br />
@@ -712,9 +712,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">2</span>
-                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Absolute Right to Privacy &amp; Anti-Shaming Mandate
-                    </h4>
+                    </h2>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Master Direction on Outsourcing of Financial Services &amp; Digital Lending Guidelines.<br />
@@ -726,9 +726,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">3</span>
-                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Total Ban on Physical Force, Intimidation &amp; Verbal Abuse
-                    </h4>
+                    </h2>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> Supreme Court ruling in <em>ICICI Bank v. Prakash Kaur</em> &amp; IPC Sections 383, 503, 506.<br />
@@ -740,9 +740,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">4</span>
-                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Mandatory Board-Approved Compromise Settlement (OTS) Framework
-                    </h4>
+                    </h2>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Circular RBI/2023-24/40 (DOR.STR.REC.20/21.04.048/2023-24).<br />
@@ -754,9 +754,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">5</span>
-                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Mandatory Written Settlement Sanction Letter Before Payment
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Fair Practices Code &amp; Banking Supervision Directives.<br />
@@ -768,9 +768,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">6</span>
-                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Fair Lending Practices &amp; Ban on Capitalising Penal Interest
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Circular RBI/2023-24/53 (DOR.MCS.REC.28/01.01.001/2023-24).<br />
@@ -782,9 +782,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">7</span>
-                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Mandatory 60-Day Notice Before Possession on Secured Loans
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> SARFAESI Act, 2002 (Sections 13(2) and 13(4)) &amp; Security Interest Rules.<br />
@@ -796,9 +796,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">8</span>
-                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Direct Escalation to RBI Integrated Ombudsman with ₹20 Lakh relief Power
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> Reserve Bank - Integrated Ombudsman Scheme, 2021.<br />
@@ -810,9 +810,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">9</span>
-                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Immunity from Criminal Prosecution for Honest Civil Defaults
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> Supreme Court rulings in <em>Dalip Kaur</em> &amp; <em>Hridaya Ranjan Prasad Verma</em>.<br />
@@ -824,9 +824,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">10</span>
-                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Mandatory Release of Property Documents &amp; NDC within 30 Days (₹5,000/Day Penalty)
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Directive RBI/2023-24/60 (DoR.MCS.REC.38/01.01.001/2023-24).<br />
@@ -839,7 +839,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
 
             {/* Section 7: OTS Mechanics & Sanction Forensics */}
             <section id="ots-mechanics-haircut-sanction-forensics" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. OTS Mechanics, Haircut Sizing & Sanction Letter Audit
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -875,7 +875,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
 
             {/* Section 8: Remittance, 30-Day NDC & Credit Repair */}
             <section id="remittance-ndc-30-day-cibil-reconstruction" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Remittance Protocols, 30-Day NDC & CIBIL Reconstruction
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -914,7 +914,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
 
             {/* Section 9: Regulatory Enforcement Matrix */}
             <section id="comparative-statutory-matrix" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution &amp; Regulatory Enforcement Comparative Matrix
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -983,7 +983,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense & Debt Resolution Shield
                 </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -998,7 +998,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. FAQs: Top 10 RBI Rules for Loan Defaulters
                 </h3>
               </div>
@@ -1030,9 +1030,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1068,9 +1068,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-loan-settlement-guidelines"

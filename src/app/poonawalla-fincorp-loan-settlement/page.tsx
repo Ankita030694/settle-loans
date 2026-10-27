@@ -591,9 +591,9 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; Ind AS 109 Stages</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Poonawalla Fincorp Delinquency Lifecycle: Days Past Due (DPD) to Non-Performing Asset (NPA)
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and the Expected Credit Loss (ECL) framework under Indian Accounting Standard 109 (Ind AS 109), Poonawalla Fincorp categorizes delinquent accounts into distinct Days Past Due (DPD) stages. Understanding these institutional milestones is crucial for determining optimal negotiation timing and securing maximum debt relief.
               </p>
@@ -666,9 +666,9 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping NACH Bounces &amp; Penal Compounding</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 How to Stop Poonawalla Fincorp NACH Bounce Charges &amp; Prevent Account Depletion
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A major challenge for borrowers in financial distress is the compounding of electronic mandate bounce fees. Poonawalla Fincorp&apos;s automated payment gateways frequently submit e-NACH debit mandates multiple times within a single billing cycle. When an account has insufficient funds, the borrower&apos;s destination bank charges ₹250 to ₹500 plus GST per return, while Poonawalla Fincorp concurrently levies internal return charges of ₹500 to ₹1,000 plus GST alongside penal interest.
               </p>
@@ -686,9 +686,9 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Matrix &amp; NPV Valuation Formula</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Poonawalla Fincorp One-Time Settlement (OTS) &amp; Haircut Valuation Matrix
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In compliance with the RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), Poonawalla Fincorp evaluates settlement proposals through a structured Net Present Value (NPV) recovery model rather than arbitrary discretion.
               </p>
@@ -711,7 +711,7 @@ export default function PoonawallaFincorpLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Poonawalla Fincorp Settlement Haircut Slabs by Product &amp; Aging</h4>
+              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Poonawalla Fincorp Settlement Haircut Slabs by Product &amp; Aging</h3>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -776,9 +776,9 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Poonawalla Fincorp Loan Settlement &amp; Legal Defense Blueprint
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -825,9 +825,9 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Anti-Harassment Rights &amp; RBI Directives</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Aggressive Recovery Agency Practices Under RBI Directives
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Poonawalla Fincorp engages external third-party Debt Recovery Agencies (DRAs) whose representatives operate under strict monthly collection targets. In overdue accounts, agency callers frequently overstep legal boundaries by making persistent calls outside permitted hours, visiting residential or clinic premises during operating hours, and contacting non-guarantor family members or business associates.
               </p>
@@ -845,9 +845,9 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Guide: How to Negotiate a Compromise Settlement with Poonawalla Fincorp
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Achieving a legally binding, high-haircut One-Time Settlement with Poonawalla Fincorp requires a systematic, evidence-backed strategy:
               </p>
@@ -855,10 +855,10 @@ export default function PoonawallaFincorpLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Comprehensive Financial Audit &amp; Hardship Dossier Compilation
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Gather documentary evidence establishing genuine financial incapacity. Key documents include salary reduction letters, business GST filings reflecting revenue contraction, clinic closure records, medical treatment documentation, or bank statements demonstrating depleted savings. This proves that the default is non-wilful and qualifies for compromise relief.
                   </p>
@@ -866,10 +866,10 @@ export default function PoonawallaFincorpLoanSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking NACH Mandates &amp; Formalizing Communication Channels
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your bank in writing to suspend the e-NACH auto-debit mandate to stop recurring bounce charges. Serve formal notice to Poonawalla Fincorp requiring all future communication to be routed through written email channels or designated legal counsel, establishing a clean evidentiary trail.
                   </p>
@@ -877,10 +877,10 @@ export default function PoonawallaFincorpLoanSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Hardship Petition to Stressed Assets Desk
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal OTS petition addressed to Poonawalla Fincorp&apos;s Stressed Assets Desk citing the RBI Master Direction on Compromise Settlements. Set your opening settlement offer at 25% to 35% of total ledger dues to establish room for structured counter-negotiations.
                   </p>
@@ -888,10 +888,10 @@ export default function PoonawallaFincorpLoanSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Credit Committee Approval
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Poonawalla Fincorp will initially reject low offers and propose minor fee waivers (10%–20%). Experienced legal counsel counters by demonstrating that settlement funds are being arranged via third-party family assistance, steering the Credit Committee toward the target 40% to 60% principal waiver band.
                   </p>
@@ -899,10 +899,10 @@ export default function PoonawallaFincorpLoanSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Forensic Audit of the OTS Sanction Letter
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Before transferring any funds, verify that Poonawalla Fincorp issues an official OTS Sanction Letter on corporate letterhead containing loan account details, sanctioned settlement amount, exact payment timelines, and explicit clauses confirming full debt discharge and legal withdrawal.
                   </p>
@@ -910,10 +910,10 @@ export default function PoonawallaFincorpLoanSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Deposit the agreed settlement amount directly into your designated Poonawalla Fincorp loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, the NBFC is legally required to deliver a formal No Dues Certificate and update credit bureaus within 30 calendar days.
                   </p>
@@ -927,7 +927,7 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Navigating Section 25 PSSA Notices, Arbitration &amp; National Lok Adalat
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -994,7 +994,7 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Poonawalla Fincorp Settlement Letters &amp; Enforcing the ₹0 NDC
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -1014,7 +1014,7 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; 18-Month Recovery Plan</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Recovery Plan
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -1034,7 +1034,7 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Poonawalla Fincorp Borrowers Trust SettleLoans
               </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
@@ -1053,7 +1053,7 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Poonawalla Fincorp Loan Settlement
               </h3>
 
@@ -1081,10 +1081,10 @@ export default function PoonawallaFincorpLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1146,10 +1146,10 @@ export default function PoonawallaFincorpLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

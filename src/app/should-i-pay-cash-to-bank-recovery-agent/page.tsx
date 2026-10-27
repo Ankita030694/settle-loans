@@ -508,7 +508,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 2: RBI Master Directions & Regulatory Framework */}
             <section id="rbi-master-directions-cash-collection-rules" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Master Directions on Cash Collections</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Master Directions on Cash Collections</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India sets strict rules to protect borrowers from coercion and fraud. Under the <strong>RBI Master Direction on Fair Practices Code for Lenders (DOR.ORG.REC.65/21.04.158/2022-23)</strong> and circulars on Outsourcing of Financial Services, the central bank limits how recovery agents can collect money.
               </p>
@@ -570,7 +570,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 3: The Mechanics of Cash Misappropriation */}
             <section id="mechanics-of-cash-misappropriation" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Mechanics of Cash Misappropriation</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Mechanics of Cash Misappropriation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Paying cash to a field agent is risky. Third-party agencies are not linked directly to the bank database. Banks run on Core Banking Solutions like Finacle, BaNCS, or Flexcube. Accounts update only when funds arrive via NEFT, RTGS, NACH, IMPS, or branch CMS counters.
               </p>
@@ -580,27 +580,27 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     1. Outright Theft &amp; Agent Absconding (Section 406 &amp; 420 IPC / BNS)
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Collection agencies face high staff turnover. Rogue agents collect cash across an area, issue fake slips. And quit. The bank never gets the money. And the borrower remains in default.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     2. Agency Float Retention &amp; Delayed Ledger Credit
-                  </h5>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Agencies often hold collected cash in private accounts for weeks. They do this to earn interest or hit monthly targets. Meanwhile, the bank adds penal interest and late fees to your loan.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     3. Misallocation Toward Penalties Instead of Principal Debt
-                  </h5>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Without a formal OTS letter, the bank system credits cash against overdue fines and legal charges first. The principal balance stays unpaid, leaving your debt alive.
                   </p>
@@ -614,7 +614,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 4: Bank Accounting & NPV Recovery Dynamics */}
             <section id="bank-accounting-npv-recovery-dynamics" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Economics, Recovery Quotas</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Economics, Recovery Quotas</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers should know how banks handle overdue debt. Under Reserve Bank of India (RBI) Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), loans unpaid for 90 days become Non-Performing Assets (NPAs).
               </p>
@@ -686,7 +686,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="field-cash-vs-verified-settlement-visual-guide" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Safe Payment &amp; Resolution Process Roadmap</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Safe Payment &amp; Resolution Process Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The guide below shows two paths. One is the risky route of paying cash to field agents. The other is the safe, legal path of an advocate-led bank settlement under RBI rules.
               </p>
@@ -721,7 +721,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 6: Forensic Sanction Letter & Receipt Verification */}
             <section id="sanction-letter-receipt-forensics" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Forensic Verification</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Forensic Verification</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A common loan scam involves fake settlement letters. Rogue agencies make fake bank letters on forged stationery to pocket cash. Always verify settlement papers before paying any money.
               </p>
@@ -733,34 +733,34 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
                 <div className="p-4 rounded-xl border-l-4 border-red-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Warning Sign 1: Handwritten Slips, Generic Receipts or Third-Party Agency Branding
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the slip or letter shows an agency name (like &quot;Apex Recovery&quot;) instead of the bank (like &quot;HDFC Bank Ltd.&quot;), it is invalid. Genuine settlements use the lending bank name only.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Warning Sign 2: Absence of Verifiable Bank Dispatch Reference Numbers
-                  </h5>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Genuine OTS letters carry a unique system reference number (such as `HDFC/RECOVERY/OTS/2026/XXXXX`). Any branch manager can verify it on the bank intranet. Fake letters use generic dates.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Warning Sign 3: Payment Directed to Individual UPI IDs or Third-Party Accounts
-                  </h5>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Scam agents often ask you to scan personal QR codes on Google Pay, PhonePe, or Paytm. Genuine payments go only to your loan account number or bank collection account.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Warning Sign 4: Omission of Explicit Criminal Complaint Withdrawal Terms
-                  </h5>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the bank filed Section 138 NI Act or Section 25 PSSA cases, the OTS letter must state that the bank will withdraw all court complaints upon payment.
                   </p>
@@ -780,7 +780,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 7: Safe Institutional Payment Protocols */}
             <section id="safe-institutional-payment-protocols" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Safe Institutional Payment Protocols</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Safe Institutional Payment Protocols</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once you receive an approved OTS letter, pay through secure bank channels. This ensures full legal debt discharge. Use these three approved methods:
               </p>
@@ -824,7 +824,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 8: Post-Settlement NDC & CIBIL Rectification */}
             <section id="post-settlement-ndc-cibil-rectification" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Post-Payment Closure</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Post-Payment Closure</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Paying the settlement amount settles the financial debt. However, you must complete two vital legal steps to protect your credit record:
               </p>
@@ -840,9 +840,9 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     2. Credit Bureau Rectification to ₹0 Outstanding Balance Across CIBIL, Experian, CRIF
-                  </h5>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under the Credit Information Companies (Regulation) Act, 2005, the bank is legally required to update all four credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) within 30 days. The loan account status must be modified from &quot;Default / Active Suit Filed / Written Off&quot. to <strong>&quot;Settled&quot;</strong>, with the outstanding ledger balance reduced to strictly <strong>₹0</strong>.
                   </p>
@@ -862,7 +862,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="direct-cash-vs-advocate-settlement-matrix" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Cash Payment vs Direct Bank Remittance Matrix</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Cash Payment vs Direct Bank Remittance Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing cash payments against advocate-led bank settlements shows why you should never hand over cash:
               </p>
@@ -920,7 +920,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
             {/* Section 10: SettleLoans Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Anti-Harassment</h3>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Anti-Harassment</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   If recovery agents demand cash, issue threats, or visit your home, you do not have to fight alone. SettleLoans gives you full legal defense. We send legal notices to stop rogue agencies, report extortion to bank nodal officers, audit settlement letters. And negotiate 40% to 70% One-Time Settlements. We also secure your official No Dues Certificate and ensure ₹0 CIBIL updates.
                 </p>
@@ -934,7 +934,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Paying Recovery Agents &amp; Safe Debt Settlement</h3>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Paying Recovery Agents &amp; Safe Debt Settlement</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers to essential questions regarding recovery agent cash demands, RBI guidelines, fake settlement receipts. And safe digital payment protocols in India.
@@ -964,7 +964,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
@@ -1002,7 +1002,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Debt Settlement Guides
               </h4>
               <div className="flex flex-wrap gap-2">

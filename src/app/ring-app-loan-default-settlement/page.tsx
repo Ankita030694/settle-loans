@@ -627,9 +627,9 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Lifecycle &amp; DPD Milestones</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Ring App Delinquency Lifecycle: DPD 1-30 to NPA Stage
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Si Creva Capital categorizes defaulted credit lines into progressive Days Past Due (DPD) stages. It operates under RBI IRACP norms and Ind AS 109 Expected Credit Loss frameworks. Understanding this aging process allows borrowers to time settlement talks for maximum financial relief.
               </p>
@@ -702,9 +702,9 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <MessageSquareOff className="w-4 h-4" />
                 <span>3. Halting Harassment, Auto-Dialers &amp; NACH Penalties</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 How to Stop Ring App Calling Bots & NACH Bounces
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 One of the most distressing aspects of defaulting on Ring App is the relentless barrage of automated notices. Digital lending platforms frequently deploy automated predictive dialers that trigger phone calls every 20 to 30 minutes from rotating virtual numbers. In many instances, outsourced agency personnel threaten to contact employer HR desks, message friends on social media, or circulate shaming notices to family members.
               </p>
@@ -719,19 +719,19 @@ export default function RingAppLoanDefaultSettlementPage() {
               </p>
               <div className="space-y-4 my-6">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">1. Cancel NACH Auto-Debits via Destination Bank</h4>
+                  <h3 className="font-bold text-slate-900 text-sm mb-1">1. Cancel NACH Auto-Debits via Destination Bank</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under NPCI circulars, every account holder possesses clear statutory rights. You have the right to instruct your bank in writing or via net banking to cancel or suspend the e-mandate registered to Si Creva Capital. This halts future bank bounce fees immediately.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h5 className="font-bold text-slate-900 text-sm mb-1">2. Issue a Formal Legal Cease-and-Desist Notice</h5>
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">2. Issue a Formal Legal Cease-and-Desist Notice</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Serving a formal advocate notice to Si Creva Capital&apos;s Principal Nodal Officer mandates the immediate cessation of third-party calling bots and directs all notices exclusively to formal written email channels.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h5 className="font-bold text-slate-900 text-sm mb-1">3. Escalate Violations to the RBI Ombudsman (CMS Portal)</h5>
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">3. Escalate Violations to the RBI Ombudsman (CMS Portal)</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Documenting call frequency, WhatsApp screenshots, and unauthorized contact attempts, and submitting them through the RBI Integrated Ombudsman portal (cms.rbi.org.in), compels the NBFC to enforce immediate compliance under threat of regulatory penalties.
                   </p>
@@ -745,9 +745,9 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Haircut Slabs</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Si Creva Capital One-Time Settlement Valuation Matrix
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), NBFCs must maintain transparent, board-approved compromise settlement frameworks. When evaluating settlement proposals for defaulted Ring app credit lines, Si Creva Capital applies an analytical Net Present Value (NPV) recovery formula.
               </p>
@@ -770,7 +770,7 @@ export default function RingAppLoanDefaultSettlementPage() {
               </div>
 
               {/* Haircut Slabs Table */}
-              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Ring App Settlement Haircut Slabs by Delinquency Aging</h4>
+              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Ring App Settlement Haircut Slabs by Delinquency Aging</h3>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -828,9 +828,9 @@ export default function RingAppLoanDefaultSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Ring App (PayWithRing) Loan Default &amp; Settlement Blueprint
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -879,9 +879,9 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Statutory Protections &amp; Anti-Harassment Laws</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Aggressive Recovery Under RBI Law
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers facing default often encounter unlawful recovery tactics from third-party collection agencies assigned by fintech platforms. Recovery agents may attempt to misrepresent civil default as a criminal offence, threatening arrest, police complaints, or visits by recovery squads. Under Indian law, genuine financial inability to service an unsecured loan cannot be converted into a criminal prosecution.
               </p>
@@ -899,9 +899,9 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step Fintech Settlement Roadmap</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Guide: Settlement with Ring App &amp; Si Creva
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally secure and cost-effective One-Time Settlement with Ring App requires a structured, evidence-backed strategy:
               </p>
@@ -909,12 +909,12 @@ export default function RingAppLoanDefaultSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       1
                     </span>
                     Financial Hardship Audit &amp; Evidentiary Dossier Preparation
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Compile comprehensive documentary evidence showing bona fide financial incapacity. Relevant documents include pink slips or layoff notices, medical discharge summaries, business GST filings showing revenue declines, or bank statements showing depleted liquidity. This establishes that the default is non-wilful and qualifies for compromise relief under RBI rules.
                   </p>
@@ -922,12 +922,12 @@ export default function RingAppLoanDefaultSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       2
                     </span>
                     Revoking NACH Mandates &amp; Directing notice Channels
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit an e-mandate cancellation request to your bank to stop automated debit presentation fees. Issue a formal notice to Si Creva Capital directing all notice to official written email channels or designated legal counsel, establishing an auditable paper trail.
                   </p>
@@ -935,12 +935,12 @@ export default function RingAppLoanDefaultSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       3
                     </span>
                     Submitting Formal Hardship Petition to NBFC Nodal Desk
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a structured compromise petition addressed to Si Creva Capital&apos;s Stressed Asset Settlement Committee. Cite RBI Master Directions and propose an opening settlement offer at 25% to 35% of total outstanding ledger dues to establish room for talks.
                   </p>
@@ -948,12 +948,12 @@ export default function RingAppLoanDefaultSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       4
                     </span>
                     Counter-talks &amp; Credit Committee Approval
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     The NBFC will initially reject low offers and propose minor discounts. Experienced legal counsel counters by showing that settlement funds are being pooled from third-party relatives or asset liquidation, steering the committee toward the target 40% to 60% principal waiver band.
                   </p>
@@ -961,12 +961,12 @@ export default function RingAppLoanDefaultSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       5
                     </span>
                     Forensic Audit of the Stamped OTS Sanction Letter
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Before making any payment, verify the settlement records carefully. Ensure the NBFC issues an official OTS Sanction Letter on Si Creva Capital letterhead. The letter must state your loan account numbers, sanctioned amount, payment deadlines, and covenants confirming full debt discharge and legal withdrawal.
                   </p>
@@ -974,12 +974,12 @@ export default function RingAppLoanDefaultSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       6
                     </span>
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Remit the agreed settlement funds directly into your designated loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, the NBFC is legally bound to deliver your No Dues Certificate and update credit bureaus within 30 calendar days.
                   </p>
@@ -993,7 +993,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 PSSA, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Section 25 PSSA, Digital Arbitration & Lok Adalat
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -1061,7 +1061,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Ring App Settlement Letters & ₹0 NDC
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -1081,7 +1081,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; recovery</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory & 18-Month Recovery Plan
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -1101,7 +1101,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Ring App Borrowers Trust SettleLoans
               </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
@@ -1120,7 +1120,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Ring App (PayWithRing) Loan Settlement
               </h3>
 
@@ -1148,10 +1148,10 @@ export default function RingAppLoanDefaultSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1213,10 +1213,10 @@ export default function RingAppLoanDefaultSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/app-loan-settlement"

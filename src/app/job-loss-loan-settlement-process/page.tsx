@@ -595,9 +595,9 @@ export default function JobLossLoanSettlementPage() {
                 <FileText className="w-4 h-4" />
                 <span>2. Compiling the Hardship Portfolio</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Compiling the Evidentiary Hardship Dossier
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Bank credit committees do not sanction debt waivers based on verbal explanations. Under internal auditing standards and RBI supervisory guidelines, every rupee of debt haircut must be justified by evidentiary records. A borrower who submits a documented <strong>Hardship Portfolio</strong> shifts the balance of power during talks. It proves that full liquid recovery is impossible, making a discounted One-Time Settlement (OTS) the bank&apos;s sole viable option.
               </p>
@@ -664,9 +664,9 @@ export default function JobLossLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. NPA Delinquency Lifecycle &amp; Provisioning Timing</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 NPA Delinquency Lifecycle &amp; Bank Provisioning Windows
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To negotiate a maximum debt waiver following job loss, understand the bank&apos;s accounting mechanics. Under RBI IRACP norms and Ind AS 109 Expected Credit Loss frameworks, lenders face strict regulatory provisioning schedules. These aging schedules dictate when and why credit committees are willing to compromise.
               </p>
@@ -681,21 +681,21 @@ export default function JobLossLoanSettlementPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-4">
                   <div className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-1">Days 1 – 90</div>
-                  <h4 className="font-bold text-slate-900 text-base mb-2">SMA-0 to SMA-2 Stage</h4>
+                  <h3 className="font-bold text-slate-900 text-base mb-2">SMA-0 to SMA-2 Stage</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Automated collection calls, repeated NACH sweeps, and agency pressure. Bank insists on full EMI regularization; settlement discounts are minimal.
                   </p>
                 </div>
                 <div className="bg-blue-50 border border-blue-300 rounded-xl p-4 shadow-sm">
                   <div className="text-xs font-bold uppercase tracking-wider text-[#1F5EFF] mb-1">Days 91 – 180 (Sweet Spot)</div>
-                  <h5 className="font-bold text-blue-950 text-base mb-2">Substandard NPA Stage</h5>
+                  <h4 className="font-bold text-blue-950 text-base mb-2">Substandard NPA Stage</h4>
                   <p className="text-xs text-blue-800 leading-relaxed">
                     Account transferred to Zonal Stressed Assets Desk. Bank absorbs mandatory capital provisioning. Optimal window for negotiating 50%–65% principal waivers.
                   </p>
                 </div>
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-4">
                   <div className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-1">Days 181 – 365+</div>
-                  <h5 className="font-bold text-slate-900 text-base mb-2">Doubtful &amp; Loss Asset</h5>
+                  <h4 className="font-bold text-slate-900 text-base mb-2">Doubtful &amp; Loss Asset</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Provisioning reaches 40%–100%. Bank prioritizes offloading bad ledger entries before fiscal year-end audits. Haircuts can reach 65%–70%+.
                   </p>
@@ -713,9 +713,9 @@ export default function JobLossLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Debt Waiver Mathematics</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Net Present Value (NPV) Recovery Modeling
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers often wonder why a commercial bank would willingly forfeit 50% to 70% of an outstanding debt. The answer lies in risk management and <strong>Net Present Value (NPV) Recovery Valuation</strong>. Under RBI Master Directions, credit committees must compare immediate OTS cash against the discounted present value of litigating against an unemployed borrower with no attachable assets.
               </p>
@@ -752,9 +752,9 @@ export default function JobLossLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Visual Resolution Blueprint: Job Loss Default to ₹0 NDC
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The comprehensive infographic below illustrates the 4-stage institutional lifecycle of settling defaulted retail loans following involuntary unemployment. It details how an evidentiary hardship dossier transforms unserviceable debt into an authorized 50% to 70% compromise waiver under Reserve Bank of India frameworks.
               </p>
@@ -781,9 +781,9 @@ export default function JobLossLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Harassment Defense &amp; Statutory Rights</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Stopping Recovery Agent Harassment
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most traumatic consequence of defaulting after job loss is the aggressive onslaught of third-party recovery agencies. Lenders frequently outsource delinquent accounts to external collection agencies operating on aggressive commission structures (earning 10% to 20% of recovered cash). These agents routinely resort to unlawful tactics: non-stop phone calls from multiple virtual numbers, threatening former colleagues or HR managers, contacting non-guarantor family members, and making unannounced visits to residential premises.
               </p>
@@ -798,10 +798,10 @@ export default function JobLossLoanSettlementPage() {
                 <li><strong>Prohibition of Threatening Language:</strong> Intimidation, verbal abuse, public humiliation, and false threats of police arrest or asset seizure constitute punishable offenses under Indian criminal law.</li>
               </ul>
               <div className="bg-slate-50 border border-slate-200 rounded-xl p-5 my-6">
-                <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Enforcement Protocol for Harassment Violations</span>
-                </h4>
+                </h2>
                 <p className="text-xs text-slate-600 leading-relaxed">
                   When recovery agents violate these statutory norms, legal counsel issues a formal <strong>Legal Cease-and-Desist Notice</strong> to the bank&apos;s Managing Director and Principal Nodal Officer (PNO). If the lender fails to halt collection harassment within 30 days, a formal regulatory complaint is lodged on the RBI Integrated Ombudsman portal (<a href="https://cms.rbi.org.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline">cms.rbi.org.in</a>). Under RBI guidelines, lending institutions face severe financial penalties and regulatory sanctions for third-party agency misconduct.
                 </p>
@@ -814,9 +814,9 @@ export default function JobLossLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>7. Section 25 PSSA &amp; Section 138 Defense</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Notices: Section 25 PSSA & Section 138 NI Act
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When salary credits cease, automated electronic National Automated Clearing House (e-NACH) mandates and post-dated cheques inevitably bounce due to insufficient funds. Lenders use these payment failures to issue statutory legal notices under <strong>Section 25 of the Payment and Settlement Systems Act (PSSA), 2007</strong> or <strong>Section 138 of the Negotiable Instruments (NI) Act, 1881</strong>.
               </p>
@@ -843,59 +843,59 @@ export default function JobLossLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Step-by-Step Settlement Protocol</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The 5-Step Unemployment Loan Settlement Protocol
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a legally secure, heavily discounted loan settlement requires bypassing frontline branch tele-callers and negotiating directly with authorized bank decision-makers. The following five-stage roadmap governs professional debt settlement:
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                     <span>Comprehensive Delinquency &amp; Ledger Audit</span>
-                  </h4>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Obtain the complete Statement of Account (SOA) from the lender. Reconcile all historical EMI payments, isolate the core unamortized principal balance, and demand 100% elimination of all accumulated late fees, cheque bounce surcharges, and penal interest compounded post-default.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">2</span>
                     <span>Submission of Formal Hardship Petition</span>
-                  </h5>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Submit a formal, advocate-drafted OTS Hardship Petition directly to the bank&apos;s Zonal Stressed Assets Recovery Branch (SARB) or Credit Committee. Accompany the petition with the verified Hardship Portfolio, explicitly citing RBI Master Directions on Compromise Settlements.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">3</span>
                     <span>Mathematical NPV Haircut talks</span>
-                  </h5>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Anchor the settlement offer between 30% and 40% of the core principal. Structure the talks using the Net Present Value recovery formula, showing that an immediate lump-sum settlement delivers higher economic recovery than multi-year civil litigation.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">4</span>
                     <span>Forensic Sanction Letter Verification</span>
-                  </h5>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Before releasing a single rupee of settlement funds, conduct a forensic legal audit of the bank&apos;s written OTS Sanction Letter. Ensure the letter contains authorized branch seals, explicit waiver clauses, and guaranteed No Dues Certificate delivery timelines.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">5</span>
                     <span>Direct Account Disbursal &amp; Stamped ₹0 NDC Mandate</span>
-                  </h5>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Disburse the agreed settlement sum strictly via traceable banking channels (NEFT/RTGS/Cheque) directly into the specified loan account. Track the mandatory 30-day delivery of the stamped No Dues Certificate and verify zero-balance credit bureau updates under RBI Circular RBI/2023-24/60.
                   </p>
@@ -909,7 +909,7 @@ export default function JobLossLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 OTS Sanction Letters: 5 Key Clauses & ₹0 NDC Mandate
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -941,7 +941,7 @@ export default function JobLossLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. Comparative Matrix &amp; CIBIL Recovery</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparative Debt Resolution Matrix & Credit Repair
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -993,7 +993,7 @@ export default function JobLossLoanSettlementPage() {
                 </table>
               </div>
 
-              <h4 className="text-lg md:text-xl font-bold text-slate-900 mt-8 mb-3">
+              <h3 className="text-lg md:text-xl font-bold text-slate-900 mt-8 mb-3">
                 Rebuilding Your CIBIL Score from &apos;Settled&apos; to 750+ Post-Re-employment
               </h4>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -1018,7 +1018,7 @@ export default function JobLossLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Loan Settlement After Job Loss &amp; Layoffs
               </h3>
 
@@ -1046,7 +1046,7 @@ export default function JobLossLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
               </h4>
@@ -1111,7 +1111,7 @@ export default function JobLossLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
               </h4>

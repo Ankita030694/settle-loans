@@ -374,9 +374,9 @@ export default function CheckCibilDefaulterListClient() {
 
             {/* Section 2: What CIBIL Actually Tracks: DPD & Scores */}
             <section id="what-cibil-actually-reports" className="scroll-mt-28 mb-12">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. What CIBIL Actually Reports: Deciphering CIR Data, DPD &amp; Asset Classification
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Rather than classifying individuals into arbitrary &quot;defaulter&quot; categories, TransUnion CIBIL compiles an individualized, technical document known as a <strong>Credit Information Report (CIR)</strong>. The CIR provides member financial institutions with an objective, historical audit trail of a borrower&apos;s credit accounts, sanctioned limits, outstanding balances, and monthly payment punctuality over a rolling 36-month period.
               </p>
@@ -389,9 +389,9 @@ export default function CheckCibilDefaulterListClient() {
 
               {/* 4-Sided Bordered Comparison Table: Asset Classifications */}
               <div className="my-6">
-                <h4 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
+                <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
                   RBI Asset Classification &amp; CIBIL DPD Reporting Matrix
-                </h4>
+                </h2>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -449,9 +449,9 @@ export default function CheckCibilDefaulterListClient() {
 
             {/* Section 3: Wilful Defaulters vs Retail Hardship */}
             <section id="wilful-defaulter-vs-retail" className="scroll-mt-28 mb-12">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. RBI Wilful Defaulter List vs. Individual Retail Default: Critical Legal Distinctions
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 A primary source of confusion among borrowers is the difference between an ordinary retail loan default and the official <strong>RBI Wilful Defaulter and Suit-Filed List</strong>. The Reserve Bank of India, in coordination with the Central Repository of Information on Large Credits (CRILC) and Credit Information Companies, does publish periodic data regarding commercial entities and individuals categorized as wilful defaulters. However, the legal and financial parameters governing this list are fundamentally different from ordinary retail defaults.
               </p>
@@ -471,9 +471,9 @@ export default function CheckCibilDefaulterListClient() {
 
             {/* Section 4: How to Check Your Official Credit Report */}
             <section id="how-to-check-credit-report" className="scroll-mt-28 mb-8">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Step-by-Step Protocol: How to Check Your Official Credit Report for Free
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 If you wish to verify how lenders have reported your loan repayment history, you should obtain your authentic Credit Information Report directly from the authorized credit bureaus. Under RBI regulations, every consumer in India is entitled to receive <strong>one free full credit report per calendar year</strong> from each of the four licensed credit information companies.
               </p>
@@ -487,7 +487,7 @@ export default function CheckCibilDefaulterListClient() {
                     1
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-0.5">Navigate to the Official Bureau Portal</h4>
+                    <h3 className="font-bold text-slate-900 text-sm mb-0.5">Navigate to the Official Bureau Portal</h3>
                     <p className="text-xs sm:text-sm text-slate-600">
                       Visit the official TransUnion CIBIL website (<span className="text-[#1F5EFF] font-semibold">cibil.com</span>) and select &quot;Get Your Free Annual CIBIL Score &amp; Report.&quot;
                     </p>
@@ -499,7 +499,7 @@ export default function CheckCibilDefaulterListClient() {
                     2
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-sm mb-0.5">Enter Identity Authentication Details</h5>
+                    <h4 className="font-bold text-slate-900 text-sm mb-0.5">Enter Identity Authentication Details</h4>
                     <p className="text-xs sm:text-sm text-slate-600">
                       Provide your official full legal name, Permanent Account Number (PAN), date of birth, current residential address, and active mobile number registered with your banking accounts.
                     </p>
@@ -511,7 +511,7 @@ export default function CheckCibilDefaulterListClient() {
                     3
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-sm mb-0.5">Complete Two-Factor OTP Verification</h5>
+                    <h4 className="font-bold text-slate-900 text-sm mb-0.5">Complete Two-Factor OTP Verification</h4>
                     <p className="text-xs sm:text-sm text-slate-600">
                       Authenticate your identity through the One-Time Password (OTP) dispatched to your Aadhaar/PAN-linked mobile number or answer credit verification security questions.
                     </p>
@@ -523,7 +523,7 @@ export default function CheckCibilDefaulterListClient() {
                     4
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-sm mb-0.5">Download and Audit Your Full CIR</h5>
+                    <h4 className="font-bold text-slate-900 text-sm mb-0.5">Download and Audit Your Full CIR</h4>
                     <p className="text-xs sm:text-sm text-slate-600">
                       Download your comprehensive multi-page CIR PDF. Audit all four key sections: Personal Details, Contact Information, Account Information (DPD &amp; Status), and Enquiries.
                     </p>
@@ -543,9 +543,9 @@ export default function CheckCibilDefaulterListClient() {
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Legal Defense &amp; Action Blueprint
                     </span>
-                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       CIBIL Defaulter List Summary &amp; Process Overview
-                    </h4>
+                    </h2>
                   </div>
                 </div>
                 <a
@@ -587,9 +587,9 @@ export default function CheckCibilDefaulterListClient() {
 
             {/* Section 5: Decoding Status Codes */}
             <section id="decoding-status-codes" className="scroll-mt-28 mb-12">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 5. Decoding CIBIL Status Codes: Settled, Written-Off, SMA &amp; Suit Filed
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 When reviewing your Credit Information Report, the most crucial analytical section is the <strong>&quot;Account Information&quot;</strong> tab. Each loan or credit card account displays a specific status remark reflecting the commercial resolution or ongoing status of that debt facility. Understanding these codes is essential for diagnosing the exact health of your profile:
               </p>
@@ -645,9 +645,9 @@ export default function CheckCibilDefaulterListClient() {
 
             {/* Section 6: CICRA 2005 Dispute Resolution Process */}
             <section id="cicra-dispute-resolution" className="scroll-mt-28 mb-12">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Correcting Erroneous Entries: The CICRA 2005 Dispute Resolution Framework
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 In many instances, borrowers find themselves unfairly penalized by clerical mistakes, outdated data synchronization, or identity theft. Common errors include a fully closed loan continuing to display an active overdue balance, an incorrect DPD entry caused by banking server delays, or an unfamiliar credit card appearing due to PAN duplication.
               </p>
@@ -678,9 +678,9 @@ export default function CheckCibilDefaulterListClient() {
 
             {/* Section 7: Resolving Overdue Loans via Legal OTS */}
             <section id="resolving-genuine-defaults" className="scroll-mt-28 mb-12">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Resolving Genuine Overdue Debts: Strategic OTS Negotiation &amp; Debt Relief
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 When loan defaults reflect genuine financial hardship rather than reporting errors, ignoring the problem causes severe compound damage. Unresolved default accounts accumulate contractual interest, penal charges, and late payment penalties, causing total dues to balloon rapidly. Simultaneously, continued non-payment can trigger legal notices under Section 138 of the Negotiable Instruments Act (for cheque bounce) or Section 25 of the Payment and Settlement Systems Act (for NACH/e-mandate default).
               </p>
@@ -694,7 +694,7 @@ export default function CheckCibilDefaulterListClient() {
 
             {/* Section 8: 18-Month Blueprint to Rebuild 750+ CIBIL */}
             <section id="score-rebuilding-blueprint" className="scroll-mt-28 mb-12">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. The 18–24 Month Score Rebound Plan: Proven Steps to Restore 750+ CIBIL Score
               </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
@@ -745,25 +745,25 @@ export default function CheckCibilDefaulterListClient() {
 
               <div className="space-y-3 my-6">
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">
+                  <h3 className="font-bold text-slate-900 text-sm mb-1">
                     Rule 1: Keep Credit Utilization Ratio (CUR) Below 30%
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     If your secured credit card has a limit of ₹50,000, keep monthly spending capped under ₹15,000. High credit utilization signals financial distress and depresses score recovery.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50">
-                  <h5 className="font-bold text-slate-900 text-sm mb-1">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">
                     Rule 2: Eliminate Multiple Hard Loan Inquiries
-                  </h5>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Do not submit speculative loan applications across multiple bank websites. Each hard bureau inquiry reduces your score by 5 to 10 points and flags credit desperation.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50">
-                  <h5 className="font-bold text-slate-900 text-sm mb-1">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">
                     Rule 3: Convert &quot;Settled&quot; to &quot;Closed&quot; When Liquidity Permits
-                  </h5>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     If your financial circumstances improve, you can approach your original lender, repay the waived OTS balance, and obtain an updated &quot;Closed&quot; status across all credit bureaus.
                   </p>
@@ -776,7 +776,7 @@ export default function CheckCibilDefaulterListClient() {
 
             {/* Section 9: Frequently Asked Questions */}
             <section id="faqs" className="scroll-mt-28 mb-12">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Frequently Asked Questions (FAQ)
               </h3>
               <p className="text-sm md:text-base leading-relaxed mb-6 text-slate-600">
@@ -798,7 +798,7 @@ export default function CheckCibilDefaulterListClient() {
 
             {/* Regulatory Sources & References (Exactly 5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-8">
-              <h4 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
               </h4>
@@ -863,9 +863,9 @@ export default function CheckCibilDefaulterListClient() {
 
             {/* Internal Topic Badges (10 Links) */}
             <div className="my-8 pt-6 border-t border-slate-200">
-              <h5 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3">
+              <h4 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3">
                 Related Debt Resolution &amp; Legal Protection Guides
-              </h5>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/personal-loan-settlement-cibil-impact"

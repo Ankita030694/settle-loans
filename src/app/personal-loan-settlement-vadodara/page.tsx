@@ -533,7 +533,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; SARB Escalation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Lifecycle &amp; Stressed Assets in Vadodara</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Lifecycle &amp; Stressed Assets in Vadodara</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 When you miss an EMI, banks track your overdue days. The first stages are SMA-0, SMA-1, and SMA-2. After 90 days of non-payment, the loan turns into a Non-Performing Asset (NPA).
               </p>
@@ -556,7 +556,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Section 171 Banker&apos;s Lien &amp; Account Protection</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Lien &amp; Account Shielding in Vadodara</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Lien &amp; Account Shielding in Vadodara</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Borrowers with unpaid loans in Vadodara often face frozen bank accounts. Lenders do this under the <strong>Banker&apos;s Right of General Lien</strong> in <strong>Section 171 of the Indian Contract Act, 1872</strong>. Banks use Core Banking Systems (CBS) to hold funds linked to your PAN.
               </p>
@@ -587,37 +587,37 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Gavel className="w-4 h-4" />
                 <span>4. Statutory Legal Notices &amp; Advocate-Led Defense</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 25 &amp; 138 in Vadodara Courts</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 25 &amp; 138 in Vadodara Courts</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 When loans stay unpaid past 90 days, lenders send formal legal notices through bank lawyers. You must know your legal rights:
               </p>
               
               <div className="space-y-4 my-6">
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</span>
-                  </h4>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     When NACH auto-debit payments bounce, lenders send a Section 25 PSSA notice. You get 15 days to reply. If you ignore it, banks can file a case in Diwalipura court. An advocate reply explaining your hardship stops court filings and opens settlement talks.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <FileText className="w-4 h-4 text-indigo-600" />
                     <span>Section 138 of the Negotiable Instruments Act, 1881 (NI Act)</span>
-                  </h4>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     If security cheques bounce, banks issue a Section 138 notice. Cheque bounce cases can be settled under Section 147 of the NI Act. Our advocates send a formal legal reply. We challenge unfair fees and seek a compromise settlement.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <ShieldX className="w-4 h-4 text-rose-600" />
                     <span>Debunking SARFAESI Act Threats on Unsecured Personal Loans</span>
-                  </h4>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Recovery agents often threaten to seize homes under the SARFAESI Act, 2002. This threat is illegal for personal loans. SARFAESI rules apply only to secured loans backed by property. Lenders have no right to touch your house or unit for unsecured debt.
                   </p>
@@ -635,7 +635,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Vadodara Gujarat Industrial Corridor Debt Settlement</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Vadodara Gujarat Industrial Corridor Debt Settlement</h2>
               
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <img
@@ -658,7 +658,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Calculator className="w-4 h-4" />
                 <span>6. Bank OTS Policy &amp; Net Present Value (NPV) Recovery Formula</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">RBI Compromise &amp; NPV Modeling in Vadodara</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">RBI Compromise &amp; NPV Modeling in Vadodara</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Loan settlements follow RBI Master Directions on Compromise Settlements. Banks like Bank of Baroda, SBI, and private lenders have board-approved compromise rules. Banks review settlement offers using Net Present Value (NPV) math.
               </p>
@@ -686,19 +686,19 @@ export default function PersonalLoanSettlementVadodaraPage() {
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
                 <div className="border border-blue-200 bg-blue-50/50 rounded-xl p-4">
-                  <h4 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
+                  <h3 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
                     <Percent className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Penal &amp; Interest Charges: 100% Elimination</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-blue-900 leading-relaxed">
                     All unpaid penal interest, NACH bounce fees, and late charges are fully waived in an OTS.
                   </p>
                 </div>
                 <div className="border border-emerald-200 bg-emerald-50/50 rounded-xl p-4">
-                  <h5 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5">
+                  <h4 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5">
                     <Percent className="w-4 h-4 text-emerald-600" />
                     <span>Principal Haircut: 40% to 60% Concession</span>
-                  </h5>
+                  </h3>
                   <p className="text-xs text-emerald-900 leading-relaxed">
                     Borrowers with proven hardship win a 40% to 60% principal waiver on unpaid balances.
                   </p>
@@ -712,7 +712,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Briefcase className="w-4 h-4" />
                 <span>7. Step-by-Step Settlement Roadmap &amp; Zonal Hierarchy</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Executing a Legally Secure One-Time Settlement in Vadodara
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
@@ -725,7 +725,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                     1
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-1">Loan Account Audit</h4>
+                    <h3 className="font-bold text-slate-900 text-sm mb-1">Loan Account Audit</h3>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       We obtain your full loan statement. We separate real principal dues from extra penal charges.
                     </p>
@@ -737,7 +737,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                     2
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-sm mb-1">Hardship Dossier Preparation</h5>
+                    <h4 className="font-bold text-slate-900 text-sm mb-1">Hardship Dossier Preparation</h4>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Gather proof of hardship. We compile income loss, late client payments, or medical bills with a sworn affidavit.
                     </p>
@@ -749,7 +749,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                     3
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-sm mb-1">Submission to Zonal Credit Committee</h5>
+                    <h4 className="font-bold text-slate-900 text-sm mb-1">Submission to Zonal Credit Committee</h4>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       We present your OTS file directly to Zonal bank officers in Vadodara or Ahmedabad.
                     </p>
@@ -761,7 +761,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                     4
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-sm mb-1">Stamped Sanction Letter &amp; Payment</h5>
+                    <h4 className="font-bold text-slate-900 text-sm mb-1">Stamped Sanction Letter &amp; Payment</h4>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Check the stamped OTS sanction letter on official bank paper. Pay settlement funds straight into your loan account via RTGS or NEFT.
                     </p>
@@ -776,7 +776,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Scale className="w-4 h-4" />
                 <span>8. Vadodara Lok Adalat Judicial Conciliation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Resolving Defaults via Vadodara DLSA Lok Adalat</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Resolving Defaults via Vadodara DLSA Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 National Lok Adalats offer a safe way to settle loan defaults in Gujarat. They are held four times a year by DLSA Vadodara under NALSA and GSLSA rules.
               </p>
@@ -804,15 +804,15 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics, No Dues Certificate &amp; CIBIL Trajectory</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC in Vadodara</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC in Vadodara</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Never pay settlement money without written bank approval. Never trust WhatsApp messages or phone calls. Our advocates check every sanction letter in detail:
               </p>
 
               <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm my-6 space-y-3">
-                <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider text-[#1F5EFF]">
+                <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider text-[#1F5EFF]">
                   Mandatory Requirements in an Authentic Bank OTS Sanction Letter
-                </h4>
+                </h3>
                 <ul className="text-xs sm:text-sm text-slate-700 space-y-2 leading-relaxed">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -847,7 +847,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Scale className="w-4 h-4" />
                 <span>10. Comparative Resolution Matrix &amp; Professional Advocacy</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparing Debt Resolution Pathways in Vadodara</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparing Debt Resolution Pathways in Vadodara</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Choosing the right path decides if your debt closes cleanly. Here is how resolution choices compare:
               </p>
@@ -904,9 +904,9 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 </table>
               </div>
 
-              <h4 className="text-lg sm:text-xl font-bold text-slate-900 mb-3">
+              <h3 className="text-lg sm:text-xl font-bold text-slate-900 mb-3">
                 Expert Legal Representation for Debt Resolution Across Vadodara
-              </h4>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-sm sm:text-base">
                 Settling loans in Vadodara requires deep legal skill in banking rules. SettleLoans stops collection agent calls. We answer court notices and secure official stamped bank letters.
               </p>
@@ -922,7 +922,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Vadodara
                 </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
@@ -961,7 +961,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions on Debt Settlement in Vadodara
               </h3>
 
@@ -991,10 +991,10 @@ export default function PersonalLoanSettlementVadodaraPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-              <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+              <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                 <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Statutory &amp; Regulatory References</span>
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1046,7 +1046,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
               </h4>
               <div className="flex flex-wrap gap-2">

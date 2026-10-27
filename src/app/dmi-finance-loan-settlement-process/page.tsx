@@ -591,9 +591,9 @@ export default function DMIFinanceLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 DMI Finance Delinquency Lifecycle: From Days Past Due (DPD) to Non-Performing Asset (NPA)
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Navigating an effective settlement with DMI Finance requires understanding how the NBFC classifies delinquency under the RBI Prudential Framework for Asset Classification. The resolution dynamic shifts dramatically across distinct delinquency buckets:
               </p>
@@ -649,9 +649,9 @@ export default function DMIFinanceLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Halting e-NACH Bounces &amp; Penal Fees</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Stopping Recurring e-NACH Bounce Charges &amp; Predatory Penalty Accumulation
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 One of the most damaging financial traps for defaulting borrowers is the compounding spiral of electronic National Automated Clearing House (e-NACH) return charges. When an EMI mandate fails, DMI Finance levies internal bounce penalties of ₹500 plus GST, while the borrower&apos;s home savings bank simultaneously debits an inward return fee of ₹300 to ₹500 plus GST. When DMI Finance&apos;s automated treasury systems re-present the mandate 2 to 4 times within a single billing cycle, the borrower loses ₹2,000 to ₹4,000 per month purely in banking friction.
               </p>
@@ -685,9 +685,9 @@ export default function DMIFinanceLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 DMI Finance Compromise Settlement Policies &amp; Net Present Value (NPV) Recovery Math
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Compromise settlements in non-banking financial institutions are strictly evaluated through economic risk algorithms rather than emotional sympathy. Under the Reserve Bank of India&apos;s Master Direction on Compromise Settlements and Technical Write-offs (June 2023), regulated lenders are authorized to sanction substantial debt waivers to resolve non-performing retail portfolios where continued recovery efforts yield negative returns.
               </p>
@@ -785,9 +785,9 @@ export default function DMIFinanceLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Fintech Resolution Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         DMI Finance Loan Settlement &amp; Legal Defense Blueprint
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -834,9 +834,9 @@ export default function DMIFinanceLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Digital Recovery Rules &amp; Harassment Defense</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Aggressive Recovery Tactics Under RBI Digital Lending Directives
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To manage millions of micro-loans, DMI Finance contracts third-party Debt Recovery Agencies (DRAs) and deploys automated communications. In many default scenarios, external collection agents overstep statutory boundaries by using unauthorized WhatsApp threats, making high-velocity phone calls outside prescribed hours, attempting to access phone contact lists, or contacting references and family members who have no legal obligation as guarantors.
               </p>
@@ -868,9 +868,9 @@ export default function DMIFinanceLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Guide: How to Negotiate a Legally Binding Settlement with DMI Finance
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally secure, cost-effective One-Time Settlement with DMI Finance requires a disciplined, evidence-backed strategy:
               </p>
@@ -878,10 +878,10 @@ export default function DMIFinanceLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Documenting Genuine Financial Hardship
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Compile comprehensive documentary proof demonstrating bona fide, non-wilful financial incapacity. Essential records include salary slips showing pay cuts or termination letters, medical treatment discharge summaries, GST returns showing business revenue declines, or bank statements evidencing depleted liquidity. This establishes non-wilful default status under RBI guidelines.
                   </p>
@@ -889,10 +889,10 @@ export default function DMIFinanceLoanSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking e-NACH Mandates &amp; Directing Formal Communication
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your bank to suspend or cancel the active e-NACH mandate to halt recurring debit bounce fees. Serve a formal written communication to DMI Finance directing that all future correspondence be conducted exclusively via registered email or through designated legal counsel, establishing a verifiable audit trail.
                   </p>
@@ -900,10 +900,10 @@ export default function DMIFinanceLoanSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting a Formal OTS Hardship Petition
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Bypass third-party recovery tele-callers who lack financial delegation powers. Submit a formal settlement proposal directly to DMI Finance&apos;s Stressed Asset Management division and Principal Nodal Officer, proposing a realistic settlement figure (typically 35% to 50% of the core principal outstanding) backed by the hardship dossier.
                   </p>
@@ -911,10 +911,10 @@ export default function DMIFinanceLoanSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Negotiating the Haircut &amp; Demanding 100% Penalty Waiver
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Conduct structured negotiations with DMI Finance credit officers. Insist on a complete 100% waiver of all accumulated bounce charges, late payment fees, and penal interest under the RBI Fair Lending Practice framework, arriving at an agreed, discounted lump-sum or structured 2-to-3 installment settlement.
                   </p>
@@ -922,10 +922,10 @@ export default function DMIFinanceLoanSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Verification of the Official OTS Sanction Letter
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Prior to transferring any settlement funds, conduct a forensic check on the OTS Sanction Letter. Ensure it is issued on official DMI Finance Private Limited corporate letterhead, citing your correct loan account number, exact settlement amount, payment due dates, and explicit covenants confirming complete liability extinguishment, withdrawal of legal notices, and Knox device release (for Samsung Finance+).
                   </p>
@@ -933,10 +933,10 @@ export default function DMIFinanceLoanSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Remit the agreed settlement funds directly into your designated DMI Finance loan account via NEFT/RTGS or official DMI payment portal. Under RBI Circular RBI/2023-24/60, DMI Finance must deliver the formal No Dues Certificate and update credit bureaus within 30 calendar days.
                   </p>
@@ -950,7 +950,7 @@ export default function DMIFinanceLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Notices Defense &amp; Dispute Resolution</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Navigating Section 25 PSSA Notices, Online Arbitration &amp; National Lok Adalat
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -1018,7 +1018,7 @@ export default function DMIFinanceLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating DMI Finance Settlement Letters &amp; Enforcing the ₹0 NDC Mandate
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -1052,7 +1052,7 @@ export default function DMIFinanceLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Recovery Plan
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -1101,7 +1101,7 @@ export default function DMIFinanceLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed DMI Finance Borrowers Trust SettleLoans
               </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
@@ -1120,7 +1120,7 @@ export default function DMIFinanceLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About DMI Finance Loan Settlement
               </h3>
 
@@ -1148,10 +1148,10 @@ export default function DMIFinanceLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1213,10 +1213,10 @@ export default function DMIFinanceLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/app-loan-settlement"

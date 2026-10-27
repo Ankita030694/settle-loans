@@ -386,9 +386,9 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; Asset Classification</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 HDFC&apos;s Default Timeline: From SMA-0 to NPA Classification
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Understanding how HDFC Bank classifies delinquent retail debt under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) is vital for timing a compromise settlement. An overdue personal loan progresses through five administrative and regulatory tiers, each dictating the bank&apos;s internal recovery posture and legal authority to grant principal concessions.
               </p>
@@ -461,9 +461,9 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <Calculator className="w-4 h-4" />
                 <span>3. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 HDFC&apos;s Internal One-Time Settlement (OTS) &amp; Haircut Policy
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the regulatory framework mandated by the <strong>Reserve Bank of India Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24)</strong>, HDFC Bank operates a board-approved Compromise Settlement Policy. Rather than relying on arbitrary discretion, the bank&apos;s Credit Committees evaluate settlement proposals through a standardized mathematical Net Present Value (NPV) recovery methodology.
               </p>
@@ -472,10 +472,10 @@ export default function HdfcPersonalLoanSettlementClient() {
               </p>
 
               <div className="bg-slate-900 text-white p-5 md:p-6 rounded-2xl my-6 shadow-md border border-slate-800">
-                <h4 className="text-base font-bold text-blue-400 mb-2 flex items-center gap-2">
+                <h3 className="text-base font-bold text-blue-400 mb-2 flex items-center gap-2">
                   <Calculator className="w-5 h-5 text-[#1F5EFF]" />
                   <span>The Banking Net Present Value (NPV) Settlement Equation</span>
-                </h4>
+                </h2>
                 <p className="text-xs sm:text-sm text-slate-300 leading-relaxed mb-3">
                   When evaluating an OTS request, the HDFC Credit Committee calculates whether the immediate cash offer exceeds the discounted recovery probability:
                 </p>
@@ -492,7 +492,7 @@ export default function HdfcPersonalLoanSettlementClient() {
               </p>
 
               {/* Settlement Haircut Slabs Table */}
-              <h4 className="text-lg font-bold text-slate-900 mb-3">Typical HDFC Settlement Haircut Slabs by Product &amp; Aging</h4>
+              <h3 className="text-lg font-bold text-slate-900 mb-3">Typical HDFC Settlement Haircut Slabs by Product &amp; Aging</h3>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -544,9 +544,9 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Recovery Practices &amp; RBI Anti-Harassment Law</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 HDFC Recovery Agent Practices, Harassment Defense &amp; RBI Compliance
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When an HDFC Bank retail loan breaches 90 days of non-payment, the account is transferred from internal tele-calling executives to outsourced Debt Recovery Agencies (DRAs). Because external recovery personnel operate on recovery-linked commission incentives, aggressive and unauthorized tactics frequently occur, including relentless calling, unscheduled residential visits, and intimidating notices directed at relatives or employers.
               </p>
@@ -571,9 +571,9 @@ export default function HdfcPersonalLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         HDFC Bank Personal Loan Settlement Process &amp; Haircut Blueprint
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -620,9 +620,9 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <Layers className="w-4 h-4" />
                 <span>5. Execution Roadmap</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Guide: How to start &amp; Negotiate Settlement with HDFC Bank
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating a high-stakes compromise settlement with HDFC Bank requires strategic legal coordination. Following this tested sequential roadmap ensures optimal financial relief while safeguarding your legal position at every milestone:
               </p>
@@ -630,10 +630,10 @@ export default function HdfcPersonalLoanSettlementClient() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Comprehensive Financial Audit &amp; Hardship Evidence Compilation
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-3">
                     HDFC Bank&apos;s Credit Committee will not consider informal or unsupported requests for debt forgiveness. You must assemble an indisputable evidentiary dossier establishing legitimate income destruction. This dossier includes corporate severance notices, termination letters, medical diagnosis certificates, catastrophic hospitalization invoices, or audited financial statements documenting complete commercial insolvency.
                   </p>
@@ -644,10 +644,10 @@ export default function HdfcPersonalLoanSettlementClient() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Neutralizing External Agencies &amp; Establishing Direct Banking Jurisdiction
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-3">
                     A frequent strategic mistake made by distressed borrowers is attempting to negotiate settlement numbers with outsourced collection agents. These agents lack legal authority to issue debt waivers and often promise verbal discounts to collect partial payments that are then applied to overdue interest.
                   </p>
@@ -658,10 +658,10 @@ export default function HdfcPersonalLoanSettlementClient() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting the Formal Compromise Settlement Proposal
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-3">
                     The formal OTS application must be formally addressed to the Competent Credit Authority, citing the Reserve Bank of India Master Direction on Compromise Settlements. The application should provide a detailed breakdown of historical repayments to establish good faith, articulate the specific hardship event, and present an opening settlement offer.
                   </p>
@@ -672,10 +672,10 @@ export default function HdfcPersonalLoanSettlementClient() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Credit Committee talks
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-3">
                     Upon receiving the proposal, HDFC&apos;s settlement desk will typically present a conservative counter-demand requiring 70% to 80% of book dues. This initial response is a standard institutional probe to test the debtor&apos;s liquidity.
                   </p>
@@ -686,10 +686,10 @@ export default function HdfcPersonalLoanSettlementClient() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Audit of the Stamped OTS Sanction Letter
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-3">
                     Before releasing a single rupee, the borrower must receive and meticulously audit an official OTS Sanction Letter printed on HDFC Bank letterhead. The document must explicitly stipulate the exact compromise figure, precise remittance deadlines, and an unconditional covenant confirming that all residual principal, penal interest, and incidental legal fees will be permanently extinguished upon payment.
                   </p>
@@ -700,10 +700,10 @@ export default function HdfcPersonalLoanSettlementClient() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Securing the ₹0 No Dues Certificate
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-3">
                     The sanctioned settlement amount must be remitted strictly through verifiable banking channels (RTGS, NEFT, or Account Payee draft) directly into the designated HDFC loan account number. Third-party intermediary or collection agency accounts must never be used under any situations.
                   </p>
@@ -720,7 +720,7 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <Scale className="w-4 h-4" />
                 <span>6. Comparative Resolution Avenues</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 HDFC OTS vs Loan Restructuring vs National Lok Adalat
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -791,7 +791,7 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>7. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Critical Checklist for HDFC Settlement Sanction Letters &amp; ₹0 NDC Verification
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -809,7 +809,7 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <TrendingUp className="w-4 h-4" />
                 <span>8. CIBIL Score Trajectory &amp; recovery</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Impact on CIBIL Score &amp; Long-Term Credit recovery Post-HDFC Settlement
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -829,7 +829,7 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>9. Legal Defense &amp; Representation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed HDFC Borrowers Choose SettleLoans
               </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
@@ -870,7 +870,7 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>10. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About HDFC Personal Loan Settlement
               </h3>
 
@@ -889,10 +889,10 @@ export default function HdfcPersonalLoanSettlementClient() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -954,10 +954,10 @@ export default function HdfcPersonalLoanSettlementClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

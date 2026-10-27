@@ -120,7 +120,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="icici-history" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-12">2. ICICI Bank Recovery: A History of Institutional Evolution</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-12">2. ICICI Bank Recovery: A History of Institutional Evolution</h2>
                <div className="space-y-10">
                   <p>
                      ICICI Bank has always been at the forefront of retail banking in India. In the early 2000s, they pioneered the use of external recovery agencies (TPAs) to manage their burgeoning credit card portfolio. While this led to rapid growth, it also led to significant legal challenges regarding the methods used by these agencies.
@@ -137,7 +137,7 @@ export default function ICICIBankSettlementPage() {
             <LoanSettlementAssessmentFunnel />
 
             <section id="rbi-fair-practice" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-12">3. RBI Fair Practice Code: The Borrower's Bill of Rights</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-12">3. RBI Fair Practice Code: The Borrower's Bill of Rights</h2>
                <div className="space-y-10">
                   <p>
                      The Reserve Bank of India (RBI) has issued a "Master Direction on Fair Practice Code for Lenders." This is the set of rules that ICICI Bank MUST follow. If they violate any of these, their legal standing for recovery is weakened. 
@@ -155,7 +155,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="settlement-logic" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-12">4. The Logic of OTS: Why the Bank Accepts 30%</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-12">4. The Logic of OTS: Why the Bank Accepts 30%</h2>
                <div className="space-y-10">
                   <p>
                      Why does a bank agree to take ₹3 lakhs for a ₹10 lakh debt? It's not because they like you. It's because of **Provisioning**. 
@@ -173,7 +173,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="credit-card-trap" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-12">5. Credit Card Math Mastery: Defeating the 57% Monster</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-12">5. Credit Card Math Mastery: Defeating the 57% Monster</h2>
                <div className="space-y-10">
                   <p>
                      ICICI Bank credit cards have a nominal interest rate of 3.5% per month. This sounds small. But with compounding and GST, the effective Annualized Percentage Rate (APR) is roughly **57%**. 
@@ -188,7 +188,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="personal-loan-steps" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-12">6. Personal Loan Resolution: Moving from EMI to OTS</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-12">6. Personal Loan Resolution: Moving from EMI to OTS</h2>
                <div className="space-y-10">
                   <p>
                      Personal loans with ICICI are 'Amortized'. This means the monthly EMI is fixed. When you stop paying, the bank immediately triggers the 'Account Recall' notice. 
@@ -200,18 +200,18 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="home-loan-sarfaesi" className="scroll-mt-32 mb-32 bg-[#111] text-white p-20 rounded-[80px]">
-               <h3 className="text-5xl font-black mb-12 text-[#F99D27]">7. Home Loan & SARFAESI Defense: Protecting Your Roof</h3>
+               <h2 className="text-5xl font-black mb-12 text-[#F99D27]">7. Home Loan & SARFAESI Defense: Protecting Your Roof</h2>
                <div className="space-y-10">
                   <p className="text-2xl font-light opacity-80">
                      The SARFAESI Act is meant for recovery, not for injustice. Most borrowers are terrified of the 13(2) and 13(4) notices. Here is the 2026 expert defense strategy:
                   </p>
                   <div className="space-y-12">
                      <div className="border-l-4 border-[#F99D27] pl-12">
-                        <h4 className="text-3xl font-black mb-4">Phase 1: The Tactical Objection</h4>
+                        <h3 className="text-3xl font-black mb-4">Phase 1: The Tactical Objection</h3>
                         <p className="opacity-70 text-xl">Under Section 13(3A), you have a right to object. We identify procedural errors—wrong interest calculation, incorrect asset details, or failure to serve notice to co-applicants. If the bank's response is a 'Template Reply', we challenge it in the High Court as a violation of Natural Justice.</p>
                      </div>
                      <div className="border-l-4 border-[#F99D27] pl-12">
-                        <h5 className="text-3xl font-black mb-4">Phase 2: The DRT Intervention</h5>
+                        <h4 className="text-3xl font-black mb-4">Phase 2: The DRT Intervention</h4>
                         <p className="opacity-70 text-xl">If they proceed to auction, we move to the Debt Recovery Tribunal (DRT). We challenge the 'Reserve Price' of your home. Often, banks undervalue homes by 30% for a quick sale. We stop the auction and force a settlement that allows you to keep the home or sell it at market value to clear the dues.</p>
                      </div>
                   </div>
@@ -219,7 +219,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="auto-loan-repo" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-12">8. Auto Repo Legal Shield: Don't Let Them Take the Car</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-12">8. Auto Repo Legal Shield: Don't Let Them Take the Car</h2>
                <div className="space-y-10">
                   <p>
                      ICICI auto loans are hypothecated. While the bank has a right to repossess, they DO NOT have a right to use force.
@@ -231,7 +231,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="gold-loan-auctions" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-12">9. Gold Loan Auction Defense: Saving Ancestral Jewelry</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-12">9. Gold Loan Auction Defense: Saving Ancestral Jewelry</h2>
                <div className="space-y-10">
                   <p>
                      Gold loans are high-turnover. The bank auctions the gold within 30 days of the loan's expiry. 
@@ -243,7 +243,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="business-debt-workout" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-12">10. Business & SME Debt Workout: Professional Restructuring</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-12">10. Business & SME Debt Workout: Professional Restructuring</h2>
                <div className="space-y-10">
                   <p>
                      For SME owners, an ICICI CC (Cash Credit) limit default is a death sentence. We use the **MSME Pre-Packaged Insolvency** framework to negotiate a "Settlement and Survival" plan. 
@@ -255,7 +255,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="legal-summons-guide" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-12">11. Legal Summons and Remedies: De-mystifying the Court</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-12">11. Legal Summons and Remedies: De-mystifying the Court</h2>
                <div className="space-y-10">
                   <p>
                      Did you receive a notice from a law firm in Mumbai or Chennai? 90% of these are 'Threat Notices', not 'Court Summons'. 
@@ -267,7 +267,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="lok-adalat-mastery" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-12">12. Lok Adalat Implementation: The Final Fair deal</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-12">12. Lok Adalat Implementation: The Final Fair deal</h2>
                <div className="space-y-10">
                   <p>
                       Lok Adalats are the ultimate platform for ICICI settlements. They are supervised by judges. The judge's primary goal is to "Settle the Case," not to "Give a Judgment." 
@@ -279,7 +279,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="ombudsman-recourse" className="scroll-mt-32 mb-32 text-white bg-slate-900 p-20 rounded-[80px]">
-               <h3 className="text-5xl font-black mb-12 text-[#B02A30]">13. Banking Ombudsman Recourse: The Nuclear Option</h3>
+               <h2 className="text-5xl font-black mb-12 text-[#B02A30]">13. Banking Ombudsman Recourse: The Nuclear Option</h2>
                <div className="space-y-10">
                   <p className="text-2xl font-light opacity-80 text-white">
                       If the ICICI Regional Nodal Officer is not listening, we go directly to the RBI Ombudsman. 
@@ -291,7 +291,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="psychology-of-debt" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-12">14. Debt Psychology: Re-wiring the Fear Response</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-12">14. Debt Psychology: Re-wiring the Fear Response</h2>
                <div className="space-y-10">
                   <p>
                      The bank counts on your 'Shame'. They think that because you defaulted, you will hide. We tell our clients to do the opposite. Wear your default as a "Financial Realignment." When a recovery agent calls, don't hang up. Say, "I am represented by SettleLoans. Please send all legal summons to their office. I am busy building my new business." 
@@ -303,7 +303,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="glossary-of-terms" className="scroll-mt-32 mb-32 bg-slate-50 p-20 rounded-[60px]">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-16 underline decoration-[#B02A30] decoration-[10px]">15. Mega Glossary of Debt Terms: Speak the Bank's language</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-16 underline decoration-[#B02A30] decoration-[10px]">15. Mega Glossary of Debt Terms: Speak the Bank's language</h2>
                <div className="grid md:grid-cols-2 gap-10">
                   {[
                     { t: "NPA (Non-Performing Asset)", d: "A loan where interest or principal has been overdue for more than 90 days. This triggers the bank's recovery protocol." },
@@ -318,7 +318,7 @@ export default function ICICIBankSettlementPage() {
                     { t: "Ombudsman", d: "The RBI-appointed officer who hears complaints against banks. The ultimate judge of fair practice." }
                   ].map((item, i) => (
                     <div key={i} className="space-y-2 pb-6 border-b border-slate-200">
-                       <h4 className="text-xl font-black text-[#B02A30]">{item.t}</h4>
+                       <h3 className="text-xl font-black text-[#B02A30]">{item.t}</h3>
                        <p className="text-sm opacity-70 leading-relaxed font-bold">{item.d}</p>
                     </div>
                   ))}
@@ -327,7 +327,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="success-stories-expanded" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-16">16. 20+ Expanded Case Studies: Real Victories</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-16">16. 20+ Expanded Case Studies: Real Victories</h2>
                <div className="grid gap-12">
                   {[
                     { t: "The Credit Card Savior", l: "₹6L Credit Card", s: "₹1.8L", text: "Client had lost his job in the 2024 tech layoffs. Compounding interest was making suicide feel like an option. We took over, stopped the calls, and settled for 30% of the principal." },
@@ -336,7 +336,7 @@ export default function ICICIBankSettlementPage() {
                     { t: "The NRI Debt Clear", l: "₹15L Personal Loan", s: "₹6L", text: "Client was in UK, bank was harassing parents in Punjab. We used international consumer laws to force a settlement in Mumbai Nodal office." }
                   ].map((cs, i) => (
                     <div key={i} className="p-12 bg-white border border-slate-100 rounded-[50px] shadow-sm hover:shadow-2xl transition-all border-l-[15px] border-[#F99D27]">
-                       <h4 className="text-3xl font-black text-[#B02A30] mb-4">{cs.t}</h4>
+                       <h3 className="text-3xl font-black text-[#B02A30] mb-4">{cs.t}</h3>
                        <p className="font-bold text-xl mb-4 italic">{cs.l} | {cs.s}</p>
                        <p className="opacity-70 text-lg">"{cs.text}"</p>
                     </div>
@@ -346,7 +346,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="client-success" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#1a202c] mb-12">17. Client Reviews: The Voice of Experience</h3>
+               <h2 className="text-4xl font-black text-[#1a202c] mb-12">17. Client Reviews: The Voice of Experience</h2>
                <div className="grid md:grid-cols-2 gap-10">
                   {[
                     { n: "Anil Kapoor", r: "SettleLoans is a lifesaver. My ICICI credit card debt of 5 lakhs was settled for 1.5 lakhs. Highly recommend!", rt: 5 },
@@ -374,7 +374,7 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-32">
-               <h3 className="text-4xl font-black text-[#B02A30] mb-12">18. Mega FAQ Resolution Center</h3>
+               <h2 className="text-4xl font-black text-[#B02A30] mb-12">18. Mega FAQ Resolution Center</h2>
                <div className="space-y-12">
                   {[
                     { q: "Can I settle my ICICI credit card for 40% of the total amount?", a: "Yes. For accounts older than 180 days, we regularly achieve 30% to 50% settlements. The bank's internal write-off policy encourages closure over prolonged litigation for unsecured debt." },
@@ -385,7 +385,7 @@ export default function ICICIBankSettlementPage() {
                     // ... 35 more FAQs implementation
                   ].map((faq, i) => (
                     <div key={i} className="pb-10 border-b border-slate-100 group">
-                       <h4 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#B02A30] transition-colors">{faq.q}</h4>
+                       <h3 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#B02A30] transition-colors">{faq.q}</h3>
                        <p className="text-lg opacity-70 leading-relaxed font-light">{faq.a}</p>
                     </div>
                   ))}
@@ -394,9 +394,9 @@ export default function ICICIBankSettlementPage() {
             </section>
 
             <section id="conclusion" className="scroll-mt-32 mb-16">
-               <h3 className="text-5xl md:text-[150px] font-black text-[#1a202c] mb-16 leading-[0.8] tracking-tighter">
+               <h2 className="text-5xl md:text-[150px] font-black text-[#1a202c] mb-16 leading-[0.8] tracking-tighter">
                   Freedom. <br className="hidden md:block"/> <span className="text-[#B02A30]">Finally.</span>
-               </h3>
+               </h2>
                <div className="space-y-12 text-3xl font-light leading-relaxed">
                   <p>
                      You have finished reading 10,000 words. But for your financial life, this is the very first sentence. Information is only power if it is transformed into action.
@@ -406,7 +406,7 @@ export default function ICICIBankSettlementPage() {
                   </p>
                   <div className="bg-[#B02A30] text-white p-24 rounded-[100px] text-center shadow-[0_80px_150px_rgba(176,42,48,0.4)] relative overflow-hidden">
                      <div className="absolute top-0 left-0 w-full h-full bg-[#F99D27]/5 transform -rotate-12 translate-x-1/2"></div>
-                     <h3 className="text-7xl font-black mb-12 leading-none relative z-10">Start Your Debt <br/> Recovery Today</h3>
+                     <h2 className="text-7xl font-black mb-12 leading-none relative z-10">Start Your Debt <br/> Recovery Today</h2>
                      <Link href="/contact" className="inline-block bg-[#F99D27] text-white font-black py-10 px-32 rounded-3xl text-5xl hover:scale-110 active:scale-95 transition-all shadow-4xl relative z-10">
                         Get Free Analysis
                      </Link>

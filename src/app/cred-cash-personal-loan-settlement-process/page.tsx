@@ -599,7 +599,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Milestones</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CRED Cash Delinquency Lifecycle</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CRED Cash Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Defaulted CRED Cash loans move through set stages under RBI IRACP rules and Ind AS 109 norms. Early default brings automated alerts. Once overdue past 90 days, the loan becomes a Non-Performing Asset (NPA). At that point, the bank shifts from simple collection to loss recovery.
               </p>
@@ -669,7 +669,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Predatory e-NACH Presentations</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Predatory e-NACH Presentations</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When you miss a CRED Cash EMI, automated systems present your e-NACH mandate up to 4 times a month. Each failed debit brings heavy double fees. Your bank charges ₹250 to ₹500 plus GST. The lender also adds ₹500 to ₹1,000 plus GST in bounce fines. Penal interest of 24% to 36% per year gets added on top.
               </p>
@@ -687,7 +687,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Models</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Partner Bank OTS Haircut Valuation</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Partner Bank OTS Haircut Valuation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI compromise rules, partner banks assess settlement offers using Net Present Value (NPV) recovery math. Personal credit lines have no physical collateral. So lenders compare quick settlement cash against long court battles, lawyer costs, and bad-loan provisioning loss.
               </p>
@@ -707,7 +707,7 @@ export default function CredCashPersonalLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic CRED Cash Settlement Haircut Slabs by Partner Entity &amp; Aging</h4>
+              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic CRED Cash Settlement Haircut Slabs by Partner Entity &amp; Aging</h3>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -772,9 +772,9 @@ export default function CredCashPersonalLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         CRED Cash Personal Loan Settlement &amp; Partner Bank Resolution Architecture
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -821,7 +821,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; Anti-Harassment Rights</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting CRED Cash Harassment Under RBI Directives</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting CRED Cash Harassment Under RBI Directives</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Many collection agencies use harsh pressure tactics. They call your office phone, contact coworkers on social networks, and threaten home visits.
               </p>
@@ -839,7 +839,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step Resolution Roadmap</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to CRED Cash Settlement</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to CRED Cash Settlement</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Follow these clear legal steps to settle your CRED Cash loan safely:
               </p>
@@ -847,10 +847,10 @@ export default function CredCashPersonalLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Step 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Identify the Underwriting Regulated Entity &amp; Loan Number
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Check your loan letter or credit report. Find whether your loan is with IDFC FIRST Bank, Newtap Finance, or L&amp;T Finance. Note down your loan account number.
                   </p>
@@ -858,10 +858,10 @@ export default function CredCashPersonalLoanSettlementPage() {
 
                 {/* Step 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoke e-NACH Mandates &amp; Formalize Communication
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Stop auto-debit payments at your bank to avoid extra bounce fees. Inform the lender in writing to route all notices through your legal counsel.
                   </p>
@@ -869,10 +869,10 @@ export default function CredCashPersonalLoanSettlementPage() {
 
                 {/* Step 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submit Formal Hardship Petition to Stressed Assets Desk
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Gather proof of hardship like job loss letters, salary cuts, or hospital bills. Send an OTS request directly to the partner bank&apos;s stressed asset desk.
                   </p>
@@ -880,10 +880,10 @@ export default function CredCashPersonalLoanSettlementPage() {
 
                 {/* Step 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Negotiate Committee-Level Principal Haircut
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Reject initial low-discount offers with proof of low income. Negotiate directly with credit managers for a 40% to 60% principal waiver.
                   </p>
@@ -891,10 +891,10 @@ export default function CredCashPersonalLoanSettlementPage() {
 
                 {/* Step 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Verification of the OTS Sanction Letter
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Review the settlement letter carefully. Ensure it is on the partner bank&apos;s official letterhead with loan details, amount, due date, and debt release terms.
                   </p>
@@ -902,10 +902,10 @@ export default function CredCashPersonalLoanSettlementPage() {
 
                 {/* Step 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Secure ₹0 NDC
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the agreed settlement amount directly to the bank via RTGS or NEFT. The lender must issue your No Dues Certificate within 30 days under RBI rules.
                   </p>
@@ -919,7 +919,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Notices, Section 25 &amp; Arbitration</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sec 25 PSSA &amp; Lok Adalat Defense for CRED Cash</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sec 25 PSSA &amp; Lok Adalat Defense for CRED Cash</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After 60 to 90 days of default, lenders may send 15-day statutory notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for bounced auto-debits. They may also start sole arbitration in distant cities.
               </p>
@@ -981,7 +981,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating CRED Cash OTS Sanction Letters</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating CRED Cash OTS Sanction Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay money based on phone calls or WhatsApp chats from recovery agents. An authentic OTS letter must come on the lender&apos;s official corporate letterhead (such as IDFC FIRST Bank, Newtap Finance, or L&amp;T Finance). It must list the company CIN, office address, exact loan number, agreed amount, and full debt release terms.
               </p>
@@ -996,7 +996,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; Credit Restoration</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery for CRED Cash</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery for CRED Cash</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling your loan marks the account as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. This causes a short-term drop in your score. But it permanently stops ongoing default remarks and legal risks.
               </p>
@@ -1011,7 +1011,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed CRED Cash Borrowers Trust SettleLoans
               </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
@@ -1030,7 +1030,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs on CRED Cash Loan Settlement &amp; RBI Rules
               </h3>
 
@@ -1059,10 +1059,10 @@ export default function CredCashPersonalLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1124,10 +1124,10 @@ export default function CredCashPersonalLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/idfc-first-bank-loan-settlement"

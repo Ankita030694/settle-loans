@@ -292,7 +292,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                         <section id="unsecured-vs-secured" className="scroll-mt-32 mb-12">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Unsecured vs. Secured Loans: The Fundamental Differences</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Unsecured vs. Secured Loans: The Fundamental Differences</h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 To truly comprehend the unsecured personal loan definition, one must contrast it with its counterpart: the secured loan. The distinction between these two categories dictates the entire borrowing experience, influencing interest rates, approval times, and the consequences of defaulting on the agreement.
                             </p>
@@ -313,13 +313,13 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
             <LoanSettlementAssessmentFunnel />
 
                         <section id="core-characteristics" className="scroll-mt-32 mb-12">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Core Characteristics of Unsecured Personal Loans</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Core Characteristics of Unsecured Personal Loans</h2>
                             <p className="text-lg leading-relaxed mb-8">
                                 Delving deeper into the unsecured personal loan definition requires an examination of the specific characteristics that define these financial products. These features distinguish them from other forms of credit and dictate how they should be used in a responsible financial plan.
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Absence of Collateral Requirements</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Absence of Collateral Requirements</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         As the name suggests, the defining feature is the lack of any required security. You do not need to risk your home, gold, or investments to secure the funds. This characteristic democratizes access to credit, allowing people who may be early in their careers or who choose not to tie up their assets to obtain necessary financing.
                                     </p>
@@ -328,7 +328,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Flexibility of End Usage</h5>
+                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Flexibility of End Usage</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Unlike an auto loan that must be used to purchase a car, or a home loan designated strictly for real estate, unsecured personal loans offer immense flexibility. Once the funds are disbursed into your account, the lender generally imposes no restrictions on how the money is spent.
                                     </p>
@@ -337,7 +337,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Fixed Repayment Schedules</h5>
+                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Fixed Repayment Schedules</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Unsecured personal loans typically come with fixed interest rates and fixed Equated Monthly Installments (EMIs). This predictability is highly beneficial for budgeting. You know exactly how much you need to pay each month and precisely when the loan will be fully retired.
                                     </p>
@@ -374,25 +374,25 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                         <section id="interest-rates-and-fees" className="scroll-mt-32 mb-12">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Decoding Interest Rates and Associated Fees</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Decoding Interest Rates and Associated Fees</h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 A complete understanding of the unsecured personal loan definition is impossible without a thorough examination of the costs involved. Because unsecured loans carry inherent risks for the lender, the pricing structures are designed to compensate for potential defaults. The primary cost component is the interest rate, but borrowers must also be vigilant about various administrative and operational fees that can significantly inflate the total cost of borrowing.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Understanding Interest Rates</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Understanding Interest Rates</h3>
                                     <p className="text-sm">Interest rates on unsecured personal loans are higher than those on secured loans. The specific rate offered depends on credit profiles, income, employer categories, and market conditions. Rates typically range from 10% for people with pristine credit to over 25% for lower-score borrowers using high-risk digital platforms.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Processing Fees</h5>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Processing Fees</h4>
                                     <p className="text-sm">When a lender evaluates an application, conducts background checks, and sets up the loan account, they incur operational costs. To cover these expenses, lenders charge a processing fee. This is usually calculated as a percentage of the total loan amount, often ranging from one percent to three percent. It is crucial to note that this fee is typically deducted upfront from the disbursed loan amount, meaning you receive slightly less than you applied for.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Prepayment and Foreclosure Charges</h5>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Prepayment and Foreclosure Charges</h4>
                                     <p className="text-sm">Lenders design their loan products expecting to earn a specific amount of interest over the agreed tenure. If you decide to pay off the loan early (foreclosure) or make significant partial payments (part-prepayment), the lender loses anticipated interest revenue. To compensate, they often impose penalty charges. These fees can be large, sometimes up to five percent of the outstanding principal balance. Some lenders may prohibit foreclosure entirely for a specific lock-in period, typically the first six to twelve months of the loan.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Late Payment Penalties</h5>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Late Payment Penalties</h4>
                                     <p className="text-sm">Failing to pay your Equated Monthly Installment on the scheduled date triggers immediate consequences. Lenders will levy late payment fees, which can be a flat charge or a percentage of the overdue amount. also, you will be charged penal interest on the delayed payment for the number of days it remains unpaid. Beyond the financial penalties, late payments are reported to credit bureaus, causing severe and long-lasting damage to your credit score.</p>
                                 </div>
                             </div>
@@ -402,12 +402,12 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                         <section id="role-of-credit-score" className="scroll-mt-32 mb-12">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Crucial Role of Credit Scores in Unsecured Lending</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Crucial Role of Credit Scores in Unsecured Lending</h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 In the realm of collateral-free borrowing, your credit score is your most valuable asset. It acts as the definitive measure of your financial reliability and directly influences every aspect of the unsecured personal loan definition in practice. A credit score, typically provided by bureaus like CIBIL, Experian, or Equifax, is a numerical representation of your credit history, summarizing your past behavior with loans and credit cards.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">How Lenders Interpret Credit Scores</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">How Lenders Interpret Credit Scores</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     Lenders rely on credit scores to assess the probability of a borrower defaulting on a new obligation. A high score indicates a history of timely payments, responsible credit use, and a stable financial profile. Conversely, a low score suggests a pattern of late payments, high debt burdens, or previous defaults.
                                 </p>
@@ -425,7 +425,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                         <section id="advantages-of-unsecured-loans" className="scroll-mt-32 mb-12">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Top Advantages of Unsecured Personal Loans</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Top Advantages of Unsecured Personal Loans</h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 The widespread popularity of these financial products is driven by several compelling benefits. Understanding these advantages highlights why unsecured personal loans have become a primary tool for managing financial needs in the modern economy.
                             </p>
@@ -444,7 +444,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                         <section id="potential-risks" className="scroll-mt-32 mb-12">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Potential Disadvantages and Risks to Consider</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Potential Disadvantages and Risks to Consider</h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 While the benefits are clear, a balanced comprehension of the unsecured personal loan definition requires a candid look at the associated risks. The very features that make these loans accessible also contribute to their potential pitfalls. Borrowers must navigate these challenges cautiously to avoid long-term financial distress.
                             </p>
@@ -472,7 +472,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                         <section id="common-uses" className="scroll-mt-32 mb-12">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Uses for Unsecured Personal Loans</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Uses for Unsecured Personal Loans</h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 The versatility inherent in the unsecured personal loan definition allows consumers to use these funds across a broad spectrum of life events and financial strategies. When used judiciously, a personal loan can be a powerful tool for improving one's financial standing or managing significant expenses.
                             </p>
@@ -488,12 +488,12 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                         <section id="application-process" className="scroll-mt-32 mb-12">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Step-by-Step Application and Approval Process</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Step-by-Step Application and Approval Process</h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 Navigating the application process effectively requires a clear understanding of what lenders look for and how to present your financial profile in the best possible light. A structured approach minimizes delays and increases the probability of securing favorable terms.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">A Strategic Approach to Applying</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">A Strategic Approach to Applying</h3>
                                 <p className="text-lg leading-relaxed mb-4">
                                     The process begins long before you submit a form. It starts with self-assessment and meticulous preparation.
                                 </p>
@@ -523,7 +523,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                          <section id="repayment-strategies" className="scroll-mt-32 mb-12">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Effective Repayment Strategies to Avoid Default</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Effective Repayment Strategies to Avoid Default</h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 Successfully managing an unsecured personal loan is a critical component of financial health. Proactive repayment strategies prevent the accumulation of penal interest, protect your credit score, and ensure that debt remains a tool rather than a burden.
                             </p>
@@ -539,7 +539,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                         <section id="consequences-of-default" className="scroll-mt-32 mb-12">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Severe Consequences of Defaulting</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Severe Consequences of Defaulting</h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 While the unsecured personal loan definition emphasizes the lack of collateral, borrowers must not mistake this for a lack of consequence. Defaulting on an unsecured obligation starts a cascade of severe financial and legal repercussions that can impact an person's life for years.
                             </p>
@@ -552,7 +552,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                         <section id="loan-settlement-options" className="scroll-mt-32 mb-12">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Exploring Loan Settlement as a Last Resort</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Exploring Loan Settlement as a Last Resort</h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 In scenarios where a borrower faces insurmountable financial hardship, such as a prolonged job loss, a severe medical crisis, or a catastrophic business failure, fulfilling the original loan agreement may become impossible. In such extreme cases, understanding the unsecured personal loan definition involves recognizing the option of a loan settlement.
                             </p>
@@ -565,7 +565,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                          <section id="expert-tips" className="scroll-mt-32 mb-12">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Expert Tips for Choosing the Best Unsecured Personal Loan</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Expert Tips for Choosing the Best Unsecured Personal Loan</h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 Selecting the right financial product requires a strategic approach. Experts advise borrowers to prioritize total cost over simple convenience. Always calculate the Annual Percentage Rate to compare offers accurately, factoring in processing fees and hidden charges. Read the fine print meticulously, paying close attention to foreclosure terms and penal interest structures.
                             </p>
@@ -575,7 +575,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Unsecured Personal Loan Guidance Success Stories</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Unsecured Personal Loan Guidance Success Stories</h2>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -613,7 +613,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -628,7 +628,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Unsecured Personal Loan Definition FAQs</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Unsecured Personal Loan Definition FAQs</h2>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "What is the basic unsecured personal loan definition?", a: "An unsecured personal loan is a type of credit issued by a lender based solely on the borrower's creditworthiness and promise to repay, rather than being backed by any physical collateral or asset." },
@@ -656,7 +656,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                         </section>
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
-                            <h3 className="text-3xl font-black mb-6">Expert Guidance on Unsecured Loans</h3>
+                            <h2 className="text-3xl font-black mb-6">Expert Guidance on Unsecured Loans</h2>
                             <p className="text-xl mb-8 opacity-90">
                                 Struggling with high-interest personal loans or facing repayment difficulties? Our financial experts can help you navigate your options and find a sustainable solution.
                             </p>

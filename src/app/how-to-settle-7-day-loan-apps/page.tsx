@@ -147,21 +147,21 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="anatomy" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">Anatomy of a 7-Day Loan App</h3>
+              <h2 className="text-3xl font-black mb-6">Anatomy of a 7-Day Loan App</h2>
               <p className="mb-6">
                 To fight the enemy, you must understand its structure. A typical 7-day loan app is not a "Financial service." It is a piece of malware wrapped in a financial interface. These apps are built on "Whitelabel" platforms that can be customized with different names and logos in minutes.
               </p>
               <div className="grid md:grid-cols-3 gap-4 mb-8">
                 <div className="bg-gray-50 p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">The Hook</h4>
+                  <h3 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">The Hook</h3>
                   <p className="text-sm">Low-barrier entry. No CIBIL check. Approval in 60 seconds. Targeted at youth and small business owners.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-[#DEDEDE]">
-                  <h5 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">The Payload</h5>
+                  <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">The Payload</h4>
                   <p className="text-sm">Malicious code that scans your contact list, SMS, and photo gallery immediately upon granting permission.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-[#DEDEDE]">
-                  <h5 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">The Extortion</h5>
+                  <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">The Extortion</h4>
                   <p className="text-sm">High processing fees (30-40%) and daily interest rates exceeding 1%. They make money from fees, not long-term interest.</p>
                 </div>
               </div>
@@ -176,12 +176,12 @@ export default function SevenDayLoanSettlementPage() {
             <LoanSettlementAssessmentFunnel />
 
             <section id="illegal-mechanics" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">Mechanics of the Trap: How They Control You</h3>
+              <h2 className="text-3xl font-black mb-6">Mechanics of the Trap: How They Control You</h2>
               <p className="mb-6">
                 The trap is not just about the money; it is about "Psychological locking." When you apply for a loan of ₹5,000, the system might only disburse ₹3,200 into your account. The moment the money hits your account, the clock starts. They calculate the 7 days from the moment of disbursement, often including the weekend to make it even harder to manage.
               </p>
               <div className="p-8 bg-red-50 border-l-4 border-red-500 rounded-r-xl mb-8">
-                <h4 className="font-black text-red-900 mb-4">The Multi-App Escalation</h4>
+                <h3 className="font-black text-red-900 mb-4">The Multi-App Escalation</h3>
                 <p className="text-red-800">
                   On the 6th day, you receive a friendly reminder. On the 7th day, the tone changes. If you cannot pay, the agent will offer a "Solution": take a loan from App B to pay App A. What you don't realize is that App A and App B are owned by the same group. You are now paying 30% processing fees twice, and your debt has doubled in one hour. This is how a ₹3,000 loan becomes a ₹2 Lakh debt in 30 days. This is known as "Churning" in the scam industry.
                 </p>
@@ -195,7 +195,7 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="app-list" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">Common Illegal App Names and Their Tactics</h3>
+              <h2 className="text-3xl font-black mb-6">Common Illegal App Names and Their Tactics</h2>
               <p className="mb-6">
                 While names change every day, here is a list of common "Keywords" and some specific apps that have been reported for predatory practices. If you see these, stay away:
               </p>
@@ -210,7 +210,7 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="psychology" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">The Psychology of Digital Terror</h3>
+              <h2 className="text-3xl font-black mb-6">The Psychology of Digital Terror</h2>
               <p className="mb-6">
                 Predatory lenders use a specific psychological framework called "The Fear-Shame-Urgency Triangle." By attacking these three pillars, they disable your ability to seek help. This mental assault is often more damaging than the financial loss.
               </p>
@@ -218,21 +218,21 @@ export default function SevenDayLoanSettlementPage() {
                 <li className="flex gap-4">
                   <div className="w-8 h-8 rounded-full bg-red-100 text-red-600 flex items-center justify-center font-black shrink-0 mt-1">1</div>
                   <div>
-                    <h4 className="font-bold">Institutional Fear:</h4>
+                    <h3 className="font-bold">Institutional Fear:</h3>
                     <p className="text-sm text-gray-600">They send fake legal notices with the RBI and Supreme Court logos. They threaten you with 10 years in jail and travel bans. They might even send fake "Notice of Asset Seizure" with photos of police lockers. In reality, a debt default is a civil matter, and these apps have no legal standing to sue you or cause an arrest.</p>
                   </div>
                 </li>
                 <li className="flex gap-4">
                   <div className="w-8 h-8 rounded-full bg-red-100 text-red-600 flex items-center justify-center font-black shrink-0 mt-1">2</div>
                   <div>
-                    <h5 className="font-bold">Social Shame:</h5>
+                    <h4 className="font-bold">Social Shame:</h4>
                     <p className="text-sm text-gray-600">The fear of being exposed as a "borrower" or "defaulter" to one's family is the strongest weapon. Agents know that in many Indian families, financial struggle is a taboo subject. They exploit this silence to keep you from asking for advice or legal help. They want you to feel isolated.</p>
                   </div>
                 </li>
                 <li className="flex gap-4">
                   <div className="w-8 h-8 rounded-full bg-red-100 text-red-600 flex items-center justify-center font-black shrink-0 mt-1">3</div>
                   <div>
-                    <h6 className="font-bold">Artificial Urgency:</h6>
+                    <h5 className="font-bold">Artificial Urgency:</h5>
                     <p className="text-sm text-gray-600">"Pay in 10 minutes or your contact list gets the morphed photo." This urgency is designed to make you pay without thinking or consulting a lawyer. It forces your brain into a fight-or-flight mode where logical decision-making becomes impossible.</p>
                   </div>
                 </li>
@@ -246,7 +246,7 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="technical-deep-dive" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">Technical APK Deep Dive: What's Under the Hood</h3>
+              <h2 className="text-3xl font-black mb-6">Technical APK Deep Dive: What's Under the Hood</h2>
               <p className="mb-6">
                 If you look at the source code of an illegal loan app APK (using a decompiler), you will find functions that have nothing to do with finance. These include:
               </p>
@@ -262,7 +262,7 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="contact-hacking" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">How They Hack Your Contacts</h3>
+              <h2 className="text-3xl font-black mb-6">How They Hack Your Contacts</h2>
               <p className="mb-6">
                  Many users ask: "How did they get my father's number even though I didn't give it as a reference?"
               </p>
@@ -275,7 +275,7 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="legal-status" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">The Legal Truth in India: What Can They Actually Do?</h3>
+              <h2 className="text-3xl font-black mb-6">The Legal Truth in India: What Can They Actually Do?</h2>
               <p className="mb-6">
                 In India, debt recovery is a regulated process. No bank or NBFC is allowed to use intimidation, especially digital shaming. For these illegal 7-day apps, the legal reality is very simple: they are the criminals.
               </p>
@@ -313,7 +313,7 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">RBI Mandates and Your Rights</h3>
+              <h2 className="text-3xl font-black mb-6">RBI Mandates and Your Rights</h2>
               <p className="mb-6">
                 The RBI Digital Lending Guidelines (2022 and 2024 updates) are very clear. Any app that doesn't follow these is operating ILLEGALLY. This is your primary leverage against them.
               </p>
@@ -326,14 +326,14 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="legit-vs-fake" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">How to Spot Legitimate vs Fake Apps</h3>
+              <h2 className="text-3xl font-black mb-6">How to Spot Legitimate vs Fake Apps</h2>
               <p className="mb-6">
                 Not all digital lending is bad. In fact, India has some of the world's best fintech apps. Here is how to distinguish between a legal NBFC app and a 7-day shark:
               </p>
               <div className="bg-gray-50 border border-[#DEDEDE] p-6 rounded-2xl mb-8">
                 <div className="grid md:grid-cols-2 gap-8">
                    <div>
-                      <h4 className="font-black text-green-600 mb-4 uppercase text-xs tracking-widest">Legit (NBFC/Bank)</h4>
+                      <h3 className="font-black text-green-600 mb-4 uppercase text-xs tracking-widest">Legit (NBFC/Bank)</h3>
                       <ul className="space-y-2 text-sm">
                          <li className="flex gap-2"><span>✓</span> <span>Minimum Tenure: 62 Days</span></li>
                          <li className="flex gap-2"><span>✓</span> <span>CIBIL Score used for approval</span></li>
@@ -343,7 +343,7 @@ export default function SevenDayLoanSettlementPage() {
                       </ul>
                    </div>
                    <div>
-                      <h5 className="font-black text-red-600 mb-4 uppercase text-xs tracking-widest">Fake (7-Day Apps)</h5>
+                      <h4 className="font-black text-red-600 mb-4 uppercase text-xs tracking-widest">Fake (7-Day Apps)</h4>
                       <ul className="space-y-2 text-sm">
                          <li className="flex gap-2"><span>✗</span> <span>Tenure: Exactly 7 Days</span></li>
                          <li className="flex gap-2"><span>✗</span> <span>No CIBIL check; only permissions</span></li>
@@ -357,12 +357,12 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="stop-harassment" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">Execution: How to Stop the Calls Today</h3>
+              <h2 className="text-3xl font-black mb-6">Execution: How to Stop the Calls Today</h2>
               <p className="mb-6">
                 If the calls are overwhelming (some reported receiving 500 calls a day), follow this "Radio Silence" protocol. Remember, the agents have no patience; they want quick money. If you become "Difficult" to reach, they move to an easier target.
               </p>
               <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-lg">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Radio Silence Protocol</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Radio Silence Protocol</h3>
                 <ol className="space-y-4 text-gray-700">
                   <li className="flex gap-4">
                     <span className="font-black text-[#1F5EFF]">A.</span>
@@ -381,7 +381,7 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="social-shaming" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">Beating Social Shaming: Proactive Communication</h3>
+              <h2 className="text-3xl font-black mb-6">Beating Social Shaming: Proactive Communication</h2>
               <p className="mb-6">
                  If they have threatened your contact list, do one thing: **Pre-empt them.** Control the narrative before they do.
               </p>
@@ -397,12 +397,12 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="family-support" className="scroll-mt-32 mb-16">
-               <h3 className="text-3xl font-black mb-6">Helping a Loved One: Being a Supportive Contact</h3>
+               <h2 className="text-3xl font-black mb-6">Helping a Loved One: Being a Supportive Contact</h2>
                <p className="mb-6">
                  If you are a relative who has received a harassing call about someone else's loan, your reaction is critical. The scammers want you to get angry with the borrower.
                </p>
                <div className="p-6 bg-emerald-50 border border-emerald-200 rounded-xl mb-8">
-                  <h4 className="font-bold text-emerald-800 mb-2">What you should do:</h4>
+                  <h3 className="font-bold text-emerald-800 mb-2">What you should do:</h3>
                   <ul className="space-y-4 text-emerald-900 text-sm">
                      <li>• **Don't Blame Them:** The borrower is already under immense stress. Blame only adds to the suicide risk.</li>
                      <li>• **Record the Call:** Take a recording of the agent's abuse. This is vital evidence for the FIR.</li>
@@ -413,7 +413,7 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="technical-security" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">Technical Lockdown: Securing Your Device</h3>
+              <h2 className="text-3xl font-black mb-6">Technical Lockdown: Securing Your Device</h2>
               <p className="mb-6">
                 Even after deleting the app, some digital trails might remain. Follow these technical steps to ensure your phone is clean:
               </p>
@@ -427,12 +427,12 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="settlement-guide" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">The Settlement Protocol for Illegal Apps</h3>
+              <h2 className="text-3xl font-black mb-6">The Settlement Protocol for Illegal Apps</h2>
               <p className="mb-6">
                  If you have the money and want to close the chapter, **settle only on your terms.** Do not let them dictate the price of your peace.
               </p>
               <div className="p-8 bg-blue-50 border border-blue-200 rounded-2xl mb-8">
-                 <h4 className="font-black mb-4">Golden Rules for Settlement</h4>
+                 <h3 className="font-black mb-4">Golden Rules for Settlement</h3>
                  <ul className="space-y-4">
                     <li>1. **Principal Only:** Never pay the interest or late fees. Offer only the net amount you received in your bank account minus any processing fees they took upfront.</li>
                     <li>2. **One-Time ONLY:** Never pay in installments. If they ask for "Part payment" of ₹500 today, it's a trick. Only pay the final agreed amount once you have a screenshot of the agreement in their chat (even if informal).</li>
@@ -446,7 +446,7 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="cybercrime-fir" className="scroll-mt-32 mb-16">
-                <h3 className="text-3xl font-black mb-6">Filing a Cyber FIR: Your Legal Shield</h3>
+                <h2 className="text-3xl font-black mb-6">Filing a Cyber FIR: Your Legal Shield</h2>
                 <p className="mb-6">
                   Filing a complaint is not just about catching the perpetrators; it is about "Protective Documentation." If the scammers use your photos for something worse in the future, having an FIR filed on [Current Date] proves that you were already being extorted.
                 </p>
@@ -454,14 +454,14 @@ export default function SevenDayLoanSettlementPage() {
                     <div className="flex gap-4">
                         <div className="w-10 h-10 border border-black flex items-center justify-center font-black rounded-lg shrink-0">1</div>
                         <div>
-                            <h4 className="font-bold">Gather Evidence:</h4>
+                            <h3 className="font-bold">Gather Evidence:</h3>
                             <p className="text-sm">Save every WhatsApp message, every call log, and every bank statement showing money received. Do not delete them out of fear; they are your proof of the money trail.</p>
                         </div>
                     </div>
                     <div className="flex gap-4">
                         <div className="w-10 h-10 border border-black flex items-center justify-center font-black rounded-lg shrink-0">2</div>
                         <div>
-                            <h5 className="font-bold">Web Report:</h5>
+                            <h4 className="font-bold">Web Report:</h4>
                             <p className="text-sm">Go to [www.cybercrime.gov.in](https://www.cybercrime.gov.in) and select 'Report Crime related to Women/Children' if there are morphed photos, otherwise 'Report other Cyber Crime'. Be as detailed as possible.</p>
                         </div>
                     </div>
@@ -469,32 +469,32 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="state-helplines" className="scroll-mt-32 mb-16">
-               <h3 className="text-3xl font-black mb-6">State-wise Cyber Helplines in India</h3>
+               <h2 className="text-3xl font-black mb-6">State-wise Cyber Helplines in India</h2>
                <p className="mb-6">
                  While 1930 is the national number, many states have dedicated cyber cells that respond faster:
                </p>
                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
                   <div className="p-4 bg-gray-50 border border-gray-200 rounded-lg">
-                     <h4 className="font-bold text-xs uppercase text-gray-500 mb-1">Maharashtra (Mumbai)</h4>
+                     <h3 className="font-bold text-xs uppercase text-gray-500 mb-1">Maharashtra (Mumbai)</h3>
                      <p className="font-black text-[#1F5EFF]">022-22160080</p>
                   </div>
                   <div className="p-4 bg-gray-50 border border-gray-200 rounded-lg">
-                     <h5 className="font-bold text-xs uppercase text-gray-500 mb-1">Delhi NCR</h5>
+                     <h4 className="font-bold text-xs uppercase text-gray-500 mb-1">Delhi NCR</h4>
                      <p className="font-black text-[#1F5EFF]">011-20892633</p>
                   </div>
                   <div className="p-4 bg-gray-50 border border-gray-200 rounded-lg">
-                     <h6 className="font-bold text-xs uppercase text-gray-500 mb-1">Karnataka (Bangalore)</h6>
+                     <h5 className="font-bold text-xs uppercase text-gray-500 mb-1">Karnataka (Bangalore)</h5>
                      <p className="font-black text-[#1F5EFF]">080-22370381</p>
                   </div>
                   <div className="p-4 bg-gray-50 border border-gray-200 rounded-lg">
-                     <h6 className="font-bold text-xs uppercase text-gray-500 mb-1">Telangana (Hyderabad)</h6>
+                     <h5 className="font-bold text-xs uppercase text-gray-500 mb-1">Telangana (Hyderabad)</h5>
                      <p className="font-black text-[#1F5EFF]">040-23148100</p>
                   </div>
                </div>
             </section>
 
             <section id="global-context" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">The Global Perspective: Syndicates and Shells</h3>
+              <h2 className="text-3xl font-black mb-6">The Global Perspective: Syndicates and Shells</h2>
               <p className="mb-6">
                  This is not an isolated Indian issue. Similar "Fast loan" scams have ravaged Indonesia, Thailand, and even Brazil. In Southeast Asia, these syndicates often operate from "Casino hubs" or SEZs (Special Economic Zones) in Laos or Cambodia, where they are protected by local gangs.
               </p>
@@ -504,7 +504,7 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
              <section id="economic-impact" className="scroll-mt-32 mb-16">
-               <h3 className="text-3xl font-black mb-6">Economic Impact: The Cost to India</h3>
+               <h2 className="text-3xl font-black mb-6">Economic Impact: The Cost to India</h2>
                <p className="mb-6">
                  Predatory lending drains crores of rupees out of the Indian economy every month. Most of this money is funneled out of the country through illegal crypto-exchanges or Hawala channels. This is why the government and RBI are so aggressive in their crackdown; it is a matter of national financial security.
                </p>
@@ -514,21 +514,21 @@ export default function SevenDayLoanSettlementPage() {
             </section>
 
             <section id="case-studies" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black mb-6">Case Studies: Victories over the Apps</h3>
+              <h2 className="text-3xl font-black mb-6">Case Studies: Victories over the Apps</h2>
               <div className="space-y-8">
                  <div className="bg-white p-6 rounded-xl shadow-sm border border-[#DEDEDE]">
-                    <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">Case #8821: The "Morphed Photo" Defense</h4>
+                    <h3 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">Case #8821: The "Morphed Photo" Defense</h3>
                     <p className="text-sm mb-4">"A school teacher in Chennai was threatened with morphed photos. She worked with the SettleLoans legal team. We filed a cyber complaint and sent the PDF receipt of the complaint to the recovery agent. The moment they saw the 'Official Govt Receipt,' they realized she had professional backing and they disappeared. They only target the defenseless."</p>
                  </div>
                  <div className="bg-white p-6 rounded-xl shadow-sm border border-[#DEDEDE]">
-                    <h5 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">Case #9102: The "Contact List" Recovery</h5>
+                    <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">Case #9102: The "Contact List" Recovery</h4>
                     <p className="text-sm mb-4">"A young professional in Mumbai had 20 apps chasing him for over ₹5 Lakhs. We implemented the 'Radio Silence' protocol and informed his company HR proactively. The HR department actually supported him and blocked the office landline from unknown incoming calls. Within 14 days, the syndicate moved on. No money was paid to the scammers."</p>
                  </div>
               </div>
             </section>
 
             <section id="faq" className="scroll-mt-32 mb-12">
-              <h3 className="text-3xl font-black mb-8">Comprehensive FAQ (20+ Questions)</h3>
+              <h2 className="text-3xl font-black mb-8">Comprehensive FAQ (20+ Questions)</h2>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is taking a 7-day loan a crime?", a: "No. Taking a loan is never a crime in India. Predatory lending, data theft, and extortion, however, are major crimes under the IT Act and IPC." },

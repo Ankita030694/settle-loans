@@ -424,9 +424,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 2: Banking Accounting & NPA Provisioning */}
             <section id="bank-accounting-provisioning" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 2. Banking Accounting &amp; Provisioning: How Lenders Treat Default
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Under the RBI Master Circular on IRACP norms, commercial banks and NBFCs follow strict rules for delinquent accounts. Asset classifications dictate when provisioning reserves must be set aside. When payments are missed, debts progress through Special Mention Account stages. These buckets are SMA-0 (1 to 30 days), SMA-1 (31 to 60 days), and SMA-2 (61 to 90 days overdue). At 90 days past due (DPD), the account is formally classified as a Non-Performing Asset (NPA).
               </p>
@@ -442,9 +442,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 3: Haircut Depth Comparison */}
             <section id="settlement-haircuts-discount-depth" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 3. Haircut Depth: Credit Cards (50-75%) vs Loans (35-60%)
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 The most critical mathematical reality in Indian debt resolution is that credit card settlements consistently yield greatly larger percentage haircuts than personal loan settlements. This discrepancy is not arbitrary; it is rooted directly in balance composition and bank recovery economics.
               </p>
@@ -454,9 +454,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
               {/* 4-Sided Bordered Comparison Table */}
               <div className="my-8">
-                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Financial Settlement Simulation: ₹5,00,000 Default Balance Comparison
-                </h4>
+                </h2>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -515,9 +515,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 4: Legal Exposure & Recovery Agency Tactics */}
             <section id="legal-exposure-recovery-tactics" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 4. Legal Exposure: Section 138 vs Civil Debt Recovery
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 When borrowers default simultaneously on credit cards and personal loans, recovery dynamics and legal exposure differ greatly. Personal loans carry structured statutory enforcement mechanisms because banks mandate pre-authorized National Automated Clearing House (NACH) e-mandates or physical post-dated cheques before loan disbursal.
               </p>
@@ -540,9 +540,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Legal Defense &amp; Action Blueprint
                     </span>
-                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       Credit Card vs Personal Loan Settlement Matrix
-                    </h4>
+                    </h2>
                   </div>
                 </div>
                 <a
@@ -584,9 +584,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 5: Strategic Debt Triage Playbook */}
             <section id="strategic-debt-triage-priority" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 5. Strategic Debt Triage: Which Debt to Settle First?
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Borrowers with limited cash reserves must avoid deploying funds without a structured plan. Distributing small partial payments across multiple lenders without formal agreements leads to rapid fund depletion without closing accounts. Paying a small amount to every bank satisfies no creditor and leaves you exposed to both legal summons and aggressive collection harassment.
               </p>
@@ -597,30 +597,30 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
               {/* Triage Diagnostic Breakdown */}
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-rose-50/80 border border-rose-200">
-                  <h4 className="font-bold text-rose-900 text-base mb-1.5 flex items-center gap-2">
+                  <h3 className="font-bold text-rose-900 text-base mb-1.5 flex items-center gap-2">
                     <ShieldAlert className="w-4 h-4 text-rose-600" />
                     <span>Priority 1: Active Statutory Legal Exposure (Personal Loans with Sec 138/25 Notices)</span>
-                  </h4>
+                  </h2>
                   <p className="text-xs text-rose-950 leading-relaxed">
                     If an NBFC or bank has issued a formal advocate notice under Section 138 of the Negotiable Instruments Act or Section 25 of the PSS Act, this debt must be addressed first. SettleLoans advocates engage the lender recovery division immediately to negotiate a compromise OTS and secure an official withdrawal of court cases upon settlement execution.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-emerald-50/80 border border-emerald-200">
-                  <h5 className="font-bold text-emerald-900 text-base mb-1.5 flex items-center gap-2">
+                  <h4 className="font-bold text-emerald-900 text-base mb-1.5 flex items-center gap-2">
                     <TrendingUp className="w-4 h-4 text-emerald-600" />
                     <span>Priority 2: Deepest Discount Leverage (Charged-Off Credit Cards at 65%–75% Haircut)</span>
-                  </h5>
+                  </h3>
                   <p className="text-xs text-emerald-950 leading-relaxed">
                     Once criminal litigation exposure is neutralized, allocate liquid cash to settled credit cards. Because credit card divisions offer deep 65%–75% discounts on charged-off accounts, a ₹4,00,000 credit card debt can frequently be extinguished for ₹1,20,000 to ₹1,40,000, immediately eliminating high-velocity interest compounding.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-blue-50/80 border border-blue-200">
-                  <h5 className="font-bold text-blue-900 text-base mb-1.5 flex items-center gap-2">
+                  <h4 className="font-bold text-blue-900 text-base mb-1.5 flex items-center gap-2">
                     <Layers className="w-4 h-4 text-blue-600" />
                     <span>Priority 3: Secondary Unsecured Loans &amp; Fintech Digital Credit Lines</span>
-                  </h5>
+                  </h4>
                   <p className="text-xs text-blue-950 leading-relaxed">
                     Remaining personal loans and digital app lines are placed under formal legal representation under the RBI Fair Practices Code. Advocates maintain notice with lenders, stall coercive collection, and negotiate staggered multi-month OTS terms as new cash reserves accumulate.
                   </p>
@@ -630,9 +630,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 6: NPV & Bank Settlement Accounting Math */}
             <section id="npv-decision-modeling" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 6. NPV & Risk Modeling in Bank Settlement Committees
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To negotiate effectively, borrowers must understand how bank recovery committees evaluate settlement proposals. Lenders do not settle based on emotional appeals. Instead, they use Net Present Value (NPV) modeling to determine if an immediate cash offer yields a higher return than protracted court litigation.
               </p>
@@ -660,7 +660,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 7: CIBIL Bureau & Credit recovery */}
             <section id="cibil-credit-bureau-recovery" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 7. Credit Bureau Reporting & CIBIL Score Trajectory
               </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
@@ -676,7 +676,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 8: Step-by-Step Multi-Debt Action Protocol */}
             <section id="step-by-step-multi-debt-protocol" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 8. Step-by-Step Multi-Debt Settlement talks Protocol
               </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
@@ -738,7 +738,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 9: SettleLoans Legal Defense & Representation */}
             <section id="settleloans-defense-framework" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 9. SettleLoans Multi-Lender Defense Framework &amp; Representation
               </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
@@ -762,7 +762,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                   <HelpCircle className="w-3.5 h-3.5" />
                   <span>Got Questions?</span>
                 </div>
-                <h4 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
+                <h3 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
                   Frequently Asked Questions: Credit Card vs Personal Loan Settlement
                 </h4>
                 <p className="text-sm text-slate-600 mt-1">
@@ -785,10 +785,10 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 11: Official Regulatory Sources & Legal Citations */}
             <div className="my-10 p-6 bg-slate-50 border border-slate-200 rounded-2xl">
-              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory References &amp; Official Regulatory Sources</span>
-              </h5>
+              </h4>
               <ul className="text-xs text-slate-600 space-y-2">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
@@ -825,9 +825,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 12: Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Financial Planning Guides
-              </h5>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/loan-settlement-vs-debt-consolidation"

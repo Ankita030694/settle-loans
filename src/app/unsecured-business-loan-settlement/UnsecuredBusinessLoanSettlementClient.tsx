@@ -380,9 +380,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
-              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Corporate vs Retail Debt Settlement: Key Distinctions
-              </h3>
+              </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   A common misconception among business owners is assuming that settling an unsecured business loan follows the identical trajectory of an person retail personal loan. In reality, banking institutions apply entirely distinct credit evaluation matrices, accounting audits, and legal protocols when negotiating enterprise debts compared to consumer credit.
@@ -451,9 +451,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
-              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. Personal Guarantees & Directors' Liability Under Law
-              </h3>
+              </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Founders of Private Limited companies frequently establish corporate entities assuming that the doctrine of limited liability fully shields their personal assets from business creditors. However, Indian commercial lending practices universally bypass corporate veil protections for unsecured business loans by requiring directors and key promoters to execute unconditional personal guarantee deeds.
@@ -489,9 +489,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 04</span>
               </div>
-              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. The SARFAESI Myth: Unsecured Loans & Property Auctions
-              </h3>
+              </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Recovery agencies often threaten the immediate sealing and auction of homes under the SARFAESI Act. However, this is an illegal intimidation tactic against unsecured business borrowers. These threats exploit the borrower&apos;s lack of procedural legal knowledge to induce panic.
@@ -521,9 +521,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Unsecured Business Loan Settlement &amp; MSME Debt Resolution Overview
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -572,9 +572,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 06</span>
               </div>
-              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Pecuniary Jurisdiction: DRT Limits & Summary Suits
-              </h3>
+              </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   When a commercial enterprise defaults on unsecured debt, financial institutions assess their legal recovery options based strictly on statutory pecuniary thresholds and recovery costs. Under <strong>Section 1(4) of the RDB Act, 1993</strong>, the minimum threshold for approaching the DRT is ₹20 Lakhs. For debts below ₹20 Lakhs, banks cannot start DRT cases.
@@ -599,9 +599,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 07</span>
               </div>
-              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Delinquency Aging, Provisioning & NPV Haircut Math
-              </h3>
+              </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Negotiating an optimal 45% to 65% debt haircut on an unsecured business loan requires leveraging the bank&apos;s internal accounting mechanics. Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), overdue enterprise loans transition through rigid delinquency stages based on Days Past Due (DPD).
@@ -675,9 +675,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 08</span>
               </div>
-              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Statutory Notice Escalation: Section 138 & Section 25
-              </h3>
+              </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   When business cash flows dry up, automated National Automated Clearing House (e-NACH) standing instructions bounce, and post-dated security cheques deposited by lenders are dishonored. Lending institutions immediately issue formal statutory legal notices under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> and <strong>Section 138 of the Negotiable Instruments Act, 1881 (NI Act)</strong>.
@@ -699,9 +699,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 09</span>
               </div>
-              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. The 5-Step Strategic Legal Roadmap for MSME Debt Settlement
-              </h3>
+              </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Executing a legally binding, deep-discount settlement on unsecured business loans requires disciplined legal execution through five structured phases:
@@ -732,9 +732,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 10</span>
               </div>
-              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Commercial CIBIL Rank & Director Credit Trajectory
-              </h3>
+              </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Settling an unsecured business loan impacts two separate credit reporting layers: the enterprise <strong>Company Credit Report (CCR)</strong> reflecting its CIBIL MSME Rank (CMR), and the person directors&apos; or partners&apos; personal consumer credit scores.
@@ -761,7 +761,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 12</span>
               </div>
-              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Unsecured Business Loan Settlement
               </h3>
 

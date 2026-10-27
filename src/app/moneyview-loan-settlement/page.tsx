@@ -596,9 +596,9 @@ export default function MoneyViewLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>2. Collections Pressure &amp; NACH Bounce Defense</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Automated Calling Bots, Third-Party Harassment &amp; Halting the NACH Bounce Spiral
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The immediate aftermath of defaulting on a MoneyView personal loan installment involves algorithmic collection pressure. In the first 1 to 30 days past due (DPD), automated interactive voice response (IVR) dialers initiate dozens of calls daily. As the delinquency matures past 60 days, loan accounts are assigned to external third-party recovery agencies. These outsourced tele-calling operations frequently resort to coercive tactics: contacting secondary phone numbers, threatening to message workplace colleagues, sending unauthorized WhatsApp notices, or making calls during irregular evening hours.
               </p>
@@ -609,10 +609,10 @@ export default function MoneyViewLoanSettlementPage() {
                 Compounding this distress is the automated NACH mandate presentation cycle. MoneyView&apos;s automated payment gateway repeatedly presents electronic debit instructions to the borrower&apos;s savings bank account. Each failed NACH auto-debit triggers return penalty charges ranging from ₹250 to ₹590 at the destination bank, while the NBFC levies internal late payment fines of ₹500 to ₹1,000 plus penal interest of 24% to 36% per annum. Within four months of delinquency, these compounding fees can inflate the ledger liability by ₹30,000 to ₹60,000 over the genuine principal amount.
               </p>
               <div className="bg-slate-50 border border-slate-200 rounded-xl p-5 my-6">
-                <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   Three-Step Legal Strategy to Halt the NACH Return Drain
-                </h4>
+                </h2>
                 <ul className="space-y-2 text-xs sm:text-sm text-slate-700 leading-relaxed">
                   <li><strong>1. Written e-Mandate Revocation:</strong> Under National Payments Corporation of India (NPCI) circulars, every banking customer has the absolute right to instruct their home branch in writing to cancel or suspend an electronic NACH mandate due to acute financial hardship.</li>
                   <li><strong>2. Formal Legal Cease-and-Desist Notice:</strong> Serving a structured legal notice to Whizdm Finance and its co-lenders asserting financial hardship and demanding immediate suspension of automated payment sweeps.</li>
@@ -629,9 +629,9 @@ export default function MoneyViewLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Statutory Protections &amp; Legal Notices</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Statutory Civil Rights, Section 25 PSSA Notices &amp; Debunking Police Threats
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A primary source of anxiety for defaulted borrowers is the barrage of legal threats sent via SMS, email, and WhatsApp. Unscrupulous recovery agents frequently circulate fabricated draft notices featuring official-looking emblems, threatening instant police arrest, registration of criminal First Information Reports (FIRs), or immediate attachment of ancestral household properties. It is vital to state the legal reality clearly: under Indian jurisprudence and the Indian Contract Act, 1872, default on an unsecured digital personal loan is strictly a civil dispute arising from commercial breach of contract.
               </p>
@@ -669,9 +669,9 @@ export default function MoneyViewLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. Bank Accounting &amp; Mathematical Haircuts</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 NBFC NPA Accounting, Provisioning Burden &amp; Net Present Value (NPV) Equation
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To negotiate a 50% to 60% haircut successfully, borrowers must comprehend the institutional mathematics governing NBFC balance sheets. Under the Reserve Bank of India&apos;s Prudential Framework for Stressed Assets and Indian Accounting Standards (Ind AS 109), financial institutions must classify loans into three distinct asset stages based on delinquency aging:
               </p>
@@ -717,9 +717,9 @@ export default function MoneyViewLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 MoneyView Loan Settlement Roadmap: Step-by-Step Resolution Architecture
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The visual infographic below details the complete legal and financial trajectory of resolving defaulted MoneyView personal loans. From initial delinquency classification and automated mandate revocation to direct NBFC Credit Committee escalation, structured OTS sanction letter verification, and final ₹0 No Dues Certificate delivery:
               </p>
@@ -745,59 +745,59 @@ export default function MoneyViewLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>6. Legal Settlement Execution</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Advocate OTS Roadmap: Direct NBFC Stressed Asset Escalation
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Securing an authorized 50% to 60% settlement from MoneyView&apos;s financing partners requires a disciplined legal procedure rather than casual phone conversations with tele-callers. Tele-calling agents are compensated strictly on gross collections; they possess zero delegated financial authority to sanction debt waivers. SettleLoans executes an institutional 5-step roadmap:
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">1</span>
                     Loan Forensic Audit &amp; Balance-Sheet Lender Identification
-                  </h4>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     Our banking advocates inspect the original Key Fact Statement (KFS), loan sanction document, and current repayment ledger. We identify the exact registered balance-sheet lender (Whizdm Finance, DMI Finance, Clix Capital, etc.), calculate the exact disbursed principal, and segregate all uncollected penal interest, processing markups, and unlawful NACH return fines.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">2</span>
                     Harassment Shield &amp; Cease-and-Desist Escalation
-                  </h5>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     We serve formal legal notices to the Principal Nodal Officer and Compliance Head of the lending NBFC under the RBI Master Circular on Recovery Conduct. This establishes legal representation, halts aggressive automated calling bots, prohibits third-party contact, and redirects all communications through authorized legal counsel.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">3</span>
                     Financial Hardship Dossier Compilation
-                  </h5>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     Under RBI compromise settlement frameworks, debt waivers must be substantiated by bona fide economic distress. We compile a comprehensive hardship dossier comprising medical discharge records, termination notices, business income reductions, bank statements evidencing zero disposable surplus, and sworn hardship affidavits.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">4</span>
                     Credit Committee Presentation &amp; NPV Negotiation
-                  </h5>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     Our senior advocates present the hardship petition directly to the NBFC&apos;s Zonal Stressed Assets Division and Credit Committee. By framing the borrower&apos;s payment capacity against the NBFC&apos;s Net Present Value (NPV) benchmark, we negotiate a 50% to 60% principal write-down and 100% waiver of accrued penalties.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">5</span>
                     Sanction Verification, Remittance &amp; ₹0 NDC Delivery
-                  </h5>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     Before any funds are released, we conduct a forensic audit of the formal OTS Sanction Letter. Once verified, remittance is made directly to the NBFC&apos;s official virtual loan account. We then enforce statutory delivery of the stamped No Dues Certificate within the mandatory 30-day RBI window.
                   </p>
@@ -811,9 +811,9 @@ export default function MoneyViewLoanSettlementPage() {
                 <FileText className="w-4 h-4" />
                 <span>7. Document Forensics &amp; Risk Mitigation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Forensics: Authenticity Verification &amp; Trap Avoidance
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The fintech debt ecosystem is rife with collection scams where unscrupulous recovery agents issue fraudulent settlement letters on manipulated PDFs or WhatsApp templates. Once a desperate borrower transfers money to a third-party UPI ID or generic account, the agent pockets the funds, and the NBFC&apos;s core banking ledger continues to show the loan as fully active and defaulting.
               </p>
@@ -822,7 +822,7 @@ export default function MoneyViewLoanSettlementPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-6">
-                <h4 className="font-bold text-slate-900 text-base mb-4 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-base mb-4 flex items-center gap-2">
                   <Lock className="w-5 h-5 text-[#1F5EFF]" />
                   Mandatory OTS Sanction Letter Verification Checklist
                 </h4>
@@ -861,7 +861,7 @@ export default function MoneyViewLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>8. Statutory NDC &amp; Credit Rehabilitation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Remittance Protocols, RBI 30-Day ₹0 NDC Mandate &amp; CIBIL Rehabilitation
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -881,7 +881,7 @@ export default function MoneyViewLoanSettlementPage() {
                 <BadgePercent className="w-4 h-4" />
                 <span>9. Resolution Comparison Matrix</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 MoneyView Debt Resolution Matrix: Financial &amp; Legal Comparison
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -957,7 +957,7 @@ export default function MoneyViewLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Clarifications &amp; Expert Answers</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: MoneyView Loan Settlement
               </h3>
 
@@ -981,7 +981,7 @@ export default function MoneyViewLoanSettlementPage() {
 
             {/* Official Regulatory Links Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
               </h4>
@@ -1046,7 +1046,7 @@ export default function MoneyViewLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
               </h4>

@@ -591,9 +591,9 @@ export default function HubliDharwadLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>2. Statutory Debt Rights &amp; Civil Protections</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Unsecured Debt Rights &amp; Civil Asset Protection in Karnataka
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When borrowers default on unsecured personal loans, institutional recovery channels often deploy aggressive psychological threats, claiming bank officers can seize commercial premises or auction residential homes. Under Indian jurisprudence, these assertions are completely baseless. Unsecured loans are governed strictly by the Indian Contract Act, 1872. Lenders hold zero mortgage, deed deposit, or hypothecation lien over any asset. Consequently, banks cannot invoke the SARFAESI Act, 2002, or obtain executive eviction orders.
               </p>
@@ -610,9 +610,9 @@ export default function HubliDharwadLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>3. Anti-Harassment &amp; Workplace Shields</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Anti-Harassment Shields &amp; RBI Recovery Regulations
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers across Hubli, Dharwad, and Belgaum frequently encounter coercive collection tactics from outsourced agencies. Agents often stage disruptive visits at APMC shops, trespass into Tarihal factories, or contact colleagues and relatives. These actions violate Reserve Bank of India Master Directions and the Fair Practices Code (RBI/2022-23/108), which prohibit calls outside 08:00 AM to 07:00 PM, abusive conduct, third-party debt disclosure, and unannounced workplace visits.
               </p>
@@ -627,9 +627,9 @@ export default function HubliDharwadLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>4. Judicial Summons &amp; Arbitration Defense</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Section 138 &amp; Arbitration in Dharwad Courts
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Beyond 90 days of default, financial institutions typically issue legal notices under Section 138 of the Negotiable Instruments Act, 1881, for security cheques, or Section 25 of the Payment and Settlement Systems Act (PSSA), 2007, for failed NACH debits. While a summons from the Hubli or Dharwad JMFC court causes anxiety, it represents manageable civil litigation. Our advocates file comprehensive replies establishing documented commercial distress, secure prompt bail, and guide proceedings toward Lok Adalat settlement.
               </p>
@@ -650,9 +650,9 @@ export default function HubliDharwadLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Hubli-Dharwad &amp; North Karnataka Resolution Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h2 className="text-sm md:text-base font-black text-white leading-tight">
                         5-Step Loan Settlement &amp; Debt Compromise Framework
-                      </h3>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -699,9 +699,9 @@ export default function HubliDharwadLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>5. Bank Accounting &amp; Provisioning Science</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 NPV Recovery Math &amp; Bank Provisioning in North Karnataka
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Financial institutions agree to waive 40% to 60% of an unsecured loan balance because of mandatory Reserve Bank of India accounting rules. Overdue accounts progress through Special Mention Account stages (SMA-0, SMA-1, SMA-2). Once non-payment crosses 90 days, the loan becomes a Non-Performing Asset (NPA). Under Ind AS 109 Expected Credit Loss norms, banks must allocate 15% to 100% in capital provisions, locking operational liquidity that could otherwise generate profitable credit.
               </p>
@@ -731,9 +731,9 @@ export default function HubliDharwadLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Procedural OTS Negotiation Blueprint</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step OTS Negotiation Protocol in Hubli-Dharwad
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Securing a legally sound loan compromise requires disciplined procedural execution. Our banking advocates manage the resolution process through five established stages:
               </p>
@@ -741,10 +741,10 @@ export default function HubliDharwadLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Step 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation &amp; Financial Forensics
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We audit loan statements, interest calculations, and bank fee levies. We compile supporting records—such as APMC receipts, reduced GST filings, or medical reports—to establish verified financial hardship.
                   </p>
@@ -752,10 +752,10 @@ export default function HubliDharwadLoanSettlementPage() {
 
                 {/* Step 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     e-NACH Mandate Revocation &amp; Legal Shield Activation
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We formally cancel active e-NACH mandates under NPCI guidelines to prevent continuous bounce charges. We issue statutory representation notices requiring lenders to direct all communication solely to our advocates.
                   </p>
@@ -763,10 +763,10 @@ export default function HubliDharwadLoanSettlementPage() {
 
                 {/* Step 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Direct Escalation to Hubli Zonal SARB Leadership
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We bypass recovery agencies completely. We submit formal OTS proposals under the RBI Compromise Framework directly to Zonal SARB authorities in Hubli or Belgaum holding authentic sanctioning powers.
                   </p>
@@ -774,10 +774,10 @@ export default function HubliDharwadLoanSettlementPage() {
 
                 {/* Step 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Multi-Round Haircut Negotiation &amp; 100% Fee Elimination
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We secure complete waivers on 100% of accumulated penal interest, late fees, and processing charges under RBI lending directives, while negotiating a 40% to 60% haircut on the legitimate principal balance.
                   </p>
@@ -785,10 +785,10 @@ export default function HubliDharwadLoanSettlementPage() {
 
                 {/* Step 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Sanction Letter Forensic Audit &amp; ₹0 NDC Delivery
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Our advocates verify the bank sanction letter before payment. Funds are remitted directly to the designated loan account, and we enforce delivery of the formal No Dues Certificate within thirty days.
                   </p>
@@ -802,7 +802,7 @@ export default function HubliDharwadLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>7. Sanction Letter Forensic Verification</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Forensic Audit &amp; RBI NDC Mandate
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -819,7 +819,7 @@ export default function HubliDharwadLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>8. Credit Bureau Score Rehabilitation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Rehabilitation for North Karnataka Borrowers
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -836,7 +836,7 @@ export default function HubliDharwadLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>9. Resolution Route Evaluation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparative Matrix of Debt Resolution Legal Routes
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -894,7 +894,7 @@ export default function HubliDharwadLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Specialized North Karnataka Debt Advocacy</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Borrowers in Hubli-Dharwad Trust SettleLoans
               </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
@@ -913,7 +913,7 @@ export default function HubliDharwadLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Hubli-Dharwad Debt Relief
               </h3>
 

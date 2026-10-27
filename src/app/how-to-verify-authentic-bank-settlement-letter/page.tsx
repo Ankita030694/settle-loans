@@ -530,9 +530,9 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
 
             {/* Section 2: Statutory Protections & Indian Penal Laws */}
             <section id="statutory-protections-rbi-penal-laws" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Protections: RBI Directives & IPC Rules
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must recognize that the creation or dissemination of fraudulent debt settlement instruments is not merely a breach of consumer ethics; it constitutes serious statutory non-compliance and actionable criminal misconduct under Indian penal jurisprudence. Both the Reserve Bank of India (RBI) and the Indian legal framework provide explicit safeguards to protect borrowers from fraudulent recovery practices.
               </p>
@@ -589,9 +589,9 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
 
             {/* Section 3: Fatal Consequences of Fake Settlement Letters */}
             <section id="fatal-consequences-of-fake-settlements" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Fatal Consequences of Paying on a Forged Letter
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Falling victim to a counterfeit settlement letter leads to catastrophic multi-layered financial and legal repercussions. Borrowers mistakenly assume that producing a PDF receipt or WhatsApp chat with a recovery agent will legally bind the bank into closing the loan. In reality, the legal ramifications are severe and immediate:
               </p>
@@ -628,9 +628,9 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
 
             {/* Section 4: Bank Accounting & Credit Committee Approvals */}
             <section id="bank-accounting-npv-ots-approvals" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Why Authentic OTS Requires Credit Committee Approval
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why collection agents cannot sanction waivers, consider how banks account for stressed assets. Under the <strong>RBI Master Direction on Compromise Settlements (June 8, 2023)</strong>, every loan haircut requires authorization from a designated internal bank committee:</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -700,9 +700,9 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="infographic-verification-roadmap" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Roadmap: Verifying Authentic Bank Settlement Letters
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the complete 5-step forensic verification methodology required before remitting any settlement amount to a lending institution, ensuring absolute legal safety, direct loan ledger credit, and complete debt discharge.
               </p>
@@ -737,78 +737,78 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
 
             {/* Section 6: The 7-Point Forensic Checklist */}
             <section id="seven-point-forensic-checklist" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. 7-Point Checklist: Verifying Settlement Letters
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Before you deposit a single rupee toward an agreed compromise settlement, execute this rigorous 7-point forensic checklist developed by our senior debt defense advocates:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <MailCheck className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Check 1: Official Corporate Domain Email Dispatch</span>
-                  </h4>
+                  </h2>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Ensure the settlement letter is emailed directly from the bank&apos;s registered corporate email domain (e.g., <code className="text-blue-700 bg-blue-50 px-1 py-0.5 rounded">nodal.officer@hdfcbank.com</code>, <code className="text-blue-700 bg-blue-50 px-1 py-0.5 rounded">retail.settlements@icicibank.com</code>, or <code className="text-blue-700 bg-blue-50 px-1 py-0.5 rounded">sarb.zonal@sbi.co.in</code>). Any letter received exclusively via WhatsApp, Telegram, or from public webmail servers (@gmail.com, @yahoo.co.in) is completely invalid.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <Building2 className="w-4 h-4 text-indigo-600" />
                     <span>Check 2: Registered Zonal Letterhead &amp; Corporate Details</span>
-                  </h5>
+                  </h2>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Authentic letters are printed on high-grade corporate letterheads displaying the bank&apos;s full legal corporate entity name, Corporate Identification Number (CIN), registered head office address, and zonal branch coordinates. Counterfeit letters often display pixelated, low-resolution logos downloaded from web searches.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <FileText className="w-4 h-4 text-purple-600" />
                     <span>Check 3: Traceable Committee Approval Reference Number</span>
-                  </h5>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     A genuine OTS sanction letter always features a unique, structured internal reference number (e.g., <code className="text-slate-800 bg-slate-200 px-1 py-0.5 rounded">HDFC/SARB/NZ/OTS/2026/08/9421</code>). This reference code corresponds directly to an entry in the bank&apos;s Centralized Core Banking System and Credit Committee minutes.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <UserCheck className="w-4 h-4 text-emerald-600" />
                     <span>Check 4: Authorized Officer Name, Designation &amp; Employee Code</span>
-                  </h5>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The sanction letter must clearly disclose the authorized signing officer&apos;s full name, formal corporate designation (such as Chief Manager, Assistant General Manager, or Stressed Asset Recovery Officer), employee ID code, and official branch stamp.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <Scale className="w-4 h-4 text-amber-600" />
                     <span>Check 5: Unambiguous Debt Discharge &amp; Litigation Withdrawal Clause</span>
-                  </h5>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Verify that the letter explicitly declares that the settlement payment constitutes full and final satisfaction of dues. It must also confirm that the bank will withdraw pending Section 138 NI Act or Section 25 PSSA complaints and issue a formal ₹0 No Dues Certificate.</p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-rose-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <Landmark className="w-4 h-4 text-rose-600" />
                     <span>Check 6: In-Person Branch Manager Verification</span>
-                  </h5>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Before making any financial transfer, visit the home branch or regional Stressed Assets Recovery Branch in person. Present the letter to the Branch Manager or Operations Head and request an explicit confirmation in their core banking system that the OTS proposal is formally sanctioned.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-teal-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-teal-600" />
                     <span>Check 7: Exclusive Remittance to Core Loan Account</span>
-                  </h5>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The settlement terms must instruct you to deposit funds directly into your specific 16-digit loan account number. The letter must NEVER mandate payments to any third-party agency name, person bank account, or QR code.
                   </p>
@@ -818,9 +818,9 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
 
             {/* Section 7: Forgery Dissection & Header Forensics */}
             <section id="forgery-dissection-red-flags" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Forged Settlement Letters: Red Flags & Metadata Forensics
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Forged settlement letters created by rogue recovery agents almost always exhibit identifiable forensic anomalies. Understanding these red flags allows borrowers and legal practitioners to instantly detect fraudulent instruments:
               </p>
@@ -880,7 +880,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
 
             {/* Section 8: Safe Remittance Protocols & CIBIL Recovery */}
             <section id="safe-remittance-ndc-cibil-recovery" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Safe Remittance, RBI ₹0 NDC Mandate & CIBIL Update
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -911,7 +911,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                   Under RBI Circular RBI/2023-24/60, all commercial banks and NBFCs must issue an official No Dues Certificate within 30 calendar days. They are also legally obligated to update credit bureau records within this same 30-day timeline.</p>
               </div>
 
-              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding CIBIL Bureau Reporting &amp; Credit Score Rebuilding
               </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -920,7 +920,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="comparative-settlement-matrix" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Matrix: Authentic Bank OTS vs Rogue Fake Letter
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -980,9 +980,9 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Letter Verification & Legal Audit Services
-                </h3>
+                </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Resolving stressed debt requires experienced banking litigation advocates. Our legal team understands credit committee procedures, forensic letter verification, and statutory borrower rights under RBI directives.</p>
               </div>
@@ -995,9 +995,9 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Bank Settlement Letter Verification
-                </h3>
+                </h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers to essential questions regarding bank settlement letter authenticity, fraud detection, and safe debt resolution in India.
@@ -1027,7 +1027,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
@@ -1073,7 +1073,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
               </h4>
               <div className="flex flex-wrap gap-2">

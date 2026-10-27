@@ -573,9 +573,9 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* Section 2: Compounding Mathematics: APR & GST Cascades */}
             <section id="compounding-apr-gst-mechanics" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. The Mathematics of Revolving Ruin: 47.88% APR, Late Fee Slabs &amp; 18% GST Cascades
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Understanding how an RBL Bank credit card balance spirals from an initial transaction figure of ₹1,50,000 to an overwhelming debt claim exceeding ₹3,80,000 within 14 to 18 months requires a precise examination of credit card compounding mechanics. RBL Bank applies monthly financing charges ranging between 3.99% and 4.25% per month on revolving unpaid balances. On an annualized percentage rate (APR) basis, this translates to an effective rate of 47.88% to 51.10% per annum—the highest interest tier across the entire Indian financial system.
               </p>
@@ -617,9 +617,9 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* Section 3: RBL Bank Accounting, NPA Classification & Provisioning Dynamics */}
             <section id="npa-provisioning-accounting" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. RBL Bank Accounting: The 90-Day DPD Continuum &amp; NPA Provisioning Leverage
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 To negotiate an optimal settlement haircut with RBL Bank, borrowers and debt advisors must understand the regulatory accounting pressures governing commercial banks under the Reserve Bank of India (Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances) Master Directions. Bank recovery behavior is not driven by emotional grievance; it is strictly dictated by balance sheet provisioning obligations.
               </p>
@@ -650,9 +650,9 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* Section 4: Borrower Legal Rights & Anti-Harassment Protections Under RBI Directives */}
             <section id="statutory-borrower-protections" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Statutory Legal Protections: Anti-Harassment Directives &amp; Civil Breach Realities
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 A critical obstacle confronting distressed RBL Bank credit card holders is aggressive, unlawful intimidation by third-party recovery agencies. Borrowers frequently receive threatening phone calls, deceptive notices alleging imminent police arrest, or unauthorized visits by recovery agents at their private residences and corporate workplaces. It is essential for borrowers to understand their unequivocal legal rights under Indian civil and regulatory law.
               </p>
@@ -684,9 +684,9 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* Section 5: Visual Resolution Blueprint (Infographic Banner) */}
             <section id="infographic-resolution-blueprint" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 5. Visual Resolution Blueprint: RBL Bank Credit Card Settlement Framework
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6">
                 The visual framework below illustrates the complete three-pillar architecture of an RBL Bank credit card compromise resolution: from isolating co-branded card liabilities and performing forensic interest audits to securing an authorized One-Time Settlement sanction and obtaining an RBI-compliant zero-dues certificate.
               </p>
@@ -712,9 +712,9 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* Section 6: Net Present Value (NPV) Recovery Valuation & Haircut Metrics */}
             <section id="npv-recovery-haircut-valuation" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Net Present Value (NPV) Recovery Valuation &amp; Realistic Settlement Haircut Metrics
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 A common misconception among defaulting cardholders is that bank settlements are arbitrary or based on sympathetic plea bargaining. In institutional reality, RBL Bank’s Central Stressed Asset Committee evaluates settlement proposals using rigorous Net Present Value (NPV) recovery algorithms. Because credit card debt lacks physical asset security, the bank calculates whether accepting an immediate cash settlement yields a higher net return than incurring protracted legal recovery expenses.
               </p>
@@ -754,59 +754,59 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* Section 7: Step-by-Step RBL Bank Settlement Protocol & Negotiation Strategy */}
             <section id="step-by-step-settlement-protocol" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Step-by-Step RBL Bank Settlement Protocol: From Hardship Audit to Sanction
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Achieving a successful, legally binding compromise settlement with RBL Bank requires adherence to a disciplined, multi-stage legal and financial protocol. Attempting to negotiate informally with tele-calling recovery agents is counterproductive, as third-party callers lack delegated credit sanctioning powers and operate purely on commission targets.
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                     Comprehensive Ledger Forensics &amp; Account Segmentation
-                  </h4>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Obtain complete historical billing statements for all RBL credit cards and co-branded SuperCards. Perform a granular ledger audit separating actual merchant transactions and cash withdrawals from unearned revolving interest, late penalties, and GST charges to establish the authentic core principal balance.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">2</span>
                     Hardship Dossier Compilation
-                  </h5>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Compile verifiable documentary evidence demonstrating involuntary financial insolvency. Essential documentation includes medical discharge summaries, termination letters, salary reduction notices, business loss statements, bank account statements showing depleted liquidity, and tax return filings.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">3</span>
                     Submission of Formal OTS Proposal to RBL Central Stressed Asset Vertical
-                  </h5>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Bypass outsourced recovery tele-callers and submit a formal, legally structured One-Time Settlement proposal directly to RBL Bank&apos;s Central Stressed Asset Management desk and Zonal Nodal Officers under the RBI Compromise Settlement Framework.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">4</span>
                     Credit Committee Evaluation &amp; Structured Tranche Structuring
-                  </h5>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Represent the cardholder in structured negotiations with RBL Bank&apos;s Competent Authority. Establish a realistic lump-sum or structured multi-tranche settlement figure (typically payable across 2 to 4 monthly installments) tailored to the borrower&apos;s verified capacity.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">5</span>
                     Sanction Letter Verification &amp; Direct Remittance
-                  </h5>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Subject the bank&apos;s formal sanction letter to forensic verification. Upon confirming all mandatory statutory clauses, remit the negotiated funds directly into the official RBL credit card account via documented banking channels.
                   </p>
@@ -816,9 +816,9 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* Section 8: Sanction Letter Forensics, Payment Protocols & Zero-Dues NDC Verification */}
             <section id="sanction-letter-forensics-ndc" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Sanction Letter Forensics, Safe Remittance &amp; Statutory No Dues Certificate (NDC)
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Remitting settlement funds without a verified, authentic RBL Bank OTS Sanction Letter is one of the most hazardous mistakes a distressed cardholder can commit. Unscrupulous recovery agents frequently issue fabricated settlement letters or verbal assurances, collect funds into unauthorized accounts, and treat the payment merely as part-payment toward regularizing overdue interest, leaving the residual debt completely active.
               </p>
@@ -873,9 +873,9 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* Section 9: CIBIL Credit Score Trajectory, Rehabilitation & Matrix Table */}
             <section id="cibil-rehabilitation-matrix" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. CIBIL Trajectory, Credit Rehabilitation &amp; Comparative Resolution Matrix
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 A critical strategic concern for cardholders considering an RBL Bank settlement is the long-term impact on their credit profile. When an unsecured credit card account is settled through a compromise OTS, RBL Bank reports the account to credit rating agencies (CIBIL, Experian, CRIF High Mark, Equifax) with the status remark <strong>&quot;Settled&quot;</strong> (or &quot;Post-Write-Off Settled&quot;) and updates the outstanding balance to <strong>₹0</strong>.
               </p>
@@ -898,7 +898,7 @@ export default function RblBankCreditCardSettlementPage() {
               </ul>
 
               {/* 4-Sided Bordered Comparative Table */}
-              <h4 className="text-base md:text-lg font-bold text-slate-900 mt-8 mb-3">
+              <h3 className="text-base md:text-lg font-bold text-slate-900 mt-8 mb-3">
                 Comparative Analysis: Resolution Pathways for Defaulted RBL Credit Card Debt
               </h4>
               <div className="overflow-x-auto">
@@ -953,7 +953,7 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* Section 10: SettleLoans Legal Defense & CompanySection */}
             <section id="company-advocacy-section" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. SettleLoans: Specialized Legal Representation &amp; Direct Bank Negotiation
               </h3>
               <p className="text-slate-700 leading-relaxed mb-6">
@@ -966,7 +966,7 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* Section 11: Comprehensive FAQ Section (Accordion) */}
             <section id="faqs" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-6 leading-tight flex items-center gap-2">
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-6 leading-tight flex items-center gap-2">
                 <HelpCircle className="w-6 h-6 text-[#1F5EFF]" />
                 11. Frequently Asked Questions (FAQs) - RBL Bank Credit Card Settlement
               </h3>
@@ -995,7 +995,7 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* 5 Official Regulatory & Statutory Links */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 text-xs text-slate-700">
-              <h4 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 Official Statutory Authorities &amp; Regulatory Frameworks
               </h4>
@@ -1060,7 +1060,7 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Credit Card &amp; Debt Resolution Guides
               </h4>

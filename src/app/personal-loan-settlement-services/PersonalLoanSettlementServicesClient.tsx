@@ -268,9 +268,9 @@ export default function PersonalLoanSettlementServicesClient() {
                 Navigating a financial crisis is immensely stressful, and dealing directly with aggressive bank collection departments often exacerbates the trauma. When people default on <Link href="/unsecured-personal-loan-definition" className="text-[#2D68FF] font-medium hover:underline">unsecured personal loans</Link>, lenders deploy recovery agents whose tactics can blur the line between collection and harassment. Professional <Link href="/what-is-personal-loan-settlement" className="text-[#2D68FF] font-medium hover:underline">personal loan settlement services</Link> step in as a crucial buffer between the distressed borrower and the lending institution.
               </p>
 
-              <h3 id="reasons" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h2 id="reasons" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 2. Reasons to Hire Professional Negotiators
-              </h3>
+              </h2>
               <p>
                 By employing seasoned financial advisors and legal advocates, these services leverage institutional knowledge that the average consumer lacks. They understand precisely <Link href="/what-percentage-do-banks-accept-in-loan-settlement" className="text-[#2D68FF] font-medium hover:underline">what percentage of the principal amount banks are realistically willing to accept</Link> based on the age of the non-performing asset (NPA), the bank's internal policies, and current market conditions. 
               </p>
@@ -296,9 +296,9 @@ export default function PersonalLoanSettlementServicesClient() {
                 </ul>
               </div>
 
-              <h3 id="comparison" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h2 id="comparison" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 3. Comparison of Legal Remedies
-              </h3>
+              </h2>
               <p>
                 Choosing the right strategy for your debt is crucial. Below is a comparison of different approaches to managing severe loan default:
               </p>
@@ -332,9 +332,9 @@ export default function PersonalLoanSettlementServicesClient() {
                 </table>
               </div>
 
-              <h3 id="step-by-step" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h2 id="step-by-step" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 4. Step-by-Step Notice Process
-              </h3>
+              </h2>
               <p>
                 Engaging a professional debt resolution agency involves a structured, legally sound process designed to maximize debt reduction and ensure permanent closure of the liability.
               </p>
@@ -351,7 +351,7 @@ export default function PersonalLoanSettlementServicesClient() {
                 <div className="flex items-start gap-4 md:gap-5">
                   <div className="w-10 h-10 shrink-0 rounded-full bg-[#2D68FF] text-white flex items-center justify-center font-bold text-lg mt-0.5 shadow-md shadow-blue-500/20">2</div>
                   <div>
-                    <h4 className="text-[19px] font-bold text-slate-900 mb-2 tracking-tight">Draft the Cease and Desist Notice</h4>
+                    <h3 className="text-[19px] font-bold text-slate-900 mb-2 tracking-tight">Draft the Cease and Desist Notice</h3>
                     <p className="text-slate-600 leading-relaxed text-[15px] m-0">Your lawyer drafts a formal notice demanding an immediate halt to third-party recovery harassment under RBI and Supreme Court guidelines.</p>
                   </div>
                 </div>
@@ -359,7 +359,7 @@ export default function PersonalLoanSettlementServicesClient() {
                 <div className="flex items-start gap-4 md:gap-5">
                   <div className="w-10 h-10 shrink-0 rounded-full bg-[#2D68FF] text-white flex items-center justify-center font-bold text-lg mt-0.5 shadow-md shadow-blue-500/20">3</div>
                   <div>
-                    <h4 className="text-[19px] font-bold text-slate-900 mb-2 tracking-tight">Dispatch via Registered Post</h4>
+                    <h3 className="text-[19px] font-bold text-slate-900 mb-2 tracking-tight">Dispatch via Registered Post</h3>
                     <p className="text-slate-600 leading-relaxed text-[15px] m-0">The legal notice is sent via India Post with Acknowledgment Due (RPAD) directly to the bank's grievance officer and registered headquarters.</p>
                   </div>
                 </div>
@@ -367,7 +367,7 @@ export default function PersonalLoanSettlementServicesClient() {
                 <div className="flex items-start gap-4 md:gap-5">
                   <div className="w-10 h-10 shrink-0 rounded-full bg-[#2D68FF] text-white flex items-center justify-center font-bold text-lg mt-0.5 shadow-md shadow-blue-500/20">4</div>
                   <div>
-                    <h4 className="text-[19px] font-bold text-slate-900 mb-2 tracking-tight">Negotiate the Settlement Amount</h4>
+                    <h3 className="text-[19px] font-bold text-slate-900 mb-2 tracking-tight">Negotiate the Settlement Amount</h3>
                     <p className="text-slate-600 leading-relaxed text-[15px] m-0">Once the bank's legal team responds, your advocate begins formal talks to waive off penalties and reduce the principal outstanding.</p>
                   </div>
                 </div>
@@ -375,7 +375,7 @@ export default function PersonalLoanSettlementServicesClient() {
                 <div className="flex items-start gap-4 md:gap-5">
                   <div className="w-10 h-10 shrink-0 rounded-full bg-[#2D68FF] text-white flex items-center justify-center font-bold text-lg mt-0.5 shadow-md shadow-blue-500/20">5</div>
                   <div>
-                    <h4 className="text-[19px] font-bold text-slate-900 mb-2 tracking-tight">Secure the Official NOC</h4>
+                    <h3 className="text-[19px] font-bold text-slate-900 mb-2 tracking-tight">Secure the Official NOC</h3>
                     <p className="text-slate-600 leading-relaxed text-[15px] m-0">After the final agreed sum is paid, the bank must issue a legally binding No Objection Certificate, formally closing the loan account.</p>
                   </div>
                 </div>
@@ -398,23 +398,23 @@ export default function PersonalLoanSettlementServicesClient() {
                 A poorly drafted notice is easily ignored by corporate legal teams. To exert maximum pressure on a bank, the legal intervention must contain specific statutory elements and clear demands.
               </p>
 
-              <h3 id="elements" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h2 id="elements" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 5. Essential Settlement Elements
-              </h3>
+              </h2>
               <p>
                 The primary concern for people considering personal loan settlement services is the associated cost. Most reputable firms operate on a success-fee model. This means their relief is a calculated percentage of the total debt amount they successfully eliminate. For instance, if you owe ₹10,00,000 and the agency negotiates a settlement at ₹4,00,000, their fee is based on the ₹6,00,000 saved.
               </p>
 
-              <h3 id="timeline" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h2 id="timeline" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 6. Resolution Timeline & Escalation
-              </h3>
+              </h2>
               <p>
                 One of the most critical advantages of hiring a settlement firm is immediate legal protection. The Reserve Bank of India has established <Link href="/rbi-rules-for-recovery-agents" className="text-[#2D68FF] font-medium hover:underline">stringent guidelines governing the conduct of recovery agents</Link>. Unfortunately, third-party collection agencies routinely violate these regulations through public shaming, calling family members, or visiting workplaces unannounced. If you face this, filing a <Link href="/recovery-agent-harassment-complaint" className="text-[#2D68FF] font-medium hover:underline">recovery agent harassment complaint</Link> is a viable next step.
               </p>
 
-              <h3 id="faqs" className="scroll-mt-32 mt-16 mb-8 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h2 id="faqs" className="scroll-mt-32 mt-16 mb-8 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 7. Frequently Asked Questions
-              </h3>
+              </h2>
               <div className="space-y-3 not-prose">
                 <div className="border border-slate-200 rounded-xl overflow-hidden bg-white shadow-sm">
                   <button onClick={() => toggleFaq(0)} className="w-full text-left px-6 py-5 flex justify-between items-center hover:bg-slate-50 transition-colors group">
@@ -503,21 +503,21 @@ export default function PersonalLoanSettlementServicesClient() {
         
         {/* More Consumer Protection Guides */}
         <div className="mt-20 mb-12">
-          <h3 className="text-2xl font-black text-slate-900 mb-6 tracking-tight">More Debt Relief Guides</h3>
+          <h2 className="text-2xl font-black text-slate-900 mb-6 tracking-tight">More Debt Relief Guides</h2>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
             <Link href="/services/credit-card-settlement" className="bg-white border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition-shadow group">
-              <h4 className="text-[17px] font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors tracking-tight">Credit Card Settlement</h4>
+              <h3 className="text-[17px] font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors tracking-tight">Credit Card Settlement</h3>
               <p className="text-[13px] text-slate-500 leading-relaxed font-medium">Learn how to negotiate outstanding credit card dues, stop compounding interest, and settle your debt legally.</p>
             </Link>
             
             <Link href="/rbi-ombudsman-complaint-loan-recovery-harassment" className="bg-white border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition-shadow group">
-              <h4 className="text-[17px] font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors tracking-tight">Banking Ombudsman Filing</h4>
+              <h3 className="text-[17px] font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors tracking-tight">Banking Ombudsman Filing</h3>
               <p className="text-[13px] text-slate-500 leading-relaxed font-medium">Step-by-step guide to escalating your grievance against a bank's recovery harassment to the RBI Ombudsman.</p>
             </Link>
             
             <Link href="/all-queries" className="bg-white border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition-shadow group">
-              <h4 className="text-[17px] font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors tracking-tight">All Legal Notices</h4>
+              <h3 className="text-[17px] font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors tracking-tight">All Legal Notices</h3>
               <p className="text-[13px] text-slate-500 leading-relaxed font-medium">Explore our full suite of legal notice templates and professional drafting services for various financial disputes.</p>
             </Link>
           </div>
@@ -540,7 +540,7 @@ export default function PersonalLoanSettlementServicesClient() {
             </p>
             
             <div>
-              <h4 className="text-xl font-black text-slate-900 mb-6 tracking-tight">Our Solutions:</h4>
+              <h3 className="text-xl font-black text-slate-900 mb-6 tracking-tight">Our Solutions:</h3>
               <div className="flex flex-wrap gap-4">
                 <Link href="/legal-notice-for-loan-recovery" className="border-2 border-[#2D68FF] text-[#2D68FF] hover:bg-[#2D68FF] hover:text-white font-bold py-3.5 px-10 rounded-xl transition-colors text-sm text-center">
                   Send Legal Notice

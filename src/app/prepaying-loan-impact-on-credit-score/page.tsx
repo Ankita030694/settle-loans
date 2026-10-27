@@ -265,15 +265,15 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
             </section>
 
             <section id="how-credit-mix-works" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How Your Credit Mix Works
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-6">
                 Credit bureaus evaluate your ability to manage different types of debt simultaneously. This is known as your "credit mix," and it accounts for a significant portion of your overall credit score calculation.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Danger of Eliminating Installment Debt</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Danger of Eliminating Installment Debt</h3>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   If you only have one installment loan (like a car or home loan) alongside revolving credit (like credit cards), paying off that loan entirely removes installment debt from your active profile.
                 </p>
@@ -297,22 +297,22 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
             <LoanSettlementAssessmentFunnel />
 
             <section id="average-credit-age" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Impact on Average Credit Age
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-6">
                 Another crucial factor in your CIBIL score is the length of your credit history. The older your active accounts are, the more reliable you appear to future lenders.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Closing Your Oldest Account</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Closing Your Oldest Account</h3>
                   <p className="text-gray-700 leading-relaxed">
                     If the loan you are prepaying happens to be your oldest active credit line, closing it can reduce the average age of your active accounts, leading to a dip in your score.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">The "Closed" Status</h5>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The "Closed" Status</h4>
                   <p className="text-gray-700 leading-relaxed">
                     While the account remains on your report as a closed account in good standing, it no longer contributes positively as an active, aging trade line every month.
                   </p>
@@ -321,9 +321,9 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
             </section>
 
             <section id="credit-utilization-ratio" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How Prepayment Affects Credit Utilization Ratio
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-6">
                 Your Credit Utilization Ratio (CUR) is primarily based on revolving credit, such as credit cards and overdraft facilities. It measures how much of your available credit limit you are actively using. While prepaying an installment loan doesn't directly alter this mathematical ratio, how you allocate your funds during the prepayment process can indirectly impact this crucial metric, which accounts for up to 30% of your overall CIBIL score.
               </p>
@@ -336,22 +336,22 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
             </section>
 
             <section id="loan-type-matters" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Secured vs. Unsecured Loan Prepayment
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-6">
                 Not all loans are treated equally by credit bureaus. The type of loan you are closing early plays a significant role in determining how much your score will fluctuate.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Unsecured Loans (Personal/App Loans)</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Unsecured Loans (Personal/App Loans)</h3>
                   <p className="text-gray-700 leading-relaxed">
                     Prepaying and closing an unsecured personal loan generally has a more neutral to positive long-term effect. Since these loans usually carry very high interest rates (12% to 24%), the financial benefit of closing them early is immense, and credit bureaus view the clearance of high-risk unsecured debt favorably.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Secured Loans (Home/Auto Loans)</h5>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Secured Loans (Home/Auto Loans)</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Secured loans are considered "good debt" because they are backed by an asset. They demonstrate long-term financial stability. Closing a 20-year home loan in 5 years removes a highly stable, low-risk account from your active profile, which can trigger a slightly more noticeable (albeit temporary) score dip.
                   </p>
@@ -360,15 +360,15 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
             </section>
 
             <section id="timing-of-closure" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Why Timing of Early Closure Matters
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-6">
                 The exact timing of when you choose to prepay and close your loan can determine the severity of the CIBIL impact. If you strategically plan your exit, you can completely mitigate the downside.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Worst Times to Prepay</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Worst Times to Prepay</h3>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Avoid completely closing a long-standing installment loan if you are in the middle of these financial scenarios:
                 </p>
@@ -386,9 +386,9 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
             </section>
 
             <section id="future-borrowing-power" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Impact on Future Borrowing Power
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-6">
                 Despite the temporary point deduction you might see on your credit report, prepaying your loan actually does wonders for your broader financial profile when analyzed by human underwriters at major financial institutions. 
               </p>
@@ -401,9 +401,9 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
             </section>
 
             <section id="steps-to-minimize-damage" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Steps to Minimize the Score Drop
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-6">
                 If you have the capital to become debt-free, you shouldn't let a temporary credit score drop stop you. However, you can strategically manage the early closure credit history impact.
               </p>
@@ -412,7 +412,7 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Consider Partial Prepayment</h4>
+                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Consider Partial Prepayment</h3>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Instead of fully closing the loan, make a massive partial prepayment. This drastically reduces your interest burden and EMI, while keeping the account active and aging favorably on your CIBIL report.
                     </p>
@@ -422,7 +422,7 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Maintain Credit Card Usage</h4>
+                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Maintain Credit Card Usage</h3>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If you are closing your only installment loan, ensure you keep your credit cards active. Use them for small purchases and pay the bill in full every month to maintain a positive reporting history.
                     </p>
@@ -432,7 +432,7 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Avoid Applying for New Credit Immediately</h4>
+                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Avoid Applying for New Credit Immediately</h3>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Right after closing a major loan, your score might dip. Avoid applying for new credit cards or loans for at least 3 to 6 months while your score stabilizes and recovers.
                     </p>
@@ -442,9 +442,9 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
             </section>
 
             <section id="interest-vs-cibil" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Interest Savings vs. CIBIL Dip
-              </h3>
+              </h2>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-gray-800 text-lg leading-relaxed">
@@ -454,15 +454,15 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
             </section>
 
             <section id="hidden-foreclosure-charges" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Beware of Hidden Foreclosure Charges
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-6">
                 Before you rush to close your loan, you must calculate the total cost of early closure. Banks often penalize borrowers for paying off debt early because it costs the bank their expected interest profit.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Prepayment Penalties</h4>
+                <h3 className="text-xl font-black text-red-700 mb-3">Prepayment Penalties</h3>
                 <p className="text-red-900 leading-relaxed">
                   While the RBI has banned foreclosure charges on floating-rate home loans for individual borrowers, banks can still charge heavy penalties (often 2% to 5% of the outstanding principal) on fixed-rate loans, personal loans, and business loans. Always read your loan agreement carefully before making a lump-sum payment.
                 </p>
@@ -470,9 +470,9 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
             </section>
 
             <section id="client-experiences" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Experiences with Early Closure
-              </h3>
+              </h2>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -480,7 +480,7 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
                       RM
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Rajesh M.</h4>
+                      <h3 className="font-bold text-gray-900">Rajesh M.</h3>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -505,7 +505,7 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
                       PS
                     </div>
                     <div>
-                      <h5 className="font-bold text-gray-900">Priya S.</h5>
+                      <h4 className="font-bold text-gray-900">Priya S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -527,13 +527,13 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h3>
+              </h2>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
+                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -542,7 +542,7 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h4 className="text-3xl font-black mb-6 relative z-10">Don't Let Prepayment Myths Stop You</h4>
+              <h3 className="text-3xl font-black mb-6 relative z-10">Don't Let Prepayment Myths Stop You</h3>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Are you planning to close your loan early but worried about the CIBIL impact? Let our experts guide you on the best strategy to save on interest and protect your credit score.
               </p>

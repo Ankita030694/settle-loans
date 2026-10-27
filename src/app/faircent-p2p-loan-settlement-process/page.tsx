@@ -595,9 +595,9 @@ export default function FaircentP2PLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. P2P vs Banking: Balance-Sheet Risk &amp; Delinquency Lifecycle</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 P2P Delinquency Dynamics: DPD Buckets &amp; Litigation Limits
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In traditional commercial banking, defaulted loans trigger rigid provisioning rules mandated under Ind AS 109 and RBI IRAC norms. Banks must lock 15% to 100% of capital reserves as provisioning once an account enters Sub-Standard, Doubtful, or Loss categories. In stark contrast, an NBFC-P2P platform does not carry loan assets on its balance sheet. Therefore, it does not hold statutory capital provisioning against non-performing consumer debt.
               </p>
@@ -664,9 +664,9 @@ export default function FaircentP2PLoanSettlementPage() {
                 <Percent className="w-4 h-4" />
                 <span>3. Halting NACH Bounce Penalties &amp; Escrow Sweeps</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Neutralizing Predatory NACH Mandates & Return Fees
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 One of the most damaging consequences of defaulting on a Faircent, LenDenClub, or LiquiLoans facility is the aggressive, automated presentation of National Automated Clearing House (NACH) electronic debit mandates. Many fintech platforms configure automated clearing bots that trigger mandate sweeps multiple times within a single billing cycle. Each time a debit attempt fails due to insufficient balance, the borrower&apos;s commercial bank levies a return charge of ₹250 to ₹500 plus GST. In contrast, the P2P platform adds an internal bounce fee of ₹500 to ₹1,000 alongside penal interest ranging from 24% to 36% per annum.</p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -677,10 +677,10 @@ export default function FaircentP2PLoanSettlementPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-6">
-                <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>RBI Fair Lending Compliance Mandate</span>
-                </h4>
+                </h2>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                   Under the RBI Master Directions on Fair Practices Code and the Circular on Fair Lending Practice - Penal Charges in Loan Accounts (RBI/2023-24/53), lenders cannot capitalize penal charges or compound overdue interest into principal dues. In any formal One-Time Settlement, 100% of accumulated bounce fees, late administrative levies, and penal compounding must be completely waived.
                 </p>
@@ -693,9 +693,9 @@ export default function FaircentP2PLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Investor Haircut Math</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Net Present Value (NPV) Recovery Modeling
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The core financial mechanism governing all P2P loan compromise settlements is the Net Present Value (NPV) of Recovery equation. Because P2P platforms act as fiduciaries managing recovery operations on behalf of retail lenders, their internal collections committees evaluate default resolution through strict financial discounting models. When a borrower defaults, the platform faces two mutually exclusive paths: pursuing protracted civil and quasi-criminal litigation or accepting a discounted One-Time Settlement.
               </p>
@@ -734,9 +734,9 @@ export default function FaircentP2PLoanSettlementPage() {
                       <span className="text-[11px] font-bold text-blue-300 uppercase tracking-wider block">
                         Visual Resolution Guide
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Faircent &amp; P2P Loan Settlement &amp; Legal Defense Architecture
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -783,9 +783,9 @@ export default function FaircentP2PLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Third-Party Recovery Harassment
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Because P2P lending platforms operate primarily in the digital realm, their default recovery strategies frequently rely on aggressive tele-calling agencies and third-party recovery vendors. Distressed borrowers frequently report egregious collection tactics: persistent calling outside permitted hours, abusive language, threatening criminal imprisonment, contacting unrelated family members, calling employers or corporate HR departments, and threatening unauthorized home or workplace visits.
               </p>
@@ -821,9 +821,9 @@ export default function FaircentP2PLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step P2P Settlement Roadmap</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The 5-Stage P2P Compromise Resolution Protocol
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Negotiating an authorized, legally binding One-Time Settlement with Faircent, LenDenClub, or LiquiLoans requires a disciplined, multi-stage protocol. Attempting to negotiate informally with tele-calling recovery agents is ineffective because third-party callers have zero legal authority to sanction debt waivers. Borrowers must follow a formal institutional procedure:
               </p>
@@ -832,7 +832,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white font-bold text-xs flex items-center justify-center">1</span>
-                    <h4 className="font-bold text-slate-900 text-base">Comprehensive Financial &amp; Ledger Audit</h4>
+                    <h3 className="font-bold text-slate-900 text-base">Comprehensive Financial &amp; Ledger Audit</h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Obtain full loan account statements from the P2P mobile application or web portal. Isolate the exact disbursed principal, total EMIs repaid to date, unapplied interest, accumulated NACH bounce charges, and predatory penal levies. Establish the true outstanding principal baseline.
@@ -842,7 +842,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white font-bold text-xs flex items-center justify-center">2</span>
-                    <h5 className="font-bold text-slate-900 text-base">Statutory Hardship Petition Submission</h5>
+                    <h4 className="font-bold text-slate-900 text-base">Statutory Hardship Petition Submission</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Draft a formal legal hardship representation addressed to the P2P platform&apos;s Stressed Assets Resolution Committee and Principal Nodal Officer. Attach corroborating records—such as job termination letters, medical treatment records, GST sales decline audits, or bank salary slips—proving genuine inability to service contractual EMIs.
@@ -862,7 +862,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white font-bold text-xs flex items-center justify-center">4</span>
-                    <h5 className="font-bold text-slate-900 text-base">Sanction Letter Forensic Audit</h5>
+                    <h4 className="font-bold text-slate-900 text-base">Sanction Letter Forensic Audit</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     before authorizing any payment, legal counsel audits the formal OTS Sanction Letter issued on official letterhead. The document must explicitly state the final settlement amount and payment due date. It must also list designated Trustee Escrow Account details. also, it must confirm that all civil claims are extinguished and commit to issuing a ₹0 No Dues Certificate.
@@ -872,7 +872,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white font-bold text-xs flex items-center justify-center">5</span>
-                    <h5 className="font-bold text-slate-900 text-base">Escrow Remittance &amp; No Dues Certificate Delivery</h5>
+                    <h4 className="font-bold text-slate-900 text-base">Escrow Remittance &amp; No Dues Certificate Delivery</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Execute the settlement payment exclusively via traceable banking channels (NEFT/RTGS/IMPS) directly into the platform&apos;s designated Trustee Escrow Account. Secure the official payment acknowledgement, stamped No Dues Certificate (NDC), and start credit bureau record updates.
@@ -887,39 +887,39 @@ export default function FaircentP2PLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>8. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Navigating Legal Notices: Section 25, Section 138 &amp; Lok Adalat
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a P2P loan crosses 90 to 180 DPD without resolution, platforms frequently start formal legal cases to exert pressure on the borrower. Understanding the jurisdictional nature and legal remedies available for each category of notice is essential to avoid panic and protect your statutory rights:
               </p>
               
               <div className="space-y-4 my-6">
                 <div className="border border-slate-200 rounded-2xl p-5 bg-white">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 PSSA Demand Notices (Dishonoured NACH Mandates)</span>
-                  </h4>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Under Section 25 of the Payment and Settlement Systems Act, 2007, a bounced electronic mandate carries quasi-criminal liability comparable to a bounced physical cheque under Section 138 of the Negotiable Instruments Act, 1881. However, before any complaint can be filed in a Magistrate Court, the platform must serve a statutory 15-day demand notice. A formal legal reply drafted by experienced counsel showing involuntary financial hardship, highlighting unauthorized repeat presentations, and proposing compromise terms routinely transitions the dispute into settlement discussions.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-2xl p-5 bg-white">
-                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Unilateral Sole Arbitration cases</span>
-                  </h5>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Many P2P loan agreements contain arbitration clauses under which platforms attempt to appoint a sole arbitrator unilaterally in Delhi, Mumbai, or Bengaluru. Under binding Supreme Court precedents (Perkins Eastman Architects DVM v. HSCC (India) Ltd. and TRF Ltd. v. Energo Engineering Projects Ltd.), unilateral arbitrator appointments without mutual written consent are legally invalid. Legal counsel can challenge the arbitrator&apos;s jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting ex-parte cases.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-2xl p-5 bg-white">
-                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Users className="w-4 h-4 text-[#1F5EFF]" />
                     <span>National Lok Adalat Amicable Settlement</span>
-                  </h5>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     P2P platforms frequently refer delinquent accounts to National Lok Adalat sessions organized under the Legal Services Authorities Act, 1987. Lok Adalat is an amicable, non-adversarial dispute resolution forum presided over by a retired judicial officer. Lok Adalat awards carry the statutory finality of a civil court decree under Section 21 of the Act, with zero court fees, guaranteed principal waivers, and complete termination of all legal claims.
                   </p>
@@ -933,7 +933,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating OTS Sanction Letters & Enforcing NDCs
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -971,7 +971,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Score Trajectory &amp; Credit recovery</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory: Post-Settlement Credit Rebuilding
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -1014,7 +1014,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Faircent &amp; P2P Loan Settlement
               </h3>
 
@@ -1043,7 +1043,7 @@ export default function FaircentP2PLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <div className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4 flex items-center gap-2">
+              <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                 Official Statutory References &amp; Regulatory Frameworks
               </h4>
@@ -1098,7 +1098,7 @@ export default function FaircentP2PLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <div className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4 flex items-center gap-2">
+              <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
               </h4>

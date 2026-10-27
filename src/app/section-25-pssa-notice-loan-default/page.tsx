@@ -570,9 +570,9 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Statutory Provisions &amp; 15-Day Timelines</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Statutory Anatomy of Section 25 & Procedural Timelines
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   To mount an effective legal defense, one must examine the precise legislative architecture of the <strong>Payment and Settlement Systems Act, 2007 (PSSA)</strong>. Section 25 was enacted by Parliament to provide electronic fund transfers the exact same legal sanctity and penal consequences as traditional physical negotiable instruments under Section 138 of the Negotiable Instruments Act, 1881.
                 </p>
@@ -637,9 +637,9 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Absence of Mens Rea &amp; Civil Debt Realities</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Doctrine of Mens Rea: Involuntary Default vs Fraud
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   A cornerstone principle of Indian criminal jurisprudence is that no person can be convicted of a criminal offense in the absence of <em>mens rea</em>—the deliberate guilty mind or fraudulent intent to cheat. When a borrower faithfully services a personal loan or business credit line for months or years before encountering an unexpected financial catastrophe, their subsequent default is purely involuntary.
                 </p>
@@ -655,9 +655,9 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Ring-Fencing Liquidity</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Banker's Right of Lien (Sec 171) & Protecting Funds
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   In conjunction with serving Section 25 notices, lending banks routinely deploy an aggressive banking mechanism known as the <strong>Banker&apos;s General Lien and Set-Off</strong> under Section 171 of the Indian Contract Act, 1872. This statutory right enables a lending institution to unilaterally appropriate balances, freeze access, or sweep incoming funds from any savings account, fixed deposit, or corporate salary account maintained within that exact same banking entity.
                 </p>
@@ -674,9 +674,9 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Defense &amp; Resolution Blueprint</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Section 25 PSSA Legal Defense &amp; Debt Settlement Architecture
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The blueprint below details the lifecycle of defending against a Section 25 PSSA bounce notice. It guides borrowers from receipt to advocate representation, raising procedural objections, and executing an authentic One-Time Settlement.</p>
 
@@ -702,9 +702,9 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircuts &amp; NPV Valuation Formula</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   OTS Haircut Mechanics: The Net Present Value (NPV) Recovery Benchmark
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Many borrowers erroneously believe that banks file Section 25 notices with the sole objective of sending them to trial. In commercial reality, banks are profit-driven corporations governed by strict asset classification and provisioning guidelines issued by the Reserve Bank of India (RBI). Protracted litigation in Magistrate Courts is expensive, cumbersome, and economically inefficient for financial institutions.
                 </p>
@@ -737,9 +737,9 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>7. Strategic 15-Day Legal Reply Protocol</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Advocate 15-Day Legal Reply Protocol for Section 25
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The statutory 15-day window following the receipt of a Section 25 PSSA notice is your most powerful strategic opportunity. Rather than ignoring the notice or responding with emotional pleas, engaging seasoned debt defense counsel to serve a structured legal reply establishes an unassailable record. Here is the five-stage defense protocol executed by our advocates:
                 </p>
@@ -750,7 +750,7 @@ export default function Page() {
                       1
                     </div>
                     <div>
-                      <h4 className="text-base font-bold text-slate-900 mb-1">Forensic Audit of Notice &amp; Mandate Technicalities</h4>
+                      <h3 className="text-base font-bold text-slate-900 mb-1">Forensic Audit of Notice &amp; Mandate Technicalities</h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We audit the statutory demand notice against strict PSSA compliance rules. We examine whether the notice was served within the 30-day mandate window, verify the exactness of the demanded sum, identify unnotified penal compounding, and inspect the validity of the electronic NACH presentation mandate.
                       </p>
@@ -762,7 +762,7 @@ export default function Page() {
                       2
                     </div>
                     <div>
-                      <h4 className="text-base font-bold text-slate-900 mb-1">Establishing Involuntary Distress &amp; Lack of Mens Rea</h4>
+                      <h3 className="text-base font-bold text-slate-900 mb-1">Establishing Involuntary Distress &amp; Lack of Mens Rea</h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We assemble an exhaustive financial hardship dossier—incorporating corporate layoff letters, business loss statements, medical diagnosis reports, and bank statements showing exhausted cash reserves—proving that the mandate bounce was purely involuntary and devoid of criminal intent.
                       </p>
@@ -774,7 +774,7 @@ export default function Page() {
                       3
                     </div>
                     <div>
-                      <h4 className="text-base font-bold text-slate-900 mb-1">Challenging Usurious Penal Charges &amp; RBI Violations</h4>
+                      <h3 className="text-base font-bold text-slate-900 mb-1">Challenging Usurious Penal Charges &amp; RBI Violations</h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We legally challenge arbitrary late payment penalties, penal interest compounding, and unlawful bounce charges under RBI Circular on Fair Lending Practice - Penal Charges in Loan Accounts (2024), stripping away inflated artificial claims.
                       </p>
@@ -786,7 +786,7 @@ export default function Page() {
                       4
                     </div>
                     <div>
-                      <h4 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Recovery Harassment Injunction</h4>
+                      <h3 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Recovery Harassment Injunction</h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Our legal reply places the bank&apos;s Nodal Officer on formal notice under RBI directives. It halts unauthorized recovery agent visits and channels all notices exclusively through our empanelled advocates.</p>
                     </div>
@@ -797,7 +797,7 @@ export default function Page() {
                       5
                     </div>
                     <div>
-                      <h4 className="text-base font-bold text-slate-900 mb-1">Submitting a Formal OTS Compromise Proposal</h4>
+                      <h3 className="text-base font-bold text-slate-900 mb-1">Submitting a Formal OTS Compromise Proposal</h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We channel the matter away from adversarial criminal litigation by submitting an institutional One-Time Settlement offer directly to the bank&apos;s Zonal Stressed Asset Resolution Branch (SARB), starting talks for a 40% to 65% principal haircut.
                       </p>
@@ -812,9 +812,9 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>8. Sanction Forensics &amp; Compounding Quash</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Sanction Letter Forensics & Notice Quashing
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Once settlement terms are negotiated, borrowers must exercise strict diligence before transferring funds. Never deposit money based on verbal promises or informal recovery agent messages.</p>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -832,9 +832,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>9. Comparative Resolution Matrix</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Comparative Analysis: Defending Section 25 vs Alternative Pathways
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Evaluating the available resolution strategies enables borrowers facing Section 25 PSSA notices to make an informed, economically sound decision:
                 </p>
@@ -890,9 +890,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Comprehensive Legal Defense &amp; Debt Resolution by SettleLoans
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Facing a Section 25 PSSA notice requires aggressive legal representation to prevent ex-parte magistrate cases, insulate your workplace and family from unauthorized recovery agents, and negotiate directly with bank credit committees for maximum debt waivers. SettleLoans delivers end-to-end statutory defense and institutional debt resolution across India.
                 </p>
@@ -905,9 +905,9 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>11. Frequently Asked Questions</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                   FAQs: Section 25 PSSA Notices & Loan Default
-                </h3>
+                </h2>
 
                 <div className="space-y-4">
                   {(jsonLdGraph["@graph"][4] as any).mainEntity.map((faq: any, index: number) => (
@@ -934,10 +934,10 @@ export default function Page() {
 
               {/* 5 Official Regulatory Links */}
               <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-                <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act, 2007 (Section 25 PSSA)</span></span>
                   <a
@@ -981,9 +981,9 @@ export default function Page() {
 
               {/* 10 Related Guide Badges */}
               <section className="border-t border-slate-200 pt-8 mb-8">
-                <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+                <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h4>
+                </h3>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/bank-sent-legal-notice-for-loan-what-to-do"

@@ -258,9 +258,9 @@ export default function DebtSettlementCompanyIndiaPage() {
             </section>
 
             <section id="why-choose" className="scroll-mt-32 mb-12">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Why Choose a Debt Settlement Company
-              </h3>
+              </h2>
               <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                 <p>
                   Engaging a professional debt settlement company in India is a vital protective step during financial hardship. The primary advantage lies in collective bargaining power. person borrowers are often isolated, frightened, and unaware of internal bank discount policies. Conversely, a prominent debt settlement company represents thousands of borrowers simultaneously. This volume forces lending institutions to assign senior resolution managers to negotiate directly with the agency. It completely bypasses low-level recovery agents whose sole aim is extraction through aggressive pressure.
@@ -277,9 +277,9 @@ export default function DebtSettlementCompanyIndiaPage() {
             <LoanSettlementAssessmentFunnel />
 
             <section id="legal-framework" className="scroll-mt-32 mb-12">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Legal Framework and RBI Guidelines
-              </h3>
+              </h2>
               <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                 <p>
                   One of the most pervasive fears deliberately instilled in borrowers is the absolutely false notion that defaulting on a standard personal loan or a standard credit card bill will result in immediate imprisonment. A highly ethical debt settlement company in India spends large resources educating standard consumers about their actual legal rights under the rigid guidelines prescribed by the Reserve Bank of India. The fundamental truth is that retail lending in this country is entirely governed by civil contract law. If a genuine involuntary default occurs due to provable monetary distress, the borrower is fully protected against criminal prosecution. A respectable debt settlement company in India aggressively uses these established judicial precedents to vehemently protect their clients from any illegal coercion attempted by renegade third party collection vendors operating outside the mandated regulatory frameworks.
@@ -294,9 +294,9 @@ export default function DebtSettlementCompanyIndiaPage() {
             </section>
 
             <section id="the-process" className="scroll-mt-32 mb-12">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The talks Process Explained
-              </h3>
+              </h2>
               <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                 <p>
                   The strategy used by a premier debt settlement company in India is highly structured and disciplined. It is not based on guesswork or emotional appeals. Rather, it is a calculated financial maneuver starting the moment a borrower enrolls in a relief program. The initial phase requires an audit of the client&apos;s financial portfolio. The debt settlement company reviews income statements, living expenses, and total unsecured debts across all institutions. This analysis determines realistic monthly savings toward a future lump-sum settlement without compromising basic living necessities.
@@ -317,9 +317,9 @@ export default function DebtSettlementCompanyIndiaPage() {
             </section>
 
             <section id="stopping-harassment" className="scroll-mt-32 mb-12">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Stopping Recovery Agent Harassment
-              </h3>
+              </h2>
               <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                 <p>
                   A barrage of recovery calls is the most destructive consequence of falling behind on monthly installments. This invasion of privacy is why a capable debt settlement company emphasizes shielding clients from unauthorized third-party notice. The moment a borrower partners with a reputable debt settlement company, they are instructed to stop answering unknown numbers. The legal team steps in to intercept notices directly. They notify banks and recovery agencies that all legal correspondence must flow through counsel. This interception tactic rapidly restores peace to your household.
@@ -352,9 +352,9 @@ export default function DebtSettlementCompanyIndiaPage() {
             </section>
 
             <section id="top-companies" className="scroll-mt-32 mb-12">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Top Debt Settlement Companies in India
-              </h3>
+              </h2>
               <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                 <p>
                   When looking for debt relief, choosing the right partner is crucial. Based on our comprehensive research, success rates, and client satisfaction, three names represent the very best debt settlement companies in India. While each has its strengths, <strong className="text-[#2E2E2E]">SettleLoans</strong> undeniably stands out as the absolute best comprehensive debt settlement company in India, offering unparalleled legal protection against harassment and maximum waivers.
@@ -374,9 +374,9 @@ export default function DebtSettlementCompanyIndiaPage() {
             </section>
 
             <section id="reviews" className="scroll-mt-32 mb-12">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Client Reviews & Success Stories
-              </h3>
+              </h2>
               <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                 <p>
                   Do not just take our word for it. Thousands of people have successfully eliminated their financial burdens by partnering with the best debt settlement company in India. SettleLoans consistently delivers on its promises, bringing peace of mind and massive financial waivers to distressed families across the nation. Here are some verified review snippets from our relieved clients:
@@ -402,7 +402,7 @@ export default function DebtSettlementCompanyIndiaPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
               <div className="space-y-4 not-prose">
                 {(jsonLd["@graph"].find((g: any) => g["@type"] === "FAQPage") as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all">
@@ -422,7 +422,7 @@ export default function DebtSettlementCompanyIndiaPage() {
 
             {/* Bottom CTA within main content */}
             <section className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mt-16 text-center">
-              <h4 className="text-2xl font-bold text-blue-900 mb-4">Ready to Reclaim Your Financial Freedom?</h4>
+              <h3 className="text-2xl font-bold text-blue-900 mb-4">Ready to Reclaim Your Financial Freedom?</h3>
               <p className="text-blue-800 mb-6 font-medium">Join thousands who have trusted our debt settlement company in India to absolutely stop harassment and completely eliminate massive loans.</p>
               <Link href="/contact" className="inline-block bg-blue-600 text-white font-bold py-4 px-8 rounded-xl shadow-lg hover:bg-blue-700 transition-colors">
                 Get Free Consultation Now

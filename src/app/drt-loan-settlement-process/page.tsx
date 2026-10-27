@@ -534,9 +534,9 @@ export default function DRTLoanSettlementProcessPage() {
 
             {/* Section 2: Statutory Framework: RDB Act & SARFAESI Interplay */}
             <section id="statutory-framework-rdb-sarfaesi" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Legal Grounding: Section 19 DRT Claims &amp; SARFAESI Dynamics
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding the legal architecture governing high-ticket debt recovery requires analyzing the dual statutory tracks frequently deployed simultaneously by Indian banking institutions:
               </p>
@@ -595,9 +595,9 @@ export default function DRTLoanSettlementProcessPage() {
 
             {/* Section 3: Threat of Inaction: Ex-Parte Recovery Certificates */}
             <section id="threat-of-inaction-ex-parte-rc" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. The Threat of Judicial Inaction
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The most catastrophic mistake a borrower or guarantor can make upon receiving a DRT summons is to ignore the notice or delay engaging specialized counsel. Unlike civil suits where procedural delays may temporarily stall matters, failing to enter appearance in the DRT triggers swift adverse statutory consequences under the RDB Act.
               </p>
@@ -637,9 +637,9 @@ export default function DRTLoanSettlementProcessPage() {
 
             {/* Section 4: Bank Accounting & NPV Recovery Formula */}
             <section id="npa-accounting-npv-formula" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank NPA Accounting, Provisioning & NPV Equation
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing a large 35% to 60% principal waiver in a high-ticket DRT litigation is not a matter of pleading for institutional sympathy; it is an exercise in financial modeling aligned with RBI prudential norms. Commercial banks are governed by strict capital adequacy standards under the Reserve Bank of India (Prudential Framework for Resolution of Stressed Assets) Directions.
               </p>
@@ -709,9 +709,9 @@ export default function DRTLoanSettlementProcessPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="drt-settlement-visual-roadmap" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. DRT Loan Settlement Process &amp; Legal Defense Visual Roadmap
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below illustrates the 5-stage trajectory. It guides you from receiving an Original Application or SARFAESI summons to advocate defense, ledger forensics, Zonal Committee talks, and executing a DRT Consent Order with full No Dues Certification.
               </p>
@@ -746,34 +746,34 @@ export default function DRTLoanSettlementProcessPage() {
 
             {/* Section 6: Advocate Defense Strategy */}
             <section id="advocate-defense-contesting-oa" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Defense Strategy: Contesting DRT Original Applications (OA)
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Transforming a high-stakes DRT recovery case into a negotiated compromise requires methodical litigation defense. Rather than approaching the bank in a position of legal vulnerability, our debt defense advocates apply a 4-phase strategic counter-offensive:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Entering Appearance &amp; Filing Written Statement (WS)</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Entering Appearance &amp; Filing Written Statement (WS)</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Within 30 days of receiving the DRT summons, our legal counsel enters a formal Vakalatnama and files a comprehensive Written Statement under Section 19(5) of the RDB Act. We dispute unverified debit entries, challenge ambiguous penal compounding, and contest the validity of security creation documents.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Filing Securitisation Application (SA) with Interim Stay Petitions</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Filing Securitisation Application (SA) with Interim Stay Petitions</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the bank has started parallel physical possession or auction cases under SARFAESI Section 13(4), we file an urgent Securitisation Application under Section 17 alongside an Interlocutory Application (IA) for an interim stay. We highlight statutory procedural lapses—such as failure to serve 30-day auction notices or improper reserve price valuation—to restrain distress property sales.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Forensic Account Ledger Audit &amp; Counterclaim Assertion</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Forensic Account Ledger Audit &amp; Counterclaim Assertion</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Our financial experts conduct a granular audit of the bank&apos;s statement of accounts under the Bankers&apos; Books Evidence Act, 1891. We expose excessive interest capitalization, penal rate hikes violating RBI circulars, and uncredited margin money deposits, establishing a formal Counterclaim or Set-Off under Section 19(8).
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Bypassing Branch Officials &amp; Engaging the Stressed Asset Resolution Branch</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Bypassing Branch Officials &amp; Engaging the Stressed Asset Resolution Branch</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     With litigation properly managed in tribunal hearings, our advocates bypass aggressive branch recovery officers. We present a structured settlement proposal directly to the General Manager and Zonal Committee of the Stressed Asset Resolution Branch (SARB).
                   </p>
@@ -787,9 +787,9 @@ export default function DRTLoanSettlementProcessPage() {
 
             {/* Section 7: DRT-Supervised OTS & Consent Orders */}
             <section id="drt-supervised-ots-consent-order" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. DRT-Supervised OTS & Consent Order Forensics
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When resolving high-ticket non-performing loans exceeding ₹20 Lakhs, informal verbal promises or unilateral branch confirmation emails carry severe legal risks. Unscrupulous recovery managers have been known to accept partial payments as regular installments without closing the underlying DRT litigation, leaving the borrower exposed to future recovery certificates.
               </p>
@@ -849,9 +849,9 @@ export default function DRTLoanSettlementProcessPage() {
 
             {/* Section 8: Remittance, ₹0 NDC & Credit Recovery */}
             <section id="remittance-rbi-ndc-cibil-recovery" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Loan Remittance, RBI ₹0 NDC Mandate & CIBIL Repair
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following the execution of the DRT Consent Order and completion of the agreed settlement remittance, the final imperative is securing unassailable closure records and managing credit score recovery. Under <strong>RBI Circular RBI/2023-24/60</strong> (Responsible Lending Conduct – Release of Movable/Immovable Property Documents and Issuance of NDC), all regulated lending institutions must adhere to strict post-settlement timelines.
               </p>
@@ -866,9 +866,9 @@ export default function DRTLoanSettlementProcessPage() {
                 </p>
               </div>
 
-              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Information Bureau (CIBIL) Trajectory &amp; Score recovery
-              </h4>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must understand the precise mechanism of credit bureau reporting after resolving high-value litigation:
               </p>
@@ -894,7 +894,7 @@ export default function DRTLoanSettlementProcessPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix */}
             <section id="drt-comparative-matrix" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution Matrix: DRT vs SARFAESI vs Civil Suit
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -949,9 +949,9 @@ export default function DRTLoanSettlementProcessPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans High-Ticket DRT Legal Defense
-                </h3>
+                </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating a high-stakes DRT claim requires seasoned legal advocates. Counsel must possess deep mastery of banking law, the RDB Act, SARFAESI procedures, and RBI directives. SettleLoans provides comprehensive defense across India. We enter immediate tribunal appearances, file Written Statements, and obtain stay orders against asset auctions. also, we negotiate directly with bank Zonal Committees to deliver massive principal haircuts backed by binding Consent Orders and official No Dues Certificates.
                 </p>
@@ -965,9 +965,9 @@ export default function DRTLoanSettlementProcessPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: DRT Loan Settlement Process in India
-                </h3>
+                </h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to essential questions regarding Debt Recovery Tribunal summons, Original Application defenses, stay petitions, and One Time Settlements in India.
@@ -997,9 +997,9 @@ export default function DRTLoanSettlementProcessPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Recovery of Debts and Bankruptcy Act, 1993 (Section 19 &amp; 25)</span></span>
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">SARFAESI Act, 2002 (Section 13, 14 &amp; 17 Securitisation Application)</span></span>
@@ -1035,9 +1035,9 @@ export default function DRTLoanSettlementProcessPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/auction-notice-challenge"

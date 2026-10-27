@@ -578,9 +578,9 @@ export default function DoctorsLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>2. Legal Classification of Medical Credit Facilities</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Classifying Medical Liabilities: Unsecured Professional Lines vs Secured Asset Finance
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To design a successful debt resolution and compromise settlement strategy, a medical practitioner must clearly differentiate between the distinct categories of credit facilities extended by commercial lenders. Each loan product carries unique contractual terms, recovery mechanisms, and statutory risk parameters:
               </p>
@@ -642,9 +642,9 @@ export default function DoctorsLoanSettlementPage() {
                 <Stethoscope className="w-4 h-4" />
                 <span>3. Statutory Protections for Medical Equipment</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Safeguarding Clinical Machinery: Section 60(1)(c) CPC &amp; Asset Protection Doctrines
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A primary anxiety among indebted healthcare professionals is whether a defaulted bank or aggressive recovery agent can enter their clinic and confiscate essential diagnostic equipment—such as ultrasonography machines, digital radiography systems, dental chairs, pathology analyzers, or endoscopic suites.
               </p>
@@ -665,9 +665,9 @@ export default function DoctorsLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Professional Reputation &amp; Anti-Harassment Defense</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Protecting Doctor Dignity: Halting OPD Disruption &amp; Enforcing RBI Recovery Codes
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 For a practicing physician, surgeon, or healthcare specialist, professional reputation is an invaluable asset built over decades of clinical dedication. Unscrupulous recovery agencies frequently exploit this sensitivity by threatening to visit hospital consultation suites during active outpatient department (OPD) hours, shouting at clinical receptionists, or making threatening phone calls in the presence of patients.
               </p>
@@ -709,9 +709,9 @@ export default function DoctorsLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Medical Debt Resolution Architecture
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Doctor &amp; Medical Professional Loan Settlement Process Blueprint
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -758,9 +758,9 @@ export default function DoctorsLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>5. Bank Accounting &amp; NPV Recovery Math</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Bank&apos;s Internal Math: Net Present Value (NPV) Valuation &amp; Haircut Justification
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Reserve Bank of India Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), commercial banks and NBFCs are legally empowered to execute compromise settlements with borrowers facing genuine commercial insolvency. Banks do not sanction debt waivers out of goodwill; every settlement haircut is evaluated against mathematical Net Present Value (NPV) recovery benchmarks.
               </p>
@@ -793,9 +793,9 @@ export default function DoctorsLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step OTS Negotiation Process</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Execution: How Medical Practitioners Settle High-Ticket Debt
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Successfully executing a legally sound One-Time Settlement (OTS) for medical professional debt requires a structured, multi-stage legal and financial protocol:
               </p>
@@ -803,10 +803,10 @@ export default function DoctorsLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Step 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Practice Financial Forensic Audit &amp; Hardship Dossier Compilation
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Compile an indisputable financial hardship dossier demonstrating that the default is non-wilful and stems from clinical cash-flow distress. Essential documentation includes audited clinic balance sheets, profit and loss statements showing reduced patient footfalls, GST returns, TPA insurance receivable aging reports, and bank statements showing depleted liquidity.
                   </p>
@@ -814,10 +814,10 @@ export default function DoctorsLoanSettlementPage() {
 
                 {/* Step 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking e-NACH Mandates &amp; Establishing Legal Representation Channels
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your bank in writing under NPCI guidelines to cancel recurring e-NACH auto-debit mandates, preventing compounding bounce penalties. Concurrently, serve a formal notice to the lending bank directing all future communication exclusively to your designated legal counsel, establishing a structured evidentiary audit trail.
                   </p>
@@ -825,10 +825,10 @@ export default function DoctorsLoanSettlementPage() {
 
                 {/* Step 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Compromise Proposal to Stressed Asset Desk
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal OTS petition directly addressed to the bank&apos;s Zonal Stressed Assets Resolution Branch (SARB) or Credit Committee citing the RBI Master Direction on Compromise Settlements. Anchor the initial settlement offer at 25% to 35% of total book dues to create strategic room for structured counter-negotiations.
                   </p>
@@ -836,10 +836,10 @@ export default function DoctorsLoanSettlementPage() {
 
                 {/* Step 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Negotiating the Haircut &amp; 100% Waiver of Penal Charges
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     During Credit Committee reviews, experienced debt counsel establishes that settlement funds are being pooled from external family assistance or non-operating asset liquidation rather than clinical cash flow. Demand an absolute 100% cancellation of all penal interest, late fees, and bounce charges under RBI fair lending guidelines, finalizing a 40% to 60% principal waiver.
                   </p>
@@ -847,10 +847,10 @@ export default function DoctorsLoanSettlementPage() {
 
                 {/* Step 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Forensic Audit of the Bank OTS Sanction Letter
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Before making any financial transfer, verify that the bank delivers an official, stamped OTS Sanction Letter on corporate letterhead containing unique reference numbers, sanctioned settlement amount, installment schedules, and explicit covenants confirming complete debt discharge and legal withdrawal.
                   </p>
@@ -858,10 +858,10 @@ export default function DoctorsLoanSettlementPage() {
 
                 {/* Step 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Enforcing the ₹0 No Dues Certificate
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Remit the agreed settlement funds directly into your designated loan account through RTGS/NEFT. Under RBI Circular RBI/2023-24/60, the lender is legally required to deliver your formal No Dues Certificate (NDC) and update all credit bureaus within 30 calendar days.
                   </p>
@@ -875,7 +875,7 @@ export default function DoctorsLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>7. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Doctor Settlement Letters &amp; Enforcing the RBI 30-Day NDC Mandate
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -909,7 +909,7 @@ export default function DoctorsLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>8. CIBIL Score &amp; Practice Rehabilitation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; 18-Month Practice Financial Rehabilitation
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -943,7 +943,7 @@ export default function DoctorsLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>9. Comparative Debt Resolution Matrix</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparing Medical Professional Debt Resolution Avenues in India
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -1001,7 +1001,7 @@ export default function DoctorsLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Specialized Doctor Debt Advocacy</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Doctors &amp; Medical Practitioners Choose SettleLoans
               </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
@@ -1020,7 +1020,7 @@ export default function DoctorsLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Doctor &amp; Medical Professional Loan Settlement
               </h3>
 
@@ -1048,10 +1048,10 @@ export default function DoctorsLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1113,10 +1113,10 @@ export default function DoctorsLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Professional &amp; Business Debt Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/unsecured-business-loan-settlement"

@@ -564,9 +564,9 @@ export default function LendingkartBusinessLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages (SMA-0 to Doubtful)</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Lendingkart Delinquency Lifecycle &amp; Provisioning
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI IRACP and Ind AS 109 Expected Credit Loss mandates, Lendingkart categorizes defaulted business facilities into structured DPD aging brackets. During Special Mention Account (SMA) stages, collections focus on installment regularization. Crossing 90 days triggers Non-Performing Asset (NPA) classification. Lendingkart must reverse accrued interest and allocate statutory provisions, shifting its institutional objective toward cash recovery via compromise settlements.
               </p>
@@ -636,9 +636,9 @@ export default function LendingkartBusinessLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting NACH Mandates &amp; Penal Compounding</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Halting NACH Auto-Debits &amp; Compounding Penal Fees
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A primary operational drain for defaulting MSMEs is the repeated presentation of electronic National Automated Clearing House (e-NACH) mandates. Lendingkart&apos;s payment engines frequently present debit mandates multiple times per month. When current accounts lack funds, destination banks deduct return fees of ₹250 to ₹500 plus GST per bounce, while Lendingkart levies internal penalties of ₹500 to ₹1,000 plus taxes.
               </p>
@@ -656,9 +656,9 @@ export default function LendingkartBusinessLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; NPV Valuation Matrix</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Lendingkart OTS Haircut Policies &amp; Financial Relief
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Master Directions (DOR.STR.REC.20/21.04.048/2023-24), Lendingkart evaluates settlement proposals using Net Present Value (NPV) recovery benchmarks. Because MSME credit lines are unsecured, Lendingkart cannot invoke SARFAESI asset repossession. Pursuing recovery through civil suits involves court delays of 3 to 6 years, continuous legal costs, and trapped capital. A lump-sum compromise settlement yields a superior Net Present Value compared to uncertain judicial execution.
               </p>
@@ -677,7 +677,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
                 </p>
               </div>
 
-              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Lendingkart Settlement Haircut Slabs by Product &amp; Aging</h4>
+              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Lendingkart Settlement Haircut Slabs by Product &amp; Aging</h3>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -735,9 +735,9 @@ export default function LendingkartBusinessLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         MSME Legal Defense Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Lendingkart Business Loan Settlement &amp; Legal Resolution Blueprint
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -784,9 +784,9 @@ export default function LendingkartBusinessLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Recovery Practices &amp; RBI Harassment Shield</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Aggressive Recovery Tactics
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 As loan accounts transition into deeper delinquency buckets, Lendingkart frequently reassigns recovery operations to third-party Debt Recovery Agencies (DRAs). Collection agents often resort to high-pressure practices, including repetitive calling during trading hours, contacting commercial suppliers, visiting business premises, and approaching uninvolved family members.
               </p>
@@ -804,69 +804,69 @@ export default function LendingkartBusinessLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step Compromise Settlement Roadmap</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Guide to Lendingkart Debt Settlement
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing an enforceable One-Time Settlement with Lendingkart requires a disciplined, evidence-based procedure:
               </p>
 
               <div className="space-y-6">
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Assemble GST returns, audited P&amp;L records, debtor payment delays, or cancellation orders verifying non-wilful business distress under RBI guidelines.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     NACH Revocation &amp; Legal Routing
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your bank in writing to cancel electronic auto-debits to stop return charges. Direct Lendingkart to route all correspondence through written legal channels.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Hardship Petition to Credit Committee
-                  </h4>
+                  </h2>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal OTS petition to Lendingkart&apos;s Stressed Assets division citing RBI compromise directions, proposing an opening settlement at 25% to 35% of core dues.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Counter-Negotiation &amp; Haircut Structuring
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     When Lendingkart counters with modest discounts, demonstrate that funds are sourced from third-party family support or asset liquidation, securing the 40% to 55% waiver band.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Sanction Letter Verification
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Demand an official OTS sanction letter on corporate letterhead detailing the loan account, sanctioned sum, payment schedule, and full release covenants.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Account Remittance &amp; NDC Delivery
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the settlement sum directly into the Lendingkart loan account via RTGS/NEFT. Enforce delivery of the No Dues Certificate within 30 days under RBI mandates.
                   </p>
@@ -880,7 +880,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>8. Section 25 PSSA, Sole Arbitration &amp; Lok Adalat</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Section 25 PSSA Notices, Arbitration &amp; Lok Adalat
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -947,7 +947,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Settlement Letters &amp; PAN Liabilities
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -967,7 +967,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why MSME Borrowers Trust SettleLoans for Resolution
               </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
@@ -986,7 +986,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Settlement
               </h3>
 
@@ -1015,10 +1015,10 @@ export default function LendingkartBusinessLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip (5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1080,10 +1080,10 @@ export default function LendingkartBusinessLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/unsecured-business-loan-settlement"

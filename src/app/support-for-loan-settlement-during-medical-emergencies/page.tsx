@@ -271,9 +271,9 @@ export default function MedicalEmergenciesSettlementPage() {
             </section>
 
               <section id="rbi-guidelines-medical" className="scroll-mt-32 mb-16">
-                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                   RBI Guidelines 2024: Your Legal Shield During Medical Hardship
-                </h3>
+                </h2>
                 <p className="text-lg leading-relaxed mb-6">
                   The Reserve Bank of India (RBI) has consistently emphasized that banks and Non-Banking Financial Companies (NBFCs) must treat borrowers with compassion and fairness, especially when they are facing genuine distress. While the term 'medical emergency' might not have a dedicated chapter in the rulebook, the 'Fair Practice Code' and various circulars on 'Resolution Frameworks' provide the necessary legal foundation for your defense.
                 </p>
@@ -282,13 +282,13 @@ export default function MedicalEmergenciesSettlementPage() {
                 </p>
                 <div className="grid md:grid-cols-2 gap-8 my-10">
                   <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 shadow-sm">
-                    <h4 className="text-xl font-bold text-blue-900 mb-4">Code of Commitment</h4>
+                    <h3 className="text-xl font-bold text-blue-900 mb-4">Code of Commitment</h3>
                     <p className="text-sm text-blue-800 leading-relaxed">
                       Lenders must follow a transparent process in their dealings with borrowers. This includes providing adequate notice before taking any legal action and allowing the borrower a fair chance to present their case for settlement or restructuring.
                     </p>
                   </div>
                   <div className="bg-green-50 p-8 rounded-2xl border border-green-100 shadow-sm">
-                    <h4 className="text-xl font-bold text-green-900 mb-4">Grievance Redressal</h4>
+                    <h3 className="text-xl font-bold text-green-900 mb-4">Grievance Redressal</h3>
                     <p className="text-sm text-green-800 leading-relaxed">
                       If a bank refuses to acknowledge your medical hardship and continues to harass you, you have the right to escalate the matter to the Internal Ombudsman and then to the RBI Ombudsman. Harassment during illness is a serious violation.
                     </p>
@@ -302,9 +302,9 @@ export default function MedicalEmergenciesSettlementPage() {
             <LoanSettlementAssessmentFunnel />
 
               <section id="negotiation-strategy" className="scroll-mt-32 mb-16 font-sans">
-                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                   The Art of the Medical Hardship Negotiation
-                </h3>
+                </h2>
                 <p className="text-lg leading-relaxed mb-8">
                   Negotiating with a multi-billion dollar financial institution while you are recovering from a surgery can feel like an impossible task. However, the key to a successful settlement lies in the narrative you build. You aren't just a loan account number; you are a person who has faced a significant life disruption.
                 </p>
@@ -312,21 +312,21 @@ export default function MedicalEmergenciesSettlementPage() {
                   <div className="flex items-start gap-4 p-6 bg-white border border-[#DEDEDE] rounded-2xl hover:shadow-md transition-all">
                     <div className="w-12 h-12 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-black flex-shrink-0">1</div>
                     <div>
-                      <h4 className="text-xl font-bold mb-2">Early Communication is Vital</h4>
+                      <h3 className="text-xl font-bold mb-2">Early Communication is Vital</h3>
                       <p className="text-gray-600 leading-relaxed">Do not wait for the recovery agents to find you. As soon as you realize the medical costs will impact your EMI, send a formal email to the bank's Nodal Officer. This sets the timeline and shows you are not a 'willful defaulter'.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4 p-6 bg-white border border-[#DEDEDE] rounded-2xl hover:shadow-md transition-all">
                     <div className="w-12 h-12 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-black flex-shrink-0">2</div>
                     <div>
-                      <h5 className="text-xl font-bold mb-2">Be Transparent but Specific</h5>
+                      <h4 className="text-xl font-bold mb-2">Be Transparent but Specific</h4>
                       <p className="text-gray-600 leading-relaxed">Explain exactly how the medical emergency happened and why it has impacted your income. For instance, if you've lost 50% of your lung capacity or have been advised six months of bed rest, state it clearly. This data helps the bank's risk assessment team.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4 p-6 bg-white border border-[#DEDEDE] rounded-2xl hover:shadow-md transition-all">
                     <div className="w-12 h-12 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-black flex-shrink-0">3</div>
                     <div>
-                      <h5 className="text-xl font-bold mb-2">Propose a Realistic Settlement</h5>
+                      <h4 className="text-xl font-bold mb-2">Propose a Realistic Settlement</h4>
                       <p className="text-gray-600 leading-relaxed">Assess what you can actually pay. Maybe you can clear 40% of the loan using your PF or by selling a small asset. Presenting a solid offer is more effective than just asking for help without a plan.</p>
                     </div>
                   </div>
@@ -337,12 +337,12 @@ export default function MedicalEmergenciesSettlementPage() {
               </section>
 
               <section id="building-the-case" className="scroll-mt-32 mb-16">
-                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Essential Documentation: Proving Your Hardship</h3>
+                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Essential Documentation: Proving Your Hardship</h2>
                 <p className="mb-8 text-lg">In the world of banking, if it is not on paper, it does not exist. To get a high-discount settlement, you must provide an irrefutable paper trail of your crisis.</p>
                 
                 <div className="grid sm:grid-cols-2 gap-4 mb-10">
                   <div className="p-6 bg-gray-50 rounded-xl border border-gray-200">
-                    <h4 className="font-bold mb-4 text-[#1F5EFF]">Medical Documents</h4>
+                    <h3 className="font-bold mb-4 text-[#1F5EFF]">Medical Documents</h3>
                     <ul className="space-y-2 text-sm text-gray-700">
                       <li>• Hospital Discharge Summaries</li>
                       <li>• Surgery Bills & Diagnostic Reports</li>
@@ -352,7 +352,7 @@ export default function MedicalEmergenciesSettlementPage() {
                     </ul>
                   </div>
                   <div className="p-6 bg-gray-50 rounded-xl border border-gray-200">
-                    <h5 className="font-bold mb-4 text-[#1F5EFF]">Financial Documents</h5>
+                    <h4 className="font-bold mb-4 text-[#1F5EFF]">Financial Documents</h4>
                     <ul className="space-y-2 text-sm text-gray-700">
                       <li>• 6-12 Months Bank Statements</li>
                       <li>• Salary Slips showing LWP (Leave Without Pay)</li>
@@ -371,9 +371,9 @@ export default function MedicalEmergenciesSettlementPage() {
               </section>
 
               <section id="ots-vs-restructuring" className="scroll-mt-32 mb-16">
-                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                   One-Time Settlement (OTS) vs. Loan Restructuring
-                </h3>
+                </h2>
                 <p className="text-lg leading-relaxed mb-8">
                   Depending on your recovery outlook, you have two primary paths to resolve your debt. Choosing the right one is critical for your financial future.
                 </p>
@@ -416,12 +416,12 @@ export default function MedicalEmergenciesSettlementPage() {
               </section>
 
               <section id="insurance-rejection" className="scroll-mt-32 mb-16">
-                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">What to Do If Your Health Insurance Is Rejected</h3>
+                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">What to Do If Your Health Insurance Is Rejected</h2>
                 <p className="text-lg leading-relaxed mb-6">
                   Nothing adds insult to injury like an insurance rejection letter. However, in the context of loan settlement, this rejection can actually be a powerful tool. When an insurance company refuses to pay 'admissible expenses' or rejects a claim due to a 'pre-existing condition' clause, it suddenly shifts the entire financial burden onto you.
                 </p>
                 <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                  <h4 className="text-xl font-bold text-red-800 mb-4">Using Rejection as Leverage</h4>
+                  <h3 className="text-xl font-bold text-red-800 mb-4">Using Rejection as Leverage</h3>
                   <p className="text-sm text-red-900 leading-relaxed mb-4">
                     By showing the bank the insurance rejection letter, you are proving that you did your due diligence but were let down by the system. It proves that your lack of funds is not due to bad planning, but due to a failure of your safety net.
                   </p>
@@ -435,21 +435,21 @@ export default function MedicalEmergenciesSettlementPage() {
               </section>
 
               <section id="stop-harassment" className="scroll-mt-32 mb-16">
-                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Stopping the Nightmare: Your Rights Against Harassment</h3>
+                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Stopping the Nightmare: Your Rights Against Harassment</h2>
                 <p className="text-lg leading-relaxed mb-6">
                   Recovery harassment is unethical, but doing it to a person in medical distress is a crime. You have absolute legal protections in India against aggressive recovery tactics.
                 </p>
                 <div className="grid md:grid-cols-3 gap-6 mb-10">
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                    <h4 className="font-bold mb-2">No Home Visits during Illness</h4>
+                    <h3 className="font-bold mb-2">No Home Visits during Illness</h3>
                     <p className="text-xs text-gray-500">Lenders must respect the medical environment. They cannot disturb you in the hospital or at home if you are bedridden.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                    <h5 className="font-bold mb-2">Zero Privacy Breach</h5>
+                    <h4 className="font-bold mb-2">Zero Privacy Breach</h4>
                     <p className="text-xs text-gray-500">Calling your doctor or the hospital administration to discuss your debt is a massive violation of privacy laws.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                    <h6 className="font-bold mb-2">Civil Conduct</h6>
+                    <h5 className="font-bold mb-2">Civil Conduct</h5>
                     <p className="text-xs text-gray-500">Any form of verbal abuse or naming/shaming on social media is grounds for an immediate police complaint.</p>
                   </div>
                 </div>
@@ -459,7 +459,7 @@ export default function MedicalEmergenciesSettlementPage() {
               </section>
 
               <section id="pf-withdrawal-role" className="scroll-mt-32 mb-16">
-                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Role of Provident Fund (PF) Withdrawal</h3>
+                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Role of Provident Fund (PF) Withdrawal</h2>
                 <p className="text-lg leading-relaxed mb-6">
                   Your EPF (Employees' Provident Fund) is your retirement nest egg, but it also serves as a critical emergency fund. Under the EPF rules in India, you are allowed to withdraw a portion of your corpus for the treatment of self, spouse, children, or parents.
                 </p>
@@ -472,7 +472,7 @@ export default function MedicalEmergenciesSettlementPage() {
               </section>
 
               <section id="credit-score-recovery" className="scroll-mt-32 mb-16">
-                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">CIBIL Score Recovery After Settlement</h3>
+                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">CIBIL Score Recovery After Settlement</h2>
                 <p className="text-lg leading-relaxed mb-6">
                   It is a hard truth that a settlement will hurt your credit score in the short term. However, it is not a life sentence. Once the burden of old debt is cleared, you can start the process of rebuilding.
                 </p>
@@ -493,7 +493,7 @@ export default function MedicalEmergenciesSettlementPage() {
               </section>
 
               <section id="legal-rights-ind" className="scroll-mt-32 mb-16">
-                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Legal Rights of Borrowers in India</h3>
+                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Legal Rights of Borrowers in India</h2>
                 <p className="text-lg leading-relaxed mb-6">
                   Whether it is Section 138 (Cheque Bounce) or the SARFAESI Act for secured loans, the law in India has checks and balances. Even if a case is filed, the judge will always ask "Why did the borrower default?". A medical history is a powerful defense in any court of law.
                 </p>
@@ -505,7 +505,7 @@ export default function MedicalEmergenciesSettlementPage() {
               </section>
 
             <section id="success-stories-med" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Relief</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Relief</h2>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -543,7 +543,7 @@ export default function MedicalEmergenciesSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -558,7 +558,7 @@ export default function MedicalEmergenciesSettlementPage() {
             </section>
 
               <section id="faqs-med" className="scroll-mt-32 mb-16">
-                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">FAQs: Your Questions Answered</h3>
+                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">FAQs: Your Questions Answered</h2>
                 <div className="space-y-4">
                   {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -623,7 +623,7 @@ export default function MedicalEmergenciesSettlementPage() {
         <div className="lg:hidden px-4 mb-16">
           <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
             <div className="bg-[#1F5EFF] p-6 text-center text-white">
-              <h4 className="text-2xl font-black mb-2 leading-tight">Get Your Life Back</h4>
+              <h3 className="text-2xl font-black mb-2 leading-tight">Get Your Life Back</h3>
               <p className="opacity-90 text-sm">Join the thousands who found freedom during crisis.</p>
             </div>
             <div className="p-8 text-center text-[#DEDEDE]">

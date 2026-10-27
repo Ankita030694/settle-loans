@@ -532,9 +532,9 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
 
             {/* Section 2: Section 65B IEA & Section 63 BSA Authentication Rules */}
             <section id="section-65b-iea-section-63-bsa-rules" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Electronic Evidence Authentication: Section 65B &amp; BSA
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recording an abusive phone call is merely the initial operational step; converting that raw audio file into legally incontrovertible proof requires meticulous compliance with statutory authentication rules. Under Indian law, electronic records such as MP3 audio files, WAV voice recordings, and digital transcripts are classified as secondary electronic evidence. Historically, Section 65B of the Indian Evidence Act, 1872 governed the admissibility of electronic records. Under the revised criminal jurisprudence, this framework is codified under Section 63 of the Bharatiya Sakshya Adhiniyam, 2023 (BSA).
               </p>
@@ -542,10 +542,10 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
                 In <em>Arjun Panditrao Khotkar (2020) 7 SCC 1</em>, the Supreme Court held that statutory electronic certification is mandatory when submitting digital evidence. Under Section 63 of the Bharatiya Sakshya Adhiniyam, 2023 (BSA), recorded phone conversations require an electronic certificate.</p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <FileText className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory Elements of a Section 65B / Section 63 BSA Certificate</span>
-                </h4>
+                </h2>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">1. Device Identification &amp; Lawful Custody</p>
@@ -567,9 +567,9 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
 
             {/* Section 3: Tripartite Evidence Gathering Protocol */}
             <section id="tripartite-evidence-gathering-protocol" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. The Tripartite Evidence Gathering Protocol
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To build an unassailable evidentiary portfolio that compels police action and immediately shifts institutional bargaining power during debt settlement, borrowers must apply a structured, multi-channel records protocol. When dealing with aggressive collection departments, rely on a tripartite strategy:
               </p>
@@ -612,9 +612,9 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
 
             {/* Section 4: Bank Accounting Realities & NPV Recovery Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Accounting Realities: NPA Provisioning & NPV
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding why commercial banks tolerate aggressive collection agencies—and why authenticated digital evidence completely dismantles their leverage—requires analyzing the financial mechanics of Non-Performing Assets (NPAs). When a borrower defaults for over 90 days, the Reserve Bank of India mandates aggressive provisioning against bank operating profits under the Master Direction on Prudential Norms on Income Recognition and Asset Classification (IRAC):
               </p>
@@ -664,28 +664,28 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
 
             {/* Section 6: Invoking Penal Statutes & Police FIR Steps */}
             <section id="criminal-charges-intimidation-extortion" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Filing Police FIRs for Intimidation &amp; Extortion
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Armed with authenticated digital recordings, borrowers possess the statutory power to transition from defensive targets to proactive legal complainants. Third-party collection agents routinely commit multiple cognizable and non-bailable offenses under the Indian Penal Code (IPC) and the corresponding Bharatiya Nyaya Sanhita (BNS):
               </p>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 503 &amp; 506 IPC / Sec 351 BNS</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 503 &amp; 506 IPC / Sec 351 BNS</h3>
                   <p className="text-xs text-slate-600">Criminal Intimidation: Threatening bodily harm, property damage, or reputational destruction to compel repayment carries up to 7 years imprisonment.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 383 &amp; 384 IPC / Sec 308 BNS</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 383 &amp; 384 IPC / Sec 308 BNS</h4>
                   <p className="text-xs text-slate-600">Extortion: Intentionally putting a person in fear of injury to dishonestly induce delivery of money constitutes criminal extortion.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 509 IPC / Sec 79 BNS</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 509 IPC / Sec 79 BNS</h4>
                   <p className="text-xs text-slate-600">Outraging Modesty: Using abusive, sexually suggestive, or derogatory language towards female borrowers or family members is strictly non-bailable.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 499 &amp; 500 IPC / Sec 356 BNS</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 499 &amp; 500 IPC / Sec 356 BNS</h4>
                   <p className="text-xs text-slate-600">Defamation: Contacting office colleagues, human resource departments, or neighbors to publicly shame the borrower constitutes criminal defamation.</p>
                 </div>
               </div>
@@ -696,9 +696,9 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
 
             {/* Section 7: Civil Court Injunctions & Section 151 CPC */}
             <section id="civil-injunctions-and-restraining-orders" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Civil Injunctions &amp; Restraining Orders
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Digital evidence also serves as the bedrock for securing urgent civil relief. When presented before civil courts, verified recordings show immediate necessity for temporary injunctions against unauthorized workplace and home visits.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -713,9 +713,9 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
 
             {/* Section 8: RBI Ombudsman Escalation & Settlement Remittance */}
             <section id="rbi-ombudsman-and-settlement-remittance" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Escalation to RBI Ombudsman &amp; Remittance Safeguards
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the RBI Integrated Ombudsman Scheme, 2021, commercial banks and NBFCs face stringent scrutiny. Submitting time-stamped call recordings alongside customer service complaints forces internal grievance cells to halt recovery activity.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -746,7 +746,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
 
             {/* Section 9: Dispute Resolution & Evidence Admissibility Matrix */}
             <section id="evidence-admissibility-comparative-matrix" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Evidence Admissibility Matrix: Electronic Proof in Court
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -808,9 +808,9 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="settleloans-evidence-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense Protocol
-                </h3>
+                </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating electronic evidence, statutory certificates, and harassment complaints requires specialized legal expertise. SettleLoans advocates provide complete legal support to protect borrower rights and enforce compliance with RBI directives.</p>
               </div>
@@ -823,9 +823,9 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. FAQs: Recording Recovery Agent Calls &amp; Legal Evidence
-                </h3>
+                </h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Comprehensive, legally vetted answers regarding call recording admissibility, Section 65B certificates, and anti-harassment remedies in India.
@@ -855,9 +855,9 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.sci.gov.in"
@@ -901,9 +901,9 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

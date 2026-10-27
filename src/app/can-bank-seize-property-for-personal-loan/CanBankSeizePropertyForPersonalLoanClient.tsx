@@ -421,9 +421,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 2 */}
             <section id="sarfaesi-act-inapplicability" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 2. Secured vs Unsecured Debt: Why SARFAESI Does Not Apply
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 To understand why your property is legally safe, it is essential to examine the statutory framework governing loan recovery in India. When recovery agents threaten property attachment, they often quote the <em>SARFAESI Act (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002)</em>. However, this statute applies exclusively to secured credit facilities.
               </p>
@@ -473,9 +473,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                 </table>
               </div>
 
-              <h4 className="text-xl font-bold text-slate-900 mb-4 mt-8">
+              <h3 className="text-xl font-bold text-slate-900 mb-4 mt-8">
                 The Statutory Definition of &quot;Security Interest&quot; under SARFAESI
-              </h4>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Under Section 2(1)(zf) of the SARFAESI Act, a &quot;security interest&quot; has a specific definition. It means any right, title, or interest upon property created in favour of a secured creditor. This includes any mortgage, charge, hypothecation, or assignment. Section 13(2) explicitly mandates that enforcement notices can only be served where a security interest exists.
               </p>
@@ -488,9 +488,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 3 */}
             <section id="recovery-agent-myths" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. Dismantling Recovery Agent Extortion
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Third-party collection agencies rely almost exclusively on psychological pressure and manufactured panic to coerce payments. Unregulated collection agents often send fake legal notices formatted to look like court warrants, threatening that &quot;court bailiffs accompanied by police officers will seize movable inventory within 48 hours.&quot;
               </p>
@@ -516,9 +516,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 4 */}
             <section id="civil-court-attachment-procedure" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. The Legitimate Legal Attachment Procedure
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 While extra-judicial property seizure is completely prohibited, does a lending bank possess any lawful mechanism to attach a borrower&apos;s property? Yes, but only through a rigorous, multi-stage civil judicial trial governed by the <em>Code of Civil Procedure (CPC), 1908</em>. Understanding this judicial process shows why banks rarely attempt property attachment for retail personal loans.
               </p>
@@ -528,10 +528,10 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
               {/* Order 38 Rule 5 Detailed Breakdown */}
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
+                <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                   <Gavel className="w-5 h-5 text-[#1F5EFF]" />
                   <span>The High Evidentiary Threshold of Order 38 Rule 5 (Attachment Before Judgment)</span>
-                </h4>
+                </h2>
                 <p className="text-sm text-slate-700 leading-relaxed mb-3">
                   During a civil recovery suit, a bank may file an interim application under Order 38 Rule 5 CPC for &quot;Attachment Before Judgment.&quot; However, the Supreme Court of India in <em>Raman Tech. &amp; Process Engg. Co. v. Solanki Traders (2008)</em> laid down clear boundaries. The Court ruled that Order 38 Rule 5 is a drastic power and cannot be exercised casually.
                 </p>
@@ -547,9 +547,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 5: Infographic Action Blueprint Banner */}
             <section id="infographic-action-blueprint" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 5. Legal Defense &amp; Asset Protection Blueprint
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 The visual blueprint below synthesizes the statutory realities, secured versus unsecured legal comparisons, the 5-stage formal court progression, and the typical default-to-resolution timeline under Indian law:
               </p>
@@ -565,9 +565,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Can Bank Seize Property for Personal Loan Summary &amp; Process Overview
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -610,9 +610,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 6 */}
             <section id="section-60-cpc-exemptions" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Statutory Immunity: Protected Assets Under Section 60 CPC
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Suppose a bank pursues a civil suit to completion and obtains an execution decree under Order 21 CPC. Even in this rare scenario, Indian law establishes powerful statutory safeguards. These protections ensure that debtors and their families are never deprived of their fundamental means of survival.
               </p>
@@ -667,7 +667,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 7 */}
             <section id="npv-banking-accounting-math" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Banking Accounting Rules & NPV Recovery Economics
               </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
@@ -683,9 +683,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                   <BadgePercent className="w-4 h-4 text-[#1F5EFF]" />
                   <span>The Net Present Value (NPV) Recovery Formula</span>
                 </div>
-                <h4 className="text-xl md:text-2xl font-black mb-4 text-white">
+                <h3 className="text-xl md:text-2xl font-black mb-4 text-white">
                   Why Banks Financially Prefer OTS Over Long Litigation
-                </h4>
+                </h2>
                 <p className="text-sm text-slate-300 leading-relaxed mb-4">
                   When evaluating whether to litigate or settle, a bank&apos;s credit risk committee applies a Net Present Value (NPV) recovery analysis:
                 </p>
@@ -704,7 +704,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 8 */}
             <section id="rbi-fair-practices-enforcement" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Enforcing RBI Mandates & Silencing Harassment
               </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
@@ -718,7 +718,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                     <XCircle className="w-5 h-5" />
                   </div>
                   <div>
-                    <h4 className="text-base font-bold text-slate-900 mb-1">Strict Time Window Mandates</h4>
+                    <h3 className="text-base font-bold text-slate-900 mb-1">Strict Time Window Mandates</h3>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Recovery agents are strictly prohibited from contacting borrowers before 8:00 AM or after 7:00 PM. Calls outside this regulatory window violate RBI directives.
                     </p>
@@ -730,7 +730,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                     <XCircle className="w-5 h-5" />
                   </div>
                   <div>
-                    <h5 className="text-base font-bold text-slate-900 mb-1">Total Ban on Third-Party &amp; Workplace Harassment</h5>
+                    <h4 className="text-base font-bold text-slate-900 mb-1">Total Ban on Third-Party &amp; Workplace Harassment</h4>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Lenders cannot contact your employer, HR department, colleagues, friends, or extended family members. They cannot disclose your debt status to any unauthorized third party.
                     </p>
@@ -742,7 +742,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                     <XCircle className="w-5 h-5" />
                   </div>
                   <div>
-                    <h5 className="text-base font-bold text-slate-900 mb-1">Prohibition of False Legal Assertions</h5>
+                    <h4 className="text-base font-bold text-slate-900 mb-1">Prohibition of False Legal Assertions</h4>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Threatening immediate police arrest, claiming court warrants exist without judicial records, or threatening illegal property confiscation is strictly actionable under banking regulations.
                     </p>
@@ -757,7 +757,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 9 */}
             <section id="ots-permanent-clean-exit" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. One-Time Settlement: Permanent Legally Binding Resolution
               </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
@@ -770,9 +770,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>The SettleLoans Professional Representation Protocol</span>
                 </div>
-                <h4 className="text-xl md:text-2xl font-black mb-4 text-white">
+                <h3 className="text-xl md:text-2xl font-black mb-4 text-white">
                   How SettleLoans Protects Your Assets &amp; Negotiates Clean Exits
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
                   <div className="bg-white/10 rounded-xl p-4 border border-white/10">
                     <span className="text-xs font-black text-blue-300 uppercase tracking-wider block mb-1">
@@ -832,7 +832,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                   <HelpCircle className="w-3.5 h-3.5" />
                   <span>Borrower Rights &amp; Asset Protection</span>
                 </div>
-                <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-3">
+                <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-3">
                   Frequently Asked Questions
                 </h3>
                 <p className="text-sm text-slate-600">
@@ -855,10 +855,10 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Regulatory Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 shadow-sm">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Authoritative Legal &amp; Regulatory Sources</span>
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -920,9 +920,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Legal Protection Guides
-              </h5>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/can-i-go-to-jail-for-loan-default"

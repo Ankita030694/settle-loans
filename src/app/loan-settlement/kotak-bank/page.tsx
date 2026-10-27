@@ -234,7 +234,7 @@ export default function KotakBankSettlementPage() {
             </section>
 
             <section id="why-settle" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Why Should You Opt for Kotak Mahindra Bank Loan Settlement?</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Why Should You Opt for Kotak Mahindra Bank Loan Settlement?</h2>
               <p className="mb-6">
                 Choosing to settle a loan is typically a last resort: but it is a far better alternative than allowing debt to grow indefinitely. Kotak Bank is known for its persistent recovery mechanisms. Once you miss your payments: the interest starts compounding at an alarming rate: often accompanied by heavy late payment penalties and GST.
               </p>
@@ -249,7 +249,7 @@ export default function KotakBankSettlementPage() {
             <LoanSettlementAssessmentFunnel />
 
             <section id="credit-card-trap" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">The Kotak Credit Card Debt Trap: A Structural Problem</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">The Kotak Credit Card Debt Trap: A Structural Problem</h2>
               <p className="mb-6">
                 Kotak Mahindra Bank's credit card portfolio: including popular variants like the League: Mojo: and PVR cards: is designed for spending. The trap often begins with the 'Minimum Amount Due' (MAD). Many customers believe that paying the MAD keeps their account healthy. In reality: MAD barely covers 5% of the principal while the remaining 95% continues to attract interest at rates exceeding 40% annually.
               </p>
@@ -273,7 +273,7 @@ export default function KotakBankSettlementPage() {
             </section>
 
             <section id="ots-2026" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Kotak Mahindra Bank OTS Scheme 2026: Modern Protocols</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Kotak Mahindra Bank OTS Scheme 2026: Modern Protocols</h2>
               <p className="mb-6">
                 The 2026 OTS (One Time Settlement) landscape for Kotak Mahindra Bank has seen a shift toward digital assessment. The bank now uses advanced credit algorithms to determine the 'recoverability' of a loan. If their systems flag a borrower as having zero assets or no income: they are much more likely to approve a steep discount during negotiation.
               </p>
@@ -286,7 +286,7 @@ export default function KotakBankSettlementPage() {
             </section>
 
             <section id="personal-loan-steps" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Steps to Settle Your Kotak Bank Personal Loan</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Steps to Settle Your Kotak Bank Personal Loan</h2>
               <p className="mb-6">
                 Personal loans are high stakes negotiations because the amounts are fixed and the bank has already disbursed the full funds. Kotak Bank's personal loan department is rigorous: but they are also pragmatic. Here is the professional path to settlement:
               </p>
@@ -294,28 +294,28 @@ export default function KotakBankSettlementPage() {
                  <li className="flex items-start">
                     <div className="bg-[#003874] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">1</div>
                     <div>
-                        <h4 className="font-bold text-xl mb-1">Financial Analysis</h4>
+                        <h3 className="font-bold text-xl mb-1">Financial Analysis</h3>
                         <p>We analyze your total debt across all Kotak products. We need to know when the last payment was made and if the loan has moved to the 'Written Off' bucket.</p>
                     </div>
                  </li>
                  <li className="flex items-start">
                     <div className="bg-[#003874] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">2</div>
                     <div>
-                        <h5 className="font-bold text-xl mb-1">Authorization & Notice</h5>
+                        <h4 className="font-bold text-xl mb-1">Authorization & Notice</h4>
                         <p>You authorize SettleLoans as your legal representative. we issue a notice to Kotak Bank: directing all future communication to our legal team: which immediately reduces your stress.</p>
                     </div>
                  </li>
                  <li className="flex items-start">
                     <div className="bg-[#003874] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">3</div>
                     <div>
-                        <h5 className="font-bold text-xl mb-1">Evidence Compilation</h5>
+                        <h4 className="font-bold text-xl mb-1">Evidence Compilation</h4>
                         <p>We build a 'Hardship File' for you. This includes proof of job loss: medical records: or business failure. This is the 'Currency' we use to buy your discount.</p>
                     </div>
                  </li>
                  <li className="flex items-start">
                     <div className="bg-[#003874] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">4</div>
                     <div>
-                        <h5 className="font-bold text-xl mb-1">Multi-Tier Negotiation</h5>
+                        <h4 className="font-bold text-xl mb-1">Multi-Tier Negotiation</h4>
                         <p>We start with a low offer. The bank will counter. we go back and forth through multiple levels of the recovery hierarchy until we find the absolute minimum possible amount.</p>
                     </div>
                  </li>
@@ -323,7 +323,7 @@ export default function KotakBankSettlementPage() {
             </section>
 
              <section id="credit-card-process" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">The Nuances of Kotak Mahindra Credit Card Settlement</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">The Nuances of Kotak Mahindra Credit Card Settlement</h2>
               <p className="mb-6">
                 Settleing a credit card with Kotak Mahindra Bank requires a different approach than a personal loan. Since cards are revolving credit: the bank views them as higher risk. The first step we take is to request a 'Frozen Account' status: which stops further interest accumulation while we negotiate.
               </p>
@@ -331,7 +331,7 @@ export default function KotakBankSettlementPage() {
                 Kotak often uses agencies like 'Vertex' or 'Asset Care' for card recoveries. If your debt has been assigned to an external agency: we handle them with strict legal protocols. we ensure they are not violating RBI guidelines during the process. Our goal is to secure a settlement that is as close to the principal amount as possible: or in several cases: even below the principal if the default is very old.
               </p>
               <div className="bg-slate-50 p-6 rounded-xl border border-slate-200">
-                 <h4 className="font-black text-[#003874] mb-4">Critical Advisory for Kotak Card Holders:</h4>
+                 <h3 className="font-black text-[#003874] mb-4">Critical Advisory for Kotak Card Holders:</h3>
                  <p className="italic">
                    Do not make any 'token payments' suggested by recovery agents. These payments reset the limitation period of your debt and can actually hinder your chances of getting a deep discount settlement.
                  </p>
@@ -339,32 +339,32 @@ export default function KotakBankSettlementPage() {
             </section>
 
             <section id="hardship-categories" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Hardship Eligibility: Why Kotak Bank Might Aggressively Waive Your Debt</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Hardship Eligibility: Why Kotak Bank Might Aggressively Waive Your Debt</h2>
               <p className="mb-6">
                 Kotak Mahindra Bank's settlement committee looks for specific indicators of 'Permanent Hardship.' To get the best deal: your situation must usually fit into one of these categories:
               </p>
               <div className="space-y-4">
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h4 className="font-bold text-[#003874]">Loss of Primary Income</h4>
+                    <h3 className="font-bold text-[#003874]">Loss of Primary Income</h3>
                     <p>Termination letters: resignation proofs due to company closure: or bank statements showing zero salary credit for 6+ months are vital proofs.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h5 className="font-bold text-[#003874]">Medical Crisis</h5>
+                    <h4 className="font-bold text-[#003874]">Medical Crisis</h4>
                     <p>Major surgeries: chronic illnesses: or life changing accidents that have drained your savings. Hospital bills and discharge summaries are mandatory for this.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h6 className="font-bold text-[#003874]">Family Bereavement</h6>
+                    <h5 className="font-bold text-[#003874]">Family Bereavement</h5>
                     <p>The death of the primary borrower or a key breadwinner in the family. This is the strongest case for high percentage principal waivers.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h6 className="font-bold text-[#003874]">Business Insolvency</h6>
+                    <h5 className="font-bold text-[#003874]">Business Insolvency</h5>
                     <p>For shopkeepers and small business owners: proof of shop closure or business legal notices for unpaid rent can help establish insolvency.</p>
                  </div>
               </div>
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Analyzing the CIBIL Impact of Settleing with Kotak Bank</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Analyzing the CIBIL Impact of Settleing with Kotak Bank</h2>
               <p className="mb-6">
                 Transparency is our core value: so let us talk about the credit score. When you settle a loan for less than what you owe: Kotak Bank will report the status as 'Settled' to all credit bureaus. This is not the same as 'Closed.' A settled status will cause your score to drop by approximately 50 to 100 points initially.
               </p>
@@ -377,7 +377,7 @@ export default function KotakBankSettlementPage() {
             </section>
 
             <section id="legal-notices" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">How to Handle Kotak Mahindra Bank Legal Notices</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">How to Handle Kotak Mahindra Bank Legal Notices</h2>
               <p className="mb-6">
                 Kotak Mahindra Bank has a very active legal department. They frequently use the legal system to put pressure on borrowers. Common notices include:
               </p>
@@ -394,32 +394,32 @@ export default function KotakBankSettlementPage() {
             </section>
 
             <section id="why-hire-us" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Why SettleLoans is the Best Partner for your Kotak Settlement</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Why SettleLoans is the Best Partner for your Kotak Settlement</h2>
               <p className="mb-6">
                 Settling with a powerhouse like Kotak Mahindra Bank requires more than just a request: it requires leverage. SettleLoans provides that leverage through:
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-12">
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#003874]">
-                    <h4 className="font-bold mb-2">Internal Nodal Access</h4>
+                    <h3 className="font-bold mb-2">Internal Nodal Access</h3>
                     <p className="text-sm">We don't talk to telecallers. we have the contacts of the Zonal and Regional Nodal Officers who actually have the power to sign off on waivers.</p>
                  </div>
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#003874]">
-                    <h5 className="font-bold mb-2">Legal Shielding</h5>
+                    <h4 className="font-bold mb-2">Legal Shielding</h4>
                     <p className="text-sm">We provide an immediate buffer between you and the recovery agents. Once we take over: the harassment stops legally.</p>
                  </div>
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#003874]">
-                    <h6 className="font-bold mb-2">Benchmarking Data</h6>
+                    <h5 className="font-bold mb-2">Benchmarking Data</h5>
                     <p className="text-sm">We know the 'Bottom Price' for every Kotak Bank product based on thousands of successful cases. we ensure you don't pay a rupee more than necessary.</p>
                  </div>
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#003874]">
-                    <h6 className="font-bold mb-2">NOC Verification</h6>
+                    <h5 className="font-bold mb-2">NOC Verification</h5>
                     <p className="text-sm">We don't just get you a discount: we ensure you get a valid No Dues Certificate that is reflected correctly in your CIBIL report.</p>
                  </div>
               </div>
             </section>
 
              <section id="bank-policies" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Inside Kotak Bank's Debt Recovery Strategy</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Inside Kotak Bank's Debt Recovery Strategy</h2>
               <p className="mb-6">
                 Kotak Mahindra Bank operates a highly systematic and data driven recovery process. Understanding their internal phases is part of our secret sauce for negotiation. The first 30 days are handled by 'Soft Collections': where friendly reminders are sent via SMS and WhatsApp. At this stage: the bank's goal is to prevent you from falling into the 'Overdue' category.
               </p>
@@ -438,7 +438,7 @@ export default function KotakBankSettlementPage() {
             </section>
 
              <section id="debt-buyout" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">The Mechanics of Kotak Debt Buyouts and ARCs</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">The Mechanics of Kotak Debt Buyouts and ARCs</h2>
               <p className="mb-6">
                 One of the most technical aspects of debt management that many borrowers are unaware of is the 'Bulk Debt Sale' or 'Buyout.' Kotak Mahindra Bank periodically sells blocks of its non performing assets to Asset Reconstruction Companies (ARCs). Firms like Omkara ARC: Phoenix ARC: or Invent ARC are major players in the Indian market that buy these stressed assets.
               </p>
@@ -454,7 +454,7 @@ export default function KotakBankSettlementPage() {
             </section>
 
              <section id="common-obstacles" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Common Obstacles in Kotak Mahindra Bank Settlements</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Common Obstacles in Kotak Mahindra Bank Settlements</h2>
               <p className="mb-6">
                 One major hurdle is the 'Linked Account Set Off.' If you have a Kotak 811 account or any savings account with Kotak: the bank can legally deduct funds from your balance to pay off your credit card or loan arrears. This is a common point of distress. we guide our clients on how to protect their liquid assets before initiating the settlement process.
               </p>
@@ -470,7 +470,7 @@ export default function KotakBankSettlementPage() {
             </section>
 
             <section id="documents" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Mandatory Documentation for Kotak Settlement Approval</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Mandatory Documentation for Kotak Settlement Approval</h2>
               <p className="mb-6">
                 To move your file from the recovery department to the settlement committee: you must produce:
               </p>
@@ -487,7 +487,7 @@ export default function KotakBankSettlementPage() {
             </section>
 
             <section id="rbi-vs-kotak" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">RBI Guidelines: Your Legal Weapon Against Kotak Recovery</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">RBI Guidelines: Your Legal Weapon Against Kotak Recovery</h2>
               <p className="mb-6">
                 The Reserve Bank of India has clear mandates on how banks like Kotak Mahindra must treat borrowers. If these are violated: you have the upper hand.
               </p>
@@ -506,7 +506,7 @@ export default function KotakBankSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-5xl font-black text-[#003874] mb-12">Frequently Asked Questions for Kotak Bank Settlement</h3>
+              <h2 className="text-3xl md:text-5xl font-black text-[#003874] mb-12">Frequently Asked Questions for Kotak Bank Settlement</h2>
               <div className="space-y-4">
                   {[
                     { q: "Is it possible to settle a Kotak Bank home loan?", a: "Secured loans like home loans are rarely settled because the bank has a right to the property. Settlement is primarily for unsecured products like personal loans and credit cards." },
@@ -523,7 +523,7 @@ export default function KotakBankSettlementPage() {
                     { q: "Can I settle an old loan already written off by Kotak?", a: "Yes: written off loans are actually the best candidates for deep discounts as the bank is eager to recover any amount possible." }
                   ].map((faq, i) => (
                     <div key={i} className="border-b border-slate-200 pb-6">
-                        <h4 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h4>
+                        <h3 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h3>
                         <p className="text-[#4a5568]">{faq.a}</p>
                     </div>
                   ))}
@@ -531,7 +531,7 @@ export default function KotakBankSettlementPage() {
             </section>
 
             <section id="reviews" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-8">What Our Kotak Bank Clients Say</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-8">What Our Kotak Bank Clients Say</h2>
               <div className="grid gap-6">
                 {[
                   { name: "Vikram Singh", date: "Jan 15, 2024", text: "SettleLoans helped me settle my Kotak credit card debt of 4 lakhs for just 1.5 lakhs. The recovery calls stopped immediately and the entire process was handled professionally.", rating: 5 },
@@ -557,7 +557,7 @@ export default function KotakBankSettlementPage() {
             </section>
 
             <section id="conclusion" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Final Thoughts: Your Journey to a Debt Free Tomorrow</h3>
+              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Final Thoughts: Your Journey to a Debt Free Tomorrow</h2>
               <p className="text-lg mb-6">
                 Settleing your Kotak Mahindra Bank loan isn't about running away from your debts: it's about finding a feasible way to honor your commitment while acknowledging that your financial circumstances have changed. Thousands of people have used the OTS process to reset their financial lives and build a better future.
               </p>
@@ -565,7 +565,7 @@ export default function KotakBankSettlementPage() {
                 With SettleLoans by your side: you have the legal expertise and negotiation power needed to face a corporate giant like Kotak Bank. we ensure the process is transparent: legal: and most of all: effective. Don't let debt dictate your life anymore.
               </p>
                <div className="bg-[#003874] text-white p-10 rounded-3xl text-center">
-                  <h4 className="text-3xl font-black mb-4">Start Your New Chapter</h4>
+                  <h3 className="text-3xl font-black mb-4">Start Your New Chapter</h3>
                   <p className="text-xl mb-8 opacity-90">Get a free technical analysis of your Kotak Bank debt portfolio today.</p>
                   <Link href="/contact" className="inline-block bg-[#ED1C24] text-white font-black py-4 px-12 rounded-xl text-xl hover:bg-white hover:text-[#ED1C24] transition-all">
                      Talk to our Expert Lawyers

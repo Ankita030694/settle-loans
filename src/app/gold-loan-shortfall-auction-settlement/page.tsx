@@ -516,9 +516,9 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* Section 2 */}
             <section id="statutory-protections-rbi-fpc" className="space-y-4">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 2. Statutory Protections &amp; The RBI Fair Practices Code for Gold Auctions
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the Indian legal and regulatory framework, lenders do not enjoy unfettered autonomy to dispose of pledged collateral and subsequently demand unchecked shortfalls. The legal relationship between the borrower (pledgor) and the lending institution (pawnee) is governed by Section 176 of the Indian Contract Act, 1872, read alongside the comprehensive regulatory mandates codified in the RBI Master Direction – Non-Banking Financial Company – Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016, and the Master Circular on Customer Service in Banks.
               </p>
@@ -527,10 +527,10 @@ export default function GoldLoanShortfallSettlementPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h4 className="font-bold text-sm text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h3 className="font-bold text-sm text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Scale className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory RBI Procedural Protocols for Gold Loan Auctions</span>
-                </h4>
+                </h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white border border-slate-200 rounded-xl">
                     <strong className="text-slate-900 block mb-1">1. Minimum 14-Day Registered Notice:</strong>
@@ -560,9 +560,9 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* Section 3 */}
             <section id="nbfc-bank-auction-irregularities" className="space-y-4">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 3. Forensic Examination of NBFC &amp; Bank Auction Irregularities
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A meticulous review of post-auction shortfall claims originating from prominent NBFCs (such as Muthoot Finance, Manappuram Finance, Muthoot Fincorp, and Rupeek) as well as retail banks demonstrates that over 85% of claimed deficits are fundamentally the byproduct of systemic operational irregularities. When challenged by skilled debt defense advocates, these irregularities unravel the lender&apos;s evidentiary foundation in court.
               </p>
@@ -576,9 +576,9 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* Section 4 */}
             <section id="bank-accounting-npv-recovery-calculus" className="space-y-4">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 4. Bank NPA Accounting, Penal Charges &amp; The Net Present Value (NPV) Recovery Calculus
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding how financial institutions classify defaulted gold loans inside their balance sheets provides crucial strategic leverage during shortfall negotiations. Under RBI Prudential Norms on Income Recognition and Asset Classification (IRAC), a gold loan account is designated as a Non-Performing Asset (NPA) once interest or principal remains overdue beyond 90 days. Once classified as an NPA, the lender is legally prohibited from recognizing accrued interest as income on an accrual basis and must set aside mandatory capital provisions (15% for sub-standard assets, scaling up to 100% for doubtful and loss assets).
               </p>
@@ -607,9 +607,9 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="shortfall-resolution-roadmap" className="space-y-4">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 5. Gold Loan Shortfall Resolution Roadmap
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating a post-auction shortfall notice requires a structured, multi-stage legal approach. The infographic below illustrates the institutional workflow from the initial pledge and auction deficit calculation to the forensic audit, advocate rebuttal, and execution of an RBI-compliant zero-rupee settlement.
               </p>
@@ -632,9 +632,9 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* Section 6 */}
             <section id="advocate-led-legal-defense" className="space-y-4">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 6. Advocate-Led Legal Defense: Rebutting Deficiencies &amp; Demanding Forensic Audits
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When served with a gold loan shortfall demand, the most dangerous response is silence or passive evasion. Ignoring a lawyer&apos;s notice allows the lender to establish an unchallenged paper trail, deploy coercive third-party collection agents, or institute an ex-parte civil recovery suit under Order 37 of the Code of Civil Procedure (CPC) in the local City Civil Court or District Court.
               </p>
@@ -683,9 +683,9 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* Section 7 */}
             <section id="sanction-letter-contract-forensics" className="space-y-4">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 7. Sanction Letter Forensics &amp; Challenging Illegal Penal Compounding
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The contractual bedrock of any gold loan is the original pawn ticket or sanction letter executed at the time of pledge. In their rush to disburse loans, NBFCs and banks frequently employ standard pre-printed adhesion contracts containing microscopic boilerplate clauses that fail Indian contract law standards.
               </p>
@@ -699,9 +699,9 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* Section 8 */}
             <section id="zero-rupee-settlement-ndc-cibil" className="space-y-4">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 8. Structuring a ₹0 Residual Balance Settlement &amp; Securing an RBI-Compliant NDC
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The ultimate objective of legal defense in a post-auction gold loan dispute is the execution of a binding, bilateral Compromise Settlement Agreement that extinguishes all present and future liabilities for ₹0 (Zero Rupees), followed by the issuance of an unconditional No Dues Certificate (NDC).
               </p>
@@ -727,9 +727,9 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* Section 9 */}
             <section id="dispute-resolution-matrix" className="space-y-4">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 9. Comparative Dispute Resolution &amp; Shortfall Settlement Matrix
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers confronted with post-auction shortfall notices have multiple potential paths forward. The comparative matrix below analyzes the strategic trade-offs, procedural timelines, cost implications, and resolution outcomes across different courses of action:
               </p>
@@ -785,9 +785,9 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* Section 10 & CompanySection */}
             <section id="company-resolution-section" className="space-y-4">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 10. SettleLoans Legal Defense &amp; Institutional Settlement Advisory
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 At SettleLoans, our specialized banking litigation advocates and debt resolution specialists have successfully defended thousands of borrowers across India against aggressive post-auction shortfall claims from NBFCs (including Muthoot Finance, Manappuram Finance, IIFL, Rupeek, and Muthoot Fincorp) and major commercial banks. We provide end-to-end legal representation—from issuing formal legal notice replies and challenging auction procedural lapses to negotiating directly with zonal settlement committees and securing unconditional No Dues Certificates with a ₹0 balance.
               </p>
@@ -799,7 +799,7 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* Section 11: FAQ Accordion */}
             <section id="faqs" className="space-y-4">
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 11. Frequently Asked Questions (FAQs)
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -829,9 +829,9 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 176 - Pawnee Rights)</span></span>
                 <a
@@ -875,9 +875,9 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/gold-loan-auction-process-after-default"

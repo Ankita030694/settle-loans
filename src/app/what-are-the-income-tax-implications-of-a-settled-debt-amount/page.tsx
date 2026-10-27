@@ -263,7 +263,7 @@ export default function TaxImplicationsPage() {
             </section>
 
             <section id="fundamental-principles" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Fundamental Tax Principles: Is Settled Debt Income?</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Fundamental Tax Principles: Is Settled Debt Income?</h2>
               <p className="text-lg leading-relaxed mb-6">
                 To understand why the tax department takes an interest in your settled loan, we must look at the basic definition of income under the Income Tax Act, 1961. Generally, income is something that comes in or is earned through your labor or capital. A loan, when you first take it from a bank or an NBFC, is not income because you have a corresponding liability to pay it back. It is a capital receipt that is neutral for tax purposes.
               </p>
@@ -271,7 +271,7 @@ export default function TaxImplicationsPage() {
                 However, when a portion of that loan is waived or settled, your liability ceases to exist. This phenomenon, known as the cessation of liability, can be treated as a benefit or an enrichment in your hands. This is where the legal debate between Capital Receipt and Revenue Receipt begins in the Indian courts. A capital receipt is usually related to the very structure of your finances and is not inherently taxable as income. A revenue receipt is related to your day to day earnings and profit making activities and is fully taxable.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h4 className="text-xl font-bold mb-4">The Revenue vs. Capital Receipt Analysis in Depth</h4>
+                <h3 className="text-xl font-bold mb-4">The Revenue vs. Capital Receipt Analysis in Depth</h3>
                 <p className="mb-4 text-base leading-relaxed">
                   The distinction between capital and revenue is the most litigated topic in Indian tax law. For a long time, the dominant view was that if a loan was taken for the purpose of acquiring a capital asset, such as high-end machinery for a factory or a piece of land for a new office, the waiver of that loan was a capital receipt. Because it was not a trading liability, it escaped the tax net. This was based on the logic that you are not in the business of settling loans; your business is printing or manufacturing or whatever your core calling is.
                 </p>
@@ -287,7 +287,7 @@ export default function TaxImplicationsPage() {
             <LoanSettlementAssessmentFunnel />
 
             <section id="section-41-1" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Deep Dive: Section 41(1) and Trading Liabilities</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Deep Dive: Section 41(1) and Trading Liabilities</h2>
               <p className="text-lg leading-relaxed mb-6">
                 If you are a business owner or a professional in India, Section 41(1) of the Income Tax Act is a provision you cannot afford to ignore. This section is specifically designed to prevent people from double dipping into tax benefits. The logic of Section 41(1) is simple yet profound: if you take a deduction for an expense today but you do not actually end up paying for that expense tomorrow, the tax department will take back the benefit it gave you earlier.
               </p>
@@ -295,7 +295,7 @@ export default function TaxImplicationsPage() {
                 Under the statutory framework of Section 41(1), two key conditions trigger taxation. First, the taxpayer must have claimed an earlier tax deduction or allowance for a business loss, expenditure, or trading liability. Second, in a later year, the taxpayer obtains financial remission or relief regarding that liability. When both conditions are met, the waived amount or benefit is deemed as taxable business profit for that financial year.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8 overflow-x-auto">
-                <h4 className="text-xl font-bold mb-4">Detailed Case Study: Trading Liability</h4>
+                <h3 className="text-xl font-bold mb-4">Detailed Case Study: Trading Liability</h3>
                 <p className="mb-4">
                   Imagine a small pharmaceutical supply business in Mumbai. In the year 2022, they purchased stock worth 20 lakh rupees from a wholesaler on credit. They recorded this 20 lakh rupees as a purchase expense in their books, which reduced their taxable profit for that year. In 2024, the business faced a sudden crash in demand and was unable to pay the wholesaler. After intense negotiations, the wholesaler agreed to close the account for a payment of 12 lakh rupees, effectively waiving 8 lakh rupees.
                 </p>
@@ -310,7 +310,7 @@ export default function TaxImplicationsPage() {
             </section>
 
             <section id="section-28-iv" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Big Shift: Finance Act 2023 and Section 28(iv)</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Big Shift: Finance Act 2023 and Section 28(iv)</h2>
               <p className="text-lg leading-relaxed mb-6">
                 For several decades, many businesses and tax practitioners in India relied on a landmark Supreme Court judgment to protect loan waivers from being taxed. This was the case of Commissioner of Income Tax vs. Mahindra and Mahindra Ltd (2018). In that case, the apex court had ruled that if a loan was taken for the purpose of purchasing a capital asset and then subsequently waived by the lender, it could not be taxed under the then existing Section 28(iv). The reasoning was that the section only applied to benefits or perquisites received in kind (non-monetary). Since a loan waiver is essentially a monetary benefit (cash or cash-equivalent), it fell outside the scope of Section 28(iv).
               </p>
@@ -318,7 +318,7 @@ export default function TaxImplicationsPage() {
                 <strong>The Government Response and Amendment:</strong> The Indian government, sensing a massive loss of tax revenue from corporate debt restructurings and settlements, decided to plug this loophole. Through the Finance Act 2023, the wording of Section 28(iv) was significantly altered. The new law explicitly states that the value of any benefit or perquisite, whether convertible into money or not, arising from business or the exercise of a profession, is taxable. Crucially, it now includes benefits received in cash or in kind, or or partly in cash and partly in kind.
               </p>
               <div className="bg-orange-50 p-8 rounded-2xl border border-orange-200 mb-8">
-                <h4 className="text-xl font-bold mb-4">What This Means for Settlements Today</h4>
+                <h3 className="text-xl font-bold mb-4">What This Means for Settlements Today</h3>
                 <p className="mb-4 text-base leading-relaxed">
                   From April 1, 2023 (Assessment Year 2024 to 2025) onwards, the protection offered by the Mahindra and Mahindra judgment has effectively vanished for business entities. Now, if a bank waives a term loan or a working capital loan for your business, the Income Tax Department can classify it as a cash benefit arising from your business. This means the waived amount is added to your total business income and taxed at the applicable corporate or individual slab rate.
                 </p>
@@ -329,11 +329,11 @@ export default function TaxImplicationsPage() {
             </section>
 
             <section id="personal-loans" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Tax Implications for Salaried Individuals: The Personal Loan Perspective</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Tax Implications for Salaried Individuals: The Personal Loan Perspective</h2>
               <p className="text-lg leading-relaxed mb-6">
                 If you are a salaried individual in India grappling with personal debt, there is a silver lining when it comes to the taxability of your settled loan. Unlike business entities that operate for profit, you are generally viewed as a consumer. This distinction is the bedrock of your tax protection.
               </p>
-              <h4 className="text-2xl font-bold mb-4">The Doctrine of Personal Capital Receipt</h4>
+              <h3 className="text-2xl font-bold mb-4">The Doctrine of Personal Capital Receipt</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most personal loans, whether taken for a family member's surgery, a child's wedding, or even a long awaited international holiday, are used for personal consumption. When you receive the loan amount from the bank, it is a liability. When that liability is partially waived through a settlement, you are effectively paying back less than you borrowed.
               </p>
@@ -341,7 +341,7 @@ export default function TaxImplicationsPage() {
                 In technical tax terms, this waiver is a capital receipt. In India, capital receipts are not taxable unless they are explicitly called out by the law (such as Capital Gains on the sale of a house). Since there is no section in the Income Tax Act that explicitly taxes a personal debt waiver for a salaried person, it remains outside the scope of your taxable income. You do not need to add it to your salary income or your interest income when filing your ITR 1 or ITR 2.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-200 mb-8">
-                <h4 className="text-xl font-bold mb-4">Important Exception: Business Use of Personal Loan</h4>
+                <h3 className="text-xl font-bold mb-4">Important Exception: Business Use of Personal Loan</h3>
                 <p className="text-base leading-relaxed">
                   If you are a professional, like a freelance graphic designer or a consultant, and you took a personal loan but used that money to buy a high end workstation for your work, the situation changes. If you have been claiming depreciation on that workstation in your tax filings, the waiver of the loan used to buy it could be seen as a business benefit under the updated Section 28(iv). In such cases, the tax department might argue that since the loan was used for your profession, its waiver is a professional gain.
                 </p>
@@ -349,12 +349,12 @@ export default function TaxImplicationsPage() {
             </section>
 
             <section id="business-loans" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Taxability of Business Loan Waivers (MSMEs)</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Taxability of Business Loan Waivers (MSMEs)</h2>
               <p className="text-lg leading-relaxed mb-6">
                 For Small and Medium Enterprises (SMEs), a loan settlement is often a double-edged sword. While the bank might waive a large chunk of the debt, the tax department expects a share.
               </p>
               <div className="bg-red-50 p-8 rounded-xl border border-red-200 mb-8">
-                <h4 className="text-xl font-bold mb-4">The MSME Trap</h4>
+                <h3 className="text-xl font-bold mb-4">The MSME Trap</h3>
                 <p className="mb-4">
                   If an MSME in Delhi settles a working capital loan of 50 lakhs for 30 lakhs, the 20 lakhs saved is now clearly taxable under Section 28(iv) as per the 2023 amendment. This can lead to a massive tax outgo if the business does not have enough carried-forward losses to set off against this deemed income.
                 </p>
@@ -362,7 +362,7 @@ export default function TaxImplicationsPage() {
             </section>
 
             <section id="credit-cards" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Credit Card Settlement: Income from Other Sources?</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Credit Card Settlement: Income from Other Sources?</h2>
               <p className="text-lg leading-relaxed mb-6">
                 Credit cards are the most common form of settled debt in India. While banks might send you a Settlement Letter that mentions a waiver of lakhs of rupees, this is rarely taxed as income for a regular individual consumer. However, if the Income Tax Department sees high-value settlements in your AIS (Annual Information Statement) and finds that your lifestyle does not match your reported income, they might ask questions.
               </p>
@@ -372,7 +372,7 @@ export default function TaxImplicationsPage() {
             </section>
 
             <section id="tds-rules" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">TDS Implications: Section 194R</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">TDS Implications: Section 194R</h2>
               <p className="text-lg leading-relaxed mb-6">
                 Another complexity introduced recently is Section 194R. It requires any person providing a benefit or perquisite to a resident (arising from business or profession) to deduct TDS at 10% if the value exceeds 20,000 rupees in a year.
               </p>
@@ -382,11 +382,11 @@ export default function TaxImplicationsPage() {
             </section>
 
             <section id="scenarios" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Practical Scenarios: Taxability in Action</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Practical Scenarios: Taxability in Action</h2>
               
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-gray-200">
-                  <h4 className="text-2xl font-bold mb-4">Scenario 1: Personal Education Loan Waiver</h4>
+                  <h3 className="text-2xl font-bold mb-4">Scenario 1: Personal Education Loan Waiver</h3>
                   <p className="mb-4">
                     Consider Anita, a software engineer who took a personal loan of 15 lakh rupees from a private bank for her higher studies. Due to unforeseen family issues, she settled the loan for 9 lakh rupees.
                   </p>
@@ -395,7 +395,7 @@ export default function TaxImplicationsPage() {
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl border border-gray-200">
-                  <h4 className="text-2xl font-bold mb-4">Scenario 2: Business Working Capital Loan</h4>
+                  <h3 className="text-2xl font-bold mb-4">Scenario 2: Business Working Capital Loan</h3>
                   <p className="mb-4">
                     Rajesh runs a printing press. He had a CC (Cash Credit) limit of 50 lakhs which he used to buy paper and pay ink suppliers. He settled this with the bank for 35 lakhs in 2025.
                   </p>
@@ -404,7 +404,7 @@ export default function TaxImplicationsPage() {
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl border border-gray-200">
-                  <h4 className="text-2xl font-bold mb-4">Scenario 3: Credit Card Settlement for Travel</h4>
+                  <h3 className="text-2xl font-bold mb-4">Scenario 3: Credit Card Settlement for Travel</h3>
                   <p className="mb-4">
                     Suresh used his credit card for a luxury trip to Europe. He ran up a bill of 8 lakhs but lost his job later. He reached a settlement for 3 lakhs.
                   </p>
@@ -415,19 +415,19 @@ export default function TaxImplicationsPage() {
             </section>
 
             <section id="tax-minimization" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Minimizing Tax Impact Legally: Strategic Advice</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Minimizing Tax Impact Legally: Strategic Advice</h2>
               <p className="text-lg leading-relaxed mb-6">
                 For businesses, the tax on a loan waiver can be a significant burden. However, there are several legal paths to minimize this impact.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-                  <h4 className="text-xl font-bold mb-4">Set off Against Losses</h4>
+                  <h3 className="text-xl font-bold mb-4">Set off Against Losses</h3>
                   <p className="text-sm text-blue-900 leading-relaxed">
                     If your business has been struggling, you likely have 'Brought Forward Business Losses'. The deemed income from a loan waiver can be set off against these previous losses. This means your effective tax outgo could still be zero even if the waiver is technically taxable.
                   </p>
                 </div>
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-                  <h4 className="text-xl font-bold mb-4">Timing the Settlement</h4>
+                  <h3 className="text-xl font-bold mb-4">Timing the Settlement</h3>
                   <p className="text-sm text-blue-900 leading-relaxed">
                     If you expect higher profits next year, it might be better to conclude the settlement in a year where you have lower income or higher expenses. This helps in absorbing the 'deemed profit' from the waiver without moving into a higher tax bracket.
                   </p>
@@ -439,13 +439,13 @@ export default function TaxImplicationsPage() {
             </section>
 
             <section id="global-perspective" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Global Perspective: How Other Countries Tax Debt Relief</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Global Perspective: How Other Countries Tax Debt Relief</h2>
               <p className="text-lg leading-relaxed mb-6">
                 To truly understand the depth of India's tax landscape for debt, it is helpful to look at how other major economies handle this issue. The taxation of debt relief is a global challenge, as governments struggle to balance empathy for the borrower with the principle of taxing all forms of economic gain.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="text-xl font-bold mb-4">The United States Model (Cancellation of Debt Income)</h4>
+                  <h3 className="text-xl font-bold mb-4">The United States Model (Cancellation of Debt Income)</h3>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     In the US, the Internal Revenue Service (IRS) generally treats any debt that is cancelled, forgiven, or discharged for less than the full amount you owe as taxable income. This is known as Cancellation of Debt (COD) Income. The lender is required to send you a Form 1099-C, and you must report that amount on your tax return.
                   </p>
@@ -454,7 +454,7 @@ export default function TaxImplicationsPage() {
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="text-xl font-bold mb-4">The United Kingdom Model</h4>
+                  <h3 className="text-xl font-bold mb-4">The United Kingdom Model</h3>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     The UK takes a approach similar to the pre-2023 Indian model. For individuals, personal debt relief is generally not taxable. For businesses, the taxability depends on whether the debt was a trading debt or a capital debt. 
                   </p>
@@ -469,19 +469,19 @@ export default function TaxImplicationsPage() {
             </section>
 
             <section id="future-trends" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Future Trends: Digital Tracking and Policy Shifts</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Future Trends: Digital Tracking and Policy Shifts</h2>
               <p className="text-lg leading-relaxed mb-6">
                 As we look toward 2026 and beyond, the interaction between debt and tax in India will only become more integrated. The 'faceless' assessment regime and the use of Artificial Intelligence in data mining will make it almost impossible for high-value debt waivers to go unnoticed.
               </p>
-              <h4 className="text-2xl font-bold mb-4">1. Real-Time Data Sharing</h4>
+              <h3 className="text-2xl font-bold mb-4">1. Real-Time Data Sharing</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Currently, there is a time lag between a bank settlement and its appearance in your tax record. In the future, we expect real-time API integration between the Reserve Bank of India's centralized databases and the Income Tax Department's portal. This would mean that the moment a bank marks a loan as 'Settled', a pre-filled query could be generated in your compliance dashboard.
               </p>
-              <h4 className="text-2xl font-bold mb-4">2. The Push for a Unified Relief Policy</h4>
+              <h3 className="text-2xl font-bold mb-4">2. The Push for a Unified Relief Policy</h3>
               <p className="text-lg leading-relaxed mb-6">
                 There is a growing demand from industry bodies like FICCI and CII for a more nuanced tax policy for MSMEs. Taxing a waiver when a business is already in distress is akin to taking the oxygen mask away from a patient. We might see future amendments that provide a 'Restructuring Holiday' or a lower tax rate for waivers that are part of formal bankruptcy or bank led resolution plans.
               </p>
-              <h4 className="text-3xl font-black text-[#2E2E2E] mt-16 mb-8">Summary of the Tax Journey</h4>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mt-16 mb-8">Summary of the Tax Journey</h3>
               <p className="mb-6">
                 Navigating the world of debt settlement is like walking through a landscape filled with both gold and landmines. The gold is the financial relief and the reduction in your debt burden. The landmines are the complex tax sections like 41(1) and 28(iv). 
               </p>
@@ -490,12 +490,12 @@ export default function TaxImplicationsPage() {
               </p>
             </section>
             <section id="reporting" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">How to Report Settled Debt in Your ITR</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">How to Report Settled Debt in Your ITR</h2>
               <p className="text-lg leading-relaxed mb-6">
                 Honesty is always the best policy when it comes to the Income Tax Department. With the advent of the Annual Information Statement (AIS), the department already knows about your major financial moves.
               </p>
               <div className="bg-gray-100 p-8 rounded-2xl mb-8">
-                <h4 className="text-xl font-bold mb-4">Step-by-Step Reporting Guide</h4>
+                <h3 className="text-xl font-bold mb-4">Step-by-Step Reporting Guide</h3>
                 <ul className="space-y-4">
                   <li><strong>For Individuals (ITR 1/2):</strong> You do not need to report personal capital receipts unless they trigger a specific gift tax provision (which loan waivers generally don't). Keep your settlement letter safe for at least 8 years.</li>
                   <li><strong>For Businesses (ITR 3/4/5/6):</strong> Report the waived amount as 'Other Income' in your Profit and Loss account. If you believe it is a capital receipt despite the 2023 amendment, disclose it in the 'Exempt Income' schedule with a detailed note.</li>
@@ -504,7 +504,7 @@ export default function TaxImplicationsPage() {
               </div>
             </section>
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -542,7 +542,7 @@ export default function TaxImplicationsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -557,7 +557,7 @@ export default function TaxImplicationsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Frequently Asked Questions</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Frequently Asked Questions</h2>
               <div className="space-y-4">
                 {[
                   { q: "Is a personal loan waiver taxable for individuals?", a: "Normally, no. It is treated as a capital receipt as long as it wasn't used for business purposes." },
@@ -585,7 +585,7 @@ export default function TaxImplicationsPage() {
             </section>
 
             <div className="bg-[#1F5EFF] text-white p-12 rounded-3xl text-center mt-12">
-              <h3 className="text-3xl md:text-5xl font-black mb-6">Need Expert Advice on Tax?</h3>
+              <h2 className="text-3xl md:text-5xl font-black mb-6">Need Expert Advice on Tax?</h2>
               <p className="text-xl mb-8 opacity-90">Don't let a technicality turn your settlement into a nightmare. Get a free consultation today.</p>
               <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl text-xl hover:scale-105 transition-all">
                 Contact Our Legal Team

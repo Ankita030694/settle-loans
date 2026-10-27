@@ -416,9 +416,9 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; SARB Escalation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Axis Bank&apos;s Delinquency Lifecycle: From SMA-0 to SARB Handover
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Navigating a compromise settlement with Axis Bank requires a clear understanding of the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP). An overdue personal loan progresses through standardized regulatory and administrative stages that determine the bank&apos;s internal provisioning burden and its legal willingness to grant principal haircuts.
               </p>
@@ -491,9 +491,9 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. Section 171 Lien &amp; Burgundy Account Shield</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Banker&apos;s Right of Set-Off (Section 171) &amp; Safeguarding Liquid Assets
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers defaulting on an Axis Bank personal loan or Burgundy credit card must understand the legal power of the <strong>Banker&apos;s Right of General Lien and Set-Off</strong> under Section 171 of the Indian Contract Act, 1872. This statutory provision grants Axis Bank authority to appropriate internal funds. It can debit any savings account, current account, salary credit, or fixed deposit maintained with Axis Bank under the same PAN or CIF to offset delinquent loan dues.
               </p>
@@ -511,9 +511,9 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 <Gavel className="w-4 h-4" />
                 <span>4. Section 25 PSSA &amp; Section 138 NI Act Defense</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Section 25 PSSA &amp; Section 138 Cheque Bounce Notices
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When automated NACH mandates bounce or physical repayment cheques dishonour, Axis Bank takes legal steps. Its legal panel dispatches statutory notices under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> or <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>. These statutory notices grant a mandatory 15-day window to respond before criminal complaint cases can be instituted in a Magistrate Court.
               </p>
@@ -531,9 +531,9 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 <Sparkles className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Axis Bank Loan Settlement Roadmap &amp; Haircut Architecture
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The visual framework below outlines Axis Bank&apos;s complete resolution pathway—from initial default and Special Mention Account classification to SARB committee evaluation, haircut determination, and final debt extinguishment with a zero-balance No Dues Certificate.
               </p>
@@ -560,9 +560,9 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 <Percent className="w-4 h-4" />
                 <span>6. OTS Haircut Policy &amp; NPV Valuation Formula</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Axis Bank&apos;s OTS Haircut Mechanics &amp; Recovery Valuation Formula
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Reserve Bank of India&apos;s Prudential Framework for Resolution of Stressed Assets and board-approved compromise settlement policies, Axis Bank evaluates One-Time Settlement offers using rigorous financial modeling. Unlike front-line recovery agents who claim that loans cannot be discounted, the Stressed Asset Resolution Branch evaluates every default through a <strong>Net Present Value (NPV) Recovery Valuation Benchmark</strong>.
               </p>
@@ -595,9 +595,9 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step SARB Settlement Roadmap</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 5-Step Protocol for Negotiating Axis Bank Personal Loan Settlement
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Successfully executing a compromise settlement with Axis Bank requires adhering to a disciplined, legally backed five-step roadmap that bypasses third-party recovery agents and engages directly with authorized decision-makers:
               </p>
@@ -608,7 +608,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
                     1
                   </div>
                   <div>
-                    <h4 className="text-base font-bold text-slate-900 mb-1">Dossier Compilation &amp; Insolvency Audit</h4>
+                    <h3 className="text-base font-bold text-slate-900 mb-1">Dossier Compilation &amp; Insolvency Audit</h3>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Assemble comprehensive records establishing genuine financial hardship, including termination letters, income tax returns showing collapsed revenue, hospital discharge summaries, or bank statements reflecting insolvency.
                     </p>
@@ -620,7 +620,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
                     2
                   </div>
                   <div>
-                    <h4 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist &amp; Agent Insulation</h4>
+                    <h3 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist &amp; Agent Insulation</h3>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Serve a formal legal notice under the RBI Master Directions on Recovery Agents to Axis Bank and its collection agencies, stopping unlawful contact with workplace colleagues, friends, and relatives.
                     </p>
@@ -632,7 +632,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
                     3
                   </div>
                   <div>
-                    <h4 className="text-base font-bold text-slate-900 mb-1">Formal OTS Submission to SARB Desks</h4>
+                    <h3 className="text-base font-bold text-slate-900 mb-1">Formal OTS Submission to SARB Desks</h3>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Bypass third-party recovery tele-callers and submit a formal compromise petition directly to the Stressed Asset Resolution Branch or Central Settlement Committee, offering a structured settlement tranche.
                     </p>
@@ -644,7 +644,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
                     4
                   </div>
                   <div>
-                    <h4 className="text-base font-bold text-slate-900 mb-1">Credit Committee Sanction &amp; Letter Verification</h4>
+                    <h3 className="text-base font-bold text-slate-900 mb-1">Credit Committee Sanction &amp; Letter Verification</h3>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Negotiate haircut terms before the Zonal Credit Committee to secure an authentic, stamped OTS Sanction Letter on official Axis Bank letterhead with explicit debt extinguishment terms.
                     </p>
@@ -656,7 +656,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
                     5
                   </div>
                   <div>
-                    <h4 className="text-base font-bold text-slate-900 mb-1">Remittance &amp; Mandatory ₹0 NDC Issuance</h4>
+                    <h3 className="text-base font-bold text-slate-900 mb-1">Remittance &amp; Mandatory ₹0 NDC Issuance</h3>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Pay the agreed sum directly into the loan account via RTGS/NEFT, obtain an immediate stamped bank receipt, and secure the No Dues Certificate within the statutory 30-day window under RBI directives.
                     </p>
@@ -671,9 +671,9 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Forensics &amp; Mandatory ₹0 NDC Protocol
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The single most dangerous error in debt settlement is remitting money based on verbal promises or informal messages from collection personnel. Unauthorized agents frequently deceive borrowers by claiming that an ad-hoc token payment will settle the account, only for the funds to be absorbed into accumulated penal charges while the loan remains active and compounding.
               </p>
@@ -691,9 +691,9 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Credit recovery</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Trajectory, RBI Cooling Period &amp; 24-Month Score Rebuilding
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following full payment of the settlement amount, Axis Bank updates the account status across all four credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark). The account status becomes <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While this causes an initial CIBIL score drop of 75 to 150 points, it halts monthly default compounding and allows systematic credit score rebuilding.
               </p>
@@ -753,9 +753,9 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 <Scale className="w-4 h-4" />
                 <span>10. SettleLoans Legal Defense &amp; Advisory</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Professional Legal Representation for Axis Bank Debt Settlement
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating an Axis Bank loan default requires expert advocacy. Professional representation shields your family from aggressive collection tactics. It also ensures timely replies to statutory Section 25 PSSA and Section 138 notices, securing maximum debt relief from SARB credit committees. SettleLoans provides end-to-end legal and financial representation to help distressed borrowers achieve financial freedom.
               </p>
@@ -768,9 +768,9 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions on Axis Bank Personal Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -787,10 +787,10 @@ export default function AxisBankPersonalLoanSettlementClient() {
 
             {/* 5 Official Regulatory Links */}
             <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-              <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+              <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                 <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Statutory &amp; Regulatory References</span>
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -834,9 +834,9 @@ export default function AxisBankPersonalLoanSettlementClient() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/hdfc-personal-loan-settlement"

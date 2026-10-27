@@ -538,9 +538,9 @@ export default function BankArbitrationNoticeReplyPage() {
 
             {/* Section 2: Statutory Legal Grounding: Section 12(5) & Perkins Eastman */}
             <section id="statutory-legal-protections-section-12-5" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Legal Grounding: Section 12(5) & Perkins Eastman Ruling
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The most potent legal defense available to a borrower facing a bank arbitration notice lies in the statutory invalidity of <strong>unilateral arbitrator appointments</strong>. Historically, private lenders appointed their own empanelled lawyers or retired officers as sole arbitrators without seeking borrower consent. These arbitrators conducted rushed hearings—often in distant metropolitan cities—and delivered rubber-stamped awards favoring the bank.
               </p>
@@ -602,9 +602,9 @@ export default function BankArbitrationNoticeReplyPage() {
 
             {/* Section 3: Danger of Default: Ignoring Arbitration Notices */}
             <section id="danger-of-default-ignoring-arbitration" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. What Happens If You Ignore a Bank Arbitration Notice?
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 While unilateral appointments suffer from serious legal infirmities, <strong>ignoring the notice is the single most dangerous mistake a borrower can make</strong>. Many borrowers mistakenly assume that because the notice was sent by a private advocate or an online dispute resolution (ODR) portal, it carries no real legal weight. This misconception leads to devastating financial consequences.
               </p>
@@ -644,9 +644,9 @@ export default function BankArbitrationNoticeReplyPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank NPA Accounting, Provisioning & NPV Equation
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To successfully negotiate a massive 45% to 65% principal haircut during arbitration, one must analyze the dispute through the lens of banking finance and RBI prudential regulations. Indian commercial banks operate under strict capital provisioning directives issued by the Reserve Bank of India. When an unsecured personal loan or credit card account defaults past 90 days, it is classified as a Non-Performing Asset (NPA).
               </p>
@@ -718,9 +718,9 @@ export default function BankArbitrationNoticeReplyPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="arbitration-resolution-roadmap" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Bank Arbitration Notice Resolution &amp; Settlement Visual Roadmap
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The roadmap below details the 5-stage institutional process. It guides you from receiving an arbitration notice to advocate defense, filing jurisdictional challenges, negotiating compromise terms, and executing a binding Consent Award with a No Dues Certificate.
               </p>
@@ -755,34 +755,34 @@ export default function BankArbitrationNoticeReplyPage() {
 
             {/* Section 6: Advocate Representation: Forcing a Structured OTS */}
             <section id="advocate-representation-forcing-ots" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Challenging Unilateral Arbitration & Forcing Settlement
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When managed strategically by seasoned banking litigation advocates, an arbitration notice transforms from a stressful legal threat into your most effective lever for negotiating an affordable One-Time Settlement (OTS). Rather than fleeing the cases or arguing helplessly with outsourced recovery tele-callers, our advocates apply a calibrated 4-phase legal defense:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Serving the Formal Statutory Objection</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Serving the Formal Statutory Objection</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Within 15 days of receiving the Section 21 notice, your advocate serves a formal legal reply on both the bank and the arbitrator. The reply challenges the arbitrator&apos;s appointment under Section 12(5) read with the Seventh Schedule. Citing <em>Perkins Eastman</em> and <em>TRF Ltd.</em>, it notifies the bank that any unilateral award will be challenged in High Court or Commercial Court.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Filing the Statement of Defense &amp; Hardship Dossier</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Filing the Statement of Defense &amp; Hardship Dossier</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Before the arbitral tribunal, your counsel files a detailed Statement of Defense and Counterclaim under Section 23 of the Act. This document highlights uncredited repayments, disputes usurious penal compounding, and attaches an unassailable financial hardship dossier—including medical records, job termination letters, or business loss audits—proving bona fide inability to pay.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Bypassing Recovery Agents &amp; Engaging Zonal Nodal Desks</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Bypassing Recovery Agents &amp; Engaging Zonal Nodal Desks</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Our legal team directly approaches the bank&apos;s Stressed Asset Resolution Group and Zonal Legal Counsel. Recognizing the risk that an expensive arbitral case may produce an invalid award, the bank&apos;s legal desk is strongly incentivized to bypass recovery agents and negotiate a direct compromise settlement.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Converting Claims into a Section 30 Consent Award or Lok Adalat Decree</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Converting Claims into a Section 30 Consent Award or Lok Adalat Decree</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Once settlement terms (typically 35% to 55% of principal) are agreed, both parties jointly petition the arbitrator for a <strong>Consent Award under Section 30</strong>. Alternatively, they can refer the matter to National Lok Adalat for full judicial protection.
                   </p>
@@ -796,9 +796,9 @@ export default function BankArbitrationNoticeReplyPage() {
 
             {/* Section 7: Sanction Letter & Consent Award Forensics */}
             <section id="consent-award-sanction-forensics" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Sanction Letter & Consent Award Forensics
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Before disbursing any agreed settlement amount, a borrower must conduct rigorous forensic verification of the settlement instruments. Unscrupulous collection agents and fake recovery agencies frequently issue counterfeit &quot;settlement confirmation letters&quot; or verbal promises on WhatsApp to hit collection targets, leaving the borrower vulnerable to ongoing arbitration or future legal claims.
               </p>
@@ -858,9 +858,9 @@ export default function BankArbitrationNoticeReplyPage() {
 
             {/* Section 8: Remittance, RBI ₹0 NDC Mandate & Credit Recovery */}
             <section id="remittance-rbi-ndc-mandate-cibil" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Loan Remittance, RBI ₹0 NDC Mandate & CIBIL Impact
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following the remittance of the final settlement tranche, the final milestone is obtaining unassailable debt discharge records. Under <strong>RBI Circular RBI/2023-24/60</strong> on Responsible Lending Conduct, all regulated entities must deliver an official <strong>No Dues Certificate (NDC) or Loan Closure Letter</strong>. In addition, lenders must update credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) within <strong>30 calendar days</strong>.
               </p>
@@ -875,9 +875,9 @@ export default function BankArbitrationNoticeReplyPage() {
                 </p>
               </div>
 
-              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding CIBIL Bureau Reporting &amp; Score recovery
-              </h4>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must understand the precise mechanism of credit bureau reporting following a compromise settlement:
               </p>
@@ -903,7 +903,7 @@ export default function BankArbitrationNoticeReplyPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix */}
             <section id="arbitration-comparative-matrix" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Resolution Matrix: Arbitration vs Suit vs Lok Adalat vs OTS
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -958,9 +958,9 @@ export default function BankArbitrationNoticeReplyPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Strategic Arbitration Advisory
-                </h3>
+                </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating an institutional arbitration claim from a major private bank requires seasoned legal advocates who specialize in banking litigation, the Arbitration Act, and RBI debt resolution frameworks. SettleLoans provides complete legal defense for borrowers nationwide. We draft formal Section 12(5) objection notices, appear before arbitral tribunals, and halt recovery harassment. Our advocates negotiate directly with bank zonal authorities to secure large haircuts backed by official No Dues Certificates.
                 </p>
@@ -974,9 +974,9 @@ export default function BankArbitrationNoticeReplyPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. FAQs: Bank Arbitration Notice Reply & Defense
-                </h3>
+                </h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to essential questions regarding bank arbitration notices, unilateral arbitrator invalidation, and debt settlement in India.
@@ -1006,9 +1006,9 @@ export default function BankArbitrationNoticeReplyPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Arbitration and Conciliation Act, 1996 (Section 12 &amp; Seventh Schedule)</span></span>
                 <a
@@ -1052,9 +1052,9 @@ export default function BankArbitrationNoticeReplyPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-sent-legal-notice-for-loan-what-to-do"

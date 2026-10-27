@@ -279,7 +279,7 @@ export default function TaxImplicationsPage() {
                                 Understanding the income tax implications of a settled debt amount is critical to ensure that your "savings" aren't wiped out by a massive tax demand plus interest and penalties two years later. Since the landscape of Indian taxation is constantly evolving through Finance Acts and Supreme Court judgments, a borrower must be proactive.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-2xl border-l-4 border-[#1F5EFF] mb-8">
-                                <h4 className="text-lg font-bold text-[#2E2E2E] mb-4 uppercase tracking-wide">The "Income" Mirage</h4>
+                                <h3 className="text-lg font-bold text-[#2E2E2E] mb-4 uppercase tracking-wide">The "Income" Mirage</h3>
                                 <p className="text-[#2E2E2E]/80">
                                     The core debate in Indian tax law is whether a loan waiver is a "Capital Receipt" (not taxable) or a "Revenue Receipt/Benefit" (taxable). As of 2024, the scales have tilted heavily towards taxability for business loans, while personal loans for individuals remain largely protected.
                                 </p>
@@ -287,21 +287,21 @@ export default function TaxImplicationsPage() {
                         </section>
 
                         <section id="personal-vs-business" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Fundamental Distinction: Personal vs Business Loans
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 Before diving into sections, you must identify your category. The tax treatment depends not on the nature of the loan product, but the *purpose* for which the loan was used.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
                                     <FontAwesomeIcon icon={faCalculator} className="text-blue-600 mb-4 w-6 h-6" />
-                                    <h4 className="font-bold text-lg mb-2 text-blue-900">Personal Usage</h4>
+                                    <h3 className="font-bold text-lg mb-2 text-blue-900">Personal Usage</h3>
                                     <p className="text-blue-800 text-sm italic font-sans">Used for medical, wedding, education, or home renovation. Generally treats waiver as a non-taxable capital remission.</p>
                                 </div>
                                 <div className="bg-amber-50 p-6 rounded-xl border border-amber-100">
                                     <FontAwesomeIcon icon={faBuildingColumns} className="text-amber-600 mb-4 w-6 h-6" />
-                                    <h5 className="font-bold text-lg mb-2 text-amber-900">Business Usage</h5>
+                                    <h4 className="font-bold text-lg mb-2 text-amber-900">Business Usage</h4>
                                     <p className="text-amber-800 text-sm italic font-sans">Used for working capital, asset purchase, or business expansion. Highly susceptible to Sections 28(iv) and 41(1).</p>
                                 </div>
                             </div>
@@ -310,17 +310,17 @@ export default function TaxImplicationsPage() {
             <LoanSettlementAssessmentFunnel />
 
                         <section id="section-28" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Section 28(iv): The "Benefit or Perquisite" Trap
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 Section 28(iv) targets "The value of any benefit or perquisite, whether convertible into money or not, arising from business or the exercise of a profession." For decades, there was a loophole: if the benefit was in cash (like a loan waiver), it wasn't taxable under this section because the section used the phrase "whether convertible into money or not," which courts interpreted to exclude actual money.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-200 mb-8">
-                                <h4 className="font-bold text-xl mb-4 flex items-center text-red-900">
+                                <h3 className="font-bold text-xl mb-4 flex items-center text-red-900">
                                     <FontAwesomeIcon icon={faGavel} className="text-red-600 mr-3 w-5 h-5" />
                                     Supreme Court Clarity: Chevron vs. Commissioner
-                                </h4>
+                                </h2>
                                 <p className="text-sm text-red-800 leading-relaxed mb-4 font-sans">
                                     In the landmark case of <strong>Commissioner of Income Tax vs. Mahindra and Mahindra Ltd</strong>, the Supreme Court initially ruled that a waiver was not taxable as income. However, subsequent amendments to the law have significantly narrowed this protection for active business entities.
                                 </p>
@@ -328,9 +328,9 @@ export default function TaxImplicationsPage() {
                         </section>
 
                         <section id="section-41" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Section 41(1): Cessation of Trading Liability
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 This is perhaps the most dangerous section for small business owners. If you took a loan for business operations and you claimed the interest (or the principal in case of trading goods) as an expense in your profit and loss account in previous years, then Section 41(1) kicks in the moment that debt is waived. The logic is: "You already took a tax benefit for this expense; now that you don't have to pay it, we will add it back to your income."
                             </p>
@@ -343,9 +343,9 @@ export default function TaxImplicationsPage() {
                         </section>
 
                         <section id="tds-194r" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Breaking: Section 194R and 10% TDS
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 Introduced in Finance Act 2022, Section 194R has completely changed how banks handle settlements. It mandates a 10% TDS (Tax Deducted at Source) on the value of any "benefit or perquisite" provided to a resident. Banks now often demand that the borrower pay this 10% tax separately or they deduct it from the settlement amount before finalizing. This is a direct "out of pocket" cost for the borrower that many don't anticipate.
                             </p>
@@ -366,36 +366,36 @@ export default function TaxImplicationsPage() {
                         </section>
 
                         <section id="finance-act-2023" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Finance Act 2023: The Final Nail for Businesses
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 To put an end to the "cash exception" regarding loan waivers, the Finance Act 2023 amended Section 28(iv). It now explicitely includes benefits provided "in cash or in kind or partly in cash and partly in kind." This means if a business loan is settled, the waiver amount is now undeniably taxable in the hands of the business. There is no longer any legal ambiguity to hide behind.
                             </p>
                         </section>
 
                         <section id="personal-waiver-rules" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-emerald-600">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-emerald-600">
                                 Safe Harbor: Why Personal Loans are Usually Exempt
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you are a salaried employee or an individual who took a credit card for personal shopping or a 2 wheeler loan, you can breathe easier. Income tax is generally a tax on income, not on the reduction of a liability. Since your loan was not used to produce income (it was used to buy a car or pay for medicine), the reduction of that debt is not "income". It is considered a capital remission which is not taxable for an individual not engaged in business.
                             </p>
                         </section>
 
                         <section id="business-waiver-traps" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-red-600">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-red-600">
                                 The Small Business Trap: Mixing Personal & Professional
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 The biggest danger is for sole proprietors. If you used your "Personal" Credit Card to buy stock for your shop, and you claimed the interest and statement dues as a business expense, you have technically turned that card into a business liability. If you settle that card, the IT department can validly argue that Section 41(1) applies. Never mix personal and business credit if you anticipate financial trouble.
                             </p>
                         </section>
 
                         <section id="documentation" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Crucial Record Keeping for Tax Audits
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 Settlement often triggers a high value transaction alert. If the IT department sends you a notice (Scrutiny Notice under Section 143(2)), you must have these documents ready to prove why the amount is not taxable:
                             </p>
@@ -418,7 +418,7 @@ export default function TaxImplicationsPage() {
                         </section>
 
                         <section id="expert-tips" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Strategy: Reducing Your Tax Exposure
                             </h3>
                             <p className="text-lg leading-relaxed mb-6">
@@ -427,7 +427,7 @@ export default function TaxImplicationsPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Settlement Taxation FAQs</h3>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Settlement Taxation FAQs</h2>
                             <div className="space-y-4 not-prose">
                                 {
                                     [
@@ -487,7 +487,7 @@ export default function TaxImplicationsPage() {
                             </div>
                         </section>
 
-                        <h3 id="reviews" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter text-pretty">Strategic Impact Cases</h3>
+                        <h2 id="reviews" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter text-pretty">Strategic Impact Cases</h2>
                         <div className="grid md:grid-cols-2 gap-6 not-prose mb-16 font-sans">
                             {[
                                 {
@@ -522,7 +522,7 @@ export default function TaxImplicationsPage() {
                                 <div key={i} className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h4 className="font-bold text-[#2E2E2E] text-base">{review.name}</h4><p className="text-[10px] text-gray-400 font-sans tracking-wide">{review.loc}</p></div>
+                                        <div><h3 className="font-bold text-[#2E2E2E] text-base">{review.name}</h3><p className="text-[10px] text-gray-400 font-sans tracking-wide">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-[10px] flex gap-0.5">
                                             {[...Array(5)].map((_, i) => <FontAwesomeIcon key={i} icon={faStar} className="w-2.5 h-2.5" />)}
                                         </div>
@@ -550,7 +550,7 @@ export default function TaxImplicationsPage() {
                         <section className="bg-[#1F5EFF] rounded-[15px] p-8 md:p-16 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32 blur-3xl"></div>
                             <div className="relative z-10">
-                                <h3 className="text-3xl md:text-6xl font-black mb-8 uppercase tracking-tighter text-[#DEDEDE]">Don't Get Tax-Shocked</h3>
+                                <h2 className="text-3xl md:text-6xl font-black mb-8 uppercase tracking-tighter text-[#DEDEDE]">Don't Get Tax-Shocked</h2>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-12 leading-tight font-normal text-[#DEDEDE] text-pretty">
                                     Structure your settlement the right way. Get a legal and tax-focused review of your settlement offer before you pay.
                                 </p>

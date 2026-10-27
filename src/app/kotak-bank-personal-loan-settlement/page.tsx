@@ -568,9 +568,9 @@ export default function KotakBankPersonalLoanSettlementPage() {
 
             {/* Section 2: Pre-Litigation Summons & Phoenix ARC Transfers */}
             <section id="kotak-pre-litigation-notices-phoenix-arc" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Kotak Pre-Litigation & Phoenix ARC Assignments
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A hallmark of Kotak Mahindra Bank&apos;s recovery apparatus is its rapid deployment of legal notices during the SMA-2 and early NPA stages. Borrowers frequently receive strongly worded legal notices issued by empanelled advocates representing Kotak. Distinguishing between genuine statutory cases and tactical pre-litigation maneuvers is essential to protect one&apos;s legal rights.
               </p>
@@ -624,9 +624,9 @@ export default function KotakBankPersonalLoanSettlementPage() {
 
             {/* Section 3: Banker's Lien & Harassment Shield */}
             <section id="bankers-lien-section-171-harassment-defense" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Section 171 Banker's Lien, Freezes & Harassment Defense
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A common vulnerability faced by distressed borrowers is the unexpected seizure of funds maintained in savings accounts. Under Section 171 of the Indian Contract Act, 1872, banking institutions possess the statutory <em>Right of General Lien and Set-Off</em>. This rule allows Kotak Mahindra Bank to debit money unilaterally from your internal accounts. The bank can access any savings account, fixed deposit, recurring deposit, or digital Kotak 811 wallet under your Customer Relationship Number (CRN) or PAN. These funds are then adjusted against personal loan arrears.
               </p>
@@ -639,9 +639,9 @@ export default function KotakBankPersonalLoanSettlementPage() {
                   Kotak can lawfully exercise set-off rights over deposits held within Kotak Mahindra Bank. However, <strong>Kotak has zero statutory authority to attach, freeze, or access funds deposited in other independent banks</strong> (such as SBI, HDFC Bank, or ICICI Bank). The bank cannot do so without an explicit attachment order from a competent Civil Court. Borrowers in default should immediately redirect their salary credits and liquidity to an independent institution to avoid operational paralysis.
                 </p>
               </div>
-              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Statutory Defense Against Third-Party Debt Recovery Harassment
-              </h4>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When personal loans become delinquent beyond 60 days, Kotak Bank routinely outsources field recovery to empanelled Debt Recovery Agencies (DRAs). However, all recovery activities are strictly governed by the <strong>RBI Master Directions on Recovery Agents and Conduct (2022)</strong> and the Fair Practices Code. Borrowers possess robust legal protections against overreach:
               </p>
@@ -670,9 +670,9 @@ export default function KotakBankPersonalLoanSettlementPage() {
 
             {/* Section 4: NPA Accounting & Net Present Value (NPV) Equation */}
             <section id="kotak-npa-accounting-npv-formula" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Kotak Bank Accounting, NPA Provisioning & NPV Equation
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To negotiate a high-haircut compromise settlement with Kotak Mahindra Bank, one must comprehend the internal financial mechanics that dictate a bank&apos;s willingness to write off bad debts. Indian commercial banks operate under strict provisioning requirements set by the Reserve Bank of India. When a retail personal loan enters default, Kotak cannot simply hold the asset passively; it must allocate operating profits to create capital provisions against potential losses.
               </p>
@@ -739,9 +739,9 @@ export default function KotakBankPersonalLoanSettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="kotak-settlement-visual-roadmap" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Kotak Mahindra Bank Personal Loan Settlement Visual Roadmap
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The infographic below outlines the 5-step institutional progression from initial default and pre-litigation notices to direct legal escalation, haircut talks, and receipt of the official ₹0 No Dues Certificate.
               </p>
@@ -776,9 +776,9 @@ export default function KotakBankPersonalLoanSettlementPage() {
 
             {/* Section 6: Direct talks Strategy with Kotak Legal Nodal Officers */}
             <section id="direct-talks-strategy-nodal-officers" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. talks Strategy with Kotak Legal Nodal Officers
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The most critical strategic mistake defaulting borrowers make is attempting to negotiate settlement terms with third-party collection agents or tele-callers. Outsourced collection agencies operate on recovery commission structures; they lack the institutional delegated authority to write off principal balances or issue legally binding settlement letters. Any verbal discount promised by a collection caller is legally worthless and often results in partial payments being swallowed by accrued penal interest.
               </p>
@@ -788,19 +788,19 @@ export default function KotakBankPersonalLoanSettlementPage() {
               
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Assembling the Hardship Dossier</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Assembling the Hardship Dossier</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     A formal OTS request must be substantiated with unassailable documentary evidence. This includes medical discharge summaries, termination letters, salary reduction certificates, GST cancellation filings, or bank statements showing total financial distress. The objective is to establish bona fide insolvency rather than wilful default.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Bypassing Agency Intermediaries &amp; Engaging SAMG</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Bypassing Agency Intermediaries &amp; Engaging SAMG</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Our legal advocates bypass front-line recovery vendors and transmit the settlement proposal directly to Kotak&apos;s Zonal Stressed Asset Management Group (SAMG), the Central Settlement Committee, and the Principal Nodal Officer. This eliminates unauthorized intermediary markups.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Tactical Anchoring &amp; National Lok Adalat Leverage</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Tactical Anchoring &amp; National Lok Adalat Leverage</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Initial bank counter-offers typically demand 70% to 80% of the ledger balance. Through iterative legal representation and anchoring against the bank&apos;s provisioning status, the payable sum is negotiated down to 35% to 55% of the principal debt. Aligning the final compromise with quarterly National Lok Adalat sessions provides additional judicial stamp and finality.
                   </p>
@@ -813,9 +813,9 @@ export default function KotakBankPersonalLoanSettlementPage() {
 
             {/* Section 7: Sanction Letter Forensics: Verifying Authenticity */}
             <section id="sanction-letter-forensics-authenticity" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Sanction Letter Forensics: Verifying Authenticity
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Before remitting a single rupee toward an agreed settlement amount, the borrower must conduct a meticulous forensic audit of the One-Time Settlement (OTS) Sanction Letter. Unscrupulous recovery agents frequently forge letters or issue unofficial &quot;payment concessions&quot; to meet monthly collection quotas, leaving the borrower with active loan liabilities.
               </p>
@@ -874,9 +874,9 @@ export default function KotakBankPersonalLoanSettlementPage() {
 
             {/* Section 8: Loan Remittance, RBI ₹0 NDC & Credit Recovery */}
             <section id="remittance-rbi-ndc-mandate-cibil-recovery" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Loan Remittance, RBI ₹0 NDC Mandate & CIBIL Update
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the agreed settlement sum is remitted, debt extinguishment begins. Under <strong>RBI Circular RBI/2023-24/60</strong> (Responsible Lending Conduct), lenders must follow strict guidelines. All regulated entities including Kotak Mahindra Bank are statutorily required to issue an official <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong>. They must also update credit information bureaus within <strong>30 calendar days</strong> of receiving the full settlement amount.
               </p>
@@ -890,9 +890,9 @@ export default function KotakBankPersonalLoanSettlementPage() {
                 </p>
               </div>
               
-              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 CIBIL Score Trajectory &amp; Systematic Financial recovery
-              </h4>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must hold realistic expectations regarding credit bureau reporting. Following the execution of a compromise settlement:
               </p>
@@ -918,7 +918,7 @@ export default function KotakBankPersonalLoanSettlementPage() {
 
             {/* Section 9: Comprehensive Resolution Matrix */}
             <section id="kotak-settlement-comparative-matrix" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Resolution Matrix: OTS vs Restructure vs Litigation vs ARC
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -973,9 +973,9 @@ export default function KotakBankPersonalLoanSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Kotak Debt Advisory Framework
-                </h3>
+                </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating an institutional dispute against Kotak Mahindra Bank requires high-caliber legal representation and seasoned financial talks expertise. SettleLoans represents distressed borrowers across India. We offer an end-to-end legal shield against unlawful recovery harassment. Our advocates draft formal replies to Section 25 PSSA and Section 138 notices. also, we negotiate directly with Kotak&apos;s Zonal Stressed Asset Management verticals. This secures the deepest possible settlement haircuts along with official, bank-stamped No Dues Certificates.
                 </p>
@@ -989,9 +989,9 @@ export default function KotakBankPersonalLoanSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Kotak Bank Loan Settlement
-                </h3>
+                </h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers to common questions regarding Kotak Mahindra Bank personal loan settlement, recovery rules, and credit recovery.
@@ -1021,9 +1021,9 @@ export default function KotakBankPersonalLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1067,9 +1067,9 @@ export default function KotakBankPersonalLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/axis-bank-personal-loan-settlement"

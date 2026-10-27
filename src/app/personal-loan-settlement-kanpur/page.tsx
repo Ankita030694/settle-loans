@@ -552,7 +552,7 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; High Court Norms</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging in Kanpur</h3>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging in Kanpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under RBI Prudential Norms (IRACP), overdue accounts move through Special Mention Account stages (SMA-0 to SMA-2) in the first 90 days. After 90 days of missed payments, the bank marks the account as a Non-Performing Asset (NPA). The bank must then set aside capital reserves between 15% and 100% for the unpaid loan.
                 </p>
@@ -616,7 +616,7 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Kanpur Nagar Court &amp; Section 138/25 Defense</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Kanpur Nagar Courts</h3>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Kanpur Nagar Courts</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   When a cheque or NACH bounce happens, banks send legal notices. They issue notices under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> or <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong>. They threaten cases in the Chief Judicial Magistrate (CJM) Courts at Civil Lines.
                 </p>
@@ -634,7 +634,7 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Account Shielding</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Right of General Lien in Kanpur</h3>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Right of General Lien in Kanpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under Section 171 of the Indian Contract Act, 1872, a bank has a lien over accounts in its own branches. If you miss loan dues, that bank can take funds from your linked savings or current accounts.
                 </p>
@@ -649,9 +649,9 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Resolution Roadmap</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Personal Loan Settlement Roadmap in Kanpur &amp; Uttar Pradesh
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The chart below shows how debt settlement works step-by-step in Kanpur. It covers notice defense in Kanpur Nagar courts, RBI anti-harassment shield, Zonal SARB talks. And your final ₹0 No Dues Certificate.
                 </p>
@@ -678,7 +678,7 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Kanpur</h3>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Kanpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Bank Settlement Committees on Mall Road and Civil Lines use a Net Present Value (NPV) formula to assess settlement offers. Fighting cases in civil courts or DRT costs banks high legal fees, staff time. And locked capital.
                 </p>
@@ -708,7 +708,7 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. RBI Anti-Harassment &amp; Police Limits</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices &amp; Police Interference in Kanpur</h3>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices &amp; Police Interference in Kanpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   The <strong>RBI Master Directions on Recovery Agents (2022)</strong> strictly forbid collection calls before 8:00 AM and after 7:00 PM. Agents cannot use abusive words or visit your workplace, factory, or family members. Agents must carry bank ID and respect your privacy.
                 </p>
@@ -723,7 +723,7 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step Zonal SARB Settlement Protocol</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Settlement Protocol in Kanpur</h3>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Settlement Protocol in Kanpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Settling your bank debt in Kanpur follows a clear, advocate-led five-step legal process:
                 </p>
@@ -734,7 +734,7 @@ export default function Page() {
                       1
                     </div>
                     <div>
-                      <h4 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation</h4>
+                      <h3 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation</h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We check all your loans and gather hardship proof. This includes lost orders, GST returns, business accounts, or medical bills that show why you cannot pay regular EMIs.
                       </p>
@@ -746,7 +746,7 @@ export default function Page() {
                       2
                     </div>
                     <div>
-                      <h4 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice &amp; Anti-Harassment Shielding</h4>
+                      <h3 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice &amp; Anti-Harassment Shielding</h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We send formal legal notices under RBI rules to the bank&apos;s Principal Nodal Officer. This protects your Panki factory, Naveen Market shop. And home from agent visits.
                       </p>
@@ -758,7 +758,7 @@ export default function Page() {
                       3
                     </div>
                     <div>
-                      <h4 className="text-base font-bold text-slate-900 mb-1">Statutory Notice Defense in Kanpur Nagar Courts</h4>
+                      <h3 className="text-base font-bold text-slate-900 mb-1">Statutory Notice Defense in Kanpur Nagar Courts</h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Our advocates draft clear legal replies to Section 138 NI Act and Section 25 PSSA notices within 15 days. This protects you in Civil Lines magistrate courts.
                       </p>
@@ -770,7 +770,7 @@ export default function Page() {
                       4
                     </div>
                     <div>
-                      <h4 className="text-base font-bold text-slate-900 mb-1">Direct Negotiations with Mall Road Zonal SARB Desks</h4>
+                      <h3 className="text-base font-bold text-slate-900 mb-1">Direct Negotiations with Mall Road Zonal SARB Desks</h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We skip third-party agents and speak directly with bank Zonal Stressed Assets Recovery Branches on Mall Road. We negotiate 40% to 70% debt waivers.
                       </p>
@@ -782,7 +782,7 @@ export default function Page() {
                       5
                     </div>
                     <div>
-                      <h4 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; Mandatory NDC Delivery</h4>
+                      <h3 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; Mandatory NDC Delivery</h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We check the official bank sanction letter before you pay via RTGS. After payment, we ensure the bank delivers your zero-balance No Dues Certificate on time.
                       </p>
@@ -797,7 +797,7 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Kanpur</h3>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Kanpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Never pay money based on phone calls or WhatsApp messages. A valid <strong>OTS Sanction Letter</strong> must come on official bank letterhead. It must show bank seals, officer codes, the exact agreed amount, a full loan closure clause. And a promise to issue your NDC.
                 </p>
@@ -812,9 +812,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. Comparative Resolution Matrix</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Comparing Debt Resolution Pathways for Borrowers in Kanpur
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Compare the main debt resolution paths in Kanpur to find the best fit for your budget, debt size. And goals:
                 </p>
@@ -870,9 +870,9 @@ export default function Page() {
                   <Landmark className="w-4 h-4" />
                   <span>11. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Premier Loan Settlement &amp; Legal Defense Services in Kanpur
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Handling debt stress in Kanpur requires strong legal help. You need to stop agent visits, answer court notices. And negotiate directly with bank credit committees. SettleLoans gives you full legal support so you can resolve your debts and regain peace of mind.
                 </p>
@@ -886,9 +886,9 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Kanpur
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Kanpur can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -925,9 +925,9 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>12. Frequently Asked Questions</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                   Frequently Asked Questions on Debt Settlement in Kanpur
-                </h3>
+                </h2>
 
                 <div className="space-y-4">
                   {(jsonLdGraph["@graph"][4] as any).mainEntity.map((faq: any, index: number) => (
@@ -954,10 +954,10 @@ export default function Page() {
 
               {/* 5 Official Regulatory Links */}
               <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-                <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <a
                     href="https://www.rbi.org.in"
@@ -1001,9 +1001,9 @@ export default function Page() {
 
               {/* 10 Related Guide Badges */}
               <section className="border-t border-slate-200 pt-8 mb-8">
-                <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+                <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h4>
+                </h3>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/sbi-personal-loan-settlement"

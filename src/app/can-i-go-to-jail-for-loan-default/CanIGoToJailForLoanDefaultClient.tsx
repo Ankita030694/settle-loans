@@ -468,9 +468,9 @@ Yours faithfully,
 
             {/* Section 2 */}
             <section id="civil-vs-criminal" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 2. Civil Debt vs Criminal Fraud: Legal Demarcation
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 To eliminate borrower anxiety, it is essential to analyze how Indian criminal law (the <em>Indian Penal Code, 1860</em> and the <em>Bharatiya Nyaya Sanhita, 2023</em>) defines financial crimes versus civil contract breaches. Recovery agents routinely drop terms like <em>&quot;Section 420 IPC&quot;</em> or <em>&quot;FIR for cheating&quot;</em> to intimidate borrowers into borrowing from relatives or illegal loan sharks to pay the bank.
               </p>
@@ -520,9 +520,9 @@ Yours faithfully,
                 </table>
               </div>
 
-              <h4 className="text-xl font-bold text-slate-900 mb-4 mt-8">
+              <h3 className="text-xl font-bold text-slate-900 mb-4 mt-8">
                 Why Section 420 IPC / Section 318 BNS Cannot Be Applied to Honest Defaulters
-              </h4>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 For a bank to successfully register an FIR or maintain a criminal complaint under <strong>Section 420 IPC (Cheating)</strong> or <strong>Section 318 of the Bharatiya Nyaya Sanhita (BNS)</strong>, they must establish beyond reasonable doubt that the borrower had a <em>dishonest intention to deceive from day one</em>.
               </p>
@@ -535,9 +535,9 @@ Yours faithfully,
 
             {/* Section 3 */}
             <section id="timeline-of-default" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. What Happens When You Stop Paying Your Personal Loan
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-6 text-slate-700">
                 When you stop paying your personal loan EMIs, the bank follows a standardized, regulatory-governed escalation pathway established by the Reserve Bank of India (RBI). Knowing this timeline strips away the fear of the unknown:
               </p>
@@ -550,9 +550,9 @@ Yours faithfully,
                       <span className="w-8 h-8 rounded-xl bg-blue-100 text-[#1F5EFF] font-black text-sm flex items-center justify-center">
                         01
                       </span>
-                      <h4 className="text-lg font-bold text-slate-900">
+                      <h3 className="text-lg font-bold text-slate-900">
                         Days 1–30: SMA-0 (Special Mention Account 0) &amp; Initial Grace
-                      </h4>
+                      </h2>
                     </div>
                     <span className="text-xs font-semibold px-3 py-1 rounded-full bg-blue-50 text-blue-700 border border-blue-200">
                       Soft Collection
@@ -570,9 +570,9 @@ Yours faithfully,
                       <span className="w-8 h-8 rounded-xl bg-blue-100 text-[#1F5EFF] font-black text-sm flex items-center justify-center">
                         02
                       </span>
-                      <h5 className="text-lg font-bold text-slate-900">
+                      <h4 className="text-lg font-bold text-slate-900">
                         Days 31–60: SMA-1 &amp; Escalated Tele-Calling
-                      </h5>
+                      </h2>
                     </div>
                     <span className="text-xs font-semibold px-3 py-1 rounded-full bg-amber-50 text-amber-700 border border-amber-200">
                       Moderate Pressure
@@ -590,9 +590,9 @@ Yours faithfully,
                       <span className="w-8 h-8 rounded-xl bg-blue-100 text-[#1F5EFF] font-black text-sm flex items-center justify-center">
                         03
                       </span>
-                      <h5 className="text-lg font-bold text-slate-900">
+                      <h4 className="text-lg font-bold text-slate-900">
                         Days 61–90: SMA-2 &amp; Third-Party Agency Assignment
-                      </h5>
+                      </h2>
                     </div>
                     <span className="text-xs font-semibold px-3 py-1 rounded-full bg-orange-50 text-orange-700 border border-orange-200">
                       Hard Collection
@@ -610,9 +610,9 @@ Yours faithfully,
                       <span className="w-8 h-8 rounded-xl bg-blue-100 text-[#1F5EFF] font-black text-sm flex items-center justify-center">
                         04
                       </span>
-                      <h5 className="text-lg font-bold text-slate-900">
+                      <h4 className="text-lg font-bold text-slate-900">
                         Day 90+: Formal NPA Classification (Non-Performing Asset)
-                      </h5>
+                      </h2>
                     </div>
                     <span className="text-xs font-semibold px-3 py-1 rounded-full bg-rose-50 text-rose-700 border border-rose-200">
                       Statutory Default
@@ -630,9 +630,9 @@ Yours faithfully,
                       <span className="w-8 h-8 rounded-xl bg-blue-100 text-[#1F5EFF] font-black text-sm flex items-center justify-center">
                         05
                       </span>
-                      <h5 className="text-lg font-bold text-slate-900">
+                      <h4 className="text-lg font-bold text-slate-900">
                         Days 90–180+: Formal Legal Notices &amp; Settlement Window
-                      </h5>
+                      </h2>
                     </div>
                     <span className="text-xs font-semibold px-3 py-1 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200">
                       Resolution Stage
@@ -647,7 +647,7 @@ Yours faithfully,
 
             {/* Section 4 */}
             <section id="quasi-criminal-traps" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Quasi-Criminal Traps: Section 138 & Section 25 PSSA
               </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
@@ -710,9 +710,9 @@ Yours faithfully,
                 </div>
               </div>
 
-              <h4 className="text-xl font-bold text-slate-900 mb-4">
+              <h3 className="text-xl font-bold text-slate-900 mb-4">
                 The Supreme Court Shield on Security Cheques (Dashrathbhai Patel Precedent)
-              </h4>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Banks often collect blank, undated security cheques during initial loan sanction. When you default after paying 12 or 24 EMIs, the bank unilaterally fills the original total loan amount plus inflated penalties onto that security cheque and presents it for clearing.
               </p>
@@ -732,9 +732,9 @@ Yours faithfully,
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Legal Defense &amp; Action Blueprint
                     </span>
-                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       Can I Go to Jail for Loan Default in India? Legal Reality &amp; Process Overview
-                    </h4>
+                    </h3>
                   </div>
                 </div>
                 <a
@@ -776,7 +776,7 @@ Yours faithfully,
 
             {/* Section 5 */}
             <section id="recovery-agent-myths" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 5. Dismantling Agent Coercion: Arrest & Warrant Myths
               </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
@@ -789,9 +789,9 @@ Yours faithfully,
                   <div className="flex items-start gap-3">
                     <XCircle className="w-5 h-5 text-rose-600 flex-shrink-0 mt-0.5" />
                     <div>
-                      <h4 className="font-bold text-slate-900 text-sm md:text-base">
+                      <h3 className="font-bold text-slate-900 text-sm md:text-base">
                         Lie #1: &quot;Police officers are arriving with an arrest warrant today.&quot;
-                      </h4>
+                      </h3>
                       <p className="text-xs md:text-sm text-slate-600 mt-1 leading-relaxed">
                         <strong>The Legal Fact:</strong> Police have zero jurisdiction over civil loans. Arrest warrants can only be issued by a Judicial Magistrate after months of ignored judicial summonses. Recovery agents have zero authority to summon the police.
                       </p>
@@ -803,9 +803,9 @@ Yours faithfully,
                   <div className="flex items-start gap-3">
                     <XCircle className="w-5 h-5 text-rose-600 flex-shrink-0 mt-0.5" />
                     <div>
-                      <h5 className="font-bold text-slate-900 text-sm md:text-base">
+                      <h4 className="font-bold text-slate-900 text-sm md:text-base">
                         Lie #2: &quot;We will seize your furniture, electronics, and ancestral house tomorrow.&quot;
-                      </h5>
+                      </h3>
                       <p className="text-xs md:text-sm text-slate-600 mt-1 leading-relaxed">
                         <strong>The Legal Fact:</strong> Personal loans are completely unsecured. The SARFAESI Act does NOT apply. A lender cannot confiscate a single household item without a formal civil court decree and execution warrant, which takes years.
                       </p>
@@ -817,9 +817,9 @@ Yours faithfully,
                   <div className="flex items-start gap-3">
                     <XCircle className="w-5 h-5 text-rose-600 flex-shrink-0 mt-0.5" />
                     <div>
-                      <h5 className="font-bold text-slate-900 text-sm md:text-base">
+                      <h4 className="font-bold text-slate-900 text-sm md:text-base">
                         Lie #3: &quot;We will call your HR and get you terminated from your job.&quot;
-                      </h5>
+                      </h4>
                       <p className="text-xs md:text-sm text-slate-600 mt-1 leading-relaxed">
                         <strong>The Legal Fact:</strong> Contacting third parties, employers, or relatives is explicitly prohibited by RBI Master Directions and constitutes actionable criminal defamation (Section 499/500 IPC / Section 356 BNS) and workplace intrusion.
                       </p>
@@ -828,7 +828,7 @@ Yours faithfully,
                 </div>
               </div>
 
-              <h4 className="text-xl font-bold text-slate-900 mb-4">
+              <h3 className="text-xl font-bold text-slate-900 mb-4">
                 RBI Fair Practices Code &amp; Supreme Court Ruling in ICICI Bank v. Prakash Kaur
               </h4>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
@@ -859,7 +859,7 @@ Yours faithfully,
 
             {/* Section 6 */}
             <section id="defense-toolkit" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Borrower Defense Toolkit & Cease-and-Desist Template
               </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
@@ -896,7 +896,7 @@ Yours faithfully,
               </div>
 
               <div className="bg-blue-50 border border-blue-200 rounded-2xl p-5 my-6 text-xs sm:text-sm text-slate-700">
-                <h4 className="font-bold text-slate-900 mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 mb-2 flex items-center gap-2">
                   <Sparkles className="w-4 h-4 text-[#1F5EFF]" />
                   <span>How to Dispatch This Cease &amp; Desist Notice:</span>
                 </h4>
@@ -911,7 +911,7 @@ Yours faithfully,
 
             {/* Section 7 */}
             <section id="legitimate-bank-remedies" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Legitimate Civil Remedies Available to Banks for Unsecured Loans
               </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
@@ -923,7 +923,7 @@ Yours faithfully,
                   <div className="w-8 h-8 rounded-xl bg-blue-50 text-[#1F5EFF] flex items-center justify-center font-bold mb-3">
                     <Gavel className="w-4 h-4" />
                   </div>
-                  <h4 className="font-bold text-slate-900 text-base mb-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-2">
                     1. Civil Summary Suit (Order 37 CPC)
                   </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
@@ -935,9 +935,9 @@ Yours faithfully,
                   <div className="w-8 h-8 rounded-xl bg-blue-50 text-[#1F5EFF] flex items-center justify-center font-bold mb-3">
                     <Landmark className="w-4 h-4" />
                   </div>
-                  <h5 className="font-bold text-slate-900 text-base mb-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2">
                     2. National Lok Adalat (NALSA)
-                  </h5>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Conducted quarterly across India under the Legal Services Authorities Act, 1987. Lok Adalat is a voluntary, non-adversarial dispute resolution platform where bank officials and borrowers agree to mutually acceptable OTS compromises.
                   </p>
@@ -947,9 +947,9 @@ Yours faithfully,
                   <div className="w-8 h-8 rounded-xl bg-blue-50 text-[#1F5EFF] flex items-center justify-center font-bold mb-3">
                     <Scale className="w-4 h-4" />
                   </div>
-                  <h5 className="font-bold text-slate-900 text-base mb-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2">
                     3. Commercial Arbitration
-                  </h5>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Some loan contracts include an arbitration clause. However, under Supreme Court precedents (<em>Perkins Eastman, 2019</em>), banks cannot unilaterally appoint a sole biased arbitrator without borrower consent or court appointment under Section 11 of the Arbitration Act.
                   </p>
@@ -959,7 +959,7 @@ Yours faithfully,
 
             {/* Section 8 */}
             <section id="debt-settlement-exit" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. One-Time Settlement: Legally Binding Clean Debt Exit
               </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
@@ -972,7 +972,7 @@ Yours faithfully,
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>The SettleLoans Professional Representation Protocol</span>
                 </div>
-                <h4 className="text-xl md:text-2xl font-black mb-4 text-white">
+                <h3 className="text-xl md:text-2xl font-black mb-4 text-white">
                   How SettleLoans Protects Borrowers &amp; Negotiates Clean Exits
                 </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
@@ -1034,7 +1034,7 @@ Yours faithfully,
                   <HelpCircle className="w-3.5 h-3.5" />
                   <span>Borrower Rights &amp; Legal Clarity</span>
                 </div>
-                <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-3">
+                <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-3">
                   Frequently Asked Questions
                 </h3>
                 <p className="text-sm text-slate-600">
@@ -1057,7 +1057,7 @@ Yours faithfully,
 
             {/* Regulatory Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 shadow-sm">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Authoritative Legal &amp; Regulatory Sources</span>
               </h4>
@@ -1122,9 +1122,9 @@ Yours faithfully,
 
             {/* Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Legal Protection Guides
-              </h5>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/section-138-cheque-bounce-loan-default"

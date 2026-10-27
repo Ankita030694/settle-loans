@@ -642,10 +642,10 @@ PAN: [Your PAN]`;
 
               {/* The Inner Banking Credit Committee Review Process */}
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-6 space-y-4">
-                <h4 className="text-lg font-bold text-slate-900 flex items-center gap-2">
+                <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2">
                   <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                   How Banks Evaluate Your Settlement Proposal Letter:
-                </h4>
+                </h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs md:text-sm">
                   <div className="bg-white p-4 rounded-xl border border-slate-200 shadow-sm">
                     <p className="font-bold text-[#1F5EFF] mb-1">1. NPA Aging &amp; Provisioning</p>
@@ -675,9 +675,9 @@ PAN: [Your PAN]`;
 
             {/* Section 2 */}
             <section id="anatomical-elements-checklist" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 2. The 9 Essential Pillars of an Ironclad Settlement Letter
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 To withstand legal scrutiny and speed up sanction by the Stressed Assets Recovery Committee, your personal loan settlement letter must contain these nine mandatory anatomical components:
               </p>
@@ -688,9 +688,9 @@ PAN: [Your PAN]`;
                     1
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base mb-1">
+                    <h3 className="font-bold text-slate-900 text-base mb-1">
                       Precise Identification &amp; Loan Coordinates
-                    </h4>
+                    </h2>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Your full legal name (matching PAN card), registered residential address, permanent mobile number, official email, loan account number, loan sanction date, and the specific disbursing branch name.
                     </p>
@@ -702,9 +702,9 @@ PAN: [Your PAN]`;
                     2
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-base mb-1">
+                    <h4 className="font-bold text-slate-900 text-base mb-1">
                       Track Record of Prior Prompt Repayments
-                    </h5>
+                    </h2>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Highlight the exact number of consecutive monthly EMIs successfully paid before the crisis, along with the total cumulative amount remitted. This establishes your bona fide character and negates any allegation of fraudulent intent.
                     </p>
@@ -716,9 +716,9 @@ PAN: [Your PAN]`;
                     3
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-base mb-1">
+                    <h4 className="font-bold text-slate-900 text-base mb-1">
                       Factual, Substantiated Hardship Statement
-                    </h5>
+                    </h2>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       A clear, objective narrative detailing the specific unforeseen catastrophe (e.g., hospitalization, diagnosis of chronic disease, company layoffs, bankruptcy of key buyers) that disrupted your debt servicing capability.
                     </p>
@@ -730,9 +730,9 @@ PAN: [Your PAN]`;
                     4
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-base mb-1">
+                    <h4 className="font-bold text-slate-900 text-base mb-1">
                       Statement of Current Asset &amp; Income Insolvency
-                    </h5>
+                    </h2>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       show that your current monthly disposable income is insufficient to cover contractual EMIs after meeting bare family sustenance, and that you possess no unencumbered liquid assets to pledge.
                     </p>
@@ -744,9 +744,9 @@ PAN: [Your PAN]`;
                     5
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-base mb-1">
+                    <h4 className="font-bold text-slate-900 text-base mb-1">
                       Concrete One-Time Settlement (OTS) Offer Amount
-                    </h5>
+                    </h3>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       State the specific lump-sum settlement sum offered in both figures (e.g., INR 3,50,000) and words (Rupees Three Lakhs Fifty Thousand Only), indicating the source of funds (e.g., borrowed from family/relatives).
                     </p>
@@ -758,9 +758,9 @@ PAN: [Your PAN]`;
                     6
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-base mb-1">
+                    <h4 className="font-bold text-slate-900 text-base mb-1">
                       Defined Execution &amp; Payment Horizon
-                    </h5>
+                    </h3>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Specify the payment window (typically 15 to 30 calendar days from receipt of written sanction) or propose a maximum of 2–3 structured monthly tranches if liquidity is constrained.
                     </p>
@@ -772,9 +772,9 @@ PAN: [Your PAN]`;
                     7
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-base mb-1">
+                    <h4 className="font-bold text-slate-900 text-base mb-1">
                       100% Waiver of Accrued Penalties &amp; Interest
-                    </h5>
+                    </h4>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Explicitly request complete cancellation and write-off of compounding penal interest, overdue charges, cheque bounce levies, and legal notice expenses accumulated on the ledger.
                     </p>
@@ -786,9 +786,9 @@ PAN: [Your PAN]`;
                     8
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-base mb-1">
+                    <h4 className="font-bold text-slate-900 text-base mb-1">
                       Mandatory Pre-Conditions: Official Sanction Letter &amp; NDC
-                    </h5>
+                    </h4>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       State unequivocally that remittance will only occur upon receipt of a formal, stamped OTS Sanction Letter on official bank stationery, followed by issuance of a ₹0 No Dues Certificate (NDC) within 30 days.
                     </p>
@@ -800,9 +800,9 @@ PAN: [Your PAN]`;
                     9
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-base mb-1">
+                    <h4 className="font-bold text-slate-900 text-base mb-1">
                       Exhaustive List of Verified Enclosures
-                    </h5>
+                    </h4>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       An enumerated appendix of attached identity cards, 6-month bank statements, medical records, or termination letters showing complete transparency.
                     </p>
@@ -815,9 +815,9 @@ PAN: [Your PAN]`;
 
             {/* Section 3 */}
             <section id="comparison-letter-types" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. Comparison Table: Different Types of Formal Debt Relief Letters
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Depending on your financial horizon and repayment capability, a One-Time Settlement letter may not be the only correspondence format. The table below compares the 4 major formal representation letters submitted to banks in India:
               </p>
@@ -869,9 +869,9 @@ PAN: [Your PAN]`;
 
             {/* Section 4: Production-Ready Templates */}
             <section id="production-ready-templates" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Production-Ready Settlement Letter Templates
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-6 text-slate-700">
                 Below are four field-tested settlement request letter templates. They are designed for Indian public sector banks, private commercial banks (HDFC, ICICI, Axis, Kotak, IndusInd, IDFC FIRST), and retail NBFCs (Bajaj Finance, Tata Capital, Poonawalla Fincorp).
               </p>
@@ -920,7 +920,7 @@ PAN: [Your PAN]`;
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Executive Process Roadmap
                     </span>
-                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       Personal Loan Settlement Letter Drafting &amp; Approval Process in India
                     </h4>
                   </div>
@@ -964,7 +964,7 @@ PAN: [Your PAN]`;
 
             {/* Section 5: Crucial Supporting Documents */}
             <section id="hardship-document-checklist" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 5. Crucial Supporting Documents to Attach with Your Settlement Letter
               </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
@@ -1015,7 +1015,7 @@ PAN: [Your PAN]`;
 
             {/* Section 6: Submission Protocol */}
             <section id="submission-delivery-protocol" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. How to Submit Settlement Letters with Proof of Delivery
               </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
@@ -1028,7 +1028,7 @@ PAN: [Your PAN]`;
                     <div className="w-10 h-10 rounded-xl bg-blue-100 text-[#1F5EFF] flex items-center justify-center mb-3 font-bold">
                       <Send className="w-5 h-5" />
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base mb-2">Channel 1: Speed Post / RPAD</h4>
+                    <h3 className="font-bold text-slate-900 text-base mb-2">Channel 1: Speed Post / RPAD</h3>
                     <p className="text-xs text-slate-600 leading-relaxed mb-4">
                       Send via Registered Post with Acknowledgment Due (RPAD) or India Post Speed Post. Preserve the consignment tracking receipt and delivery confirmation slip indefinitely.
                     </p>
@@ -1041,7 +1041,7 @@ PAN: [Your PAN]`;
                     <div className="w-10 h-10 rounded-xl bg-emerald-100 text-emerald-700 flex items-center justify-center mb-3 font-bold">
                       <Building2 className="w-5 h-5" />
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base mb-2">Channel 2: Physical Branch Inward</h4>
+                    <h3 className="font-bold text-slate-900 text-base mb-2">Channel 2: Physical Branch Inward</h3>
                     <p className="text-xs text-slate-600 leading-relaxed mb-4">
                       Carry two identical printed copies to your home branch. Submit one copy to the Branch Operations Desk and get an official &quot;Received &amp; Stamped&quot; acknowledgment with date and signature on the second copy.
                     </p>
@@ -1054,7 +1054,7 @@ PAN: [Your PAN]`;
                     <div className="w-10 h-10 rounded-xl bg-purple-100 text-purple-700 flex items-center justify-center mb-3 font-bold">
                       <UserCheck className="w-5 h-5" />
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base mb-2">Channel 3: Official Email to Nodal Officer</h4>
+                    <h3 className="font-bold text-slate-900 text-base mb-2">Channel 3: Official Email to Nodal Officer</h3>
                     <p className="text-xs text-slate-600 leading-relaxed mb-4">
                       Email the signed PDF letter with enclosures to the Branch Manager, copying the Bank&apos;s Principal Nodal Officer and Stressed Assets Recovery Branch (SARB) email IDs.
                     </p>
@@ -1066,7 +1066,7 @@ PAN: [Your PAN]`;
 
             {/* Section 7: Bank Evaluation & Red Flags */}
             <section id="bank-evaluation-timeline" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. What Happens After Submission: Timeline & talks
               </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
@@ -1107,7 +1107,7 @@ PAN: [Your PAN]`;
 
               {/* Red Flags to Avoid */}
               <div className="bg-rose-50 border-2 border-rose-200 rounded-2xl p-6 my-8">
-                <h4 className="text-lg font-bold text-rose-900 flex items-center gap-2 mb-3">
+                <h3 className="text-lg font-bold text-rose-900 flex items-center gap-2 mb-3">
                   <ShieldAlert className="w-5 h-5 text-rose-600" />
                   5 Critical Settlement Red Flags You Must Never Commit:
                 </h4>
@@ -1138,7 +1138,7 @@ PAN: [Your PAN]`;
 
             {/* Section 8: Post-Approval Sanction Audit & CIBIL */}
             <section id="post-approval-noc-audit" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Post-Settlement Protocol: Sanction Letter & NDC Audit
               </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
@@ -1147,7 +1147,7 @@ PAN: [Your PAN]`;
 
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <FileSpreadsheet className="w-5 h-5 text-[#1F5EFF]" />
                     1. Audit the OTS Sanction Letter Before Transferring Money
                   </h4>
@@ -1157,20 +1157,20 @@ PAN: [Your PAN]`;
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Award className="w-5 h-5 text-emerald-600" />
                     2. Obtain the Comprehensive Final No Dues Certificate (NDC)
-                  </h5>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Within 30 days of remitting the settlement payment, demand your official No Dues Certificate (or NOC) confirming that the loan account has been resolved under OTS and no further liability survives. This document protects you against future debt collectors or ARC asset sales.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <TrendingUp className="w-5 h-5 text-purple-600" />
                     3. Audit Your TransUnion CIBIL &amp; Experian Reports After 45 Days
-                  </h5>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Under RBI rules, the lender must report the account to all 4 credit bureaus as <strong>&quot;Settled&quot; with a ₹0 outstanding balance</strong> within 30 to 45 days. If the bank erroneously reports the loan as active overdue, immediately raise an online CIBIL Dispute attaching your Sanction Letter and NDC.
                   </p>
@@ -1187,7 +1187,7 @@ PAN: [Your PAN]`;
                   <HelpCircle className="w-6 h-6" />
                 </div>
                 <div>
-                  <h3 className="text-2xl md:text-3xl font-black text-slate-900">
+                  <h2 className="text-2xl md:text-3xl font-black text-slate-900">
                     Frequently Asked Questions
                   </h3>
                   <p className="text-xs md:text-sm text-slate-500">
@@ -1211,7 +1211,7 @@ PAN: [Your PAN]`;
 
             {/* Regulatory Sources & References (Official Citations) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 shadow-sm">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Statutory References</span>
               </h4>
@@ -1280,7 +1280,7 @@ PAN: [Your PAN]`;
 
             {/* Related Guides & Resources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Personal Loan Debt Relief Guides
               </h4>

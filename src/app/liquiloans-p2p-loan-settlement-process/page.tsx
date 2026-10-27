@@ -565,7 +565,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Lifecycle &amp; RBI P2P Norms</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LiquiLoans Default Timeline</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LiquiLoans Default Timeline</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Unpaid LiquiLoans accounts follow RBI IRACP rules and the August 2024 P2P directions. In early stages (SMA-0 and SMA-1), calling systems send payment reminders.
               </p>
@@ -638,7 +638,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting NACH Bounces &amp; Mandate Revocation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping LiquiLoans NACH Bounce Penalty Loops</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping LiquiLoans NACH Bounce Penalty Loops</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Repeated auto-debits drain bank accounts and add heavy bounce fees. NDX P2P systems make repeated NACH debit attempts. Each failed debit adds bank fees of ₹295 to ₹590. It also adds late fees and penal interest.
               </p>
@@ -656,7 +656,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. Settlement Valuation &amp; NPV Haircut Matrix</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LiquiLoans Settlement Haircut Valuation</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LiquiLoans Settlement Haircut Valuation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Master Directions (DOR.STR.REC.20/21.04.048/2023-24), NDX P2P follows a clear settlement policy. EdTech and health loans have no collateral. The platform uses Net Present Value (NPV) models to judge offers.
               </p>
@@ -679,7 +679,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic LiquiLoans Settlement Haircut Slabs by Product and Aging</h4>
+              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic LiquiLoans Settlement Haircut Slabs by Product and Aging</h3>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -737,9 +737,9 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         LiquiLoans (NDX P2P) Loan Settlement &amp; Legal Resolution Blueprint
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -786,7 +786,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Anti-Harassment Protections &amp; Recovery Rules</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Harassment Under RBI NBFC-P2P Rules</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Harassment Under RBI NBFC-P2P Rules</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 NDX P2P often hires third-party Debt Recovery Agencies (DRAs) to collect overdue loans. Tele-callers may call repeatedly, contact your friends, or message coworkers.
               </p>
@@ -804,67 +804,67 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step P2P Settlement Roadmap</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with NDX P2P</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with NDX P2P</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Follow this 6-step roadmap to settle your LiquiLoans facility safely:
               </p>
 
               <div className="space-y-6">
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier &amp; Service Failure Documentation
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Gather proof of hardship. Include layoff letters, medical bills, or course cancellation records. This proves your default is non-wilful under RBI compromise guidelines.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     NACH Mandate Revocation &amp; Counsel Notice
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Cancel the e-NACH mandate via your bank to stop bounce fees. Send a written notice directing all collection calls to your advocate.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Structured Compromise Petition
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal settlement petition directly to NDX P2P&apos;s Stressed Assets Desk. Start your opening settlement offer at 25% to 30% of total dues.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Haircut Approvals
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Present proof of available lump-sum funds. Negotiate firmly with the Credit Committee to secure a 40% to 60% principal debt waiver.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Verification of Stamped Sanction Letter
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Review the written OTS letter carefully. Ensure it includes your loan account number, CIN (U67200MH2015PTC262114), agreed amount, and full-discharge terms.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Remittance &amp; ₹0 NDC Enforcement
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the agreed sum directly into the NDX P2P loan account via RTGS or NEFT. Under RBI rules, NDX P2P must send your No Dues Certificate within 30 days.
                   </p>
@@ -878,7 +878,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 PSSA, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating LiquiLoans Sec 25 PSSA &amp; Lok Adalat</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating LiquiLoans Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A Section 25 PSSA notice gives you 15 days to reply. Your lawyer should explain your hardship and dispute unfair bounce fees. LiquiLoans may also start digital arbitration in Mumbai. Under Supreme Court rulings (<em>Perkins Eastman</em> and <em>TRF Ltd.</em>), unilateral arbitrator appointments are void ab initio. Your counsel can challenge the arbitrator under Sections 12 and 14 of the Arbitration Act.
               </p>
@@ -937,7 +937,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating LiquiLoans Settlement Sanction Letters</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating LiquiLoans Settlement Sanction Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay settlement money based on phone calls or WhatsApp chats. Your OTS sanction letter must come on official NDX P2P Lending Technologies letterhead. It must show CIN U67200MH2015PTC262114, Mumbai address, loan details, agreed amount, and official stamp.
               </p>
@@ -952,7 +952,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. Credit Bureau Trajectory &amp; Score Recovery</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LiquiLoans CIBIL Score Trajectory &amp; Score Recovery</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LiquiLoans CIBIL Score Trajectory &amp; Score Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling with NDX P2P marks your loan as <strong>&apos;Settled&apos;</strong> with a <strong>₹0</strong> balance across CIBIL, Experian, Equifax, and CRIF High Mark. Your score may dip at first, but all default growth stops.
               </p>
@@ -967,7 +967,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed LiquiLoans Borrowers Trust SettleLoans
               </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
@@ -986,7 +986,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: LiquiLoans (NDX P2P) Loan Settlement</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: LiquiLoans (NDX P2P) Loan Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1013,10 +1013,10 @@ export default function LiquiLoansP2PLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Directives
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1078,10 +1078,10 @@ export default function LiquiLoansP2PLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

@@ -362,10 +362,10 @@ export default function RemoveSettledStatusFromCibilClient() {
 
               {/* Crux Callout Box */}
               <div className="bg-blue-50/70 border-l-4 border-[#1F5EFF] p-5 rounded-r-2xl my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-1.5 flex items-center gap-2">
+                <h3 className="text-base font-bold text-slate-900 mb-1.5 flex items-center gap-2">
                   <Info className="w-5 h-5 text-[#1F5EFF]" />
                   The Legal Reality of a &quot;Settled&quot; Account in CIBIL
-                </h4>
+                </h2>
                 <p className="text-sm text-slate-700 leading-relaxed">
                   Under the <strong>Credit Information Companies (Regulation) Act, 2005 (CICRA)</strong>, licensed credit bureaus (TransUnion CIBIL, Experian, CRIF High Mark, Equifax) do not make qualitative judgments about why you settled. When a bank accepts a discounted payoff, it writes off the unpaid balance as a commercial loss. The bank reports this account as <strong>&quot;Settled&quot;</strong> (indicating a financial loss to the lender) rather than <strong>&quot;Closed&quot;</strong> (which denotes 100% full repayment with zero haircut).
                 </p>
@@ -385,9 +385,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <Scale className="w-4 h-4" />
                 <span>Credit Bureau Status Taxonomy</span>
               </div>
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 2. &quot;Settled&quot; vs. &quot;Closed&quot; vs. &quot;Written Off&quot;
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To successfully navigate credit restoration, you must understand the exact terminology used by TransUnion CIBIL and Indian banking institutions. The table below delineates the statutory differences between the three primary post-default statuses:
               </p>
@@ -457,9 +457,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>Procedural Protocol</span>
               </div>
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 3. 6-Step Roadmap: Removing 'Settled' Status to 'Closed'
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Converting a settled loan into a closed account requires navigating both banking operations and credit bureau dispute frameworks. Follow this rigorously tested 6-step legal protocol to achieve 100% status upgrade:
               </p>
@@ -472,9 +472,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                     <div className="w-8 h-8 rounded-xl bg-[#1F5EFF] text-white font-black text-sm flex items-center justify-center shadow-sm">
                       1
                     </div>
-                    <h4 className="text-lg md:text-xl font-bold text-slate-900">
+                    <h3 className="text-lg md:text-xl font-bold text-slate-900">
                       Step 1: Conduct a Forensic Audit of Your Official Credit Information Report (CIR)
-                    </h4>
+                    </h2>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed mb-3">
                     Obtain fresh, official Credit Information Reports from all four licensed credit bureaus: <strong>TransUnion CIBIL, Experian India, CRIF High Mark, and Equifax</strong>. Do not rely on third-party marketing apps that provide compressed summaries.
@@ -492,9 +492,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                     <div className="w-8 h-8 rounded-xl bg-[#1F5EFF] text-white font-black text-sm flex items-center justify-center shadow-sm">
                       2
                     </div>
-                    <h4 className="text-lg md:text-xl font-bold text-slate-900">
+                    <h3 className="text-lg md:text-xl font-bold text-slate-900">
                       Step 2: Submit a Formal Written Application to the Bank&apos;s Stressed Asset / Nodal Department
-                    </h4>
+                    </h2>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed mb-3">
                     Do not negotiate verbally with local branch executives or recovery agents. Draft a formal representation on legal stationery addressed to the bank&apos;s <strong>Stressed Assets Resolution Branch (SARB)</strong> and <strong>Principal Nodal Officer (PNO)</strong>.
@@ -510,9 +510,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                     <div className="w-8 h-8 rounded-xl bg-[#1F5EFF] text-white font-black text-sm flex items-center justify-center shadow-sm">
                       3
                     </div>
-                    <h4 className="text-lg md:text-xl font-bold text-slate-900">
+                    <h3 className="text-lg md:text-xl font-bold text-slate-900">
                       Step 3: Negotiate Residual Waiver Terms &amp; Remit Payment via Verifiable Channels
-                    </h4>
+                    </h2>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed mb-3">
                     Ensure the bank does not attempt to levy retroactive 24%–36% penal interest or late charges from the date of settlement. The payable figure must strictly be the <strong>net principal haircut and base contractual interest</strong> that was waived during the OTS.
@@ -528,9 +528,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                     <div className="w-8 h-8 rounded-xl bg-[#1F5EFF] text-white font-black text-sm flex items-center justify-center shadow-sm">
                       4
                     </div>
-                    <h4 className="text-lg md:text-xl font-bold text-slate-900">
+                    <h3 className="text-lg md:text-xl font-bold text-slate-900">
                       Step 4: Secure the Unconditional Full &amp; Final No Dues Certificate (NDC)
-                    </h4>
+                    </h2>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed mb-3">
                     Within 7 to 15 working days of receipt of payment, the bank must issue an unconditional <strong>No Dues Certificate (NDC)</strong> or <strong>Full Closure Letter</strong> on official corporate letterhead, signed by an authorized branch officer with employee code and bank seal.
@@ -546,9 +546,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                     <div className="w-8 h-8 rounded-xl bg-[#1F5EFF] text-white font-black text-sm flex items-center justify-center shadow-sm">
                       5
                     </div>
-                    <h4 className="text-lg md:text-xl font-bold text-slate-900">
+                    <h3 className="text-lg md:text-xl font-bold text-slate-900">
                       Step 5: Monitor the Bank&apos;s 30-Day Mandatory Credit Bureau Data Submission
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed">
                     Under Reserve Bank of India Master Directions, all commercial banks, regional rural banks, and NBFCs are mandated to upload updated borrower credit files to all four credit information companies at least once every month (typically on or before the 10th of each calendar month). Wait 30 to 45 days after receiving your NDC to allow this automated data pipeline to refresh.
@@ -561,9 +561,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                     <div className="w-8 h-8 rounded-xl bg-[#1F5EFF] text-white font-black text-sm flex items-center justify-center shadow-sm">
                       6
                     </div>
-                    <h4 className="text-lg md:text-xl font-bold text-slate-900">
+                    <h3 className="text-lg md:text-xl font-bold text-slate-900">
                       Step 6: File an Online CIBIL Dispute Resolution with NDC if the Record Fails to Update
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed mb-3">
                     If CIBIL continues reflecting &quot;Settled&quot; after 45 days, log into <code>cibil.com</code> and submit a formal dispute under the <strong>Dispute Resolution Section</strong>.
@@ -581,7 +581,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <Percent className="w-4 h-4" />
                 <span>Financial Decision Framework</span>
               </div>
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 4. Cost-Benefit Analysis: Paying Residual Debt vs Rebuilding
               </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
@@ -671,9 +671,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Executive Roadmap Summary
                     </span>
-                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       CIBIL Settled to Closed Status Upgrade Architecture
-                    </h4>
+                    </h3>
                   </div>
                 </div>
                 <a
@@ -720,7 +720,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>Consumer Fraud Awareness &amp; Cyber Protection</span>
               </div>
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 5. Beware of CIBIL Clearance Agents: Scams vs Reality
               </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
@@ -768,10 +768,10 @@ export default function RemoveSettledStatusFromCibilClient() {
               </div>
 
               <div className="bg-amber-50 border border-amber-200 rounded-2xl p-5 my-6 text-slate-800">
-                <h4 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-2">
                   <AlertTriangle className="w-5 h-5 text-amber-600" />
                   Golden Rule of Credit Bureau Integrity
-                </h4>
+                </h3>
                 <p className="text-xs md:text-sm text-slate-700 leading-relaxed">
                   Neither TransUnion CIBIL nor any lawyer, advocate, or agency has administrative access to manually edit, delete, or alter your payment history. Credit bureaus are strictly repository engines. <strong>Data is updated exclusively when the regulated lending institution transmits an encrypted, authenticated monthly batch feed.</strong> Any entity promising to &quot;delete&quot; a remark without bank clearance is committing criminal fraud.
                 </p>
@@ -784,7 +784,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <Building2 className="w-4 h-4" />
                 <span>Statutory Dispute Escalation</span>
               </div>
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 6. Bank Delays Updating CIBIL: RBI Ombudsman Rights
               </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
@@ -795,21 +795,21 @@ export default function RemoveSettledStatusFromCibilClient() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-2xl">
                   <div className="text-xs font-bold uppercase tracking-wider text-[#1F5EFF] mb-1">Tier 1</div>
-                  <h4 className="font-bold text-slate-900 text-base mb-2">Principal Nodal Officer (PNO)</h4>
+                  <h3 className="font-bold text-slate-900 text-base mb-2">Principal Nodal Officer (PNO)</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Escalate via registered email to the bank&apos;s Principal Nodal Officer citing your payment UTR and NDC. Banks are mandated to respond within 14 working days.
                   </p>
                 </div>
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-2xl">
                   <div className="text-xs font-bold uppercase tracking-wider text-[#1F5EFF] mb-1">Tier 2</div>
-                  <h5 className="font-bold text-slate-900 text-base mb-2">CIBIL Online Dispute (DCN)</h5>
+                  <h4 className="font-bold text-slate-900 text-base mb-2">CIBIL Online Dispute (DCN)</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     File an official dispute on <code>cibil.com</code>. The bureau independently triggers a 30-day notice to the bank&apos;s central credit reporting division.
                   </p>
                 </div>
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-2xl">
                   <div className="text-xs font-bold uppercase tracking-wider text-emerald-700 mb-1">Tier 3</div>
-                  <h5 className="font-bold text-slate-900 text-base mb-2">RBI Integrated Ombudsman</h5>
+                  <h4 className="font-bold text-slate-900 text-base mb-2">RBI Integrated Ombudsman</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Lodge a complaint on the RBI CMS Portal (<code>cms.rbi.org.in</code>) under Clause 10 for deficiency in credit information reporting.
                   </p>
@@ -818,10 +818,10 @@ export default function RemoveSettledStatusFromCibilClient() {
 
               {/* RBI Compensation Callout */}
               <div className="bg-blue-50 border border-blue-200 rounded-2xl p-5 my-6 text-slate-800">
-                <h5 className="font-bold text-[#1F5EFF] text-base mb-2 flex items-center gap-2">
+                <h4 className="font-bold text-[#1F5EFF] text-base mb-2 flex items-center gap-2">
                   <Award className="w-5 h-5" />
                   Statutory Compensation: ₹100 Per Day for Unresolved Credit Reporting Delays
-                </h5>
+                </h3>
                 <p className="text-xs md:text-sm text-slate-700 leading-relaxed">
                   Under RBI circular <strong>RBI/2023-24/72 (Framework for Compensation to Customers for Delayed Updation of Credit Information)</strong>, if a regulated bank or credit bureau fails to resolve a credit misreporting grievance or update a verified closure within <strong>30 calendar days</strong> of receiving a formal dispute, the institution is legally obligated to pay compensation of <strong>₹100 per calendar day</strong> directly into the borrower&apos;s bank account until the record is rectified.
                 </p>
@@ -834,7 +834,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <TrendingUp className="w-4 h-4" />
                 <span>Score Rehabilitation Blueprint</span>
               </div>
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 7. Rebuilding Your CIBIL Score to 750+ Post-Closure
               </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
@@ -847,9 +847,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                     <CreditCard className="w-5 h-5" />
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base mb-1">
+                    <h3 className="font-bold text-slate-900 text-base mb-1">
                       1. Open a Fixed Deposit (FD)-Backed Secured Credit Card
-                    </h4>
+                    </h3>
                     <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                       Apply for an instant secured credit card against a term deposit of ₹25,000 to ₹50,000 (e.g., IDFC FIRST WOW, Kotak 811 Dream Different, or OneCard). Because these cards require zero CIBIL checks or income proof, approval is guaranteed. They report monthly active repayment data to all 4 credit bureaus.
                     </p>
@@ -861,9 +861,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                     <Percent className="w-5 h-5" />
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-base mb-1">
+                    <h4 className="font-bold text-slate-900 text-base mb-1">
                       2. Strictly Enforce the 30% Credit Utilization Ratio (CUR) Rule
-                    </h5>
+                    </h4>
                     <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                       Never utilize more than 30% of your available card limit in any single billing cycle. For example, on a ₹50,000 limit card, ensure your monthly statement balance remains under ₹15,000. Low credit utilization signals financial discipline to bureau algorithms.
                     </p>
@@ -875,9 +875,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                     <Clock className="w-5 h-5" />
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-base mb-1">
+                    <h4 className="font-bold text-slate-900 text-base mb-1">
                       3. Automate 100% On-Time Full Bill Payments 5 Days in Advance
-                    </h5>
+                    </h4>
                     <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                       Never pay just the &quot;Minimum Amount Due&quot; (MAD), which triggers 42% annualized interest and high revolving debt flags. Set up automated auto-debit for the Total Amount Due at least 5 business days prior to the payment due date to prevent technical bounce errors.
                     </p>
@@ -889,9 +889,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                     <ShieldAlert className="w-5 h-5" />
                   </div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-base mb-1">
+                    <h4 className="font-bold text-slate-900 text-base mb-1">
                       4. Avoid Multiple Hard Inquiries for Unsecured Loans
-                    </h5>
+                    </h4>
                     <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                       Every rejected personal loan or credit card application generates a &quot;Hard Inquiry&quot; on your CIR, shaving 5 to 10 points off your score and branding you as &quot;credit hungry.&quot; Refrain from applying for any unsecured loans for at least 12 to 18 months while your score rebuilds.
                     </p>
@@ -908,7 +908,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>Expert Verification &amp; Answers</span>
               </div>
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Frequently Asked Questions (FAQ)
               </h3>
               <p className="text-base leading-relaxed mb-8 text-slate-600">
@@ -930,7 +930,7 @@ export default function RemoveSettledStatusFromCibilClient() {
 
             {/* Regulatory Sources & References (Exactly 5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Statutory References</span>
               </h4>
@@ -995,9 +995,9 @@ export default function RemoveSettledStatusFromCibilClient() {
 
             {/* Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; CIBIL Recovery Guides
-              </h5>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/personal-loan-settlement-cibil-impact"

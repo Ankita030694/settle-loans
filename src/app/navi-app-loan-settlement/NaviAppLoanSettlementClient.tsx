@@ -328,9 +328,9 @@ export default function NaviAppLoanSettlementClient() {
 
             {/* Section 2: Calling Bots, Harassment & NACH Bounces */}
             <section id="automated-bots-telecalling-nach-bounce-spiral" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Automated Calling Bots, Recovery Tele-calling Harassment &amp; The NACH Bounce Penalty Spiral
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The most acute crisis faced by borrowers defaulting on a Navi app loan is the relentless bombardment of automated collection systems. Navi&apos;s tech-heavy recovery framework utilizes automated Interactive Voice Response (IVR) dialers that can trigger dozens of automated calls per day from rotating virtual numbers. Concurrently, outsourced collection agencies frequently deploy aggressive tele-callers who cross statutory boundaries by calling outside permitted hours, contacting references whose details were extracted during initial app permission granting, and making unlawful threats of police action or workplace visits.
               </p>
@@ -375,9 +375,9 @@ export default function NaviAppLoanSettlementClient() {
 
             {/* Section 3: Section 25 PSSA & Digital Summons Defense */}
             <section id="statutory-notices-section-25-pssa-digital-defense" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Statutory Legal Notices, Section 25 PSSA, Section 138 NI Act &amp; Digital Summons Defense
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 As a loan default crosses 60 to 90 days, Navi Finserv&apos;s legal panel issues formal statutory demand notices. In modern digital lending, these notices are dispatched via registered speed post, email, and automated WhatsApp delivery. Borrowers frequently receive notices invoking <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong>, <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> (if repayment cheques were collected), and <strong>Section 430/406 of the Indian Contract Act and Bharatiya Nyaya Sanhita (BNS)</strong>.
               </p>
@@ -386,10 +386,10 @@ export default function NaviAppLoanSettlementClient() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-xl p-4 my-4 space-y-3">
-                <h4 className="font-bold text-xs sm:text-sm text-slate-900 flex items-center gap-2">
+                <h3 className="font-bold text-xs sm:text-sm text-slate-900 flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Crucial Distinctions: Genuine Statutory Notice vs. Fake Agent Threat</span>
-                </h4>
+                </h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-lg border border-slate-200">
                     <p className="font-bold text-emerald-800 mb-1">Authentic Section 25 PSSA Notice:</p>
@@ -409,9 +409,9 @@ export default function NaviAppLoanSettlementClient() {
 
             {/* Section 4: NPA Accounting & Net Present Value (NPV) */}
             <section id="navi-finserv-npa-accounting-npv-equation" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Navi Finserv NPA Accounting, Risk Weighting &amp; The Net Present Value (NPV) Equation
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To negotiate maximum debt waivers with Navi Finserv, one must understand how a fintech NBFC views distressed credit from a balance-sheet and regulatory perspective. As a Systemically Important NBFC, Navi Finserv is subject to stringent RBI Capital Adequacy Ratio (CAR) requirements and provisioning mandates. When an unsecured personal loan becomes an NPA at 90 days past due, Navi cannot recognize accrued interest as income and must set aside substantial capital provisions from its operating profits:
               </p>
@@ -448,9 +448,9 @@ export default function NaviAppLoanSettlementClient() {
 
             {/* Section 5: Visual Resolution Blueprint (Infographic Banner) */}
             <section id="navi-settlement-visual-blueprint" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Visual Resolution Blueprint: Navi App Personal Loan Settlement Lifecycle
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comprehensive visual roadmap below details the strategic progression of a defaulted Navi personal loan—from initial automated tele-calling pressure and NACH bounce escalation to advocate-led hardship negotiation, formal credit committee sanction, and final zero-balance credit bureau rehabilitation:
               </p>
@@ -482,9 +482,9 @@ export default function NaviAppLoanSettlementClient() {
 
             {/* Section 6: Step-by-Step Advocate OTS Roadmap */}
             <section id="step-by-step-advocate-ots-roadmap" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Step-by-Step Strategic Roadmap: How Advocates Negotiate Navi Loan Settlements
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing a 50% to 65% principal haircut from Navi Finserv requires a disciplined, legally rigorous methodology. SettleLoans executes a proven 5-phase strategic framework designed to disarm automated recovery systems and engage directly with authorized decision-makers:
               </p>
@@ -544,9 +544,9 @@ export default function NaviAppLoanSettlementClient() {
 
             {/* Section 7: Sanction Letter Forensics & Authenticity Verification */}
             <section id="sanction-letter-forensics-authenticity" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Navi OTS Sanction Letter Forensics &amp; Settlement Trap Avoidance
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The most dangerous hazard in digital loan settlement is paying funds based on verbal tele-caller promises or forged PDF receipts. Unscrupulous collection agents frequently tell borrowers: <em>&quot;Deposit ₹25,000 today on this UPI link and your Navi loan will be closed.&quot;</em> In reality, such verbal deposits are booked as regular overdue part-payments, leaving the remaining principal active while the agent collects their recovery commission.
               </p>
@@ -590,9 +590,9 @@ export default function NaviAppLoanSettlementClient() {
 
             {/* Section 8: Remittance, RBI ₹0 NDC Mandate & CIBIL Recovery */}
             <section id="remittance-rbi-ndc-mandate-cibil-recovery" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Loan Remittance, RBI ₹0 No Dues Certificate Mandate &amp; CIBIL Credit Score Repair
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the agreed compromise sum is transferred directly into your Navi loan account, the final legal phase begins: securing your <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> and managing your credit bureau profile. Under <strong>Reserve Bank of India Circular RBI/2023-24/60</strong> (<em>Release of Movable/Immovable Property Documents &amp; Loan Account Closure</em>), regulated NBFCs like Navi Finserv Limited are statutorily mandated to issue the formal closure letter and update all four Credit Information Companies (TransUnion CIBIL, Experian, Equifax, and CRIF High Mark) within <strong>30 calendar days</strong>.
               </p>
@@ -645,7 +645,7 @@ export default function NaviAppLoanSettlementClient() {
 
             {/* Section 9: Comprehensive Resolution Matrix Table */}
             <section id="navi-settlement-comparative-matrix" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Resolution Matrix: DIY App Settlement vs. Ignoring Default vs. Legal Advocate OTS
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -707,9 +707,9 @@ export default function NaviAppLoanSettlementClient() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="scroll-mt-24 md:scroll-mt-28 space-y-6">
               <div className="space-y-4">
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans: India&apos;s Leading Legal Defense &amp; Debt Settlement Advisory
-                </h3>
+                </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating an institutional dispute against a tech-driven digital lender like Navi Finserv requires seasoned legal advocates who understand both digital lending regulations and RBI compromise settlement frameworks. SettleLoans provides comprehensive legal defense for distressed borrowers across India—stopping unlawful collection bot harassment, drafting formal replies to Section 25 PSSA summons, and negotiating directly with Navi Finserv&apos;s Stressed Asset Desks to achieve the deepest possible debt haircuts backed by authentic, bank-stamped No Dues Certificates.
                 </p>
@@ -723,9 +723,9 @@ export default function NaviAppLoanSettlementClient() {
             <section id="faqs" className="scroll-mt-24 md:scroll-mt-28 space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Navi App Loan Settlement
-                </h3>
+                </h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers to essential questions regarding Navi app personal loan default, NACH bounce penalties, recovery agent harassment rules, and credit score rehabilitation.
@@ -755,9 +755,9 @@ export default function NaviAppLoanSettlementClient() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -801,9 +801,9 @@ export default function NaviAppLoanSettlementClient() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/instant-app-loan-settlement"

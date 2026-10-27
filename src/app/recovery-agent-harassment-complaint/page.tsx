@@ -198,9 +198,9 @@ export default function RecoveryHarassmentComplaintPage() {
             </section>
 
             <section id="what-is-harassment" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 What Actually Constitutes Recovery Agent Harassment?
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-8">
                 To fight back, you must first understand the boundaries. Banks and NBFCs often outsource their recovery to third party agencies. These agencies sometimes use high pressure tactics that cross the line from 'collection' into 'harassment'. The Reserve Bank of India (RBI) has drawn a very clear line in the sand. If an agent does any of the following, they are in violation of the law.
               </p>
@@ -216,7 +216,7 @@ export default function RecoveryHarassmentComplaintPage() {
                     <div className="w-12 h-12 bg-white rounded-xl flex items-center justify-center mb-4 shadow-sm group-hover:scale-110 transition-transform">
                       <FontAwesomeIcon icon={item.icon} className="text-[#1F5EFF] w-6 h-6" />
                     </div>
-                    <h4 className="text-xl font-bold mb-2">{item.title}</h4>
+                    <h3 className="text-xl font-bold mb-2">{item.title}</h3>
                     <p className="text-gray-600 text-sm leading-relaxed">{item.desc}</p>
                   </div>
                 ))}
@@ -233,9 +233,9 @@ export default function RecoveryHarassmentComplaintPage() {
             <LoanSettlementAssessmentFunnel />
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The RBI Fair Practice Code: Your Legal Shield
-              </h3>
+              </h2>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-200 mb-8">
                 <p className="text-lg text-blue-900 leading-relaxed mb-6 italic">
                   &quot;Banks and their agents shall not resort to intimidation or harassment of any kind, either verbal or physical, against any person in their debt collection efforts.&quot; — RBI Master Circular
@@ -244,7 +244,7 @@ export default function RecoveryHarassmentComplaintPage() {
                   In August 2022, and subsequently updated in July 2024, the RBI issued stern warnings to all financial institutions. They made it clear that the lender is ultimately responsible for the actions of their recovery agents. If an agent harasses you, the bank itself is liable for penalties and may even be barred from using that recovery agency in the future.
                 </p>
               </div>
-              <h4 className="text-2xl font-bold mb-4">Specific RBI Rules Every Borrower Must Know:</h4>
+              <h3 className="text-2xl font-bold mb-4">Specific RBI Rules Every Borrower Must Know:</h3>
               <ul className="space-y-4 mb-8">
                 <li className="flex items-start gap-3">
                   <div className="shrink-0 mt-1.5 w-2 h-2 bg-[#1F5EFF] rounded-full"></div>
@@ -269,30 +269,30 @@ export default function RecoveryHarassmentComplaintPage() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Your Fundamental Rights as a Borrower
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-8">
                 Even in default, your rights as an Indian citizen remain intact. The Constitution of India and various civil laws ensure that no one can be pushed into a state of absolute fear over a financial transaction.
               </p>
               
               <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm mb-8">
-                <h4 className="text-2xl font-bold mb-6 text-[#1F5EFF]">The Borrower's Bill of Rights</h4>
+                <h3 className="text-2xl font-bold mb-6 text-[#1F5EFF]">The Borrower's Bill of Rights</h3>
                 <div className="space-y-6">
                   <div className="border-b border-[#EEEEEE] pb-6">
-                    <h5 className="font-bold text-xl mb-2">1. Right to Dignity</h5>
+                    <h4 className="font-bold text-xl mb-2">1. Right to Dignity</h4>
                     <p className="text-gray-600">Article 21 of the Constitution guarantees the Right to Life and Personal Liberty, which the Supreme Court has interpreted to include the Right to Live with Dignity. Harassment by lenders is a violation of this fundamental right.</p>
                   </div>
                   <div className="border-b border-[#EEEEEE] pb-6">
-                    <h5 className="font-bold text-xl mb-2">2. Right to Transparency</h5>
+                    <h4 className="font-bold text-xl mb-2">2. Right to Transparency</h4>
                     <p className="text-gray-600">You have the right to know the exact breakdown of your dues, including principal, interest, and penalties. You have the right to receive everything in writing.</p>
                   </div>
                   <div className="border-b border-[#EEEEEE] pb-6">
-                    <h5 className="font-bold text-xl mb-2">3. Right to Negotiate</h5>
+                    <h4 className="font-bold text-xl mb-2">3. Right to Negotiate</h4>
                     <p className="text-gray-600">No law prevents you from approaching the bank for a settlement. You have the right to explain your financial hardship and request a compromise.</p>
                   </div>
                   <div>
-                    <h5 className="font-bold text-xl mb-2">4. Right to Peace</h5>
+                    <h4 className="font-bold text-xl mb-2">4. Right to Peace</h4>
                     <p className="text-gray-600">Your home is your sanctuary. If an agent visits and behaves in a way that disturbs your peace, you have the right to seek police protection.</p>
                   </div>
                 </div>
@@ -303,9 +303,9 @@ export default function RecoveryHarassmentComplaintPage() {
             </section>
 
             <section id="complaint-process" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Correct Way to File a Harassment Complaint: A Tiered Approach
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-8">
                 Filing a complaint against a recovery agent is not about shouting back. It is about building a documented paper trail that the bank cannot ignore. If you follow this structured hierarchy, you increase your chances of a quick resolution. Most borrowers make the mistake of only complaining verbally to the agent, which results in no record. Here is the professional, legal way to do it.
               </p>
@@ -313,7 +313,7 @@ export default function RecoveryHarassmentComplaintPage() {
               <div className="space-y-12 mb-12">
                 <div className="relative pl-12 border-l-2 border-dashed border-[#1F5EFF]/30">
                   <div className="absolute left-[-17px] top-0 w-8 h-8 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-bold text-sm shadow-lg">1</div>
-                  <h4 className="text-2xl font-bold mb-4">Level 1: The Bank's Internal Grievance Redressal</h4>
+                  <h3 className="text-2xl font-bold mb-4">Level 1: The Bank's Internal Grievance Redressal</h3>
                   <p className="text-lg leading-relaxed mb-4">
                     Your first official step should always be the bank or NBFC themselves. Every lender is required by the RBI to have an internal grievance cell. Do not call the general customer care number. Instead, look for the 'Grievance Redressal Officer' (GRO) email address on the bank's website.
                   </p>
@@ -324,7 +324,7 @@ export default function RecoveryHarassmentComplaintPage() {
 
                 <div className="relative pl-12 border-l-2 border-dashed border-[#1F5EFF]/30">
                   <div className="absolute left-[-17px] top-0 w-8 h-8 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-bold text-sm shadow-lg">2</div>
-                  <h4 className="text-2xl font-bold mb-4">Level 2: Escalation to the Principal Nodal Officer (PNO)</h4>
+                  <h3 className="text-2xl font-bold mb-4">Level 2: Escalation to the Principal Nodal Officer (PNO)</h3>
                   <p className="text-lg leading-relaxed mb-4">
                     If the GRO does not respond within 7 to 10 days, or if their response is unsatisfactory (e.g., they deny the harassment happened), you must escalate to the Principal Nodal Officer. The PNO is a senior executive responsible for ensuring the bank's compliance with RBI standards.
                   </p>
@@ -335,7 +335,7 @@ export default function RecoveryHarassmentComplaintPage() {
 
                 <div className="relative pl-12 border-l-2 border-dashed border-[#1F5EFF]/30">
                   <div className="absolute left-[-17px] top-0 w-8 h-8 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-bold text-sm shadow-lg">3</div>
-                  <h4 className="text-2xl font-bold mb-4">Level 3: The RBI Integrated Ombudsman Scheme</h4>
+                  <h3 className="text-2xl font-bold mb-4">Level 3: The RBI Integrated Ombudsman Scheme</h3>
                   <p className="text-lg leading-relaxed mb-4">
                     If 30 days have passed since your first complaint and you still haven't received a resolution, you can approach the Banking Ombudsman. This is a quasi-judicial body established by the RBI to resolve disputes between banks and their customers.
                   </p>
@@ -347,16 +347,16 @@ export default function RecoveryHarassmentComplaintPage() {
             </section>
 
             <section id="evidence-collection" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 How to Collect Ironclad Evidence of Harassment
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-8">
                 The biggest hurdle in a harassment case is the bank's denial. They often claim the agent was simply asking for the money politely. To win, you need proof. In the digital age, collecting evidence is easier than ever, but you must do it correctly to ensure it is admissible in a legal or regulatory forum.
               </p>
 
               <div className="bg-[#F8F9FA] rounded-2xl border border-[#DEDEDE] overflow-hidden mb-12">
                 <div className="p-8">
-                  <h4 className="text-2xl font-bold mb-6 text-center">Your Evidence Checklist</h4>
+                  <h3 className="text-2xl font-bold mb-6 text-center">Your Evidence Checklist</h3>
                   <div className="grid md:grid-cols-2 gap-8">
                     <div className="space-y-4">
                       <div className="flex gap-4">
@@ -364,7 +364,7 @@ export default function RecoveryHarassmentComplaintPage() {
                           <FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF] w-5 h-5" />
                         </div>
                         <div>
-                          <h5 className="font-bold">Call Recording</h5>
+                          <h4 className="font-bold">Call Recording</h4>
                           <p className="text-sm text-gray-500">Enable automatic call recording. If your phone announces &quot;This call is being recorded,&quot; let it. It often stops the agent from using abusive language immediately.</p>
                         </div>
                       </div>
@@ -373,7 +373,7 @@ export default function RecoveryHarassmentComplaintPage() {
                           <FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF] w-5 h-5" />
                         </div>
                         <div>
-                          <h5 className="font-bold">Screenshots</h5>
+                          <h4 className="font-bold">Screenshots</h4>
                           <p className="text-sm text-gray-500">Save every WhatsApp message, SMS, and email. Screenshots of call logs showing 20+ calls in a single day are excellent proof of harassment.</p>
                         </div>
                       </div>
@@ -384,7 +384,7 @@ export default function RecoveryHarassmentComplaintPage() {
                           <FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF] w-5 h-5" />
                         </div>
                         <div>
-                          <h5 className="font-bold">Home Visit CCTV</h5>
+                          <h4 className="font-bold">Home Visit CCTV</h4>
                           <p className="text-sm text-gray-500">If agents visit your home, ensure they are captured on CCTV or recorded on a smartphone. Their refusal to provide identification is a major violation.</p>
                         </div>
                       </div>
@@ -393,7 +393,7 @@ export default function RecoveryHarassmentComplaintPage() {
                           <FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF] w-5 h-5" />
                         </div>
                         <div>
-                          <h5 className="font-bold">Witness Statements</h5>
+                          <h4 className="font-bold">Witness Statements</h4>
                           <p className="text-sm text-gray-600">If neighbors or family members witnessed the harassment, their written statements can be very powerful during a police or ombudsman investigation.</p>
                         </div>
                       </div>
@@ -407,9 +407,9 @@ export default function RecoveryHarassmentComplaintPage() {
             </section>
 
             <section id="escalation-levels" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Escalation Strategy: When to Go Beyond the Bank
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-6">
                 Sometimes, the bank's internal systems are broken or biased. In such cases, you must look outside the banking system to the legal and regulatory frameworks of India. This is where many borrowers hesitate, fearing that lawyers and police will make the situation worse. In reality, these external pressures are often the only way to gain complete peace of mind.
               </p>
@@ -422,15 +422,15 @@ export default function RecoveryHarassmentComplaintPage() {
             </section>
 
             <section id="rbi-ombudsman" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Navigating the RBI Integrated Ombudsman Scheme (RB-IOS)
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-8">
                 The Integrated Ombudsman Scheme 2021 is a masterstroke in consumer protection. It brought all commercial banks, NBFCs, and Digital Lenders under one umbrella. This means regardless of where you took your loan, you have one central place to seek justice. The process is completely free and can be done from the comfort of your home.
               </p>
 
               <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm mb-12">
-                <h4 className="text-2xl font-bold mb-6">Crucial Facts About the RBI Ombudsman</h4>
+                <h3 className="text-2xl font-bold mb-6">Crucial Facts About the RBI Ombudsman</h3>
                 <div className="grid md:grid-cols-3 gap-6">
                   <div className="p-4 bg-gray-50 rounded-xl">
                     <span className="block text-[#1F5EFF] font-black text-3xl mb-2">0</span>
@@ -458,16 +458,16 @@ export default function RecoveryHarassmentComplaintPage() {
             </section>
 
             <section id="legal-remedies" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Police Complaints and Criminal Remedies (IPC & BNS)
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-8">
                 In severe cases where recovery agents use physical intimidation, enter your home forcibly, or humiliate you in public, it is no longer just a banking dispute; it is a crime. The Indian Penal Code (IPC), and now the Bharatiya Nyaya Sanhita (BNS), provides protection against such acts.
               </p>
 
               <div className="grid md:grid-cols-2 gap-8 mb-12">
                 <div className="bg-red-50 p-8 rounded-2xl border border-red-100">
-                  <h4 className="text-xl font-bold text-red-900 mb-4">Criminal Intimidation</h4>
+                  <h3 className="text-xl font-bold text-red-900 mb-4">Criminal Intimidation</h3>
                   <p className="text-sm text-red-800 leading-relaxed mb-4">
                     Relevant Section: IPC 506 / BNS 351(1). If an agent threatens to kill you, harm your family, or damage your reputation with the intent to cause alarm, it is a criminal offense. You can file an FIR at the local police station.
                   </p>
@@ -476,7 +476,7 @@ export default function RecoveryHarassmentComplaintPage() {
                   </p>
                 </div>
                 <div className="bg-orange-50 p-8 rounded-2xl border border-orange-100">
-                  <h5 className="text-xl font-bold text-orange-900 mb-4">Intentional Insult & Trespass</h5>
+                  <h4 className="text-xl font-bold text-orange-900 mb-4">Intentional Insult & Trespass</h4>
                   <p className="text-sm text-orange-800 leading-relaxed mb-4">
                     Relevant Section: BNS 352 (Insult) and BNS 329 (Criminal Trespass). Entering your property without permission or using foul language to humiliate you in front of others is a punishable crime.
                   </p>
@@ -494,14 +494,14 @@ export default function RecoveryHarassmentComplaintPage() {
             </section>
 
             <section id="mental-health" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Protecting Your Mental Health: You are Not Your Debt
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-6">
                 The most dangerous part of recovery agent harassment isn't the threat to your wallet; it's the threat to your mind. Debt stress is a documented medical condition that can lead to chronic anxiety, severe depression, and a sense of absolute hopelessness. In India, where social standing is highly valued, the threat of shaming can be particularly devastating.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h4 className="text-xl font-bold text-emerald-900 mb-4">A Message of Strength</h4>
+                <h3 className="text-xl font-bold text-emerald-900 mb-4">A Message of Strength</h3>
                 <p className="text-emerald-800 leading-relaxed mb-4">
                   If you are feeling suicidal or completely overwhelmed, please reach out for help. Organizations like <strong>AASRA (9820466726)</strong> or the <strong>Vandrevala Foundation (9999666555)</strong> provide 24/7 support. They understand that debt is a temporary problem, but your life is invaluable.
                 </p>
@@ -515,30 +515,30 @@ export default function RecoveryHarassmentComplaintPage() {
             </section>
 
             <section id="settleloans-shield" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 How SettleLoans Acts as Your Professional Shield
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-8">
                 At SettleLoans, we don't just give advice; we take action. Our primary goal is to stand between you and the harassment so you can focus on rebuilding your life. We act as your official legal and financial representative in all dealings with your creditors.
               </p>
               
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl shadow-xl mb-12">
-                <h4 className="text-2xl font-bold mb-6 text-[#1F5EFF]">The SettleLoans Protection Protocol</h4>
+                <h3 className="text-2xl font-bold mb-6 text-[#1F5EFF]">The SettleLoans Protection Protocol</h3>
                 <div className="grid md:grid-cols-2 gap-8">
                   <div>
-                    <h5 className="font-bold text-lg mb-2">Legal Representation</h5>
+                    <h4 className="font-bold text-lg mb-2">Legal Representation</h4>
                     <p className="text-gray-400 text-sm">We send formal legal notices to your lenders, informing them that you are now under our representation. This often redirects the recovery efforts through professional channels.</p>
                   </div>
                   <div>
-                    <h5 className="font-bold text-lg mb-2">Harassment Prevention</h5>
+                    <h4 className="font-bold text-lg mb-2">Harassment Prevention</h4>
                     <p className="text-gray-400 text-sm">When an agent violates an RBI rule, we don't just complain; we document and file a formal grievance that carries the weight of a professional firm.</p>
                   </div>
                   <div>
-                    <h5 className="font-bold text-lg mb-2">Expert Negotiation</h5>
+                    <h4 className="font-bold text-lg mb-2">Expert Negotiation</h4>
                     <p className="text-gray-400 text-sm">Our negotiators have years of experience dealing with bank recovery departments. We know the 'bottom line' that banks are willing to accept for a settlement.</p>
                   </div>
                   <div>
-                    <h5 className="font-bold text-lg mb-2">Full Documentation</h5>
+                    <h4 className="font-bold text-lg mb-2">Full Documentation</h4>
                     <p className="text-gray-400 text-sm">We handle all the paperwork, ensuring that every settlement offer is genuine and that you receive a valid No Dues Certificate (NDC) at the end.</p>
                   </div>
                 </div>
@@ -549,12 +549,12 @@ export default function RecoveryHarassmentComplaintPage() {
             </section>
 
             <section id="case-studies" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter">Real Stories of Legal Defense</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter">Real Stories of Legal Defense</h2>
               
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm relative overflow-hidden">
                   <div className="absolute top-0 left-0 w-2 h-full bg-blue-500"></div>
-                  <h4 className="text-2xl font-bold mb-4">Case Study 1: The Midnight Call Victory</h4>
+                  <h3 className="text-2xl font-bold mb-4">Case Study 1: The Midnight Call Victory</h3>
                   <p className="mb-4"><strong>The Situation:</strong> An NBFC recovery agent was calling Mr. Sharma at 11:30 PM daily and messaging his wife on Facebook, claiming he was a criminal.</p>
                   <p className="mb-4"><strong>Our Action:</strong> We documented the call logs and the Facebook messages. We sent a stern legal notice to the NBFC's Nodal Officer and filed an Ombudsman complaint simultaneously.</p>
                   <p className="font-bold text-green-600"><strong>The Result:</strong> The bank immediately removed the recovery agency from the case, offered a formal apology, and agreed to a 60% waiver on the total dues to settle the matter out of court.</p>
@@ -562,7 +562,7 @@ export default function RecoveryHarassmentComplaintPage() {
 
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm relative overflow-hidden">
                   <div className="absolute top-0 left-0 w-2 h-full bg-red-500"></div>
-                  <h4 className="text-2xl font-bold mb-4">Case Study 2: Stopping the Workplace Shame</h4>
+                  <h3 className="text-2xl font-bold mb-4">Case Study 2: Stopping the Workplace Shame</h3>
                   <p className="mb-4"><strong>The Situation:</strong> A credit card agent visited Ms. Verma's office and spoke loudly about her unpaid bills in front of her supervisor.</p>
                   <p className="mb-4"><strong>Our Action:</strong> We secured a witness statement from her colleague and filed a police complaint for defamation and intentional insult under the BNS.</p>
                   <p className="font-bold text-green-600"><strong>The Result:</strong> Fearing criminal charges and a massive fine from the RBI, the bank settled the entire 4lakh debt for just 80,000 rupees and deleted the negative remarks from her HR file.</p>
@@ -571,7 +571,7 @@ export default function RecoveryHarassmentComplaintPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions (FAQ)</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions (FAQ)</h2>
               <div className="space-y-4">
                 {[
                   { q: "Can a recovery agent come to my house at night?", a: "No. Under RBI guidelines, recovery agents are only allowed to visit or call between 8:00 AM and 7:00 PM." },
@@ -613,7 +613,7 @@ export default function RecoveryHarassmentComplaintPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h4 className="text-2xl font-black mb-2">Ready to Stop the Stress?</h4>
+                  <h3 className="text-2xl font-black mb-2">Ready to Stop the Stress?</h3>
                   <p className="opacity-90 text-sm">Join thousands of Indians who have successfully reclaimed their peace of mind.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">
@@ -626,7 +626,7 @@ export default function RecoveryHarassmentComplaintPage() {
 
             {/* Review Snippets */}
             <section id="reviews" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter">Client Success Stories</h3>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter">Client Success Stories</h2>
               <div className="bg-[#F8F9FA] rounded-3xl p-4 md:p-8 border border-[#DEDEDE]">
                 <div className="grid md:grid-cols-2 gap-6">
                   {[

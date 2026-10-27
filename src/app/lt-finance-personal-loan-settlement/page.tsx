@@ -586,7 +586,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">L&amp;T Finance Delinquency Lifecycle</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">L&amp;T Finance Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 L&amp;T Finance tracks unpaid loans using Days Past Due (DPD) buckets under RBI IRACP rules and Ind AS 109. After 90 days of non-payment, the loan becomes a Non-Performing Asset (NPA). L&amp;T Finance must set aside capital reserves for bad loans. This motivates their team to accept compromise settlements.
               </p>
@@ -656,7 +656,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Halt L&amp;T Finance NACH Bounce Fees</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Halt L&amp;T Finance NACH Bounce Fees</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Repeat NACH presentations drain bank accounts and add heavy bounce fees. Under RBI Fair Lending Practice rules (2023), lenders cannot add penal charges to principal dues or charge compound interest on penalties.
               </p>
@@ -671,7 +671,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">L&amp;T Finance One-Time Settlement (OTS) Policies</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">L&amp;T Finance One-Time Settlement (OTS) Policies</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Master Directions (DOR.STR.REC.20/21.04.048/2023-24), L&amp;T Finance uses Net Present Value (NPV) recovery models. It compares instant cash offers against the slow pace and high cost of court litigation.
               </p>
@@ -691,7 +691,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic L&amp;T Finance Settlement Haircut Slabs by Facility &amp; Aging Bucket</h4>
+              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic L&amp;T Finance Settlement Haircut Slabs by Facility &amp; Aging Bucket</h3>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -749,9 +749,9 @@ export default function LTFinancePersonalLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         L&amp;T Finance Personal Loan Settlement &amp; Legal Defense Blueprint
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -798,7 +798,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Urban vs Rural Recovery &amp; RBI Harassment Defense</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive Recovery Tactics Across Urban</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive Recovery Tactics Across Urban</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 City borrowers often face collection phone calls. Rural and semi-urban borrowers often face field agent visits. Under RBI Master Directions on Recovery Agents, strict rules protect all borrowers. Agents cannot call before 8:00 AM or after 7:00 PM. They cannot call relatives, visit workplaces, or use threats.
               </p>
@@ -813,7 +813,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step L&amp;T Finance Settlement Roadmap</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step L&amp;T Finance Settlement Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Follow this 6-step roadmap to settle your L&amp;T Finance personal loan safely:
               </p>
@@ -821,10 +821,10 @@ export default function LTFinancePersonalLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Gather proof of financial hardship. Include salary cuts, job loss letters, or medical bills. This proves your default is non-wilful under RBI compromise guidelines.
                   </p>
@@ -832,10 +832,10 @@ export default function LTFinancePersonalLoanSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking Mandates &amp; Directing Communication
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Cancel your e-NACH auto-debit mandate through your bank. This stops repeated bounce fees. Send a written notice directing all collection calls to your advocate.
                   </p>
@@ -843,10 +843,10 @@ export default function LTFinancePersonalLoanSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Hardship Petition
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal settlement proposal directly to L&amp;T Finance&apos;s Stressed Assets Desk. Start your opening settlement offer at 25% to 35% of total dues.
                   </p>
@@ -854,10 +854,10 @@ export default function LTFinancePersonalLoanSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Structuring Committee Approvals
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Show proof of available lump-sum settlement funds. Negotiate firmly with the Credit Committee to secure a 40% to 60% principal debt waiver.
                   </p>
@@ -865,10 +865,10 @@ export default function LTFinancePersonalLoanSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Audit of Sanction Letter
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Review the written OTS sanction letter carefully. Ensure it includes your loan account number, agreed amount, payment timeline, and full-discharge terms.
                   </p>
@@ -876,10 +876,10 @@ export default function LTFinancePersonalLoanSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the agreed sum directly into your loan account via RTGS or NEFT. Under RBI rules, L&amp;T Finance must send your No Dues Certificate within 30 days.
                   </p>
@@ -893,7 +893,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating L&amp;T Finance Sec 25 PSSA &amp; Lok Adalat</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating L&amp;T Finance Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A Section 25 PSSA notice gives you 15 days to reply. Your legal counsel should explain your genuine hardship and dispute unfair bounce fees. Under Supreme Court rulings (<em>Perkins Eastman</em> and <em>TRF Ltd.</em>), lenders cannot appoint a sole arbitrator without your agreement. You can challenge illegal arbitration under Sections 12 and 14 of the Arbitration Act.
               </p>
@@ -952,7 +952,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating L&amp;T Finance OTS Sanction Letters</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating L&amp;T Finance OTS Sanction Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay settlement money based on phone calls or WhatsApp messages. Your OTS sanction letter must come on official L&amp;T Finance Limited letterhead. It must show the CIN (L65910MH2008PLC182224), Mumbai office address, reference number, and official stamp.
               </p>
@@ -967,7 +967,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; Rehabilitation Plan</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">L&amp;T Finance Post-Settlement CIBIL Trajectory</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">L&amp;T Finance Post-Settlement CIBIL Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling an L&amp;T Finance loan marks the account as <strong>&apos;Settled&apos;</strong> with a <strong>₹0</strong> balance on CIBIL, Experian, Equifax, and CRIF High Mark. Your score may drop 75 to 150 points initially, but all default growth stops.
               </p>
@@ -982,7 +982,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed L&amp;T Finance Borrowers Trust SettleLoans
               </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
@@ -1001,7 +1001,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: L&amp;T Finance Personal Loan Settlement</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: L&amp;T Finance Personal Loan Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1027,10 +1027,10 @@ export default function LTFinancePersonalLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1092,10 +1092,10 @@ export default function LTFinancePersonalLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

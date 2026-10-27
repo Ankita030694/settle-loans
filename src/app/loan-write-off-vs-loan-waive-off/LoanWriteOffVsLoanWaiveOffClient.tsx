@@ -378,9 +378,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
 
             {/* Section 2: Banking Accounting Mechanics */}
             <section id="banking-accounting-mechanics" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 2. Banking Accounting Mechanics: Technical Write-Offs vs. Actual Write-Offs
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To understand why banks write off non-performing loans, one must examine the regulatory framework established by the Reserve Bank of India. Under the RBI Master Circular on Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances (IRACP), when a borrower fails to pay interest or principal installments for 90 consecutive days, the loan account is categorized as a Non-Performing Asset (NPA). As delinquency ages from Sub-Standard to Doubtful and Loss categories, banks are legally mandated to set aside substantial cash reserves—termed provisioning—against potential default losses.
               </p>
@@ -396,9 +396,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
 
             {/* Section 3: Loan Waive-Off Defined */}
             <section id="loan-waive-off-defined" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 3. Loan Waive-Off Defined: Absolute Legal Extinguishment of Debt
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 In stark contrast to a unilateral technical write-off, a **Loan Waive-Off** represents the complete, permanent, and irrevocable cancellation of a borrower&apos;s debt obligation. When a loan is waived off, the lender formally relinquishes its legal claim against the borrower, terminating the underlying loan contract under Section 63 of the Indian Contract Act, 1872, which governs the remission or dispensation of contractual performance.
               </p>
@@ -412,9 +412,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
 
             {/* Section 4: Comparative Matrix Analysis */}
             <section id="comparative-matrix-analysis" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 4. Comprehensive Comparison Matrix: Write-Off vs. Waive-Off vs. Compromise Settlement
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Understanding the technical and legal parameters that separate write-offs, waivers, and compromise settlements is vital for navigating debt disputes effectively. The following comparative matrix outlines the regulatory differences governing each mechanism under Indian banking jurisprudence.
               </p>
@@ -483,9 +483,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Legal Defense &amp; Action Blueprint
                     </span>
-                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       Loan Write-Off vs. Loan Waive-Off: Process &amp; Legal Architecture
-                    </h4>
+                    </h2>
                   </div>
                 </div>
                 <a
@@ -527,9 +527,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
 
             {/* Section 5: Recovery Tactics After Write-Off */}
             <section id="recovery-tactics-after-write-off" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 5. Recovery Tactics &amp; Legal Arsenal Deployed After a Loan is Written Off
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Because a technical write-off does not extinguish debt obligations, banks maintain an aggressive multi-tiered recovery machinery. Once an account is transferred to the memorandum ledger, the bank&apos;s special recovery branch activates external recovery agencies, operating on contingency commissions ranging from 15% to 30% of recovered capital. These collection agents frequently utilize aggressive calling patterns, workplace visits, and social embarrassment tactics, erroneously claiming that criminal arrest warrants are imminent.
               </p>
@@ -543,9 +543,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
 
             {/* Section 6: NPV Settlement Economics */}
             <section id="npv-settlement-economics" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 6. Net Present Value (NPV) &amp; Bank Settlement Economics: Why Written-Off Debts Offer Deep Haircuts
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 While a written-off status exposes borrowers to ongoing recovery pressure, it paradoxically creates the strongest financial leverage for negotiating substantial settlement discounts. The financial reasoning governing bank recovery committees is grounded in Net Present Value (NPV) recovery modeling.
               </p>
@@ -574,9 +574,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
 
             {/* Section 7: CIBIL Bureau Reality */}
             <section id="cibil-bureau-reporting-reality" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 7. CIBIL Bureau Reality: How &quot;Written Off&quot; Destroys Credit vs. Compromise Settlement
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Under the Credit Information Companies (Regulation) Act, 2005 (CICRA), all commercial banks and NBFCs are legally mandated to furnish accurate historical credit data monthly to authorized credit bureaus, including TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. Leaving a defaulted loan in &quot;Written Off&quot; status produces severe long-term financial repercussions.
               </p>
@@ -590,9 +590,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
 
             {/* Section 8: Step-by-Step Settlement Roadmap */}
             <section id="step-by-step-settlement-roadmap" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 8. Step-by-Step Strategic Roadmap: Transforming a Written-Off Debt into a Closed Account
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Resolving a written-off loan requires a disciplined, legally backed procedural approach. SettleLoans empaneled advocates utilize a five-stage strategic workflow to transition defaulted accounts from toxic &quot;Written Off&quot; records to fully extinguished liabilities.
               </p>
@@ -604,9 +604,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
                     <div className="w-7 h-7 rounded-lg bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">
                       1
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
+                    <h3 className="font-bold text-slate-900 text-base">
                       Forensic Debt &amp; Credit Bureau Audit
-                    </h4>
+                    </h2>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed pl-10">
                     Review official account statements, calculate the exact ratio of disbursed principal versus accumulated penal interest and late fees, and verify whether the loan is held by the original bank or has been assigned to an Asset Reconstruction Company.
@@ -618,9 +618,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
                     <div className="w-7 h-7 rounded-lg bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">
                       2
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
+                    <h3 className="font-bold text-slate-900 text-base">
                       Comprehensive Hardship Dossier Preparation
-                    </h4>
+                    </h2>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed pl-10">
                     Compile verifiable legal evidence proving genuine financial distress, including salary termination notices, medical treatment records, income tax filings, or business closure documentation to justify statutory waiver eligibility.
@@ -632,9 +632,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
                     <div className="w-7 h-7 rounded-lg bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">
                       3
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
+                    <h3 className="font-bold text-slate-900 text-base">
                       Formal Advocate Representation &amp; Mandate Negotiation
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed pl-10">
                     Submit formal legal representations to the bank&apos;s Zonal Stressed Assets Resolution Committee under RBI compromise guidelines, negotiating maximum penalty waivers and realistic principal haircuts.
@@ -646,9 +646,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
                     <div className="w-7 h-7 rounded-lg bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">
                       4
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
+                    <h3 className="font-bold text-slate-900 text-base">
                       Sanction Letter Verification &amp; Safe Payment Execution
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed pl-10">
                     Perform rigorous legal verification of the bank&apos;s official settlement sanction letter, ensuring explicit mention of full and final settlement terms, before executing payment directly into the designated bank loan account.
@@ -660,9 +660,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
                     <div className="w-7 h-7 rounded-lg bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">
                       5
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
+                    <h3 className="font-bold text-slate-900 text-base">
                       Securing ₹0 No Dues Certificate &amp; CIBIL Updation
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed pl-10">
                     Obtain the original, stamped ₹0 No Dues Certificate from the bank, followed by serving statutory notices to credit bureaus under CICRA 2005 to ensure the account status is updated from &quot;Written Off&quot; to &quot;Settled / Closed.&quot;
@@ -673,7 +673,7 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
 
             {/* Section 9: Legal Defense & Borrower Rights */}
             <section id="legal-defense-borrower-rights" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 9. Legal Defense Framework: Stopping Harassment &amp; Enforcing RBI Rights
               </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
@@ -689,7 +689,7 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
 
             {/* Section 10: SettleLoans Legal Strategy */}
             <section id="settleloans-advocate-strategy" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 10. Institutional Legal Representation with SettleLoans
               </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
@@ -712,7 +712,7 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
                 <div className="w-8 h-8 rounded-xl bg-blue-50 flex items-center justify-center text-[#1F5EFF]">
                   <HelpCircle className="w-5 h-5" />
                 </div>
-                <h3 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
+                <h2 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
                   Frequently Asked Questions
                 </h3>
               </div>
@@ -731,10 +731,10 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
 
             {/* Section 12: Statutory & Regulatory Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-8">
-              <h4 className="text-xs font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-xs font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory Regulatory Framework &amp; Legal Authorities</span>
-              </h4>
+              </h3>
               <ul className="space-y-2 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
@@ -771,9 +771,9 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
 
             {/* Section 13: Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Financial Planning Guides
-              </h5>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/credit-card-vs-personal-loan-settlement"

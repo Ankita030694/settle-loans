@@ -527,7 +527,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 2: Statutory Deterrence: Section 108 BNS & Section 306 IPC */}
             <section id="statutory-deterrence-section-108-bns" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Deterrence</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Deterrence</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Indian law separates civil loan recovery from criminal acts. Pushing a borrower to self-harm is a serious crime.
               </p>
@@ -536,10 +536,10 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-4">
-                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Key Criminal Penal Provisions Invoked Against Illegal Recovery Harassment</span>
-                </h4>
+                </h3>
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Section 108 BNS / Section 306 IPC: Abetment of Suicide</p>
@@ -577,7 +577,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 3: Constitutional Sanctity: Article 21 & Supreme Court Mandates */}
             <section id="constitutional-sanctity-article-21" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Constitutional Sanctity</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Constitutional Sanctity</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrower rights are backed by the Constitution of India. Article 21 protects life and personal liberty. Life means living with dignity and peace. It bars mental and physical abuse.
               </p>
@@ -594,7 +594,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 4: RBI Master Directions & Vicarious Liability */}
             <section id="rbi-master-directions-fair-practices" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. RBI Master Directions &amp; Fair Practices Code</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. RBI Master Directions &amp; Fair Practices Code</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The RBI sets binding rules for debt recovery. These rules apply to all banks and NBFCs under the <em>Master Direction on Outsourcing</em> and the <em>Fair Practices Code (FPC)</em>.
               </p>
@@ -603,10 +603,10 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
-                <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory RBI Standards Governing Debt Collection Conduct</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Permitted Contact Hours (8:00 AM to 7:00 PM Only)</p>
@@ -652,7 +652,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 6: The 24-Hour Advocate Intervention */}
             <section id="twenty-four-hour-advocate-intervention" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 24-Hour Advocate Intervention</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 24-Hour Advocate Intervention</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers need quick relief from abusive calls and visits. Arguing with telecallers does not work. The fastest way to stop abuse is legal representation.
               </p>
@@ -692,7 +692,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 7: Bank NPA Accounting, Provisioning Burdens & The NPV Recovery Model */}
             <section id="bank-npa-accounting-npv-recovery" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting Realities</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting Realities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Debt stress is solvable because banks follow clear rules. Under RBI norms, overdue loans become Non-Performing Assets (NPAs) after 90 days.
               </p>
@@ -729,7 +729,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 8: Structured OTS Forensics: Sanction Letters & NDC */}
             <section id="structured-ots-sanction-ndc" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Structured One-Time Settlement (OTS) Forensics</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Structured One-Time Settlement (OTS) Forensics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Never pay cash or UPI to agents directly. Informal cash only pays late fees. Your main loan balance stays unchanged.
               </p>
@@ -765,7 +765,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 9: Comparative Penal Matrix */}
             <section id="comparative-penal-matrix" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Harassment Tactics vs Penal Provisions Matrix</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Harassment Tactics vs Penal Provisions Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This table outlines illegal recovery acts, penal sections, RBI violations. And direct legal solutions:
               </p>
@@ -825,7 +825,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-compassionate-defense" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Anti-Harassment Defense Framework</h3>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Anti-Harassment Defense Framework</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   No one should live in fear of collection threats. Debt is a money issue. It is never a moral failure. SettleLoans shields borrowers from rogue collection agents.
                 </p>
@@ -842,7 +842,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Harassment, Legal Rights &amp; Crisis Support</h3>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Harassment, Legal Rights &amp; Crisis Support</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Read clear answers on recovery abuse, Section 108 BNS laws, crisis helplines. And debt relief in India.
@@ -872,9 +872,9 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory, Crisis &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://telemanas.mohfw.gov.in"
@@ -926,9 +926,9 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Anti-Harassment &amp; Debt Settlement Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-agent-threatening-me"

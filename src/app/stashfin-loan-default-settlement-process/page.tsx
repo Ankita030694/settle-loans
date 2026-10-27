@@ -587,7 +587,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stashfin Delinquency Lifecycle</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stashfin Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI rules and Ind AS 109, Akara Capital tracks default across DPD buckets. Timing your settlement with these stages helps you get the highest discount.
               </p>
@@ -657,7 +657,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting NACH Auto-Debits &amp; Late Fees</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Stop Stashfin NACH Bounce Penalties</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Stop Stashfin NACH Bounce Penalties</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When auto-debits bounce, banks charge ₹250 to ₹500, and Stashfin adds ₹500 to ₹1,000. These fees add up fast. Under RBI Fair Lending Practice rules (2023), lenders cannot add penalty fees to principal or compound them.
               </p>
@@ -672,7 +672,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; NPV Valuation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Akara Capital One-Time Settlement (OTS) Policies</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Akara Capital One-Time Settlement (OTS) Policies</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI rules, Akara Capital uses Net Present Value (NPV) to evaluate settlements. Since Stashfin loans are unsecured, the lender prefers fast cash over years of slow court action.
               </p>
@@ -692,7 +692,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Stashfin Settlement Haircut Slabs Across Products &amp; Aging</h4>
+              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Stashfin Settlement Haircut Slabs Across Products &amp; Aging</h3>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -750,9 +750,9 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Stashfin Loan Default Settlement &amp; Akara Capital OTS Blueprint
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -799,7 +799,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Anti-Harassment Protections &amp; RBI Rules</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Harassment Under RBI Digital Lending Rules</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Harassment Under RBI Digital Lending Rules</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Digital Lending Rules (RBI/2022-23/111) and NBFC Fair Practices Code, borrowers have clear protections: (a) Agents may only call between 8 AM and 7 PM. (b) Accessing your phone contacts or photos is illegal. (c) Calling non-guarantor family or your boss is barred. (d) Abusive language or visits to your workplace are unlawful.
               </p>
@@ -814,7 +814,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Stashfin Settlement Roadmap</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Stashfin Settlement Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Follow these six steps to settle your Stashfin loan with Akara Capital:
               </p>
@@ -822,10 +822,10 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Gather proof of financial loss. Collect medical bills, job layoff letters, or business loss records to prove non-wilful default.
                   </p>
@@ -833,10 +833,10 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     NACH Revocation &amp; Formal Communications
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Ask your bank to stop the e-NACH auto-debit mandate to avoid bounce fees. Route all calls to your lawyer to keep a clean record.
                   </p>
@@ -844,10 +844,10 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Hardship Petition to Stressed Assets Desk
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Send a formal hardship petition to Akara Capital&apos;s Stressed Assets team. Start your opening offer at 25% to 30% of total dues.
                   </p>
@@ -855,10 +855,10 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Structured Counter-Negotiations &amp; Committee Approval
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Counter low discount offers by showing proof of limited funds. Guide the committee toward a 50% to 60% principal waiver.
                   </p>
@@ -866,10 +866,10 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Audit of the Stamped OTS Sanction Letter
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Check that Akara Capital issues an official sanction letter on company letterhead with full waiver terms and payment dates.
                   </p>
@@ -877,10 +877,10 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Remittance &amp; ₹0 NDC Delivery
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the agreed sum directly to your Akara Capital loan account via RTGS or NEFT. Under RBI Circular RBI/2023-24/60, get your ₹0 No Dues Certificate within 30 days.
                   </p>
@@ -894,7 +894,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Stashfin Sec 25 PSSA &amp; Lok Adalat</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Stashfin Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A Section 25 PSSA notice for a bounced debit is a formal legal step before court cases. It is not an arrest warrant. A lawyer reply within 15 days explains your hardship and opens settlement talks.
               </p>
@@ -953,7 +953,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating Stashfin Settlement Letters</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating Stashfin Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay on oral promises or WhatsApp messages. Ensure the OTS letter is on Akara Capital Advisors Private Limited letterhead. It must show its CIN (U67190DL2016PTC291583), registered office. And authorized signature.
               </p>
@@ -968,7 +968,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; 18-Month Credit Recovery</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stashfin Post-Settlement CIBIL Score Recovery</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stashfin Post-Settlement CIBIL Score Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a Stashfin loan updates credit records to <strong>&apos;Settled&apos;</strong> with a <strong>₹0 balance</strong>. This causes a short-term score drop of 70 to 130 points. But it stops monthly default marks.
               </p>
@@ -983,7 +983,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. SettleLoans Legal Defense &amp; Representation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Stashfin Borrowers Trust SettleLoans
               </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
@@ -1002,7 +1002,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Stashfin Loan Default Settlement</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Stashfin Loan Default Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1028,10 +1028,10 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1093,10 +1093,10 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/cashe-loan-settlement-process"

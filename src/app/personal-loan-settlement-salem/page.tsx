@@ -571,9 +571,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; High Court Norms</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Delinquency Lifecycle &amp; Madras High Court Borrower Safeguards
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under the Reserve Bank of India framework, an unpaid personal loan progresses through Special Mention Account stages: SMA-0 (1 to 30 days overdue), SMA-1 (31 to 60 days), and SMA-2 (61 to 90 days). Beyond 90 days of non-payment, the loan is classified as a Non-Performing Asset (NPA) under the RBI Master Direction on Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances (IRACP). This transition directly impacts branch performance metrics and triggers mandatory recovery protocols.
                 </p>
@@ -593,9 +593,9 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Salem District Court Notice Defense</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Hasthampatti District Court Summons &amp; Section 138/25 Defense
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Following NPA classification, lenders frequently issue statutory demand notices through empanelled lawyers at the Combined District Court Complex in Hasthampatti, Salem. Creditors rely on Section 138 of the Negotiable Instruments Act, 1881 for dishonored cheques and Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for failed NACH auto-debits.
                 </p>
@@ -613,9 +613,9 @@ export default function Page() {
                   <Lock className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Account Shield</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Banker Lien Under Section 171 &amp; Salary Account Protections
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Creditor banks often invoke Section 171 of the Indian Contract Act, 1872 (Banker General Lien) to freeze or debit savings, fixed deposits, or current accounts to offset overdue personal loans. However, this lien is legally restricted to accounts held within the same banking network under the identical Customer Information File (CIF).
                 </p>
@@ -630,9 +630,9 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>5. Visual Resolution Blueprint</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Salem Loan Settlement Blueprint &amp; Resolution Architecture
-                </h3>
+                </h2>
                 <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                   <img
                       width={1200}
@@ -654,9 +654,9 @@ export default function Page() {
                   <Calculator className="w-4 h-4" />
                   <span>6. OTS Policies &amp; NPV Formula</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Bank OTS Policies &amp; Net Present Value (NPV) Recovery Formula
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Every commercial bank operates a Board-approved Compromise Settlement Policy governed by RBI guidelines. When evaluating an OTS proposal, Credit Committees use the <strong>Net Present Value (NPV) Recovery Valuation</strong> to measure immediate compromise cash against protracted litigation outcomes.
                 </p>
@@ -686,9 +686,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>7. Lok Adalat at Salem Court</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   National Lok Adalat Conciliation at Salem Court Complex
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Organized quarterly by the District Legal Services Authority (DLSA) Salem at the Combined Court Complex in Hasthampatti, National Lok Adalat benches provide statutory dispute resolution under the Legal Services Authorities Act, 1987. Banks frequently place distressed portfolios before these benches to clean balance sheets before regulatory audits.
                 </p>
@@ -703,9 +703,9 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>8. Sanction Forensics &amp; CIBIL Rebuild</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Sanction Letter Forensics, 30-Day NDC &amp; Credit Rehabilitation
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   A debt settlement must be supported by authentic documentation. Borrowers must never rely on verbal promises or informal messages from collection agents. An authentic OTS sanction letter must appear on official bank letterhead with branch seals, reference numbers, explicit debt extinguishment clauses, and written commitments to withdraw court cases.
                 </p>
@@ -720,9 +720,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>9. Comparative Resolution Matrix</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Comparative Matrix: Self-Negotiation vs. Legal Representation
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   The strategy chosen by a distressed borrower determines whether they attain complete financial closure or face persistent legal claims. The table below details the differences across common resolution pathways:
                 </p>
@@ -786,9 +786,9 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>10. Professional Legal Advocacy</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Empanelled Advocate Representation for Western Tamil Nadu Debt
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Successfully resolving defaulted loans across Salem, Namakkal, and Erode requires a nuanced understanding of Western Tamil Nadu commercial dynamics, local court hierarchies, and RBI regulatory mandates. SettleLoans delivers specialized legal defense and financial representation, shielding your commercial reputation from aggressive recovery personnel and securing legally binding, stamped One-Time Settlements.
                 </p>
@@ -803,9 +803,9 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>11. Frequently Asked Questions</span>
                 </div>
-                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Frequently Asked Questions on Salem Loan Settlement
-                </h3>
+                </h2>
 
                 <div className="space-y-4">
                   {(((jsonLdGraph['@graph'].find((item: any) => item['@type'] === 'FAQPage') as any)?.['mainEntity'] || []) as Array<{ name: string; acceptedAnswer: { text: string } }>).map((faq, index: number) => (

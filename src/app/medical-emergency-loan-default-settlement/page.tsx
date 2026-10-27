@@ -598,9 +598,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <FileText className="w-4 h-4" />
                 <span>2. Compiling the Medical Hardship Dossier</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Compiling Medical Records as Irrefutable Evidence
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Bank Zonal Stressed Assets Committees and Chief Risk Officers do not grant multi-lakh debt waivers based on verbal emotional appeals or casual medical prescriptions. Internal bank auditors, statutory credit controllers, and RBI inspection teams require comprehensive, verifiable documentary trails to justify every single rupee written off under a compromise settlement. Submitting an airtight <strong>Medical Hardship Dossier</strong> transforms a subjective personal crisis into an indisputable legal reality, compelling bank credit committees to authorize maximum compromise concessions.
               </p>
@@ -667,9 +667,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. NPA Lifecycle &amp; Zonal Committee Timing</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 NPA Provisioning Timeline for Medical Debt Waivers
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Achieving a favorable loan settlement requires an in-depth understanding of bank accounting cycles and the regulatory lifecycle of delinquent assets. In commercial banking, default resolution is governed by strict provisioning mandates imposed by the Reserve Bank of India. The internal authority of bank credit managers to sanction significant debt write-offs changes drastically across the delinquency timeline:
               </p>
@@ -740,9 +740,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Debt Waiver Mathematics</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 NPV Modeling: Why Banks Accept 50%–75% Medical Haircuts
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers often wonder why commercial banks voluntarily waive 50% to 75% of an outstanding loan balance. The decision is rooted in institutional economics and <strong>Net Present Value (NPV) Recovery Modeling</strong>. Under RBI Master Directions, credit committees must determine whether an immediate cash settlement yields higher net returns than litigating against a medically incapacitated borrower.
               </p>
@@ -779,9 +779,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Resolution Blueprint: Medical Default to ₹0 NDC
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The comprehensive infographic below illustrates the 4-stage institutional lifecycle of resolving defaulted retail loans following catastrophic medical emergencies. It outlines how verified hospital records and statutory protections transform unmanageable debt into an authorized 50% to 75% compromise waiver under Reserve Bank of India frameworks.
               </p>
@@ -808,9 +808,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Stopping Harassment &amp; Patient Protection</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Halting Recovery Harassment for Medical Patients
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most distressing aspect of defaulting during illness is aggressive recovery agent harassment. Lenders often outsource delinquent accounts to commission-driven third-party agencies. In violation of statutory regulations, agents sometimes call patients in hospitals or visit during strict bed rest. They intimidate family members and issue unlawful threats of police action.
               </p>
@@ -825,10 +825,10 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <li><strong>Zero Tolerance for Coercion &amp; Threats:</strong> Using abusive language, threatening physical harm, or falsely claiming that police officers will arrest the patient constitutes punishable criminal intimidation under the Bharatiya Nyaya Sanhita.</li>
               </ul>
               <div className="bg-slate-50 border border-slate-200 rounded-xl p-5 my-6">
-                <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Enforcement &amp; Ombudsman Escalation Mechanism</span>
-                </h4>
+                </h2>
                 <p className="text-xs text-slate-600 leading-relaxed">
                   When collection agencies violate these statutory safeguards, specialized legal advocates issue a formal <strong>Legal Cease-and-Desist Notice</strong> to the bank&apos;s Managing Director and Principal Nodal Officer (PNO), attaching hospital admission records. If the harassment continues, a formal complaint is escalated to the <strong>RBI Integrated Ombudsman Portal (<a href="https://cms.rbi.org.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-semibold">cms.rbi.org.in</a>)</strong>. Under the Ombudsman scheme, banks face mandatory regulatory reprimands, institutional fines, and monetary relief orders awarded directly to the distressed borrower.
                 </p>
@@ -841,9 +841,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>7. Section 25 PSSA &amp; Section 138 Defense</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Notices: Section 25 PSSA & Section 138 NI Act
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 As medical expenditures exhaust bank balances, automated electronic National Automated Clearing House (e-NACH) mandates and post-dated cheques bounce due to insufficient funds. Lenders use these automated bounce events to issue intimidating statutory legal notices under <strong>Section 25 of the Payment and Settlement Systems Act (PSSA), 2007</strong> or <strong>Section 138 of the Negotiable Instruments (NI) Act, 1881</strong>.
               </p>
@@ -870,59 +870,59 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Step-by-Step Settlement Protocol</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 5-Step Compassionate Settlement Protocol for Zonal Approval
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a legally binding, heavily discounted loan settlement requires bypassing frontline collection tele-callers and engaging directly with authorized bank decision-makers. The following five-stage roadmap governs professional medical debt resolution:
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                     <span>Audit &amp; Medical Dossier Assembly</span>
-                  </h4>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Collate all hospital discharge summaries, inpatient invoices, TPA claim vouchers, treating physician prognosis certificates, and 12-month stamped bank account statements establishing total savings exhaustion.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">2</span>
                     <span>Legal Representation &amp; Harassment Injunction</span>
-                  </h5>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Formal Letters of Authority (LoA) are served on the lender&apos;s Nodal Officers. Legal cease-and-desist notices immediately halt collection agent harassment at home, office, and hospital premises under RBI directives.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">3</span>
                     <span>Direct Submission to Zonal Stressed Assets Cell</span>
-                  </h5>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     The structured compassionate hardship petition is submitted directly to the bank&apos;s Zonal Settlement Committee, bypassing retail branch personnel and presenting detailed NPV recovery mathematics.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">4</span>
                     <span>Multi-Round Haircut talks</span>
-                  </h5>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Advocates negotiate aggressively to eliminate 100% of accumulated penal interest and bounce charges, securing a 50% to 75% haircut on the core principal balance based on verified healthcare costs.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">5</span>
                     <span>Sanction Letter Audit &amp; Stamped ₹0 NDC Closure</span>
-                  </h5>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     The official OTS Sanction Letter is forensically audited for mandatory legal clauses before payment is disbursed. Stamped No Dues Certificates (NDC) and credit bureau updates are tracked until final delivery.
                   </p>
@@ -936,7 +936,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 OTS Sanction Letters: 5 Key Clauses & ₹0 NDC Mandate
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -968,7 +968,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. Comparative Matrix &amp; CIBIL Recovery</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparative Debt Resolution Matrix & Credit Repair
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -1020,7 +1020,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 </table>
               </div>
 
-              <h4 className="text-lg md:text-xl font-bold text-slate-900 mt-8 mb-3">
+              <h3 className="text-lg md:text-xl font-bold text-slate-900 mt-8 mb-3">
                 Rebuilding Your CIBIL Score from &apos;Settled&apos; to 750+ Post-Recovery
               </h4>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -1045,7 +1045,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Loan Settlement Due to Medical Emergency
               </h3>
 
@@ -1073,7 +1073,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
               </h4>
@@ -1138,7 +1138,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
               </h4>

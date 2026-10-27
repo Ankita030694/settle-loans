@@ -386,10 +386,10 @@ export default function StudentLoanSettlementPage() {
                                 The burden of student loan debt is a unique crisis in India, affecting millions of young graduates who enter the workforce during periods of economic volatility. Unlike a personal loan or a credit card, an education loan is often the first financial commitment a young person makes, and it usually involves their parents as co-borrowers. In the current economic landscape, India's banking system and the Government of India have established specialized programs specifically for education loans.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-[#1F5EFF] mb-8">
-                                <h4 className="text-lg font-bold text-blue-900 mb-4 flex items-center font-sans tracking-tight">
+                                <h3 className="text-lg font-bold text-blue-900 mb-4 flex items-center font-sans tracking-tight">
                                     <svg className="w-5 h-5 mr-3 text-[#1F5EFF]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                                     Priority Sector Status
-                                </h4>
+                                </h2>
                                 <p className="text-blue-800 font-sans leading-relaxed">
                                     Education loans are classified as Priority Sector Lending (PSL) by the RBI. This means banks have different recovery mandates and are monitored more strictly regarding how they handle defaults compared to commercial loans.
                                 </p>
@@ -397,9 +397,9 @@ export default function StudentLoanSettlementPage() {
                         </section>
 
                         <section id="legal-status" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight uppercase underline decoration-blue-500/30">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight uppercase underline decoration-blue-500/30">
                                 The 7.5 Lakh Legal Threshold
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6 font-sans">
                                 Under the IBA Model Scheme, loans up to 7.5 lakhs require NO collateral or third party guarantee. Since these are technically unsecured, banks are surprisingly flexible in accepting settlement offers, as their legal recovery costs often exceed the remaining principal on these small-ticket accounts.
                             </p>
@@ -408,18 +408,18 @@ export default function StudentLoanSettlementPage() {
             <LoanSettlementAssessmentFunnel />
 
                         <section id="cgfsel-guarantee" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
                                 Understanding the CGFSEL Hidden Advantage
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6 font-sans">
                                 For loans up to 7.5 lakhs, banks are covered by the Credit Guarantee Fund Scheme for Education Loans (CGFSEL). This government fund pays the bank up to 75% of the defaulted amount. Professional negotiators like SettleLoans use this fact to convince banks to close the file for the remaining 25% from the student's pocket.
                             </p>
                         </section>
 
                         <section id="case-study" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight">
                                 Case Study: The 'Clean Closure' Victory
-                            </h3>
+                            </h2>
                             <div className="p-10 bg-gray-50 rounded-[40px] border border-gray-200 font-sans">
                                 <p className="text-lg italic leading-relaxed text-gray-700">
                                     Mr. Rajesh, an engineering graduate, saw his 6L loan grow to 8.5L due to unemployment. By auditing his CSIS subsidies and leveraging the CGFSEL guarantee, we negotiated an OTS where he paid only 4.5L (the original principal portion). The bank reached a 95% total recovery combining his payment with the NCGTC guarantee.
@@ -428,25 +428,25 @@ export default function StudentLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation-scripts" className="scroll-mt-32 mb-16 text-justify">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
                                 Professional Negotiation Scripts for Students
-                            </h3>
+                            </h2>
                             <div className="space-y-6">
                                 <div className="bg-white p-6 rounded-2xl border-2 border-dashed border-gray-300">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-widest text-xs font-sans">Placement Failure Script</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-widest text-xs font-sans">Placement Failure Script</h3>
                                     <p className="text-sm font-sans italic">"I have not secured a stable placement despite 50+ applications. I request an OTS settlement resetting my debt to the end-of-moratorium simple interest balance."</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-2xl border-2 border-dashed border-gray-300">
-                                    <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-widest text-xs font-sans">NCGTC Leverage Script</h5>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-widest text-xs font-sans">NCGTC Leverage Script</h4>
                                     <p className="text-sm font-sans italic">"Since my loan is CGFSEL covered, an amicable 20% payment today ensures the bank avoids a 3-year litigation while recovering nearly 95% of the book value through the guarantee fund."</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="psb-vs-private" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
                                 Public Sector vs Private Bank Recovery
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6 font-sans">
                                 The recovery experience differs significantly between Public Sector Banks (PSBs) like SBI or PNB and private lenders like ICICI or Axis. PSBs are more likely to participate in Lok Adalats and offer deep interest waivers under OTS circulars. Private banks, however, often look for commercial 'recoverable value' and may settle faster if they sense long-term litigation risk. Understanding which 'bucket' your lender falls into is crucial for your negotiation strategy.
                             </p>
@@ -456,9 +456,9 @@ export default function StudentLoanSettlementPage() {
                         </section>
 
                         <section id="parental-impact" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
                                 Protecting Your Parents' CIBIL & Peace
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6 font-sans">
                                 Since most education loans are co-signed by parents (as primary co-borrowers or guarantors), their credit identity is at high risk. A default on your student loan can block your father's ability to get a car loan or your mother's ability to renew her credit card. This 'collateral damage' is often the most painful part of student debt.
                             </p>
@@ -468,9 +468,9 @@ export default function StudentLoanSettlementPage() {
                         </section>
 
                         <section id="international-nri" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
                                 NRI Student Recovery: Global Nuances
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6 font-sans text-justify">
                                 Students who move abroad for higher education often face unique challenges. If you default on an Indian loan while working in Europe or America, the bank can still pursue your co-borrowers (located in India). While cross-border legal recovery for education loans is rare for amounts under 20 lakhs, the impact on your 'domicile' records in India remains a concern.
                             </p>
@@ -480,9 +480,9 @@ export default function StudentLoanSettlementPage() {
                         </section>
 
                         <section id="state-schemes" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
                                 State-Specific Support: Kerala & WB
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6 font-sans text-justify">
                                 Certain states in India have unique support systems for student borrowers. For example, Kerala has previously launched schemes to help students from economically backward families settle their loans. West Bengal's Student Credit Card scheme also has built-in protections for resident students.
                             </p>
@@ -492,9 +492,9 @@ export default function StudentLoanSettlementPage() {
                         </section>
 
                         <section id="grievance-path" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
                                 The Grievance Redressal Pathway
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6 font-sans text-justify">
                                 If the branch manager is being uncooperative or refusing to credit your subsidies, there is a clear hierarchy you must follow. First, write to the Zonal Office. If that fails, approach the Nodal Officer for Education Loans at the Head Office. The final step is the RBI Ombudsman (Integrated Ombudsman Scheme).
                             </p>
@@ -504,9 +504,9 @@ export default function StudentLoanSettlementPage() {
                         </section>
 
                         <section id="interest-2025" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
                                 Rising Interest Rates & The 2025 Outlook
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6 font-sans text-justify">
                                 With the RBI maintaining higher repo rates, floating rates on education loans have climbed to 11-13% for many borrowers. This means your debt is doubling every 6 years. If you are unable to pay the full EMI, the compounding effect will create a mathematical trap that is impossible to escape later in your career.
                             </p>
@@ -516,7 +516,7 @@ export default function StudentLoanSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-bold text-[#1E293B] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Student Loan Settlement FAQs</h3>
+                            <h2 className="text-3xl md:text-4xl font-bold text-[#1E293B] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Student Loan Settlement FAQs</h2>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can a bank seize my degree for an unpaid student loan?", a: "No. Indian courts have repeatedly ruled that your educational certificates are your personal property and a bank cannot hold them hostage. They can only pursue civil recovery." },
@@ -555,7 +555,7 @@ export default function StudentLoanSettlementPage() {
                             </div>
                         </section>
 
-                        <h3 id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Student Success Stories</h3>
+                        <h2 id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Student Success Stories</h2>
                         <div className="grid md:grid-cols-2 gap-4 md:gap-6 not-prose mb-16 text-left">
                             {[
                                 {
@@ -590,7 +590,7 @@ export default function StudentLoanSettlementPage() {
                                 <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h4 className="font-bold text-[#2E2E2E]">{review.name}</h4><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -615,9 +615,9 @@ export default function StudentLoanSettlementPage() {
                         </div>
 
                         <section id="consolidation-vs-settlement" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
                                 Education Loan Consolidation vs. Settlement
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6 font-sans text-justify">
                                 For students with multiple loans (e.g., one for tuition and another for living expenses), the choice between consolidation and settlement is critical. Consolidation involves taking a new, larger loan to pay off smaller ones, usually extending the tenure and reducing the EMI. This protects your CIBIL score. However, most Indian banks only offer consolidation to students who already have a stable job and a clean repayment record.
                             </p>
@@ -626,7 +626,7 @@ export default function StudentLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-10">
                                 <div className="p-6 bg-blue-50 rounded-2xl border border-blue-100">
-                                    <h4 className="font-bold text-blue-900 mb-2">When to Consolidate</h4>
+                                    <h3 className="font-bold text-blue-900 mb-2">When to Consolidate</h3>
                                     <ul className="text-sm space-y-2 text-blue-800">
                                         <li>• You have a stable job offer.</li>
                                         <li>• Your CIBIL is still above 700.</li>
@@ -634,7 +634,7 @@ export default function StudentLoanSettlementPage() {
                                     </ul>
                                 </div>
                                 <div className="p-6 bg-red-50 rounded-2xl border border-red-100">
-                                    <h5 className="font-bold text-red-900 mb-2">When to Settle</h5>
+                                    <h4 className="font-bold text-red-900 mb-2">When to Settle</h4>
                                     <ul className="text-sm space-y-2 text-red-800">
                                         <li>• You are currently unemployed.</li>
                                         <li>• The bank has already classified you as NPA.</li>
@@ -645,7 +645,7 @@ export default function StudentLoanSettlementPage() {
                         </section>
 
                         <section id="conclusion" className="scroll-mt-32 mb-16">
-                            <h3 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
                                 Conclusion: Your Future Starts Post-Resolution
                             </h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-sans text-justify">
@@ -662,7 +662,7 @@ export default function StudentLoanSettlementPage() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 left-0 w-64 h-64 bg-white/10 rounded-full -ml-32 -mt-32"></div>
                             <div className="relative z-10 text-justify">
-                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-center font-sans">Reclaim Your Future Today</h3>
+                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-center font-sans">Reclaim Your Future Today</h2>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal font-sans">
                                     Our student debt specialists will audit your subsidies and help you negotiate a clean exit from your education loans.
                                 </p>

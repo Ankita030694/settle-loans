@@ -602,9 +602,9 @@ export default function PersonalLoanSettlementJamshedpurPage() {
                 <Gavel className="w-4 h-4" />
                 <span>2. East Singhbhum Judicial Hierarchy &amp; Local Jurisdictions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Judicial Jurisdiction: Sakchi Courts to DRT Ranchi
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Understanding the judicial hierarchy of East Singhbhum is essential for resolving debt disputes. In Jamshedpur, bank litigation begins before the District and Sessions Court at Sakchi. Lenders frequently file complaints under Section 138 of the Negotiable Instruments Act for bounced cheques, or Section 25 of the Payment and Settlement Systems Act for failed electronic mandates. These matters are heard by Judicial Magistrate First Class benches at Sakchi Civil Court.
               </p>
@@ -673,9 +673,9 @@ export default function PersonalLoanSettlementJamshedpurPage() {
                 <Calculator className="w-4 h-4" />
                 <span>3. Institutional NPA Accounting &amp; Balance-Sheet Economics</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Bank NPA Accounting &amp; Compromise Valuation in Jamshedpur
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Commercial banks across Jamshedpur adhere to uniform Prudential Norms established by the Reserve Bank of India. When an unsecured personal loan or credit card remains unpaid for ninety consecutive days, it is classified as a Non-Performing Asset (NPA). The bank must halt interest income recognition and reverse accrued uncollected revenue from its balance sheet.
               </p>
@@ -708,9 +708,9 @@ export default function PersonalLoanSettlementJamshedpurPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Anti-Harassment Protections &amp; Fair Recovery Practices</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Halting Harassment Under RBI Directives in Jamshedpur
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Salaried workers and local traders in Jamshedpur often encounter severe pressure from third-party recovery agents. Unlawful collection practices include late-night calls, messages to personal contacts, and unannounced visits to residential quarters in Kadma, Bistupur, Sonari, or Telco. These actions violate fundamental borrower rights and statutory banking standards.
               </p>
@@ -734,9 +734,9 @@ export default function PersonalLoanSettlementJamshedpurPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Jharkhand Legal Conciliation Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Personal Loan Settlement &amp; Legal Resolution Process in Jamshedpur
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -783,9 +783,9 @@ export default function PersonalLoanSettlementJamshedpurPage() {
                 <Briefcase className="w-4 h-4" />
                 <span>6. Sector-Specific Debt Resolution Protocols</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Tailored Settlement Solutions for Steel &amp; MSME Sectors
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers across Jamshedpur and the industrial belt face specific financial hurdles that demand tailored legal negotiation strategies:
               </p>
@@ -829,9 +829,9 @@ export default function PersonalLoanSettlementJamshedpurPage() {
                 <Scale className="w-4 h-4" />
                 <span>7. Statutory Court Defense &amp; Lok Adalat Conciliation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Sec 138, Sec 25 PSSA &amp; Lok Adalat in Sakchi
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When loan defaults cross 120 days, lenders may initiate court proceedings in East Singhbhum. These include Section 138 Negotiable Instruments Act complaints for dishonored cheques and Section 25 Payment and Settlement Systems Act cases for bounced NACH mandates before Judicial Magistrates at Sakchi Civil Court. These matters remain civil debt disputes in substance.
               </p>
@@ -846,9 +846,9 @@ export default function PersonalLoanSettlementJamshedpurPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; Zero-Balance Compliance</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 OTS Sanction Letter Forensics &amp; Zero-Balance NDC Mandate
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a loan without legal verification carries serious financial risks. Unscrupulous recovery agents sometimes issue fake compromise letters on forged letterheads, taking payments that banks later dispute. SettleLoans verifies every settlement document before advising client disbursement.
               </p>
@@ -863,9 +863,9 @@ export default function PersonalLoanSettlementJamshedpurPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. Credit Score Trajectory &amp; Rehabilitation Blueprint</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Post-Settlement CIBIL Trajectory &amp; Score Rehabilitation
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling an unmanageable loan causes the lender to report the account as Settled with zero balance. While this initially lowers the credit score by 75 to 150 points, it halts monthly default reporting and Days Past Due (DPD) accumulation that damages credit profiles.
               </p>
@@ -926,9 +926,9 @@ export default function PersonalLoanSettlementJamshedpurPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Senior Legal Advocacy &amp; Debt Resolution</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Jamshedpur Borrowers Choose SettleLoans Legal Advocates
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving defaulted personal debt in Jamshedpur, Tatanagar, and Adityapur requires seasoned legal expertise and firm advocacy. SettleLoans combines local courtroom experience in East Singhbhum with deep mastery of RBI banking regulations. Our advocates protect employment standing, resolve court summons, stop recovery harassment, and secure maximum debt waivers with authentic No Dues Certificates.
               </p>
@@ -945,7 +945,7 @@ export default function PersonalLoanSettlementJamshedpurPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Loan Settlement in Jamshedpur
               </h3>
 

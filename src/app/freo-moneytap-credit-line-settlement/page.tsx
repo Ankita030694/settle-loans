@@ -578,7 +578,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; Credit Line Trap</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Revolving Credit Line Trap</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Revolving Credit Line Trap</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 MoneyTap lets users take many cash draws from one credit limit. Each draw forms a new sub-loan. Each loan has its own EMI term. Rates range from 18% to 36% per year.
               </p>
@@ -613,7 +613,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. Halting e-NACH Sweeps &amp; Predatory Penalties</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Recurring Auto-Debit Penalties</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Recurring Auto-Debit Penalties</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Automated sweeps hit bank accounts many times a month across active sub-loans. This drains bank savings with heavy bounce fees.
               </p>
@@ -631,7 +631,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How RBL Bank &amp; DMI Finance Evaluate Settlement Proposals</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How RBL Bank &amp; DMI Finance Evaluate Settlement Proposals</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settlements with RBL Bank or DMI Finance follow board compromise policies under RBI norms. Once a loan turns NPA, lenders set aside 100% provisions under Ind AS 109.
               </p>
@@ -659,10 +659,10 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
 
               {/* Comparative Matrix Table */}
               <div className="my-8 overflow-x-auto">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
+                <h3 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
                   <Layers className="w-4 h-4 text-[#1F5EFF]" />
                   <span>MoneyTap / Freo Settlement Benchmark &amp; Haircut Matrix</span>
-                </h4>
+                </h3>
                 <table>
                   <thead>
                     <tr>
@@ -726,9 +726,9 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         MoneyTap (Freo) Credit Line Settlement &amp; Legal Defense Blueprint
-                      </h4>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -775,7 +775,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; Privacy Harassment Defense</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive Recovery, Contact Harvesting</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive Recovery, Contact Harvesting</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 External debt collection agencies often break rules. They scrape phone contacts, call workplaces, or threaten family members.
               </p>
@@ -807,57 +807,57 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step Co-Lending Settlement Roadmap</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with MoneyTap</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with MoneyTap</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A successful loan settlement follows five clear legal steps:
               </p>
               
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-black">1</span>
                     Loan Ledger Forensic Audit &amp; Sub-Loan Identification
-                  </h4>
+                  </h3>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Get the full loan statement to find each loan account number (LAN). Separate core principal from extra bounce charges and penal fees.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-black">2</span>
                     Establishing Bona Fide Commercial Hardship
-                  </h5>
+                  </h3>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Gather clear proof of financial distress. Useful proofs include job loss letters, medical bills, or salary cuts. This shows genuine, non-wilful default.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-black">3</span>
                     Submitting the Formal Hardship &amp; OTS Petition
-                  </h5>
+                  </h3>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Send a formal settlement letter. Contact the Stressed Assets Desk at RBL Bank or DMI Finance. Also copy the Nodal Officer. Ask for full fee waivers.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-black">4</span>
                     Institutional Negotiation &amp; Sanction Letter Issuance
-                  </h5>
+                  </h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Agree on a fair amount (usually 40% to 55% of principal). Get an official OTS Sanction Letter on bank letterhead covering all sub-loans.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-black">5</span>
                     Direct Bank Channel Payment &amp; NDC Delivery
-                  </h5>
+                  </h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Pay the settlement amount directly to the bank via RTGS or NEFT. Collect your official No Dues Certificate within 30 days under RBI rules.
                   </p>
@@ -871,7 +871,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 PSSA, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending MoneyTap Sec 25 PSSA &amp; Arbitration</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending MoneyTap Sec 25 PSSA &amp; Arbitration</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When defaults pass 90 to 120 days, lenders send legal notices. Knowing your legal rights prevents panic:
               </p>
@@ -892,7 +892,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MoneyTap OTS Sanction Letter Forensics</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MoneyTap OTS Sanction Letter Forensics</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay on verbal promises or informal messages from collection agents. Payments made without authorized letters are often used for fees instead of closing the debt.
               </p>
@@ -922,7 +922,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MoneyTap Post-Settlement CIBIL Recovery</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MoneyTap Post-Settlement CIBIL Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a MoneyTap credit line updates credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark). The loan status changes to <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>.
               </p>
@@ -940,7 +940,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Distressed Borrowers Choose SettleLoans</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Distressed Borrowers Choose SettleLoans</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans shields borrowers from recovery harassment. We send statutory notices. We remove unfair bounce fees. We reply to Section 25 PSSA notices. We deal directly with RBL Bank and DMI Finance. We secure 40% to 60% debt waivers and official ₹0 No Dues Certificates.
               </p>
@@ -957,7 +957,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: MoneyTap (Freo) Credit Line Settlement</h3>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: MoneyTap (Freo) Credit Line Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -984,7 +984,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
               </h4>
@@ -1049,7 +1049,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
               </h4>

@@ -399,9 +399,9 @@ export default function WhatIsHaircutClient() {
 
             {/* Section 2: Bank Balance Sheet Economics */}
             <section id="bank-balance-sheet-economics" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 2. Why Indian Banks Willingly Take Haircuts on NPAs
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Borrowers frequently ask why lenders willingly forfeit substantial sums instead of demanding full payment. The answer lies in regulatory accounting rules imposed by the Reserve Bank of India. Lenders must follow the RBI Master Circular on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP).
               </p>
@@ -417,9 +417,9 @@ export default function WhatIsHaircutClient() {
 
             {/* Section 3: Unsecured vs Secured Haircuts */}
             <section id="unsecured-vs-secured-haircuts" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 3. Haircut Sizing: Unsecured Credit vs Secured Assets
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 The magnitude of the haircut a bank will approve depends fundamentally on the underlying collateral backing the credit facility. The Indian financial sector operates on starkly distinct legal frameworks for unsecured versus secured debts, directly dictating the bargaining leverage available to borrowers and their legal advocates.
               </p>
@@ -433,9 +433,9 @@ export default function WhatIsHaircutClient() {
 
             {/* Section 4: NPV Recovery Calculation Formula */}
             <section id="npv-recovery-calculation-formula" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 4. Mathematical Model: NPV Recovery Formula in Haircuts
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Bank settlement approvals are neither arbitrary nor based on emotional appeals. Institutional recovery decisions are governed by a mathematical Net Present Value (NPV) recovery comparison model mandated under internal credit compromise policies. When evaluating an OTS proposal, the bank&apos;s Credit Settlement Committee compares the guaranteed present cash offer against the estimated discounted recovery achievable through prolonged legal recovery proceedings.
               </p>
@@ -473,9 +473,9 @@ export default function WhatIsHaircutClient() {
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Legal Defense &amp; Action Blueprint
                     </span>
-                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       Loan Settlement Haircut &amp; Bank OTS Process Overview
-                    </h4>
+                    </h2>
                   </div>
                 </div>
                 <a
@@ -517,9 +517,9 @@ export default function WhatIsHaircutClient() {
 
             {/* Section 5: NPA Aging Buckets & Haircut Matrix */}
             <section id="npa-aging-haircut-matrix" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 5. NPA Classification & Delinquency Aging Haircut Matrix
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 The stage of delinquency and the formal asset classification bucket of your defaulted loan directly govern the haircut percentage a bank is authorized to approve. Bank Delegation of Financial Powers matrices establish strict settlement discount caps tied to the provisioning level of each delinquency tier.
               </p>
@@ -582,9 +582,9 @@ export default function WhatIsHaircutClient() {
 
             {/* Section 6: RBI Regulatory Directives */}
             <section id="rbi-regulatory-directives-ots" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 6. RBI Framework on Compromise Settlements (2023–2026)
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To standardize compromise settlements and eliminate arbitrary recovery agent practices, the Reserve Bank of India issued its comprehensive **Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24)**. This landmark regulatory directive applies to all commercial banks, urban cooperative banks, and NBFCs across India, establishing strict statutory rules governing debt haircuts.
               </p>
@@ -598,9 +598,9 @@ export default function WhatIsHaircutClient() {
 
             {/* Section 7: Advocate Negotiation Strategy */}
             <section id="advocate-negotiation-strategy" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 7. Strategic Negotiation for Maximum Permissible Haircuts
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Securing a favorable haircut is a sophisticated legal and financial negotiation process. Distressed borrowers who negotiate directly with third-party collection agents often fail because recovery agents operate on aggressive monthly commission quotas and lack the statutory authority to approve principal waivers. SettleLoans advocates deploy a structured four-stage procedural workflow to achieve maximum permissible haircuts.
               </p>
@@ -614,9 +614,9 @@ export default function WhatIsHaircutClient() {
 
             {/* Section 8: Sanction Letter Audit */}
             <section id="sanction-letter-audit-safeguards" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 8. Sanction Letter Audit: Preventing Fraudulent Traps
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 The most dangerous hazard in debt resolution is falling victim to unauthorized settlement scams executed by commission-driven collection agents. In thousands of documented instances across India, predatory recovery agents issue fake WhatsApp discount letters or verbally promise that paying a small amount will settle the loan. Once the borrower deposits the money, the bank books it as a partial overdue payment, leaving the remaining principal active and delinquency continuing unabated.
               </p>
@@ -626,10 +626,10 @@ export default function WhatIsHaircutClient() {
 
               {/* Callout Box on Mandatory Sanction Criteria */}
               <div className="bg-slate-50 border border-slate-200 p-5 rounded-2xl my-6">
-                <h4 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
                   <BadgeCheck className="w-5 h-5 text-emerald-600" />
                   <span>Mandatory Legal Criteria for a Valid OTS Sanction Letter</span>
-                </h4>
+                </h2>
                 <div className="space-y-2 text-sm text-slate-700">
                   <p>
                     <strong>1. Official Bank Letterhead:</strong> The document must be printed on official bank stationery bearing a valid reference number, branch seal, and signature of an authorized designated officer.
@@ -653,7 +653,7 @@ export default function WhatIsHaircutClient() {
 
             {/* Section 9: CIBIL Impact & Credit Rehabilitation */}
             <section id="cibil-impact-credit-rehabilitation" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 9. How Haircuts Impact CIBIL & Path to Credit Repair
               </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
@@ -669,7 +669,7 @@ export default function WhatIsHaircutClient() {
 
             {/* Section 10: SettleLoans Legal Strategy */}
             <section id="settleloans-advocacy-framework" className="scroll-mt-28 mb-12">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 10. Institutional Legal Advocacy with SettleLoans
               </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
@@ -692,9 +692,9 @@ export default function WhatIsHaircutClient() {
                 <div className="w-8 h-8 rounded-xl bg-blue-50 flex items-center justify-center text-[#1F5EFF]">
                   <HelpCircle className="w-5 h-5" />
                 </div>
-                <h3 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
+                <h2 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
                   Frequently Asked Questions
-                </h3>
+                </h2>
               </div>
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -711,10 +711,10 @@ export default function WhatIsHaircutClient() {
 
             {/* Section 12: Statutory & Regulatory Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-8">
-              <h4 className="text-xs font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-xs font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory Regulatory Framework &amp; Banking Authorities</span>
-              </h4>
+              </h3>
               <ul className="space-y-2 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
@@ -751,9 +751,9 @@ export default function WhatIsHaircutClient() {
 
             {/* Section 13: Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Financial Planning Guides
-              </h5>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

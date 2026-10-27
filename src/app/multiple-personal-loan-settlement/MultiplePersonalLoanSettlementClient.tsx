@@ -247,9 +247,9 @@ export default function MultiplePersonalLoanSettlementClient() {
 
             {/* SECTION 1 */}
             <section id="multi-debt-crisis" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 1. Anatomy of the Multi-Debt Spiral in India
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
                 In India’s hyper-digitized retail credit ecosystem, unsecured personal loans are disbursed in minutes through instant smartphone applications, NBFC digital portals, and aggressive pre-approved credit lines from major commercial banks. While convenient during financial windfalls, an unexpected life event—such as sudden medical emergencies, business margin contraction, job loss, or pay cuts—triggers a rapid multi-debt trap known as <em>credit stacking</em>.
               </p>
@@ -289,9 +289,9 @@ export default function MultiplePersonalLoanSettlementClient() {
 
             {/* SECTION 2 */}
             <section id="simultaneous-talks" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 2. Can Multiple Loans Be Settled Simultaneously? (The Core Mechanism)
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
                 The most frequent question asked by distressed multi-loan borrowers is: <em>“Can an agency handle all my banks at once, or do I have to negotiate with each one individually?”</em>
               </p>
@@ -300,19 +300,19 @@ export default function MultiplePersonalLoanSettlementClient() {
 
               <div className="space-y-4 my-6">
                 <div className="bg-white border border-slate-200 rounded-xl p-4 sm:p-5 shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">A</span>
                     Parallel Legal Representation & Harassment Shielding
-                  </h4>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Upon enrollment, our Advocates on Record file formal Notices of Representation to all lenders concurrently. Under the Reserve Bank of India’s <strong>Master Directions on Recovery Guidelines</strong>, lenders must respect formal legal representation. Once started, recovery call centers and field agents are legally required to redirect correspondence to your appointed legal counsel.</p>
                 </div>
 
                 <div className="bg-white border border-slate-200 rounded-xl p-4 sm:p-5 shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-emerald-600 text-white flex items-center justify-center text-xs font-bold">B</span>
                     Structured Waterfall vs Simultaneous OTS Execution
-                  </h4>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     While legal representation is started across all creditors on Day 1, financial settlement execution follows a tailored <strong>Liquidity-Optimized Waterfall</strong>. Aggressive, low-ticket fintech app loans and toxic credit card revolving debt are settled first to eliminate immediate legal notices and harassment. Concurrently, larger bank loans (HDFC, SBI, ICICI, Axis) undergo formal 90–180 day NPA aging, enabling regional settlement committees to offer their deepest OTS concessions (up to 60%–75% waivers) when your dedicated settlement pool is funded.
                   </p>
@@ -322,9 +322,9 @@ export default function MultiplePersonalLoanSettlementClient() {
 
             {/* SECTION 3 */}
             <section id="settlement-pool-vs-consolidation" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 3. Single Settlement Pool vs Traditional Debt Consolidation
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
                 Borrowers frequently conflate <strong>Debt Consolidation Loans</strong> with <strong>Multiple Personal Loan Settlement</strong>. While both aim to resolve multiple fragmented debts, their mechanics, eligibility thresholds, and financial impacts are polar opposites.
               </p>
@@ -378,9 +378,9 @@ export default function MultiplePersonalLoanSettlementClient() {
 
             {/* SECTION 4: 4-Sided Bordered Comparison Table */}
             <section id="comparison-matrix" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 4. Strategy Comparison: Loan vs Agency vs DIY vs IBC Insolvency
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
                 To evaluate your legal and financial avenues, the comparison matrix below breaks down the four paths available to Indian consumers facing multi-lender defaults:
               </p>
@@ -549,28 +549,28 @@ export default function MultiplePersonalLoanSettlementClient() {
 
             {/* SECTION 5 */}
             <section id="legal-protection-framework" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 5. Protection Against Multi-Bank Harassment Under RBI
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
                 When defaulting on multiple loans, borrowers face a barrage of intimidating notices and collection calls. Understanding your legal rights under Indian financial jurisprudence is critical to maintaining psychological stability while talks proceed:
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="border border-slate-200 rounded-xl p-4 sm:p-5 bg-white shadow-sm">
-                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 138 of Negotiable Instruments Act &amp; Section 25 PSS Act (NACH)</span>
-                  </h4>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     Lenders frequently issue statutory notices when NACH debits or security cheques bounce. <strong>Crucial Legal Fact:</strong> Section 138 of the NI Act, 1881 and Section 25 of the PSSA, 2007 are compoundable offenses under Indian law. Our legal counsel drafts formal statutory replies establishing genuine financial distress. This prevents ex-parte court summons and compels lenders into formal compromise settlement talks.</p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-4 sm:p-5 bg-white shadow-sm">
-                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <ShieldAlert className="w-4 h-4 text-emerald-600" />
                     <span>RBI Master Circulars on Recovery Agents (Updated Directives)</span>
-                  </h4>
+                  </h2>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     The Reserve Bank of India has repeatedly held that recovery agents cannot breach borrower privacy or dignity. Specifically:
                   </p>
@@ -594,10 +594,10 @@ export default function MultiplePersonalLoanSettlementClient() {
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-4 sm:p-5 bg-white shadow-sm">
-                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Landmark className="w-4 h-4 text-amber-600" />
                     <span>SARFAESI Act Non-Applicability on Unsecured Loans</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     Recovery agents often falsely threaten to seize residential property or attach personal vehicles. <strong>Under Indian Law:</strong> The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002 applies <strong>strictly to secured loans</strong> (mortgages, LAP, auto loans with active hypothecation). Unsecured personal loans and credit cards do not carry a property lien. A bank cannot attach any property without obtaining a formal decree through a lengthy Civil Suit (Order 37 CPC), which takes years and incentivizes lenders to settle out of court.
                   </p>
@@ -607,7 +607,7 @@ export default function MultiplePersonalLoanSettlementClient() {
 
             {/* SECTION 6 */}
             <section id="step-by-step-roadmap" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 6. 6-Stage Roadmap to Settle Multiple Debts
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-6">
@@ -619,9 +619,9 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <div className="absolute -left-[25px] sm:-left-[33px] top-0 w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold ring-4 ring-white">
                     1
                   </div>
-                  <h4 className="text-sm sm:text-base font-bold text-slate-900 mb-1">
+                  <h3 className="text-sm sm:text-base font-bold text-slate-900 mb-1">
                     Multi-Debt Portfolio Audit & Account Isolation
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     We compile all sanction letters, statements of account, and calculate actual principal outstanding versus compounded penal charges. We instruct you to open a fresh operational savings account at a non-creditor bank to prevent unauthorized banker lien deductions (Sec 171 Contract Act).
                   </p>
@@ -631,9 +631,9 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <div className="absolute -left-[25px] sm:-left-[33px] top-0 w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold ring-4 ring-white">
                     2
                   </div>
-                  <h4 className="text-sm sm:text-base font-bold text-slate-900 mb-1">
+                  <h3 className="text-sm sm:text-base font-bold text-slate-900 mb-1">
                     Legal Representation Notice & Harassment Halt
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Formal vakalatnama and advocate notices are served to the collection heads, nodal officers, and recovery desks of all creditors, redirecting all calls and notices to our legal team.
                   </p>
@@ -643,9 +643,9 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <div className="absolute -left-[25px] sm:-left-[33px] top-0 w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold ring-4 ring-white">
                     3
                   </div>
-                  <h4 className="text-sm sm:text-base font-bold text-slate-900 mb-1">
+                  <h3 className="text-sm sm:text-base font-bold text-slate-900 mb-1">
                     Dedicated Settlement Pool Accumulation
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     You stop paying fragmented EMIs and channel a single manageable monthly deposit into your dedicated accumulation account, building the liquid capital required to execute lump-sum OTS offers.
                   </p>
@@ -655,9 +655,9 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <div className="absolute -left-[25px] sm:-left-[33px] top-0 w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold ring-4 ring-white">
                     4
                   </div>
-                  <h4 className="text-sm sm:text-base font-bold text-slate-900 mb-1">
+                  <h3 className="text-sm sm:text-base font-bold text-slate-900 mb-1">
                     Synchronized Hardship Dossier Submission
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     As accounts reach 90+ days of default (NPA stage), our senior negotiators present comprehensive hardship evidence (medical records, job termination proofs, business audit losses) to bank settlement committees.
                   </p>
@@ -667,9 +667,9 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <div className="absolute -left-[25px] sm:-left-[33px] top-0 w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold ring-4 ring-white">
                     5
                   </div>
-                  <h4 className="text-sm sm:text-base font-bold text-slate-900 mb-1">
+                  <h3 className="text-sm sm:text-base font-bold text-slate-900 mb-1">
                     Bilateral OTS Letter Verification & Controlled Payment
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Before any money is paid, our legal team verifies the official One-Time Settlement sanction letter on bank letterhead with unique settlement reference numbers, ensuring 100% full-and-final settlement terms. Payments are made directly to the bank’s official account.
                   </p>
@@ -679,9 +679,9 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <div className="absolute -left-[25px] sm:-left-[33px] top-0 w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold ring-4 ring-white">
                     6
                   </div>
-                  <h4 className="text-sm sm:text-base font-bold text-slate-900 mb-1">
+                  <h3 className="text-sm sm:text-base font-bold text-slate-900 mb-1">
                     No Dues Certificate (NDC) Retrieval & CIBIL Closure
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Within 15 to 30 days of OTS payment, we secure official No Objection / No Dues Certificates from each lender, confirm zero outstanding ledger balances, and verify proper bureau updates.
                   </p>
@@ -691,7 +691,7 @@ export default function MultiplePersonalLoanSettlementClient() {
 
             {/* SECTION 7 */}
             <section id="lender-settlement-matrix" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 7. Multi-Lender talks Discounts Matrix
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
@@ -746,7 +746,7 @@ export default function MultiplePersonalLoanSettlementClient() {
 
             {/* SECTION 8 */}
             <section id="cibil-recovery" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 8. Post-Settlement CIBIL Score recovery
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
@@ -758,7 +758,7 @@ export default function MultiplePersonalLoanSettlementClient() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-6">
                 <div className="bg-white border border-slate-200 rounded-xl p-4 shadow-sm">
                   <div className="text-xs font-bold text-[#1F5EFF] uppercase mb-1">Step 1: Bureau Audit</div>
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">Verify Zero Dues Reporting</h4>
+                  <h3 className="font-bold text-slate-900 text-sm mb-1">Verify Zero Dues Reporting</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Ensure all settled accounts show zero current balance and no further overdue accruals in CIBIL within 45 days.
                   </p>
@@ -766,7 +766,7 @@ export default function MultiplePersonalLoanSettlementClient() {
 
                 <div className="bg-white border border-slate-200 rounded-xl p-4 shadow-sm">
                   <div className="text-xs font-bold text-emerald-600 uppercase mb-1">Step 2: Secured Credit</div>
-                  <h5 className="font-bold text-slate-900 text-sm mb-1">Fixed Deposit Backed Card</h5>
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">Fixed Deposit Backed Card</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Open a small Fixed Deposit (₹20,000–₹50,000) to obtain a secured credit card. use under 20% and pay on time monthly.
                   </p>
@@ -774,7 +774,7 @@ export default function MultiplePersonalLoanSettlementClient() {
 
                 <div className="bg-white border border-slate-200 rounded-xl p-4 shadow-sm">
                   <div className="text-xs font-bold text-amber-600 uppercase mb-1">Step 3: Score Rebound</div>
-                  <h5 className="font-bold text-slate-900 text-sm mb-1">Reach 750+ in 18–24 Months</h5>
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">Reach 750+ in 18–24 Months</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Consistent, flawless payment history on fresh secured lines rapidly rebuilds your score to prime creditworthiness tiers.
                   </p>
@@ -786,7 +786,7 @@ export default function MultiplePersonalLoanSettlementClient() {
             <CompanySection />
 
             <section id="faqs" className="mb-10 scroll-mt-24">
-              <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200 flex items-center gap-2">
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200 flex items-center gap-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
                 10. Frequently Asked Questions
               </h3>

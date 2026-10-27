@@ -561,7 +561,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 2: Legal Identity, PAN Demarcation & Privity of Contract */}
             <section id="legal-identity-pan-privity-of-contract" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. PAN Separation &amp; Privity of Contract</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. PAN Separation &amp; Privity of Contract</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Debt liability in India is strictly individual. Every adult citizen is an independent legal person with separate rights. This separation is tracked by the <strong>Permanent Account Number (PAN)</strong>. Banks must link each loan and account to an individual PAN.
               </p>
@@ -619,7 +619,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 3: Statutory Boundaries: Banker Set-Off vs Third Parties */}
             <section id="statutory-limits-banker-set-off-lien" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Banker Set-Off vs Family Account Rules</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Banker Set-Off vs Family Account Rules</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recovery agents often use terms like Banker Lien to scare borrowers.
                 Under Indian law, these rules never apply to family accounts.
@@ -627,20 +627,20 @@ export default function FamilyBankAccountFreezeDefensePage() {
               
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Landmark className="w-4 h-4 text-blue-600" />
                     <span>Banker&apos;s Right of General Lien (Section 171, Indian Contract Act, 1872)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Section 171 of the Indian Contract Act, 1872, bank liens apply only to goods in trust.
                     Lien rules never apply to savings accounts or family money.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-indigo-600" />
                     <span>The Equitable Right of Set-Off &amp; The Mutuality Requirement</span>
-                  </h5>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Banker Set-Off applies only to the same person.
                     It requires mutual debts.
@@ -657,7 +657,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 4: Civil Court Attachments, Garnishee Orders & Joint Accounts */}
             <section id="civil-attachments-garnishee-joint-accounts" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Civil Court Garnishee &amp; Joint Account Rules</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Civil Court Garnishee &amp; Joint Account Rules</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Agents often claim they hold court warrants to seize family goods.
                 This claim is false.
@@ -703,7 +703,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="family-protection-ots-visual-roadmap" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Family Protection &amp; OTS Roadmap</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Family Protection &amp; OTS Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This roadmap covers five debt defense stages.
                 It details PAN protection and legal options.
@@ -739,7 +739,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 6: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="npa-accounting-npv-settlement-formula" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Bank NPA Provisioning &amp; Settlement</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Bank NPA Provisioning &amp; Settlement</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Why do agencies target family members?
                 They follow aggressive internal NPA rules.
@@ -819,7 +819,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 7: 4-Stage Defense Against Agent Coercion */}
             <section id="advocate-defense-rbi-ombudsman-protocol" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. 4-Stage Defense Against Agent Coercion</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. 4-Stage Defense Against Agent Coercion</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 If recovery agents harass your family, take action.
                 Follow this 4-stage legal defense protocol built by banking lawyers:
@@ -827,7 +827,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Systematic Evidence Archiving &amp; Call Recording</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Systematic Evidence Archiving &amp; Call Recording</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Record all recovery calls.
                     Save WhatsApp chats and voice notes.
@@ -835,7 +835,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Cease-and-Desist Advocate Statutory Legal Notice</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Cease-and-Desist Advocate Statutory Legal Notice</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Have a lawyer send a formal notice.
                     Address the bank MD and nodal officer.
@@ -843,14 +843,14 @@ export default function FamilyBankAccountFreezeDefensePage() {
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Escalation to the RBI Integrated Ombudsman &amp; Law Enforcement</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Escalation to the RBI Integrated Ombudsman &amp; Law Enforcement</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     File a complaint on the RBI portal (cms.rbi.org.in).
                     Report physical threats to local police.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Strategic Transition to Zonal Stressed Assets Desk</h5>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Strategic Transition to Zonal Stressed Assets Desk</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Bypass third-party recovery agents completely.
                     Move talks to bank zonal managers.
@@ -867,7 +867,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 8: Converting Harassment into 55% OTS */}
             <section id="converting-harassment-into-55-ots" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Converting Harassment into a 55% OTS</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Converting Harassment into a 55% OTS</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Harassing family members violates RBI rules.
                 When lawyers show proof of threats, banks settle.
@@ -923,7 +923,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 9: Sanction Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Sanction Forensics &amp; RBI ₹0 NDC Mandate</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Sanction Forensics &amp; RBI ₹0 NDC Mandate</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Watch out for fake settlement letters from rogue agents.
                 Never pay cash on unofficial WhatsApp links.
@@ -955,9 +955,9 @@ export default function FamilyBankAccountFreezeDefensePage() {
                 </p>
               </div>
 
-              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Score Trajectory &amp; Credit Profile Rehabilitation
-              </h4>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 After settlement, the bank marks your loan as &quot;Settled&quot. with ₹0 balance.
                 Your credit score drops briefly.
@@ -967,7 +967,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 10: Comparative Legal Matrix */}
             <section id="comparative-legal-matrix-powers-vs-myths" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. Legal Matrix: Reality vs. Agent Myths</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. Legal Matrix: Reality vs. Agent Myths</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This matrix compares agent threats against law:
               </p>
@@ -1027,7 +1027,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
             {/* Section 11: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. SettleLoans Legal Defense Advisory</h3>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. SettleLoans Legal Defense Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Protecting your family requires skilled banking lawyers.
                   SettleLoans defends borrowers across India daily.
@@ -1045,7 +1045,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">12. Frequently Asked Questions</h3>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">12. Frequently Asked Questions</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Find clear legal answers on family account safety, PAN rules. And loan settlement in India.
@@ -1075,9 +1075,9 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 126 Guarantee &amp; Privity of Contract)</span></span>
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Order XXI Garnishee &amp; Section 60 Exemptions)</span></span>
@@ -1113,7 +1113,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
               </h4>
               <div className="flex flex-wrap gap-2">

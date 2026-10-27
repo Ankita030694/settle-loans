@@ -419,9 +419,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
 
             {/* Section 2 */}
             <section id="airport-arrest-myth" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 2. Debunking the Myth: Can an NRI Be Arrested at Indian Immigration?
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The most pervasive fear among non-residents with defaulted Indian loans is the prospect of being detained at airport immigration desks upon arrival at Delhi, Mumbai, Bengaluru, Kochi, or Hyderabad. This anxiety is systematically manufactured by unethical third-party collection agents who falsely threaten to issue &quot;airport warrants&quot; or place the borrower&apos;s name on international &quot;defaulter watchlists.&quot; Under Indian constitutional law and criminal procedure, these claims are entirely baseless.
               </p>
@@ -435,9 +435,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
               {/* Judicial Precedent Box */}
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-6 shadow-sm">
                 <div className="flex items-center justify-between gap-3 mb-2">
-                  <h4 className="text-lg font-bold text-slate-900">
+                  <h3 className="text-lg font-bold text-slate-900">
                     Viraj Chetan Shah v. Union of India (Bombay High Court, 2024)
-                  </h4>
+                  </h2>
                   <span className="text-xs bg-[#1F5EFF]/10 text-[#1F5EFF] font-bold py-1 px-2.5 rounded-full whitespace-nowrap">
                     High Court Ruling on Bank LOCs
                   </span>
@@ -459,9 +459,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
 
             {/* Section 3 */}
             <section id="consular-poa-bridge" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. The Remote Legal Bridge: Executing a Power of Attorney (POA) from Abroad
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Non-residents do not need to incur exorbitant travel expenses, take extended employment leave, or endure logistical disruption to resolve Indian banking liabilities. Under the <em>Powers of Attorney Act, 1882</em>, an NRI can legally delegate authority to an empaneled debt settlement advocate or trusted family representative in India through a properly executed <strong>Special Power of Attorney (Special POA)</strong>.
               </p>
@@ -476,9 +476,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                     <div className="w-9 h-9 rounded-xl bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-black text-sm">
                       01
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
+                    <h3 className="font-bold text-slate-900 text-base">
                       Consular Attestation or Apostille Abroad
-                    </h4>
+                    </h2>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed mb-2">
                     In countries that are signatories to the Hague Convention (such as the US, UK, Canada, and EU member states), the POA document is signed before a local Notary Public and certified with an <strong>Apostille Certificate</strong>. In non-apostille jurisdictions (including the UAE, Saudi Arabia, Qatar, and Singapore), the NRI visits the Consular Wing of the Indian Embassy or High Commission, signs the document in the presence of a Consular Officer under the <em>Diplomatic and Consular Officers (Oaths and Fees) Act, 1948</em>, and obtains official embassy stamping.
@@ -493,9 +493,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                     <div className="w-9 h-9 rounded-xl bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-black text-sm">
                       02
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
+                    <h3 className="font-bold text-slate-900 text-base">
                       Adjudication and Stamping in India (90 Days)
-                    </h4>
+                    </h2>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed mb-2">
                     Once the physically stamped POA is dispatched by courier to India, the attorney holder must present the document before the District Registrar or Collector of Stamps within <strong>90 calendar days</strong> of its physical arrival in India. Under <strong>Section 18 of the Indian Stamp Act, 1899</strong>, the document is officially adjudicated upon payment of applicable state stamp duty, rendering it fully enforceable before all Indian banking authorities, tribunals, and courts.
@@ -513,9 +513,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
 
             {/* Section 4 */}
             <section id="npv-banking-mechanics" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Bank Accounting Mechanics: Net Present Value (NPV) &amp; Stressed Assets
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 To understand why Indian commercial banks and NBFCs readily agree to substantial One-Time Settlement (OTS) waivers, one must examine banking accounting rules under the <em>Reserve Bank of India (Prudential Framework for Resolution of Stressed Assets) Directions, 2019</em>. Banks do not evaluate non-resident debt settlements through emotional lenses; they operate strictly on mathematical risk assessments and balance sheet capital efficiency.
               </p>
@@ -526,15 +526,15 @@ export default function NriPersonalLoanSettlementIndiaClient() {
               {/* Provisioning Breakdown Box */}
               <div className="space-y-4 my-6">
                 <div className="border-l-4 border-amber-500 bg-amber-50/50 p-4 rounded-r-xl">
-                  <h4 className="text-sm font-bold text-slate-900">Sub-Standard Asset (NPA up to 12 Months)</h4>
+                  <h3 className="text-sm font-bold text-slate-900">Sub-Standard Asset (NPA up to 12 Months)</h3>
                   <p className="text-xs text-slate-700 mt-1">Requires 15% provisioning on secured balances and 25% on unsecured exposure.</p>
                 </div>
                 <div className="border-l-4 border-orange-500 bg-orange-50/50 p-4 rounded-r-xl">
-                  <h5 className="text-sm font-bold text-slate-900">Doubtful Asset (D1 to D3: 1 to 3+ Years of Default)</h5>
+                  <h4 className="text-sm font-bold text-slate-900">Doubtful Asset (D1 to D3: 1 to 3+ Years of Default)</h4>
                   <p className="text-xs text-slate-700 mt-1">Provisioning escalates aggressively from 25% up to 100% of the unsecured loan principal.</p>
                 </div>
                 <div className="border-l-4 border-red-500 bg-red-50/50 p-4 rounded-r-xl">
-                  <h5 className="text-sm font-bold text-slate-900">Loss Asset (Identified Uncollectible Debt)</h5>
+                  <h4 className="text-sm font-bold text-slate-900">Loss Asset (Identified Uncollectible Debt)</h4>
                   <p className="text-xs text-slate-700 mt-1">Requires full 100% provisioning write-off on the bank&apos;s books.</p>
                 </div>
               </div>
@@ -566,9 +566,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         NRI Personal Loan Settlement &amp; Legal Defense Roadmap
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -611,9 +611,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
 
             {/* Section 6 */}
             <section id="step-by-step-workflow" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Step-by-Step Remote Settlement Workflow: From Default to No Dues Certificate
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 Executing an NRI debt settlement requires a disciplined, multi-stage legal and financial process. Bypassing statutory safeguards or relying on informal verbal assurances from recovery agents can lead to fraud or continued legal exposure. The established protocol followed by SettleLoans ensures total transparency and legal finality:
               </p>
@@ -625,9 +625,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                     <div className="w-7 h-7 rounded-lg bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-xs">
                       1
                     </div>
-                    <h4 className="text-base font-bold text-slate-900">
+                    <h3 className="text-base font-bold text-slate-900">
                       Comprehensive Debt &amp; Legal Audit
-                    </h4>
+                    </h2>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Our legal team reviews your original loan agreements, loan account statements, payment history, and any statutory notices issued under Section 138 of the Negotiable Instruments Act or Section 25 of the Payment and Settlement Systems Act. We calculate the exact principal balance and strip away illegitimate penal interest and compound bounce charges.
@@ -639,9 +639,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                     <div className="w-7 h-7 rounded-lg bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-xs">
                       2
                     </div>
-                    <h4 className="text-base font-bold text-slate-900">
+                    <h3 className="text-base font-bold text-slate-900">
                       Drafting and Consular Execution of Special POA
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     We draft a customized Special Power of Attorney tailored strictly to your banking disputes. You sign and attest the document before the Indian Embassy or Consulate abroad. Upon arrival in India, our team completes statutory adjudication under Section 18 of the Indian Stamp Act.
@@ -653,9 +653,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                     <div className="w-7 h-7 rounded-lg bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-xs">
                       3
                     </div>
-                    <h4 className="text-base font-bold text-slate-900">
+                    <h3 className="text-base font-bold text-slate-900">
                       Legal Representation &amp; Cease-and-Desist Enforcement
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     We place our formal Vakalatnama and POA on record with the bank&apos;s central stressed asset management vertical. An immediate cease-and-desist notice is issued to the bank&apos;s Principal Nodal Officer, strictly forbidding third-party contact or visits to your family residence in India.
@@ -667,9 +667,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                     <div className="w-7 h-7 rounded-lg bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-xs">
                       4
                     </div>
-                    <h4 className="text-base font-bold text-slate-900">
+                    <h3 className="text-base font-bold text-slate-900">
                       Financial Hardship Docketing &amp; Official OTS Sanction
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     We compile a structured Financial Hardship Dossier (documenting foreign cost-of-living increases, salary revisions, or medical liabilities) and negotiate directly with the Stressed Assets Resolution Committee. We secure a formal, written One-Time Settlement Sanction Letter issued directly on official bank letterhead detailing the discounted compromise figure, payment milestones, and closure commitments.
@@ -681,9 +681,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                     <div className="w-7 h-7 rounded-lg bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-xs">
                       5
                     </div>
-                    <h4 className="text-base font-bold text-slate-900">
+                    <h3 className="text-base font-bold text-slate-900">
                       FEMA Remittance, Judicial Compounding &amp; No Dues Certificate
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     You remit the agreed settlement funds directly from your NRE/NRO account or foreign wire transfer to the lending institution. Upon credit confirmation, our advocates file compounding petitions under Section 147 NI Act to dispose of any pending court matters, followed by obtaining the unconditional <strong>No Dues Certificate (NDC)</strong> and verifying CIBIL bureau updates.
@@ -694,7 +694,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
 
             {/* Section 7 */}
             <section id="fema-remittance-rules" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Foreign Exchange &amp; FEMA Compliance in NRI Loan Settlement
               </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
@@ -721,7 +721,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
 
             {/* Section 8 */}
             <section id="criminal-notice-defense" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Managing Criminal &amp; Quasi-Criminal Notices: Section 138 &amp; NACH Defense
               </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
@@ -737,7 +737,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
 
             {/* Section 9: Comparative Strategic Matrix */}
             <section id="comparative-resolution-matrix" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Comparative Resolution Matrices
               </h3>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
@@ -746,9 +746,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
 
               {/* Table 1 */}
               <div className="my-8">
-                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Table 1: Remote Legal POA Settlement vs. In-Person Return vs. Ignoring Debt
-                </h4>
+                </h3>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -797,9 +797,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
 
               {/* Table 2 */}
               <div className="my-8">
-                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Table 2: Comparison of Legal Channels Invoked by Indian Lenders
-                </h4>
+                </h3>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -848,7 +848,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
 
             {/* Section 10 */}
             <section id="cibil-rehabilitation" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 10. Post-Settlement Credit Rehabilitation &amp; Long-Term Financial Freedom
               </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
@@ -875,7 +875,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                   <span className="text-xs font-black uppercase tracking-wider text-[#1F5EFF] block">
                     Got Questions? We Have Answers
                   </span>
-                  <h3 className="text-2xl md:text-3xl font-black text-slate-900">
+                  <h2 className="text-2xl md:text-3xl font-black text-slate-900">
                     Frequently Asked Questions on NRI Personal Loan Settlement
                   </h3>
                 </div>
@@ -896,10 +896,10 @@ export default function NriPersonalLoanSettlementIndiaClient() {
 
             {/* Regulatory Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 shadow-sm">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Authoritative Legal &amp; Regulatory Sources</span>
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -961,9 +961,9 @@ export default function NriPersonalLoanSettlementIndiaClient() {
 
             {/* Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Legal Protection Guides
-              </h5>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/section-138-cheque-bounce-loan-default"

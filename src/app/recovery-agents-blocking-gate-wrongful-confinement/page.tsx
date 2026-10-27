@@ -477,7 +477,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* Section 2: Statutory Protections & Criminal Trespass */}
             <section id="statutory-framework-wrongful-confinement" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Penal Law Breakdown</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Penal Law Breakdown</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Indian criminal law protects citizens from unlawful physical control. No private person can block or trap another citizen. The transition from the Indian Penal Code, 1860 (IPC) to the Bharatiya Nyaya Sanhita, 2023 (BNS) reinforces these rights. Clear legal protections protect personal freedom.
               </p>
@@ -486,10 +486,10 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-4">
-                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Statutory Penal Sections Applicable to Recovery Muscle Tactics</span>
-                </h4>
+                </h3>
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Section 126 BNS (Corresponding to Section 339 &amp. 341 IPC): Wrongful Restraint</p>
@@ -533,7 +533,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* Section 3: Constitutional Right to Locomotion & Landmark Supreme Court Precedents */}
             <section id="constitutional-locomotion-puttaswamy" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Constitutional Protections</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Constitutional Protections</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Indian Constitution protects your right to move freely. Article 19(1)(d) gives all citizens the right to travel across India without illegal barriers. Article 21 ensures that no person loses personal liberty except by lawful procedure. Private recovery agents cannot block your movement.
               </p>
@@ -550,7 +550,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* Section 4: RBI Master Directions, Code of Conduct & Vicarious Liability */}
             <section id="rbi-master-directions-fair-practices" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. RBI Master Directions &amp; Code of Conduct</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. RBI Master Directions &amp; Code of Conduct</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India sets strict rules for debt recovery. These rules draw power from Section 35A of the Banking Regulation Act, 1949 and the RBI Act, 1934. All commercial banks and NBFCs must follow these directives.
               </p>
@@ -559,10 +559,10 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
-                <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory RBI Regulatory Prohibitions for Recovery Agents</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Strict Prohibition on Physical Coercion &amp. Restraint</p>
@@ -608,7 +608,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* Section 6: Tactical Emergency Protocol: Recording & Filing an FIR */}
             <section id="emergency-police-fir-protocol" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Tactical Emergency Protocol</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Tactical Emergency Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 If agents block your door or vehicle, stay calm. Follow this structured legal protocol. Taking clear steps creates strong evidence, stops intimidation. And triggers police action:
               </p>
@@ -658,7 +658,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* Section 7: Bank NPA Accounting Economics */}
             <section id="bank-npa-accounting-npv-formula" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting Economics</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recovery agents use force because banks are pressured by unpaid loans. An unpaid loan becomes a Non-Performing Asset (NPA) after 90 days.
               </p>
@@ -693,7 +693,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
             </section>
 
             <section id="cease-and-desist-ots-resolution" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Structured OTS Settlement Protocols</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Structured OTS Settlement Protocols</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Never pay cash to recovery agents. They often keep the money as personal fees. Your loan balance stays high. And the harassment continues.
               </p>
@@ -728,7 +728,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
             </section>
 
             <section id="comparative-enforcement-matrix" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Enforcement Powers vs Illegal Restraint Matrix</h3>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Enforcement Powers vs Illegal Restraint Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This table shows who has legal power and who does not.
               </p>
@@ -787,7 +787,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Wrongful Confinement Legal Defense</h3>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Wrongful Confinement Legal Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   No one should be threatened or trapped by collection agents. SettleLoans provides a shield against this harassment. We enforce your rights under Article 21 and Section 127 BNS. We send legal notices to stop field agents immediately. We move your case to formal settlement discussions. Our team helps you get 40% to 65% waivers and your official No Dues Certificate.
                 </p>
@@ -800,7 +800,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Muscle Tactics &amp; Legal Remedies</h3>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Muscle Tactics &amp; Legal Remedies</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear legal answers on gate blocking, key snatching, police complaints. And debt settlement rights.
@@ -830,9 +830,9 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.mha.gov.in"
@@ -876,9 +876,9 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Settlement Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/can-recovery-agents-enter-house-without-permission"

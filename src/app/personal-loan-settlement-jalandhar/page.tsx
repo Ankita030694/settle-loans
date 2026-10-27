@@ -555,9 +555,9 @@ export default function PersonalLoanSettlementJalandharPage() {
 
             {/* Section 2: Statutory Protections & Punjab Indebtedness Laws */}
             <section id="statutory-protections-punjab-relief-rbi" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Protections &amp; Punjab Indebtedness Laws
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers across Punjab enjoy strong protections under state and central statutes. Central to regional defense is the <em>Punjab Relief of Indebtedness Act, 1934</em>. Codifying the <em>Damdupat</em> doctrine, it prohibits lenders from demanding interest exceeding original principal sums. Our advocates pair this act with the <em>Usurious Loans Act, 1918</em> to remove inflated penal charges, unnotified late fees, and compounding penalties during OTS negotiations.
               </p>
@@ -566,10 +566,10 @@ export default function PersonalLoanSettlementJalandharPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Enforceable Legal Protections Governing Borrowers in Punjab</span>
-                </h4>
+                </h2>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">1. Strict Time &amp; Location Rules on Recovery Outreach</p>
@@ -607,9 +607,9 @@ export default function PersonalLoanSettlementJalandharPage() {
 
             {/* Section 3: District Courts, DRT & NRI Legal Jurisdictions */}
             <section id="civil-court-drt-jurisdiction-jalandhar" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. District Courts, DRT &amp; NRI Legal Jurisdictions in Jalandhar
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When unsecured loans stay delinquent beyond 90 to 180 days, banks invoke statutory recovery mechanisms. In Jalandhar, primary adjudication occurs at the <strong>District &amp; Sessions Courts Complex near Master Tara Singh Nagar and Ladowali Road</strong>.
               </p>
@@ -634,9 +634,9 @@ export default function PersonalLoanSettlementJalandharPage() {
 
             {/* Section 4: Bank NPA Accounting & NPV Recovery Benchmark */}
             <section id="bank-npa-accounting-npv-recovery-formula" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank NPA Accounting &amp; NPV Recovery Benchmark in Jalandhar
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Bank compromise settlements are driven by mathematical and capital adequacy mandates under RBI regulations. When an unsecured personal loan stays overdue past 90 days, the lender must classify the account as a Non-Performing Asset (NPA).
               </p>
@@ -699,9 +699,9 @@ export default function PersonalLoanSettlementJalandharPage() {
 
             {/* Section 6: Tactical Settlement Protocol & Advocate Defense */}
             <section id="advocate-defense-negotiation-protocol" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Tactical Settlement Protocol &amp; Advocate Defense in Jalandhar
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Negotiating directly with recovery agents often leads to lost funds credited only toward interest. SettleLoans executes a structured 5-stage legal defense protocol to secure complete debt resolution:
               </p>
@@ -752,9 +752,9 @@ export default function PersonalLoanSettlementJalandharPage() {
 
             {/* Section 7: Sanction Letter Forensics & Bank Waivers */}
             <section id="sanction-letter-forensics-waivers" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Sanction Letter Forensics &amp; Bank Waivers in Jalandhar
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In the debt resolution industry, the most critical safeguard is ensuring that your settlement is sanctioned through official bank channels rather than unauthorized collection intermediaries. Rogue recovery agencies frequently issue counterfeit or unauthorized settlement letters featuring forged signatures or unofficial email domains to siphon funds into third-party accounts. Paying on a fraudulent letter leaves your loan delinquent in banking databases.
               </p>
@@ -763,10 +763,10 @@ export default function PersonalLoanSettlementJalandharPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
-                <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Statutory Checklist for Authentic Bank OTS Sanction Letters</span>
-                </h4>
+                </h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">1. Official Bank Letterhead &amp; Digital Authentication</p>
@@ -802,7 +802,7 @@ export default function PersonalLoanSettlementJalandharPage() {
 
             {/* Section 8: NDC Issuance & CIBIL Commercial Repair */}
             <section id="ndc-cibil-commercial-credit-repair" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. NDC Issuance &amp; CIBIL Commercial Repair in Jalandhar
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -829,7 +829,7 @@ export default function PersonalLoanSettlementJalandharPage() {
 
             {/* Section 9: Comparative Protection Matrix for Doaba Borrowers */}
             <section id="comparative-jalandhar-debt-matrix" className="space-y-4">
-              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Protection Matrix for Doaba Borrowers
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -911,9 +911,9 @@ export default function PersonalLoanSettlementJalandharPage() {
             {/* Section 10: SettleLoans Legal Defense in Jalandhar */}
             <section id="settleloans-jalandhar-legal-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense in Jalandhar
-                </h3>
+                </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Managing severe debt while steering an export business, sustaining a manufacturing workshop, or supporting an expat family in Jalandhar requires specialized, fearless legal advocacy. SettleLoans represents borrowers with comprehensive institutional defense across Punjab. Our senior advocates stop collection harassment through statutory notices, defend Section 138 NI Act summons in Jalandhar District Courts, represent commercial entities before DRT Chandigarh, and negotiate substantial 40% to 65% One-Time Settlements directly with senior bank committees. With zero upfront recovery compromises and complete verification of every sanction document, we ensure your family, business, and financial dignity remain completely protected.
                 </p>
@@ -927,9 +927,9 @@ export default function PersonalLoanSettlementJalandharPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Jalandhar &amp; Punjab
-                </h3>
+                </h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Authoritative legal guidance regarding personal loan compromise, sports goods business defaults, NRI expat protections, and local court procedures across Jalandhar and the Doaba belt.
@@ -960,9 +960,9 @@ export default function PersonalLoanSettlementJalandharPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1024,9 +1024,9 @@ export default function PersonalLoanSettlementJalandharPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Settlement Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/best-lawyer-for-business-loan-settlement"

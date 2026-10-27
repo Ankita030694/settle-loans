@@ -588,9 +588,9 @@ export default function PersonalLoanSettlementMysorePage() {
                 <Gavel className="w-4 h-4" />
                 <span>2. Karnataka Judicial Architecture &amp; Local Jurisdictions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Karnataka Judicial Architecture: Mysuru District Courts, DRT Bengaluru &amp; High Court Oversight
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Resolving debt recovery disputes in southern Karnataka requires understanding local court jurisdictions. In Mysuru district, Section 138 NI Act cheque bounce complaints, Section 25 PSSA NACH bounce cases, and Order 37 CPC summary suits are adjudicated before Judicial Magistrates at the District &amp; Sessions Court Complex at Malalavadi, Jayanagar. Mandya matters fall under the Principal District and Sessions Court Complex at Mandya.
               </p>
@@ -659,9 +659,9 @@ export default function PersonalLoanSettlementMysorePage() {
                 <Calculator className="w-4 h-4" />
                 <span>3. Bank Balance-Sheet Accounting &amp; Recovery Economics</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Bank Accounting Mechanics: How NPA Provisioning Unlocks Substantial Debt Waivers
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Commercial banks and NBFCs operate under RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Ind AS 109 Expected Credit Loss rules. When a borrower misses three consecutive EMIs (exceeding 90 days past due), the loan is reclassified as a Non-Performing Asset (NPA). The lender must immediately stop accruing interest as income and set aside mandatory provisioning reserves from operating profits.
               </p>
@@ -694,9 +694,9 @@ export default function PersonalLoanSettlementMysorePage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Anti-Harassment Legal Protections</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Halting Recovery Harassment &amp; Workplace Incursions Under Strict RBI Guidelines
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers in Mysore and Mandya often face coercive collection tactics from third-party recovery agencies. Agents routinely breach statutory norms by making repeated calls outside allowed hours, contacting family members, or threatening office visits in Hebbal or retail markets.
               </p>
@@ -720,9 +720,9 @@ export default function PersonalLoanSettlementMysorePage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Mysore Legal Debt Resolution Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Personal Loan Settlement &amp; Legal Conciliation Roadmap in Karnataka
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -769,39 +769,39 @@ export default function PersonalLoanSettlementMysorePage() {
                 <Briefcase className="w-4 h-4" />
                 <span>6. Sector-Specific Resolution Protocols</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Tailored Legal Settlement Strategies: Tech Professionals, Merchants &amp; Mandya MSMEs
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Because Mysore and Mandya feature distinct borrower profiles, SettleLoans applies targeted legal defense and negotiation frameworks tailored to specific employment and business categories:
               </p>
               
               <div className="space-y-6 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
-                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Laptop className="w-5 h-5 text-[#1F5EFF]" />
                     <span>1. IT Software Engineers, Tech Leads &amp; Remote Consultants</span>
-                  </h4>
+                  </h2>
                   <p className="text-slate-700 leading-relaxed text-sm md:text-base">
                     Tech specialists in Hebbal IT parks or remote consultants in Vijayanagar, Gokulam, and Kuvempunagar often carry multiple unsecured personal loans and credit cards. When restructuring or compensation freezes strike, servicing high EMIs becomes unsustainable. SettleLoans negotiates discreetly with bank Zonal Desks, invokes Section 60(1)(i) CPC salary exemptions, and resolves liabilities through heavily discounted settlements without workplace exposure.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
-                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Store className="w-5 h-5 text-[#1F5EFF]" />
                     <span>2. Heritage Silk Merchants, Sandalwood Artisans &amp; Tourism Operators</span>
-                  </h4>
+                  </h2>
                   <p className="text-slate-700 leading-relaxed text-sm md:text-base">
                     Traders along Sayyaji Rao Road, Mandi Mohalla, and tourist zones face sharp seasonal revenue drops. Many rely on unsecured commercial loans for inventory. When receivables stall, repayments collapse. Our advocates compile GST records and audited statements into a verified hardship dossier, securing 45% to 60% principal waivers from bank Credit Committees.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
-                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Building2 className="w-5 h-5 text-[#1F5EFF]" />
                     <span>3. Agro-Processing Founders, Sugar Unit Suppliers &amp; Mandya MSMEs</span>
-                  </h4>
+                  </h2>
                   <p className="text-slate-700 leading-relaxed text-sm md:text-base">
                     Industrial units in Mandya and Belagola/Nanjangud face liquidity crunches from long corporate credit cycles and raw material swings. Borrowers often face Section 138 notices on machinery top-up loans. SettleLoans audits debt accounts for improper penal charges and negotiates structured compromise packages through bank Stressed Assets Committees.
                   </p>
@@ -815,9 +815,9 @@ export default function PersonalLoanSettlementMysorePage() {
                 <Scale className="w-4 h-4" />
                 <span>7. Legal Defense &amp; Lok Adalat Conciliation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Section 138 NI Act, Section 25 PSSA &amp; Enforcing Lok Adalat Decrees
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When defaults exceed 90 to 180 days, lenders frequently initiate complaints under Section 138 NI Act for bounced cheques or Section 25 PSSA for failed NACH auto-debits before Judicial Magistrates in Mysuru or Mandya. These represent bailable, compoundable proceedings arising from civil contracts.
               </p>
@@ -835,7 +835,7 @@ export default function PersonalLoanSettlementMysorePage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; NDC Verification</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Forensics: Verifying Legitimate OTS Documents &amp; ₹0 NDC Delivery
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -855,7 +855,7 @@ export default function PersonalLoanSettlementMysorePage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. Credit Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; Systematic Credit Restoration Strategy
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
@@ -918,7 +918,7 @@ export default function PersonalLoanSettlementMysorePage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Representation &amp; Advisory</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Borrowers Across Mysore &amp; Mandya Trust SettleLoans
               </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
@@ -937,7 +937,7 @@ export default function PersonalLoanSettlementMysorePage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Loan Settlement in Mysore &amp; Karnataka
               </h3>
 
@@ -966,10 +966,10 @@ export default function PersonalLoanSettlementMysorePage() {
 
             {/* Regulatory References & Official Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Portals
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1031,10 +1031,10 @@ export default function PersonalLoanSettlementMysorePage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

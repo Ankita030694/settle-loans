@@ -478,18 +478,18 @@ Yours faithfully,
 
             {/* Section 2 */}
             <section id="agent-dos-and-donts" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 2. Legal Dos and Don&apos;ts: What Recovery Agents Can and Cannot Do
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 The Reserve Bank of India and the Indian Institute of Banking &amp; Finance (IIBF) have laid down comprehensive operational codes for Debt Recovery Agents (DRAs). Understanding the precise legal boundaries between lawful debt notice and illegal harassment enables you to identify violations immediately.
               </p>
 
               {/* 4-Sided Bordered Comparison Table */}
               <div className="my-8">
-                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Comparative Guide: Lawful Recovery vs. Illegal Workplace Harassment
-                </h4>
+                </h2>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -547,9 +547,9 @@ Yours faithfully,
 
             {/* Section 3 */}
             <section id="penal-code-violations" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. Criminal Penal Codes &amp; Constitutional Privacy Protections
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 When a recovery agent enters private commercial premises or harasses employees, their actions cross the line into <strong>cognizable criminal offenses</strong> under the IPC and Bharatiya Nyaya Sanhita (BNS). Legitimate debt recovery does not permit criminal trespass.
               </p>
@@ -559,7 +559,7 @@ Yours faithfully,
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-2.5 mb-3 text-rose-600 font-bold text-base">
                     <AlertOctagon className="w-5 h-5" />
-                    <h4>Criminal Trespass (Sec 441/447 IPC / Sec 329 BNS)</h4>
+                    <h3>Criminal Trespass (Sec 441/447 IPC / Sec 329 BNS)</h3>
                   </div>
                   <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                     Corporate office premises, IT parks, and business establishments are private property. Entering without lawful visitor permission or refusing to leave when asked by corporate security constitutes criminal trespass, punishable by imprisonment and fines.
@@ -570,7 +570,7 @@ Yours faithfully,
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-2.5 mb-3 text-rose-600 font-bold text-base">
                     <ShieldAlert className="w-5 h-5" />
-                    <h5>Criminal Intimidation (Sec 503/506 IPC / Sec 351 BNS)</h5>
+                    <h4>Criminal Intimidation (Sec 503/506 IPC / Sec 351 BNS)</h4>
                   </div>
                   <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                     Threatening to get a borrower fired, creating scenes to destroy their livelihood, or using threatening language to induce fear of injury to reputation is a punishable criminal offense under Indian law.
@@ -581,7 +581,7 @@ Yours faithfully,
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-2.5 mb-3 text-rose-600 font-bold text-base">
                     <UserX className="w-5 h-5" />
-                    <h5>Criminal &amp; Civil Defamation (Sec 499/500 IPC / Sec 356 BNS)</h5>
+                    <h4>Criminal &amp; Civil Defamation (Sec 499/500 IPC / Sec 356 BNS)</h4>
                   </div>
                   <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                     Making unverified, disparaging statements to colleagues, receptionists, or HR directors regarding a person&apos;s credit status with intent to cause reputational damage entitles the borrower to file criminal defamation and seek massive civil tort damages.
@@ -592,7 +592,7 @@ Yours faithfully,
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-2.5 mb-3 text-[#1F5EFF] font-bold text-base">
                     <Scale className="w-5 h-5" />
-                    <h5>Right to Privacy (Article 21 of Constitution)</h5>
+                    <h4>Right to Privacy (Article 21 of Constitution)</h4>
                   </div>
                   <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                     As affirmed by the 9-Judge Constitution Bench of the Supreme Court in <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)</em>, personal financial standing is an intrinsic element of informational privacy and person human dignity.
@@ -602,10 +602,10 @@ Yours faithfully,
 
               {/* Landmark Supreme Court Case Box */}
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
-                <h5 className="text-sm font-bold text-amber-900 mb-1 flex items-center gap-2">
+                <h4 className="text-sm font-bold text-amber-900 mb-1 flex items-center gap-2">
                   <Landmark className="w-4 h-4 text-amber-700" />
                   Landmark Precedent: Supreme Court in ICICI Bank Ltd. v. Shanti Devi Sharma (2008)
-                </h5>
+                </h2>
                 <p className="text-xs sm:text-sm text-amber-800 leading-relaxed">
                   The Supreme Court of India sternly ruled that banks and financial institutions cannot deploy musclemen, goons, or abusive recovery agents to recover loans through intimidation or humiliation. The Court held that <em>&quot;banks are vicariously liable for the unlawful acts of their recovery agents and must adhere strictly to the rule of law and human dignity.&quot;</em>
                 </p>
@@ -614,9 +614,9 @@ Yours faithfully,
 
             {/* Section 4 */}
             <section id="protecting-your-job-hr" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Protecting Your Job: HR notice Protocol &amp; Email Script
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The single biggest fear of any employee facing debt default is: <em>&quot;Will HR fire me if a recovery agent calls the office switchboard or sends an email?&quot;</em>
               </p>
@@ -671,9 +671,9 @@ Yours faithfully,
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Recovery Agent Workplace Harassment Summary &amp; Action Roadmap
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -716,9 +716,9 @@ Yours faithfully,
 
             {/* Section 6 */}
             <section id="step-by-step-defense" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Step-by-Step Defense Action Plan: What to Do When an Agent Arrives
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 If a recovery agent physically reaches your office building or calls your office desk, execute this exact 6-stage legal protocol immediately:
               </p>
@@ -730,9 +730,9 @@ Yours faithfully,
                     <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs">
                       1
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
+                    <h3 className="font-bold text-slate-900 text-base">
                       Hold the Agent at Security / Visitor Lobby
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
                     Never allow the agent inside your office work floor or meeting rooms. Instruct the front-desk security executive to keep them seated in the public visitor holding area.
@@ -745,9 +745,9 @@ Yours faithfully,
                     <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs">
                       2
                     </div>
-                    <h5 className="font-bold text-slate-900 text-base">
+                    <h4 className="font-bold text-slate-900 text-base">
                       Demand Credentials (Bank Letter, Agency ID &amp; DRA Certificate)
-                    </h5>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
                     Under RBI regulations, you have the absolute legal right to inspect: 1) Bank Identity Card or Official Authorization Letter; 2) Collection Agency ID; 3) Indian Institute of Banking &amp; Finance (IIBF) Debt Recovery Agent Certificate. If they fail to produce all three, they are illegal trespassers.
@@ -760,9 +760,9 @@ Yours faithfully,
                     <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs">
                       3
                     </div>
-                    <h5 className="font-bold text-slate-900 text-base">
+                    <h4 className="font-bold text-slate-900 text-base">
                       Activate Evidentiary Audio / Video Recording
-                    </h5>
+                    </h4>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
                     Politely inform the agent that the interaction is being recorded for legal submission. Take photos of their identity cards and preserve visitor logbook timestamps as evidence for the RBI Banking Ombudsman.
@@ -775,9 +775,9 @@ Yours faithfully,
                     <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs">
                       4
                     </div>
-                    <h5 className="font-bold text-slate-900 text-base">
+                    <h4 className="font-bold text-slate-900 text-base">
                       State Your Formal Privacy &amp; Trespass Objection
-                    </h5>
+                    </h4>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
                     Deliver this clear legal statement: <em>&quot;This office is private corporate property. Under RBI Master Directions on Outsourcing, you have no consent to visit my workplace. You are instructed to leave immediately. All further notice must be sent in writing via registered email or through my legal counsel.&quot;</em>
@@ -790,9 +790,9 @@ Yours faithfully,
                     <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs">
                       5
                     </div>
-                    <h5 className="font-bold text-slate-900 text-base">
+                    <h4 className="font-bold text-slate-900 text-base">
                       Instruct Security to Escort the Agent Out
-                    </h5>
+                    </h4>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
                     If the agent refuses to leave or creates a loud scene, request building facility management and security guards to escort them off the premises for illegal commercial trespass. Inform the agent that a Police Dial 112 call is being placed for breach of peace.
@@ -805,9 +805,9 @@ Yours faithfully,
                     <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs">
                       6
                     </div>
-                    <h5 className="font-bold text-slate-900 text-base">
+                    <h4 className="font-bold text-slate-900 text-base">
                       start Advocate Legal Cease-and-Desist Notice via SettleLoans
-                    </h5>
+                    </h4>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
                     Immediately submit the incident details to SettleLoans. Our empaneled advocates draft and dispatch a formal legal notice to the bank&apos;s Managing Director and Principal Nodal Officer, freezing all field recovery agency mandates within 48 hours.
@@ -818,7 +818,7 @@ Yours faithfully,
 
             {/* Section 7 */}
             <section id="complaint-draft-templates" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Official Draft Complaint Templates: Bank PNO, RBI CMS &amp; Police
               </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
@@ -858,7 +858,7 @@ Yours faithfully,
 
               {/* Escalation Channels Table */}
               <div className="my-8">
-                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Key Regulatory Escalation Authorities in India
                 </h4>
                 <div className="overflow-x-auto">
@@ -904,7 +904,7 @@ Yours faithfully,
 
             {/* Section 8 */}
             <section id="ots-permanent-relief" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Permanent Debt Relief: One-Time Settlement (OTS) with SettleLoans
               </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
@@ -929,7 +929,7 @@ Yours faithfully,
                   <div className="w-10 h-10 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center mx-auto mb-3">
                     <ShieldCheck className="w-5 h-5" />
                   </div>
-                  <h5 className="font-bold text-slate-900 text-sm mb-1">Official Bank Sanction Letter</h5>
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">Official Bank Sanction Letter</h4>
                   <p className="text-xs text-slate-600">
                     Every settlement is approved on authentic bank letterhead with zero third-party mediator risk.
                   </p>
@@ -939,7 +939,7 @@ Yours faithfully,
                   <div className="w-10 h-10 rounded-full bg-purple-100 text-purple-600 flex items-center justify-center mx-auto mb-3">
                     <Lock className="w-5 h-5" />
                   </div>
-                  <h5 className="font-bold text-slate-900 text-sm mb-1">Permanent ₹0 NDC &amp; Closure</h5>
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">Permanent ₹0 NDC &amp; Closure</h4>
                   <p className="text-xs text-slate-600">
                     Secure an official No Dues Certificate (NDC) that permanently extinguishes debt liability and halts all recovery.
                   </p>
@@ -958,7 +958,7 @@ Yours faithfully,
                   Clear Answers to Common Questions
                 </span>
               </div>
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-8 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-8 leading-tight">
                 9. Frequently Asked Questions: Recovery Agents &amp; Workplace Rights
               </h3>
 
@@ -977,7 +977,7 @@ Yours faithfully,
 
             {/* Regulatory Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-10 text-xs text-slate-600 space-y-3">
-              <h4 className="font-bold uppercase tracking-wider text-slate-900 text-sm flex items-center gap-2">
+              <h3 className="font-bold uppercase tracking-wider text-slate-900 text-sm flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory Authorities &amp; Official Regulatory References</span>
               </h4>
@@ -1042,9 +1042,9 @@ Yours faithfully,
 
             {/* Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Legal Protection Guides
-              </h5>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/rbi-rules-for-recovery-agents"

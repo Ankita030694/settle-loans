@@ -556,7 +556,7 @@ Residential Address: [Your Full Postal Address]`;
                     <div className="w-9 h-9 rounded-xl bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold">
                       <Landmark className="w-5 h-5" />
                     </div>
-                    <h4 className="text-base font-bold text-slate-900">Board-Approved Compromise Policy</h4>
+                    <h3 className="text-base font-bold text-slate-900">Board-Approved Compromise Policy</h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Every regulated bank must maintain a comprehensive, non-discriminatory compromise policy ratified by its Board of Directors, ensuring objective hardship criteria rather than arbitrary manager favoritism.
@@ -568,7 +568,7 @@ Residential Address: [Your Full Postal Address]`;
                     <div className="w-9 h-9 rounded-xl bg-emerald-100 text-emerald-600 flex items-center justify-center font-bold">
                       <Scale className="w-5 h-5" />
                     </div>
-                    <h4 className="text-base font-bold text-slate-900">Judicial Non-Interference</h4>
+                    <h3 className="text-base font-bold text-slate-900">Judicial Non-Interference</h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Under the <em>Banking Regulation Act, 1949 (Section 21A &amp; 35A)</em> and Supreme Court rulings, commercial decisions to settle bad loans are protected as prudent risk management to prevent asset erosion.
@@ -580,7 +580,7 @@ Residential Address: [Your Full Postal Address]`;
                     <div className="w-9 h-9 rounded-xl bg-purple-100 text-purple-600 flex items-center justify-center font-bold">
                       <ShieldCheck className="w-5 h-5" />
                     </div>
-                    <h4 className="text-base font-bold text-slate-900">Mandatory Extinguishment</h4>
+                    <h3 className="text-base font-bold text-slate-900">Mandatory Extinguishment</h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Once the agreed OTS sum is remitted, the lender must permanently extinguish all residual principal, unapplied interest, and penal charges, withdrawing all pending legal cases.
@@ -592,7 +592,7 @@ Residential Address: [Your Full Postal Address]`;
                     <div className="w-9 h-9 rounded-xl bg-amber-100 text-amber-600 flex items-center justify-center font-bold">
                       <Clock className="w-5 h-5" />
                     </div>
-                    <h4 className="text-base font-bold text-slate-900">Cooling-Off &amp; Credit Reporting</h4>
+                    <h3 className="text-base font-bold text-slate-900">Cooling-Off &amp; Credit Reporting</h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     The RBI prescribes a mandatory 12-month cooling period before fresh borrowing eligibility, and mandates precise reporting of the account status as &apos;Settled&apos; with ₹0 balance across credit bureaus.
@@ -603,9 +603,9 @@ Residential Address: [Your Full Postal Address]`;
 
             {/* Section 2 */}
             <section id="npa-classification-aging-mechanics" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 2. NPA Classification & Default Aging Mechanics in OTS
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 To negotiate effectively with a bank, a borrower must understand how the bank&apos;s internal accounting engine categorizes defaulted debt. Under the <strong>RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)</strong>, loan accounts progress through rigid chronological stages:
               </p>
@@ -690,9 +690,9 @@ Residential Address: [Your Full Postal Address]`;
 
             {/* Section 3 */}
             <section id="internal-haircut-calculation-formula" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. Bank Credit Committee Internal Haircut Calculation Formula
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Banks do not pick settlement figures out of thin air. Behind closed doors, the bank&apos;s Credit Appraisal Committee applies a financial algorithm known as the <strong>Net Present Value (NPV) Recovery Comparison Model</strong>.
               </p>
@@ -731,10 +731,10 @@ Residential Address: [Your Full Postal Address]`;
 
               {/* Mathematical Case Study */}
               <div className="bg-white border-2 border-slate-200 rounded-2xl p-6 my-6 shadow-sm">
-                <h4 className="text-base md:text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
+                <h3 className="text-base md:text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
                   <FileSpreadsheet className="w-5 h-5 text-[#1F5EFF]" />
                   Mathematical Case Study: ₹10 Lakh Unsecured Personal Loan in Doubtful-2 NPA
-                </h4>
+                </h2>
                 <div className="space-y-3 text-xs md:text-sm text-slate-700">
                   <p>
                     <strong>Book Ledger Balance:</strong> Principal ₹7,00,000 + Accrued Penal Interest ₹3,00,000 = <strong>₹10,00,000</strong>.
@@ -754,9 +754,9 @@ Residential Address: [Your Full Postal Address]`;
 
             {/* Section 4 */}
             <section id="delegation-of-powers-credit-committee" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Delegation of Financial Powers in Bank OTS Approvals
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 A frequent and costly mistake made by borrowers is spending weeks arguing with local branch managers or field recovery agents. Under the internal <strong>Delegation of Financial Powers (DoFP)</strong> matrix of Indian banks, branch staff have near-zero legal capacity to write off loan principal.
               </p>
@@ -766,7 +766,7 @@ Residential Address: [Your Full Postal Address]`;
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5 flex flex-col md:flex-row md:items-center justify-between gap-4">
                   <div>
                     <span className="text-[11px] font-black uppercase tracking-wider text-slate-500 block mb-1">Level 1: Branch Manager / Scale-I to Scale-III</span>
-                    <h4 className="text-base font-bold text-slate-900">Branch Operations Desk</h4>
+                    <h3 className="text-base font-bold text-slate-900">Branch Operations Desk</h3>
                     <p className="text-xs text-slate-600 mt-1">Can waive overdue late fees and penal interest up to ₹25,000–₹1,00,000. <strong>Zero power to waive principal debt.</strong></p>
                   </div>
                   <div className="bg-white border border-slate-200 py-1.5 px-3 rounded-lg text-xs font-bold text-slate-700 text-center flex-shrink-0">
@@ -777,7 +777,7 @@ Residential Address: [Your Full Postal Address]`;
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5 flex flex-col md:flex-row md:items-center justify-between gap-4">
                   <div>
                     <span className="text-[11px] font-black uppercase tracking-wider text-blue-600 block mb-1">Level 2: Regional Settlement Committee / AGM</span>
-                    <h5 className="text-base font-bold text-slate-900">Regional / Cluster Recovery Committee</h5>
+                    <h4 className="text-base font-bold text-slate-900">Regional / Cluster Recovery Committee</h4>
                     <p className="text-xs text-slate-600 mt-1">Empowered to sanction 25% to 50% haircuts on retail personal loans, credit cards, and SME debts up to ₹25 Lakhs exposure.</p>
                   </div>
                   <div className="bg-white border border-slate-200 py-1.5 px-3 rounded-lg text-xs font-bold text-[#1F5EFF] text-center flex-shrink-0">
@@ -788,7 +788,7 @@ Residential Address: [Your Full Postal Address]`;
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5 flex flex-col md:flex-row md:items-center justify-between gap-4">
                   <div>
                     <span className="text-[11px] font-black uppercase tracking-wider text-purple-600 block mb-1">Level 3: Stressed Assets Recovery Branch (SARB) / DGM</span>
-                    <h5 className="text-base font-bold text-slate-900">Zonal Compromise Committee (ZCC)</h5>
+                    <h4 className="text-base font-bold text-slate-900">Zonal Compromise Committee (ZCC)</h4>
                     <p className="text-xs text-slate-600 mt-1">Dedicated stressed asset specialists authorized to sanction up to 60%–70% haircuts on retail and mid-corporate exposures up to ₹1 Crore.</p>
                   </div>
                   <div className="bg-white border border-slate-200 py-1.5 px-3 rounded-lg text-xs font-bold text-purple-700 text-center flex-shrink-0">
@@ -799,7 +799,7 @@ Residential Address: [Your Full Postal Address]`;
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5 flex flex-col md:flex-row md:items-center justify-between gap-4">
                   <div>
                     <span className="text-[11px] font-black uppercase tracking-wider text-emerald-600 block mb-1">Level 4: Managing Director &amp; Board Committee</span>
-                    <h5 className="text-base font-bold text-slate-900">Head Office Compromise Committee (HOCC)</h5>
+                    <h4 className="text-base font-bold text-slate-900">Head Office Compromise Committee (HOCC)</h4>
                     <p className="text-xs text-slate-600 mt-1">Highest statutory committee reviewing multi-crore consortium exposures, large corporate defaults, and specialized stressed asset write-offs.</p>
                   </div>
                   <div className="bg-white border border-slate-200 py-1.5 px-3 rounded-lg text-xs font-bold text-emerald-700 text-center flex-shrink-0">
@@ -811,9 +811,9 @@ Residential Address: [Your Full Postal Address]`;
 
             {/* Section 5 */}
             <section id="step-by-step-ots-talks-strategy" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 5. Step-by-Step Guide: How to Negotiate a Bank OTS
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-6 text-slate-700">
                 Securing a favorable One-Time Settlement requires disciplined legal preparation, rigorous accounting audits, and structured escalation. Follow this 5-stage blueprint:
               </p>
@@ -826,7 +826,7 @@ Residential Address: [Your Full Postal Address]`;
                     1
                   </div>
                   <div>
-                    <h4 className="text-lg font-bold text-slate-900 mb-2">Step 1: Hardship &amp; Solvency Audit (Disproving Willful Default)</h4>
+                    <h3 className="text-lg font-bold text-slate-900 mb-2">Step 1: Hardship &amp; Solvency Audit (Disproving Willful Default)</h3>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
                       Under RBI rules, banks are strictly prohibited from granting compromise settlements to &apos;Willful Defaulters&apos; or fraudsters. You must assemble concrete evidence proving that your default stems purely from unavoidable hardship:
                     </p>
@@ -845,7 +845,7 @@ Residential Address: [Your Full Postal Address]`;
                     2
                   </div>
                   <div>
-                    <h4 className="text-lg font-bold text-slate-900 mb-2">Step 2: Calculate Your Anchor Offer &amp; Budget Ceiling</h4>
+                    <h3 className="text-lg font-bold text-slate-900 mb-2">Step 2: Calculate Your Anchor Offer &amp; Budget Ceiling</h3>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
                       Do not open talks with your maximum budget. In Indian banking compromises, opening offers establish the baseline anchor:
                     </p>
@@ -863,7 +863,7 @@ Residential Address: [Your Full Postal Address]`;
                     3
                   </div>
                   <div>
-                    <h4 className="text-lg font-bold text-slate-900 mb-2">Step 3: Formal Written Submission with Verifiable POD</h4>
+                    <h3 className="text-lg font-bold text-slate-900 mb-2">Step 3: Formal Written Submission with Verifiable POD</h3>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
                       Submit your formal proposal simultaneously via three verifiable channels:
                     </p>
@@ -887,7 +887,7 @@ Residential Address: [Your Full Postal Address]`;
                     4
                   </div>
                   <div>
-                    <h4 className="text-lg font-bold text-slate-900 mb-2">Step 4: Neutralize Recovery Harassment under RBI Fair Practices Code</h4>
+                    <h3 className="text-lg font-bold text-slate-900 mb-2">Step 4: Neutralize Recovery Harassment under RBI Fair Practices Code</h3>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-2">
                       While your proposal is pending before the Credit Committee, third-party recovery agencies may continue aggressive calls. Immediately serve a written notice invoking the <strong>RBI Master Circular on Recovery Agents (RBI/2022-23/108)</strong>:
                     </p>
@@ -903,7 +903,7 @@ Residential Address: [Your Full Postal Address]`;
                     5
                   </div>
                   <div>
-                    <h4 className="text-lg font-bold text-slate-900 mb-2">Step 5: Sanction Letter Audit, Direct Remittance &amp; NDC Verification</h4>
+                    <h3 className="text-lg font-bold text-slate-900 mb-2">Step 5: Sanction Letter Audit, Direct Remittance &amp; NDC Verification</h3>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-2">
                       Once approved, conduct a thorough legal audit of the OTS Sanction Letter before paying a single rupee. Pay strictly into the designated loan account via direct banking channels and secure your final No Dues Certificate within 30 days.
                     </p>
@@ -914,9 +914,9 @@ Residential Address: [Your Full Postal Address]`;
 
             {/* Section 6: Dedicated Infographic Banner */}
             <section id="infographic-resolution-blueprint" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Visual OTS Process &amp; Haircut Blueprint
-              </h3>
+              </h2>
               
               {/* Compact High-Impact Infographic Banner */}
               <div className="bg-white border-2 border-blue-200 rounded-3xl overflow-hidden shadow-lg my-10 text-slate-800">
@@ -929,9 +929,9 @@ Residential Address: [Your Full Postal Address]`;
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Bank One-Time Settlement (OTS) Summary &amp; Process Overview
-                      </h4>
+                      </h2>
                     </div>
                   </div>
                   <a
@@ -974,9 +974,9 @@ Residential Address: [Your Full Postal Address]`;
 
             {/* Section 7 */}
             <section id="ots-vs-restructuring-vs-lok-adalat" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Bank OTS vs Restructuring vs Lok Adalat vs ARC Sale
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Borrowers facing debt distress often confuse various debt resolution channels. Below is an authoritative legal comparison of the four primary avenues available in India:
               </p>
@@ -1043,9 +1043,9 @@ Residential Address: [Your Full Postal Address]`;
 
             {/* Section 8 */}
             <section id="copyable-ots-proposal-template" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Formal Bank OTS Request Proposal Template (Copyable Format)
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Use our production-ready, legally fortified One-Time Settlement proposal template. This draft references the governing RBI Master Directions, establishes involuntary financial hardship, and mandates strict No Dues Certificate protections:
               </p>
@@ -1060,7 +1060,7 @@ Residential Address: [Your Full Postal Address]`;
 
             {/* Section 9 */}
             <section id="sanction-letter-audit-ndc-protocol" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Sanction Letter Audit & RBI 30-Day NDC Mandate
               </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
@@ -1125,7 +1125,7 @@ Residential Address: [Your Full Postal Address]`;
 
             {/* Section 10 */}
             <section id="cibil-impact-credit-rebuilding" className="scroll-mt-28 mb-14">
-              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 10. CIBIL Impact &amp; Credit Score recovery Post-OTS
               </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
@@ -1135,7 +1135,7 @@ Residential Address: [Your Full Postal Address]`;
               <div className="grid grid-cols-1 md:grid-cols-3 gap-5 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <span className="text-[11px] font-bold text-[#1F5EFF] uppercase tracking-wider block mb-1">Bureau Reporting</span>
-                  <h4 className="text-base font-bold text-slate-900 mb-2">&apos;Settled&apos; Tag with ₹0 Balance</h4>
+                  <h3 className="text-base font-bold text-slate-900 mb-2">&apos;Settled&apos; Tag with ₹0 Balance</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under CICRA 2005, the bank reports the account as &apos;Settled&apos; rather than &apos;Closed.&apos; The outstanding balance is updated to <strong>₹0</strong>, eliminating active overdue default drag.
                   </p>
@@ -1143,7 +1143,7 @@ Residential Address: [Your Full Postal Address]`;
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <span className="text-[11px] font-bold text-amber-600 uppercase tracking-wider block mb-1">Score Movement</span>
-                  <h5 className="text-base font-bold text-slate-900 mb-2">Immediate Score Stabilization</h5>
+                  <h4 className="text-base font-bold text-slate-900 mb-2">Immediate Score Stabilization</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     While the score experiences a temporary dip (typically 50–100 points), the cessation of compounding monthly 90+ DPD default markers allows the score to stabilize and bottom out.
                   </p>
@@ -1151,7 +1151,7 @@ Residential Address: [Your Full Postal Address]`;
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <span className="text-[11px] font-bold text-emerald-600 uppercase tracking-wider block mb-1">12-24 Month Recovery</span>
-                  <h5 className="text-base font-bold text-slate-900 mb-2">The Credit Rebuilding Ladder</h5>
+                  <h4 className="text-base font-bold text-slate-900 mb-2">The Credit Rebuilding Ladder</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     By acquiring a secured credit card (FD-backed) and servicing small monthly spends on time, borrowers can rebuild their CIBIL score back to <strong>750+ within 18 to 24 months</strong>.
                   </p>
@@ -1170,9 +1170,9 @@ Residential Address: [Your Full Postal Address]`;
                 <div className="w-8 h-8 rounded-xl bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold">
                   <HelpCircle className="w-5 h-5" />
                 </div>
-                <h3 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
+                <h2 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
                   Frequently Asked Questions on Bank One-Time Settlement Policies
-                </h3>
+                </h2>
               </div>
               <p className="text-slate-600 text-sm md:text-base mb-8">
                 Detailed, legally verified answers addressing the most critical operational and legal questions regarding bank OTS talks in India.
@@ -1193,10 +1193,10 @@ Residential Address: [Your Full Postal Address]`;
 
             {/* Regulatory Sources & References (Official Citations) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 shadow-sm">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Statutory References</span>
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs md:text-sm text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1258,10 +1258,10 @@ Residential Address: [Your Full Postal Address]`;
 
             {/* Related Guides & Resources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/personal-loan-settlement-letter-format"
