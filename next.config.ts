@@ -291,27 +291,42 @@ const nextConfig: NextConfig = {
       // City & Locality Nuanced Redirects
       {
         source: '/loan-settlement-by-city/mumbai',
-        destination: '/personal-loan-settlement-mumbai',
+        destination: '/loan-settlement/mumbai',
+        permanent: true,
+      },
+      {
+        source: '/personal-loan-settlement-mumbai',
+        destination: '/loan-settlement/mumbai',
         permanent: true,
       },
       {
         source: '/loan-settlement-by-city/delhi',
-        destination: '/personal-loan-settlement-delhi-ncr',
+        destination: '/loan-settlement/delhi',
         permanent: true,
       },
       {
         source: '/loan-settlement-by-city/delhi-ncr',
-        destination: '/personal-loan-settlement-delhi-ncr',
+        destination: '/loan-settlement/delhi',
+        permanent: true,
+      },
+      {
+        source: '/personal-loan-settlement-delhi-ncr',
+        destination: '/loan-settlement/delhi',
         permanent: true,
       },
       {
         source: '/loan-settlement-by-city/bengaluru',
-        destination: '/personal-loan-settlement-bangalore',
+        destination: '/loan-settlement/bengaluru',
         permanent: true,
       },
       {
         source: '/loan-settlement-by-city/bangalore',
-        destination: '/personal-loan-settlement-bangalore',
+        destination: '/loan-settlement/bengaluru',
+        permanent: true,
+      },
+      {
+        source: '/personal-loan-settlement-bangalore',
+        destination: '/loan-settlement/bengaluru',
         permanent: true,
       },
       {
@@ -321,12 +336,22 @@ const nextConfig: NextConfig = {
       },
       {
         source: '/loan-settlement-by-city/pune',
-        destination: '/personal-loan-settlement-pune',
+        destination: '/loan-settlement/pune',
+        permanent: true,
+      },
+      {
+        source: '/personal-loan-settlement-pune',
+        destination: '/loan-settlement/pune',
         permanent: true,
       },
       {
         source: '/loan-settlement-by-city/chennai',
-        destination: '/personal-loan-settlement-chennai',
+        destination: '/loan-settlement/chennai',
+        permanent: true,
+      },
+      {
+        source: '/personal-loan-settlement-chennai',
+        destination: '/loan-settlement/chennai',
         permanent: true,
       },
       {
@@ -346,7 +371,12 @@ const nextConfig: NextConfig = {
       },
       {
         source: '/loan-settlement-by-city/chandigarh',
-        destination: '/personal-loan-settlement-chandigarh',
+        destination: '/loan-settlement/chandigarh',
+        permanent: true,
+      },
+      {
+        source: '/personal-loan-settlement-chandigarh',
+        destination: '/loan-settlement/chandigarh',
         permanent: true,
       },
       {
@@ -515,6 +545,156 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
+        source: '/loan-settlement-by-city/agra',
+        destination: '/personal-loan-settlement-agra',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/bhopal',
+        destination: '/personal-loan-settlement-bhopal',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/bhubaneswar',
+        destination: '/personal-loan-settlement-bhubaneswar',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/coimbatore',
+        destination: '/personal-loan-settlement-coimbatore',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/dehradun',
+        destination: '/personal-loan-settlement-dehradun',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/guwahati',
+        destination: '/personal-loan-settlement-guwahati',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/gwalior',
+        destination: '/personal-loan-settlement-gwalior',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/jalandhar',
+        destination: '/personal-loan-settlement-jalandhar',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/jamshedpur',
+        destination: '/personal-loan-settlement-jamshedpur',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/jodhpur',
+        destination: '/personal-loan-settlement-jodhpur',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/kanpur',
+        destination: '/personal-loan-settlement-kanpur',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/ludhiana',
+        destination: '/personal-loan-settlement-ludhiana',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/madurai',
+        destination: '/personal-loan-settlement-madurai',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/meerut',
+        destination: '/personal-loan-settlement-meerut',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/nagpur',
+        destination: '/personal-loan-settlement-nagpur',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/nashik',
+        destination: '/personal-loan-settlement-nashik',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/patna',
+        destination: '/personal-loan-settlement-patna',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/prayagraj',
+        destination: '/personal-loan-settlement-prayagraj',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/allahabad',
+        destination: '/personal-loan-settlement-prayagraj',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/raipur',
+        destination: '/personal-loan-settlement-raipur',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/rajkot',
+        destination: '/personal-loan-settlement-rajkot',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/ranchi',
+        destination: '/personal-loan-settlement-ranchi',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/trivandrum',
+        destination: '/personal-loan-settlement-trivandrum',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/thiruvananthapuram',
+        destination: '/personal-loan-settlement-trivandrum',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/vadodara',
+        destination: '/personal-loan-settlement-vadodara',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/baroda',
+        destination: '/personal-loan-settlement-vadodara',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/varanasi',
+        destination: '/personal-loan-settlement-varanasi',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/vijayawada',
+        destination: '/personal-loan-settlement-vijayawada',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/visakhapatnam',
+        destination: '/personal-loan-settlement-visakhapatnam',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-city/vizag',
+        destination: '/personal-loan-settlement-visakhapatnam',
+        permanent: true,
+      },
+      {
         source: '/loan-settlement-by-city/:slug',
         destination: '/services/personal-loan-settlement',
         permanent: true,
@@ -524,7 +704,52 @@ const nextConfig: NextConfig = {
         destination: '/services/personal-loan-settlement',
         permanent: true,
       },
-      // Bank Nuanced Redirects
+      // Bank Nuanced Redirects & Canonical Consolidation
+      {
+        source: '/sbi-personal-loan-settlement',
+        destination: '/loan-settlement/sbi',
+        permanent: true,
+      },
+      {
+        source: '/hdfc-personal-loan-settlement',
+        destination: '/loan-settlement/hdfc-bank',
+        permanent: true,
+      },
+      {
+        source: '/icici-personal-loan-settlement',
+        destination: '/loan-settlement/icici-bank',
+        permanent: true,
+      },
+      {
+        source: '/axis-bank-personal-loan-settlement',
+        destination: '/loan-settlement/axis-bank',
+        permanent: true,
+      },
+      {
+        source: '/kotak-bank-personal-loan-settlement',
+        destination: '/loan-settlement/kotak-bank',
+        permanent: true,
+      },
+      {
+        source: '/rbl-bank-credit-card-loan-settlement',
+        destination: '/loan-settlement/rbl-bank',
+        permanent: true,
+      },
+      {
+        source: '/bajaj-finance-personal-loan-settlement',
+        destination: '/loan-settlement/bajaj-finance',
+        permanent: true,
+      },
+      {
+        source: '/idfc-first-bank-loan-settlement',
+        destination: '/loan-settlement/idfc-first-bank',
+        permanent: true,
+      },
+      {
+        source: '/indusind-bank-personal-loan-settlement',
+        destination: '/loan-settlement/indusind-bank',
+        permanent: true,
+      },
       {
         source: '/loan-settlement-by-bank/sbi',
         destination: '/loan-settlement/sbi',
@@ -707,22 +932,157 @@ const nextConfig: NextConfig = {
       },
       {
         source: '/loan-settlement-by-bank/aditya-birla',
-        destination: '/services/nbfc-loan-settlement',
+        destination: '/aditya-birla-finance-loan-settlement',
         permanent: true,
       },
       {
         source: '/loan-settlement-by-bank/aditya-birla-fin',
-        destination: '/services/nbfc-loan-settlement',
+        destination: '/aditya-birla-finance-loan-settlement',
         permanent: true,
       },
       {
-        source: '/loan-settlement-by-bank/:slug',
-        destination: '/loan-settlement',
+        source: '/loan-settlement-by-bank/navi',
+        destination: '/navi-app-loan-settlement',
         permanent: true,
       },
       {
-        source: '/loan-settlement-by-bank',
-        destination: '/loan-settlement',
+        source: '/loan-settlement-by-bank/navi-finserv',
+        destination: '/navi-app-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/mpokket',
+        destination: '/mpokket-loan-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/incred',
+        destination: '/incred-personal-loan-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/stashfin',
+        destination: '/stashfin-loan-default-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/kreditbee',
+        destination: '/kreditbee-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/moneyview',
+        destination: '/moneyview-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/lendingkart',
+        destination: '/lendingkart-business-loan-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/dmi-finance-pvt-ltd',
+        destination: '/dmi-finance-loan-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/dmi-finance',
+        destination: '/dmi-finance-loan-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/zestmoney',
+        destination: '/zestmoney-dmi-loan-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/freo',
+        destination: '/freo-moneytap-credit-line-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/moneytap',
+        destination: '/freo-moneytap-credit-line-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/hero-fincorp',
+        destination: '/hero-fincorp-personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/au-small-fin-bank-ltd',
+        destination: '/au-small-finance-bank-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/au-small-finance-bank',
+        destination: '/au-small-finance-bank-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/equitas',
+        destination: '/equitas-small-finance-bank-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/ujjivan',
+        destination: '/ujjivan-small-finance-bank-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/canara-bank',
+        destination: '/canara-bank-personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/bank-of-baroda',
+        destination: '/bank-of-baroda-personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/union-bank-of-india',
+        destination: '/union-bank-of-india-personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/hsbc',
+        destination: '/hsbc-personal-loan-credit-card-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/american-express',
+        destination: '/american-express-amex-credit-card-settlement-india',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/fibe',
+        destination: '/loan-settlement/fibe',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/early-salary',
+        destination: '/loan-settlement/fibe',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/iifl',
+        destination: '/iifl-finance-loan-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/cashe',
+        destination: '/cashe-loan-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/federal-bank',
+        destination: '/federal-bank-loan-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-by-bank/sbi-card',
+        destination: '/sbi-card-credit-card-settlement-process',
         permanent: true,
       },
       {
