@@ -6,7 +6,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: "What is Credit Appraisal Process in Banks? Complete Guide",
-  description: "Learn how banks evaluate loan eligibility through the credit appraisal process. Understand 5 Cs of credit, DSCR, and debt-to-income limits.",
+  description: "Ever wonder how banks secretly grade you before rejecting your loan? Step inside the rigid credit appraisal process and learn how banks approve loans in India.",
   alternates: {
     canonical: "https://www.settleloans.in/what-is-credit-appraisal",
   },

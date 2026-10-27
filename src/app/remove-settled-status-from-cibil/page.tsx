@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import RemoveSettledStatusFromCibilClient from './RemoveSettledStatusFromCibilClient';
 
 export const metadata: Metadata = {
-  title: 'How to Remove Settled Status from CIBIL | SettleLoans',
+  title: 'How to Remove Settled Status from CIBIL: Legal Guide to "Closed" (2026)',
   description: 'Learn how to remove settled status from CIBIL and convert it to "Closed". Step-by-step process to pay residual balance, get No Dues Certificate.',
   alternates: {
     canonical: 'https://www.settleloans.in/remove-settled-status-from-cibil',

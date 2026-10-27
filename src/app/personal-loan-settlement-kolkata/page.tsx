@@ -43,7 +43,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Advocates in Kolkata | SettleLoans',
+  title: 'Loan Settlement Advocates in Kolkata: Legal Defense & Lok Adalat OTS (2026)',
   description: 'Struggling with personal loan default, recovery harassment, or Bankshall / Alipore court summons in Kolkata & West Bengal?',
   keywords: [
     'loan settlement advocates in kolkata',

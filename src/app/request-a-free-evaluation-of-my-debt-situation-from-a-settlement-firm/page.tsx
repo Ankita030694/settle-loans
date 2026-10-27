@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Free Debt Evaluation from a Settlement Firm | SettleLoans",
+  title: "Request a Free Evaluation of My Debt Situation from a Settlement Firm",
   description: "Get a professional, 360-degree audit of your debt. Learn how to qualify for loan settlement, calculate your DTI ratio, and avoid predatory scams in India.",
   alternates: {
     canonical: "https://www.settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm",

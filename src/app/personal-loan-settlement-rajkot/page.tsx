@@ -49,8 +49,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-rajkot',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Rajkot | SettleLoans',
-    description: 'Learn how to settle personal loans legally in Rajkot. Stop bank recovery agent calls and resolve debt with structured OTS via SettleLoans.',
+    title: 'Loan Settlement Services in Rajkot: Settle Personal & MSME Debt (2026)',
+    description: 'Comprehensive legal and financial debt resolution for foundry owners, auto-component manufacturers, and individual borrowers in Rajkot and the Saurashtra industrial corridor.',
     url: 'https://www.settleloans.in/personal-loan-settlement-rajkot',
     siteName: 'SettleLoans',
     images: [

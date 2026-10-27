@@ -6,8 +6,8 @@ import { faTriangleExclamation, faStar, faCheck, faShieldHalved, faScaleBalanced
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "How to Apply for Loan Settlement | SettleLoans",
-    description: "Learn the professional steps to apply for a loan settlement in India. Stop harassment & settle debt legally with SettleLoans.",
+    title: "Steps to Apply for a Loan Settlement Through a Financial Service Provider | 2026 Guide",
+    description: "Learn the professional steps to apply for a loan settlement in India. Master the process from financial audit to final 'No Dues Certificate' with expert guidance.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider",
     },

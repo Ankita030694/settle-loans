@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import SbiPersonalLoanSettlementClient from './SbiPersonalLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'SBI Personal Loan Settlement Guide | SettleLoans',
+  title: 'SBI Personal Loan Settlement: OTS Rules, Rin Samadhan Scheme & Lok Adalat (2026)',
   description: 'Exhaustive guide to State Bank of India (SBI) personal loan settlement. Understand PSU OTS policies, Rin Samadhan scheme, SARB escalation.',
   keywords: [
     'sbi personal loan settlement online',

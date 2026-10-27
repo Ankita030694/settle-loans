@@ -33,7 +33,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Verify Authentic Bank Settlement Letter | SettleLoans",
+  title: "How to Verify Authentic Bank Settlement Letter: 7 Forensic Checks to Avoid Fake OTS Scams (2026)",
   description: 'Learn how to verify bank loan settlement letter authenticity. Discover 7 critical checks, domain verification, and branch seal forensics.',
   keywords: [
     "how to verify bank loan settlement letter",

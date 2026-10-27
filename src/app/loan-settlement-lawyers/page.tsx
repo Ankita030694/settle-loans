@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Top Loan Settlement Lawyers in India | SettleLoans",
+  title: "Top Loan Settlement Lawyers in India | Expert Legal Debt Relief",
   description: "Consult the best loan settlement lawyers in India. Protect your rights, stop recovery harassment legally, and settle your debt for the lowest possible.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-lawyers",

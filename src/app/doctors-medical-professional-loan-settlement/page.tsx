@@ -32,7 +32,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement for Doctors in India | SettleLoans',
+  title: 'Loan Settlement for Doctors in India: Clinic Debt, Equipment & OTS Guide',
   description: 'Specialized guide on loan settlement for doctors in India. Learn how to resolve unsecured professional loans, clinic expansion debts.',
   keywords: [
     'loan settlement for doctors in india',

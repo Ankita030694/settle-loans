@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Debt Settlement Offers for Business Loans | SettleLoans",
-  description: "Explore business loan debt settlement offers in India. Comprehensive guide on MSME OTS schemes, RBI rules, and bank negotiation.",
+  title: "Debt Settlement Offers for Business Loans | MSME & SME Guide 2026",
+  description: "Explore the latest debt settlement offers for business loans in India. Comprehensive guide on MSME OTS schemes, RBI guidelines, and bank negotiation strategies.",
   alternates: {
     canonical: "https://www.settleloans.in/debt-settlement-offers-for-business-loans",
   },

@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CreditCardBillNaBharneKeNuksanClient from './CreditCardBillNaBharneKeNuksanClient';
 
 export const metadata: Metadata = {
-  title: 'Credit Card Bill Na Bharne Ke Nuksan: Legal Guide',
+  title: 'Credit Card Bill Na Bharne Ke Nuksan: 42% APR Trap, Legal Reality & 60-70% Settlement (2026)',
   description: 'Credit card bill na bharne par kya hota hai? Jane legal notice, recovery harassment se bachav aur settlement ke sahi niyam.',
   keywords: [
     'credit card bill na bharne par kya hota hai',

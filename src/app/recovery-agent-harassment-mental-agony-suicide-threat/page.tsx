@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat',
   },
   openGraph: {
-    title: 'Stop Recovery Agent Mental Harassment | SettleLoans',
+    title: 'Recovery Agent Harassment Causing Mental Agony & Despair | Legal Protection',
     description: 'Facing depression and mental agony from recovery agent threats? Learn emergency Section 108 BNS legal protections and remedies with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat',
     siteName: 'SettleLoans',

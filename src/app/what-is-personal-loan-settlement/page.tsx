@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "What is Personal Loan Settlement? | SettleLoans",
+  title: "What is Personal Loan Settlement? Process, Benefits & RBI Guidelines 2026",
   description: "Comprehensive guide to personal loan settlement in India. Learn the step by step process, legal rights under RBI guidelines, CIBIL impact.",
   alternates: {
     canonical: "https://www.settleloans.in/what-is-personal-loan-settlement",

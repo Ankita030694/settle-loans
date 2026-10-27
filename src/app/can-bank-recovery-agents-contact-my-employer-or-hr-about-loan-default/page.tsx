@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Can Recovery Agents Contact Your Employer? | SettleLoans",
-  description: "Learn the strict RBI rules that prohibit recovery agents from contacting your workplace, HR, or manager regarding your personal loan default.",
+  title: "Can Bank Recovery Agents Contact My Employer or HR About My Personal Loan Default?",
+  description: "Learn the strict RBI rules that prohibit recovery agents from contacting your workplace, HR, or manager regarding your personal loan default. Discover how to stop harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-recovery-agents-contact-my-employer-or-hr-about-loan-default",
   },

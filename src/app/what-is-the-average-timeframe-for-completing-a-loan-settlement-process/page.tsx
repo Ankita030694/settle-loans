@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Timeframe in India | SettleLoans",
+  title: "Average Timeframe for Loan Settlement in India | Full Process & Timeline",
   description: "How long does it take to settle a loan in India? Discover the average timeframe for personal loans, credit cards, and NBFC settlements.",
   alternates: {
     canonical: "https://www.settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process",

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Services in Uttarakhand | SettleLoans",
+  title: "Expert Loan Settlement Services in Uttarakhand | 40-70% Waiver Experts - SettleLoans",
   description: "Struggling with debt in Uttarakhand? Get expert legal representation in Dehradun, Haridwar & Haldwani. Settle credit cards & personal loans with 70%.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/uttarakhand",

@@ -5,8 +5,8 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Bank Recovery Harassment Complaint: How to File in India",
-    description: "Are you facing harassment from bank recovery agents? Learn exactly how to file a complaint with the RBI Ombudsman, file an FIR.",
+    title: "Bank Recovery Harassment Complaint | How to File & Win India",
+    description: "Are you facing harassment from bank recovery agents? Learn exactly how to file a complaint with the RBI Ombudsman, file an FIR, and seek compensation in consumer court.",
     alternates: {
         canonical: "https://www.settleloans.in/bank-recovery-harassment-complaint",
     },

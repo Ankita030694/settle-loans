@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import LokAdalatMeLoanSettlementClient from './LokAdalatMeLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'Lok Adalat Me Loan Settlement Kaise Kare | SettleLoans',
+  title: 'Lok Adalat Me Loan Settlement Kaise Kare: Notice Rules, Process & Spot OTS (2026)',
   description: 'Received a National Lok Adalat notice? Learn how Lok Adalat loan settlement works in India, notice rules, voluntary attendance, zero court fee benefits.',
   keywords: [
     'lok adalat me loan settlement kaise hota hai',

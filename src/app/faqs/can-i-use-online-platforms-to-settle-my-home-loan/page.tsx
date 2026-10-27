@@ -8,7 +8,7 @@ import CompanyComparison from "@/components/CompanyComparison";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Can You Settle Home Loans Online? | SettleLoans",
+    title: "Can I Use Online Platforms to Settle My Home Loan? | Digital Resolution Guide",
     description: "Learn how to use online platforms for home loan settlement in India. Expert guide on digital mediation, SARFAESI defense, and negotiating with top banks.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan",

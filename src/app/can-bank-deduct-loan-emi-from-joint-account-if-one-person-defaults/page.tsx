@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Can Bank Deduct EMI from Joint Account? | SettleLoans",
+  title: "Can the Bank Deduct Loan EMI from a Joint Account if Only One Person Defaulted?",
   description: "A legal analysis of the Banker's Right of Set-Off in India. Learn if banks can legally deduct EMI from a joint account without permission or freeze.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults",

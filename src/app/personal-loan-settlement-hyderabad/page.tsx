@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import PersonalLoanSettlementHyderabadClient from './PersonalLoanSettlementHyderabadClient';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Advocates in Hyderabad | SettleLoans',
+  title: 'Loan Settlement Advocates in Hyderabad: Legal Defense & Lok Adalat OTS (2026)',
   description: 'Facing personal loan default or harassment in Hyderabad? Connect with premier debt settlement lawyers to protect your rights.',
   keywords: [
     'loan settlement advocates in hyderabad',

@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/cred-cash-personal-loan-settlement-process',
   },
   openGraph: {
-    title: 'CRED Cash Loan Settlement Guide | SettleLoans',
+    title: 'CRED Cash Loan Default Settlement: Settle Partner Bank Dues (2026)',
     description: 'Learn how to settle CRED Cash loans legally. Negotiate a single-shot compromise with partner banks and stop collection calls with SettleLoans.',
     url: 'https://www.settleloans.in/cred-cash-personal-loan-settlement-process',
     siteName: 'SettleLoans',

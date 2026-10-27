@@ -37,7 +37,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement for IT Professionals | SettleLoans',
+  title: 'Loan Settlement for IT Professionals: Tech Layoff Debt Relief & Legal OTS Guide',
   description: 'Comprehensive guide to loan settlement for IT professionals in Bengaluru, Hyderabad & Pune facing layoffs or salary cuts.',
   keywords: [
     'loan settlement for it professionals',

@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Education Loan Default Consequences in India | SettleLoans",
+  title: "Education Loan Default Consequences in India & Co-Signer Liability",
   description: "Struggling with student loan non-payment? Learn the severe education loan default consequences in India and how to protect yourself and your parent.",
   alternates: {
     canonical: "https://www.settleloans.in/education-loan-default-consequences",

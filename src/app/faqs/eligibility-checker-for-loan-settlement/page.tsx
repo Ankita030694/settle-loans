@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Check Loan Settlement Eligibility Online | SettleLoans",
+  title: "Check Loan Settlement Eligibility | Am I Eligible? - SettleLoans",
   description: 'Unsure if you qualify for loan settlement? Use our eligibility guide to understand the 4 core criteria, NPA rules, and required documentation.',
   alternates: {
     canonical: "https://www.settleloans.in/faqs/eligibility-checker-for-loan-settlement",

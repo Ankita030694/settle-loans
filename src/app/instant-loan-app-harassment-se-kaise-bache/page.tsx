@@ -38,7 +38,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Instant Loan App Harassment Se Kaise Bache | SettleLoans',
+  title: 'Instant Loan App Harassment Se Kaise Bache: Emergency Cyber Shield',
   description: 'Instant loan app harassment se kaise bache? Defend against 7-day Chinese loan apps, morphed photo threats, contact list calling, cybercrime.',
   keywords: [
     'instant loan app harassment se kaise bache',

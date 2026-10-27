@@ -21,8 +21,8 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: 'Best Lawyer for Company Loan Matters | SettleLoans',
-    description: 'Expert legal counsel for company loan defaults, NCLT, IBC proceedings, and debt restructuring. Protect your business with top corporate lawyers.',
+    title: 'Best Lawyer for Company Loan Matters in India | Corporate Debt Defense',
+    description: 'Expert legal counsel for company loan defaults, NCLT, IBC proceedings, and corporate debt restructuring. Protect your business with India\'s top corporate lawyers.',
     alternates: {
         canonical: 'https://www.settleloans.in/best-lawyer-for-company-loan-matters',
     },

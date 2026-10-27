@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Auction Notice Challenge: DRT Stay Guide | SettleLoans",
+  title: "Auction Notice Challenge | Your Legal Shield Against Bank Auctions in India",
   description: "Received an auction notice? Learn how to challenge bank auctions under the SARFAESI Act, protect your property rights, and file for a stay in the DRT.",
   alternates: {
     canonical: "https://www.settleloans.in/auction-notice-challenge",

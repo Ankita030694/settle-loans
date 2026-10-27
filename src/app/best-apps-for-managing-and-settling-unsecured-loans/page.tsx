@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Best Apps for Settling Unsecured Loans | SettleLoans",
+  title: "10 Best Apps for Managing and Settling Unsecured Loans in India (2026)",
   description: "Comprehensive guide to the top-rated apps in India for tracking EMIs, managing unsecured personal loans, and professional debt settlement.",
   alternates: {
     canonical: "https://www.settleloans.in/best-apps-for-managing-and-settling-unsecured-loans",

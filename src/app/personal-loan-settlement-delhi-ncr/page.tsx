@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import PersonalLoanSettlementDelhiNcrClient from './PersonalLoanSettlementDelhiNcrClient';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Lawyer in Delhi NCR | SettleLoans',
+  title: 'Personal Loan Settlement Lawyer in Delhi NCR: Legal Defense & Lok Adalat (2026)',
   description: 'Facing loan default or recovery harassment in Delhi NCR? Connect with experienced advocates to resolve disputes and settle debts safely.',
   keywords: [
     'personal loan settlement lawyer in delhi ncr',

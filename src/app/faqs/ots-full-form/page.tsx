@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "OTS Full Form in Banking: Guide | SettleLoans",
-  description: 'What is OTS full form in banking? Learn One Time Settlement process, RBI rules, eligibility, and how to secure maximum debt waivers in India.',
+  title: "OTS Full Form in Banking (One Time Settlement Scheme & RBI Rules 2026)",
+  description: "OTS full form in banking is One Time Settlement. Learn how bank OTS schemes work in India, typical 40–70% waiver percentages, CIBIL impact, and OTS application format.",
   alternates: {
     canonical: "https://www.settleloans.in/faqs/ots-full-form",
   },

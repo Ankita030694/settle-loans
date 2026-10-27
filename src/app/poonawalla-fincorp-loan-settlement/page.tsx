@@ -32,7 +32,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Poonawalla Fincorp Loan Settlement Guide | SettleLoans',
+  title: 'Poonawalla Fincorp Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
   description: 'Comprehensive guide to Poonawalla Fincorp personal, professional & pre-owned car loan settlement. Learn how to stop NACH bounce charges.',
   keywords: [
     'poonawalla fincorp personal loan settlement',

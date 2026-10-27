@@ -34,7 +34,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Ring App Loan Default & Settlement Guide | SettleLoans',
+  title: 'Ring App (PayWithRing) Loan Default & Settlement: Stop Calling & OTS Guide (2026)',
   description:
     'Trapped in Ring app (PayWithRing) revolving debt? Learn how to stop automated calling bots, halt NACH bounce penalties, invoke RBI Digital Lending.',
   keywords: [

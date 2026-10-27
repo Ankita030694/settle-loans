@@ -6,8 +6,8 @@ import { faFileShield, faGavel, faBuildingColumns, faUserShield, faScaleBalanced
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Lawyer for DRT Loan Assignment Disputes | SettleLoans",
-    description: "Get expert legal defense against loan assignment disputes in DRT. Stop harassment & settle debt legally with SettleLoans.",
+    title: "Best Lawyer for DRT Loan Assignment Dispute Defence | ARC Recovery Help",
+    description: "Get expert legal defense against loan assignment disputes in DRT. Challenge ARC actions, assignment deeds, and stay recovery orders with India's top DRT lawyers. Protect your assets from Asset Reconstruction Companies today.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt",
     },

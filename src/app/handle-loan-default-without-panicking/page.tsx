@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "How to Handle Loan Default Without Panicking | SettleLoans",
+  title: "How to Handle Loan Default Without Panicking | RBI Guidelines 2026 & Your Rights",
   description: 'Struggling with loan default? Learn how to handle debt calmly. Explore RBI guidelines, borrower rights, recovery rules, and legal remedies.',
   alternates: {
     canonical: "https://www.settleloans.in/handle-loan-default-without-panicking",

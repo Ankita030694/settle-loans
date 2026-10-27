@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-nagpur',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Nagpur | SettleLoans',
+    title: 'Personal Loan Settlement Lawyer in Nagpur: Legal Defense & Lok Adalat OTS (2026)',
     description:
       'Learn how to settle personal loans legally in Nagpur. Stop recovery agent harassment and resolve bank debt with structured OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-nagpur',

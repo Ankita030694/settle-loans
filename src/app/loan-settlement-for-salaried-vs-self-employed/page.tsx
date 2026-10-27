@@ -43,8 +43,8 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement: Salaried vs Self-Employed | SettleLoans',
-  description: 'Understand loan settlement rules for salaried individuals vs self-employed business owners. Compare documentation, Section 60 CPC protections.',
+  title: 'Loan Settlement for Salaried vs Self-Employed: Rules & Strategy',
+  description: 'Understand loan settlement rules for salaried individuals vs self-employed business owners. Compare documentation, Section 60 CPC protections, and haircut formulas.',
   keywords: [
     'loan settlement rules for salaried individuals',
     'loan settlement for self employed borrowers',

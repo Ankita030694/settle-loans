@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college',
   },
   openGraph: {
-    title: 'Stop Recovery Calls to Work & College | SettleLoans',
+    title: 'Recovery Agents Calling Previous Employer or College? DPDP Act & Legal Rights',
     description: 'Recovery agents calling your former employer or college? Stop workplace defamation and enforce DPDP privacy violations with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college',
     siteName: 'SettleLoans',

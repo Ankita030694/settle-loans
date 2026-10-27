@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Can Bank Attach Agricultural Land for Personal Loan?",
+  title: "Can the Bank Attach Agricultural Land for an Unsecured Personal Loan Default?",
   description: "Learn how Section 60 CPC protects agricultural land, farming tools, and livestock from bank attachment for personal loan default.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default",

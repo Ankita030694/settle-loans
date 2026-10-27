@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Professional Loan Foreclosure Charges Guide | SettleLoans",
+  title: "Professional Loan Foreclosure Charges: Doctor & CA Closure Fees",
   description: "Are you a Doctor or CA trying to foreclose your professional loan? Banks often hide massive penalties in the fine print. Learn how to negotiate them.",
   alternates: {
     canonical: "https://www.settleloans.in/professional-loan-foreclosure-charges",

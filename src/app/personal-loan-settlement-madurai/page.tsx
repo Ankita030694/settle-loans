@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-madurai',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Madurai | SettleLoans',
+    title: 'Debt Settlement Advocates in Madurai: Personal Loan & SARB OTS Legal Guide (2026)',
     description: 'Learn how to settle personal loans legally in Madurai. Stop recovery harassment and resolve unsecured debt with expert OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-madurai',
     siteName: 'SettleLoans',

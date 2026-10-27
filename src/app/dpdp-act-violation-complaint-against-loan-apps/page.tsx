@@ -60,8 +60,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps',
   },
   openGraph: {
-    title: 'DPDP Act Complaint Against Loan Apps | SettleLoans',
-    description: 'Loan apps accessing your phone contacts illegally? File a Data Protection Board complaint under the DPDP Act 2023 with SettleLoans.',
+    title: 'DPDP Act Violation Complaint Against Loan Apps Accessing Contacts: Legal Guide',
+    description: 'Statutory breakdown on filing complaints under the Digital Personal Data Protection Act, 2023 against predatory loan apps harvesting contacts, photos, and private data.',
     url: 'https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps',
     siteName: 'SettleLoans',
     images: [

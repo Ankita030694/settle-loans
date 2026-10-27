@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import InstantAppLoanSettlementClient from './InstantAppLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'How to Settle Instant App Loan: RBI Rules & Defense',
+  title: 'How to Settle Instant App Loan: RBI Rules, Cyber Fraud Defense & Harassment Protection (2026)',
   description: 'Trapped by predatory instant loan apps or fake 7-day lending platforms? Stop harassment & settle debt legally with SettleLoans.',
   keywords: [
     'how to settle instant app loan',

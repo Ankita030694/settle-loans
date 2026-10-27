@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Prepayment Reflection Time in Loan Account | SettleLoans",
+  title: "Prepayment Reflection Time in Loan Account | Part Payment Not Updated",
   description: "Made a massive part-payment but your principal hasn't reduced? Learn the exact time taken to reflect loan prepayment and how to handle a banking ombudsman.",
   alternates: {
     canonical: "https://www.settleloans.in/prepayment-reflection-time-in-loan-account",

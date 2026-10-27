@@ -33,7 +33,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Waive Penal Interest & Charges on Loan Default | SettleLoans',
+  title: 'How to Waive Penal Interest and Charges on Loan Default | SettleLoans',
   description: 'Legal guide to loan statement forensic audits. Learn how to isolate genuine principal and leverage RBI rules to waive penal interest.',
   keywords: [
     'how to waive penal interest and charges on loan default',

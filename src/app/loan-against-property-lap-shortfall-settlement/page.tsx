@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/loan-against-property-lap-shortfall-settlement',
   },
   openGraph: {
-    title: 'Property Loan (LAP) Shortfall Settlement | SettleLoans',
+    title: 'Loan Against Property (LAP) Shortfall Settlement: Settle Post-Auction Residual Debt & DRT Shortfall Guide',
     description: 'Facing residual loan shortfall after property auction? Learn how to settle post-SARFAESI unsecured debt legally with SettleLoans.',
     url: 'https://www.settleloans.in/loan-against-property-lap-shortfall-settlement',
     siteName: 'SettleLoans',

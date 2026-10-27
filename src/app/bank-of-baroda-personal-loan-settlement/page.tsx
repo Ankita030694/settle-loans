@@ -42,7 +42,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Bank of Baroda Personal Loan Settlement | SettleLoans',
+  title: 'Bank of Baroda Personal Loan Settlement: SARB Process, OTS Rules & Haircut Matrix (2026)',
   description: 'Exhaustive legal guide to Bank of Baroda personal loan settlement. Master BOB Stressed Assets Recovery Branch (SARB) procedures.',
   keywords: [
     'bank of baroda personal loan settlement process',

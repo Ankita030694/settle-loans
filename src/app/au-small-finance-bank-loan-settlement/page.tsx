@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/au-small-finance-bank-loan-settlement',
   },
   openGraph: {
-    title: 'AU Small Finance Bank Settlement | SettleLoans',
+    title: 'AU Small Finance Bank Loan Settlement: SARB Rules, Legal Defense & Haircut (2026)',
     description: 'Learn how to settle AU Small Finance Bank loans legally. Negotiate directly with SARB teams and resolve overdue debt with SettleLoans.',
     url: 'https://www.settleloans.in/au-small-finance-bank-loan-settlement',
     siteName: 'SettleLoans',

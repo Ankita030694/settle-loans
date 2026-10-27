@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "When Does Your Loan Become an NPA? | SettleLoans",
-  description: "Understand the exact timeline of when your personal or business loan turns into a full-blown NPA. Stop harassment & settle debt legally with SettleLoans.",
+  title: "When Does Your Loan Become an NPA? | The 90-Day Default Timeline",
+  description: "Understand the exact timeline of when your personal or business loan turns into a full-blown NPA. Learn about the 90-day default rules and what happens on Day 91.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-npa-status",
   },

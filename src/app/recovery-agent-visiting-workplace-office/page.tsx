@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import RecoveryAgentVisitingWorkplaceOfficeClient from './RecoveryAgentVisitingWorkplaceOfficeClient';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agent Visiting Workplace? RBI Rules | SettleLoans',
+  title: 'Recovery Agent Visiting Workplace? RBI Rules, Legal Rights & How to Stop It (2026)',
   description: 'Are recovery agents threatening to visit your workplace, office, or HR? Stop harassment & settle debt legally with SettleLoans.',
   alternates: {
     canonical: 'https://www.settleloans.in/recovery-agent-visiting-workplace-office',

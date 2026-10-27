@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-coimbatore',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Coimbatore | SettleLoans',
+    title: 'Loan Settlement Company in Coimbatore: Legal Debt Relief & OTS | SettleLoans',
     description: 'Specialized advocate-led debt settlement for borrowers in Coimbatore, Tirupur, and Salem managing unsecured personal, business, and credit card debts.',
     url: 'https://www.settleloans.in/personal-loan-settlement-coimbatore',
     siteName: 'SettleLoans',

@@ -37,7 +37,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Police Complaint Against Recovery Agent Format | SettleLoans',
+  title: 'Police Complaint Against Recovery Agent Format | Legal Draft & Rights',
   description: 'Facing recovery agent harassment? Access the statutory police complaint format against loan recovery agents under IPC Sections 506.',
   keywords: [
     'police complaint against recovery agent format',

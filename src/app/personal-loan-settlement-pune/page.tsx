@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import PersonalLoanSettlementPuneClient from './PersonalLoanSettlementPuneClient';
 
 export const metadata: Metadata = {
-  title: 'Debt Settlement Services in Pune | SettleLoans',
+  title: 'Debt Settlement Services in Pune: Legal Defense & OTS Advisory (2026)',
   description:
     'Struggling with personal loan default, recovery harassment, or court notices in Pune & PCMC? Get expert debt settlement services in Pune.',
   keywords: [

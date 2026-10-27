@@ -37,7 +37,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Na Chukane Par Kya Hota Hai? | SettleLoans',
+  title: 'Loan Na Chukane Par Kya Hota Hai? Police Threat Myths, Civil Law & Legal Settlement',
   description: 'Bank ka loan na chukane par kya hota hai? Understand your legal rights against recovery harassment, why police cannot arrest you for loan default.',
   keywords: [
     'loan na chukane par kya hota hai',

@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/stashfin-loan-default-settlement-process',
   },
   openGraph: {
-    title: 'Stashfin Loan Default Settlement Guide | SettleLoans',
+    title: 'Stashfin Loan Default Settlement Process: Akara Capital OTS & 60% Haircut (2026)',
     description: 'Learn how to settle Stashfin loan defaults legally. Handle Akara Capital NBFC notices and negotiate structured compromise OTS with SettleLoans.',
     url: 'https://www.settleloans.in/stashfin-loan-default-settlement-process',
     siteName: 'SettleLoans',

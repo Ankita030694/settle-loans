@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Debt Settlement for Multiple Creditors | SettleLoans",
+  title: "Debt Settlement Services That Work With Multiple Creditors | SettleLoans",
   description: "Comprehensive guide to debt settlement services in India for borrowers with multiple creditors. Learn about consolidation vs settlement, legal rights.",
   alternates: {
     canonical: "https://www.settleloans.in/debt-settlement-services-that-work-with-multiple-creditors",

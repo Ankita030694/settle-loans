@@ -5,8 +5,8 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Bank Delaying Property Documents: RBI Rules | SettleLoans",
-  description: 'Bank delaying original property documents after loan closure? Learn about the RBI rule mandating ₹5,000/day compensation for 30+ day delays.',
+  title: "Bank Delaying Original Property Documents After Home Loan Settlement: RBI Rules",
+  description: "Bank not returning your original property papers after home loan settlement? Learn about the RBI rule mandating a ₹5,000/day penalty for delays over 30 days.",
   alternates: {
     canonical: "https://www.settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules",
   },

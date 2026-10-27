@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "What Percentage Do Banks Settle Loans For? | SettleLoans",
-    description: "Learn what percentage banks accept in loan settlement in India. Our 5500+ word guide covers typical 30-60% waiver ranges, RBI guidelines.",
+    title: "What Percentage Do Banks Accept in Loan Settlement? | 2026 Guide",
+    description: "Learn what percentage banks accept in loan settlement in India. Our 5500+ word guide covers typical 30-60% waiver ranges, RBI guidelines, and negotiation secrets.",
     alternates: {
         canonical: "https://www.settleloans.in/what-percentage-do-banks-accept-in-loan-settlement",
     },

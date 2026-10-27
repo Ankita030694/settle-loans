@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Best Loan Settlement Company in Top Metros | SettleLoans",
+  title: "Best Loan Settlement Company in Bangalore, Mumbai & Delhi | SettleLoans",
   description: 'Find trusted loan settlement services in Bangalore, Mumbai, and Delhi. Expert legal debt relief, bank negotiation, and harassment defense.',
   alternates: {
     canonical: "https://www.settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi",

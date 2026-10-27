@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Debt Settlement with Effective Negotiation | SettleLoans",
+  title: "Find Debt Settlement Services Known for Effective Negotiation in India",
   description: "Looking for the best debt settlement companies in India? Explore expert negotiation services from AMA Legal Solutions, CredSettle, and more.",
   alternates: {
     canonical: "https://www.settleloans.in/find-debt-settlement-services-known-for-effective-negotiation",

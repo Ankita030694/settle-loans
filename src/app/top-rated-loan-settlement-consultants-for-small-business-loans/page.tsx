@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Settlement Consultants for Business Loans | SettleLoans",
+  title: "Top Rated Loan Settlement Consultants for Small Business Loans India",
   description: "Discover top-rated loan settlement consultants for MSME business loans in India. Compare legal expertise, fees, and negotiation track records.",
   alternates: {
     canonical: "https://www.settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans",

@@ -34,7 +34,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Job Loss & Layoff Loan Settlement Guide | SettleLoans",
+  title: "Job Loss & Layoff Loan Settlement Guide: Settle Debt After Unemployment (2026)",
   description: "Learn how to settle personal loans and credit card debt after job loss or corporate layoffs in India. Discover how to compile a formal hardship portfolio.",
   keywords: [
     "how to settle loan after job loss",

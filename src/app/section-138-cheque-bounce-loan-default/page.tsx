@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Section138ChequeBounceLoanDefaultClient from './Section138ChequeBounceLoanDefaultClient';
 
 export const metadata: Metadata = {
-  title: 'Section 138 Cheque Bounce Loan Defense | SettleLoans',
+  title: 'Cheque Bounce Case for Personal Loan Default? Section 138 Defense & Settlement (2026)',
   description: 'Facing a Section 138 cheque bounce case for loan default? Discover legal defense against security cheque misuse and statutory notice replies.',
   alternates: {
     canonical: 'https://www.settleloans.in/section-138-cheque-bounce-loan-default',

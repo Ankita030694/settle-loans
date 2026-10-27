@@ -6,7 +6,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: "Personal Guarantor IBC Insolvency for Overdue Loans",
-  description: "Stood as a personal guarantor for a business loan? Learn your liabilities, IBC personal insolvency risks, and legal defense strategies.",
+  description: "Did you stand as a personal guarantor for a failed corporate loan? The bank can now drag you into personal insolvency. Understand your risks under the IBC.",
   alternates: {
     canonical: "https://www.settleloans.in/personal-guarantor-ibc-insolvency-overdue-loan"
   }

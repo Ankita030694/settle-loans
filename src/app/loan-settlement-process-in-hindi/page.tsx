@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "लोन सेटलमेंट प्रक्रिया गाइड | SettleLoans",
-  description: 'लोन सेटलमेंट की प्रक्रिया हिंदी में। पर्सनल लोन व क्रेडिट कार्ड सेटलमेंट और RBI नियम।',
+  title: "लोन सेटलमेंट प्रक्रिया हिंदी में | Loan Settlement Process Guide 2026",
+  description: "लोन सेटलमेंट की पूरी प्रक्रिया हिंदी में समझें। पर्सनल लोन, क्रेडिट कार्ड और बिज़नेस लोन को कैसे सेटल करें, लोक अदालत, एनपीए और आरबीआई (RBI) के नए नियम 2026।",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-process-in-hindi",
   },

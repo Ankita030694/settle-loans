@@ -30,7 +30,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'mPokket Loan Settlement Process Guide | SettleLoans',
+  title: 'mPokket Loan Settlement Process: OTS Rules, Harassment Defense & Haircut (2026)',
   description: 'Step-by-step legal guide to mPokket and Maybright Ventures loan settlement for college students and young professionals.',
   keywords: [
     'mpokket loan settlement process',

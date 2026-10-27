@@ -64,7 +64,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord',
   },
   openGraph: {
-    title: 'Stop Recovery Calls to Neighbours | SettleLoans',
+    title: 'Recovery Agents Harassing Neighbours & Landlord? Legal Rights, Privacy Laws & Defamation Remedies',
     description: 'Recovery agents defaming you to neighbours and landlords? Stop third-party shaming with Supreme Court privacy rulings and SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord',
     siteName: 'SettleLoans',

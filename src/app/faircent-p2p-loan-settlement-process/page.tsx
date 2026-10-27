@@ -34,7 +34,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Faircent & P2P Loan Settlement Process | SettleLoans',
+  title: 'Faircent & P2P Loan Settlement: Process, RBI Rules & Haircut (2026)',
   description: 'Complete guide to Faircent and P2P loan settlement in India. Learn how to settle Peer-to-Peer personal loans across Faircent, LenDenClub.',
   keywords: [
     'p2p loan settlement process',

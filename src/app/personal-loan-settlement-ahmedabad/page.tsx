@@ -40,7 +40,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Lawyer in Ahmedabad | SettleLoans',
+  title: 'Loan Settlement Lawyer in Ahmedabad: Legal Defense & Business Debt Relief (2026)',
   description: 'Facing loan default, court summons, or recovery harassment in Ahmedabad, Surat, or Gujarat? Stop harassment & settle debt legally with SettleLoans.',
   keywords: [
     'loan settlement lawyer in ahmedabad',

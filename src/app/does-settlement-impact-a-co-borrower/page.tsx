@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Does Loan Settlement Impact Co-Borrowers? | SettleLoans",
+  title: "Does Loan Settlement Impact a Co-Borrower? Legal & Credit Risks",
   description: "Understand how a loan settlement affects co-borrowers in India. Learn about joint liability, CIBIL score drops, and legal consequences for all applicants.",
   alternates: {
     canonical: "https://www.settleloans.in/does-settlement-impact-a-co-borrower",

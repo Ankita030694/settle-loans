@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement for Financial Reset | SettleLoans",
+  title: "Loan Settlement for Borrowers Planning Financial Reset | Path to Freedom",
   description: "A comprehensive 5000-word guide on loan settlement for borrowers planning a financial reset. Learn how to negotiate with banks, rebuild your CIBIL score.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-for-borrowers-planning-financial-reset",

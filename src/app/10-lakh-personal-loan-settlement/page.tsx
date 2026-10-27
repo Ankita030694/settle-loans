@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import TenLakhPersonalLoanSettlementClient from './TenLakhPersonalLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'How to Settle 10 Lakh Personal Loan in India | SettleLoans',
+  title: 'How to Settle 10 Lakh Personal Loan: Legal Notice Defense & 40-50% Haircut (2026)',
   description: 'Complete legal guide to 10 Lakh personal loan settlement in India. Handle Section 138 notices, stop harassment, and settle for 40-70% less.',
   keywords: [
     '10 lakh loan settlement process',

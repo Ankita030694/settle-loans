@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Can Bank Freeze Salary Account for Default? | SettleLoans",
+  title: "Can a Bank Freeze a Salary Account for a Credit Card Default?",
   description: "Learn how to unfreeze a salary account frozen for credit card default. Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default",

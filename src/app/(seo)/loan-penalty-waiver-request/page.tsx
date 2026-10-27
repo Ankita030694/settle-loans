@@ -5,8 +5,8 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Penalty Waiver Request: Complete Guide | SettleLoans',
-  description: 'Learn how to get 100% of loan penal charges waived by your bank. Step-by-step guide and draft letter for penalty fee waivers.',
+  title: 'Loan Penalty Waiver Request: A Complete Guide | Bank Late Fees Reversal',
+  description: 'Did you know bank managers have the power to reverse 100% of your late fees? Learn the exact process to submit a successful loan penalty waiver request.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-penalty-waiver-request',
   },

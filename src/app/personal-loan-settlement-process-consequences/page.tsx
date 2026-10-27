@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Consequences of Personal Loan Settlement | SettleLoans",
+  title: "The Hidden Consequences of the Personal Loan Settlement Process",
   description: "Learn the crucial difference between closing and settling a personal loan. Understand the severe long-term consequences of a 'Settled' CIBIL status.",
   alternates: {
     canonical: "https://www.settleloans.in/personal-loan-settlement-process-consequences",

@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Top Debt Settlement Company in India | SettleLoans",
-  description: "Looking for the best debt settlement company in India? Settleloans offers expert debt relief for personal loans and credit cards.",
+  title: "Top Debt Settlement Company in India | Reduce Your Debt Today",
+  description: "Looking for the best debt settlement company in India? Settleloans offers expert debt relief for personal loans and credit cards. Protect yourself from harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/debt-settlement-company-in-india",
   },

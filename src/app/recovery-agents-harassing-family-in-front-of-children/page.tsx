@@ -64,7 +64,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children',
   },
   openGraph: {
-    title: 'Stop Recovery Agents Harassing Family | SettleLoans',
+    title: 'Recovery Agent Shouting at Home in Front of Kids? Legal Rights & Police FIR Guide',
     description: 'Recovery agents shouting at home in front of children? Protect your family under child protection laws and file a police FIR with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children',
     siteName: 'SettleLoans',

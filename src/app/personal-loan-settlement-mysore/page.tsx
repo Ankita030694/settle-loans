@@ -32,7 +32,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Company in Mysore | SettleLoans',
+  title: 'Personal Loan Settlement Company in Mysore Karnataka: Legal Debt Relief (2026)',
   description: 'Top personal loan settlement in Mysore & Mandya. Senior advocate defense to stop recovery harassment and settle loans under RBI norms.',
   keywords: [
     'personal loan settlement company in mysore karnataka',

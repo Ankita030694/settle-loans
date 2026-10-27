@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Dispute Over Forged Loan Signatures | SettleLoans",
-    description: "Victim of loan fraud or identity theft? Get expert legal help for forged loan signature disputes in India. Learn about FIRs, handwriting experts, and RBI.",
+    title: "Dispute Over Forged Loan Signatures India | Legal Help & Fraud Defense",
+    description: "Victim of loan fraud or identity theft? Get expert legal help for forged loan signature disputes in India. Learn about FIRs, handwriting experts, and RBI complaints.",
     alternates: {
         canonical: "https://www.settleloans.in/dispute-over-forged-loan-signatures",
     },

@@ -30,7 +30,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Bank Sold Loan to ARC Settlement Process | SettleLoans',
+  title: 'Bank Sold Loan to ARC Settlement Process: Settle Debt Assigned to ARCs (2026)',
   description: 'Has your bank sold your defaulted loan to an Asset Reconstruction Company (ARC)? Learn the debt assignment framework under Section 5 of SARFAESI.',
   keywords: [
     'bank sold loan to arc settlement process',

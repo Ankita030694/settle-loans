@@ -38,7 +38,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'RBI Ombudsman Complaint for Recovery Harassment Guide',
+  title: 'How to File RBI Ombudsman Complaint for Recovery Harassment: Legal Guide & Compensation (2026)',
   description: 'Learn how to file an RBI Ombudsman complaint for recovery agent harassment on the CMS portal and claim relief for mental agony.',
   keywords: [
     'how to file rbi ombudsman complaint for recovery harassment',

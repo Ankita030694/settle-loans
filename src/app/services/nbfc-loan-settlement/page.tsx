@@ -29,7 +29,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 
 export const metadata: Metadata = {
-  title: "NBFC Loan Settlement Services in India | SettleLoans",
+  title: "NBFC Loan Settlement Services India | Bajaj, Tata Capital, Aditya Birla Loan Settlement",
   description: 'Specialized debt settlement services for NBFC loans. Stop harassment from private lenders, defend arbitration, and negotiate deep waivers.',
   alternates: {
     canonical: "https://www.settleloans.in/services/nbfc-loan-settlement",

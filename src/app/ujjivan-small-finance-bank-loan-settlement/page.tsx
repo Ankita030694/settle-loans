@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/ujjivan-small-finance-bank-loan-settlement',
   },
   openGraph: {
-    title: 'Ujjivan Bank Loan Settlement Guide | SettleLoans',
+    title: 'Ujjivan Small Finance Bank Loan Settlement: Process, OTS Rules & Haircut (2026)',
     description: 'Learn how to settle Ujjivan Small Finance Bank loans legally. Stop daily recovery calls and negotiate structured OTS via SettleLoans.',
     url: 'https://www.settleloans.in/ujjivan-small-finance-bank-loan-settlement',
     siteName: 'SettleLoans',

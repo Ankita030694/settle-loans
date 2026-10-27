@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import HowToSettleCreditCardDebtClient from './HowToSettleCreditCardDebtClient';
 
 export const metadata: Metadata = {
-  title: 'How to Settle Credit Card Debt in India | SettleLoans',
+  title: 'How to Settle Credit Card Debt in India: 40%–70% Waivers & Legal Guide (2026)',
   description:
     'Trapped in high-interest credit card debt? Learn how to legally settle credit card dues in India with 40-70% waivers and halt recovery calls.',
   keywords: [

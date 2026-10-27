@@ -6,8 +6,8 @@ import { faFileShield, faScaleBalanced, faShieldHalved, faEnvelopeOpenText, faLa
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Lawyer for Mortgage Default Notice Defense | SettleLoans",
-    description: "Received a mortgage default notice? Consult expert banking lawyers in India for SARFAESI and loan recall legal notice defense.",
+    title: "Best Lawyer for Notice for Default on Mortgage or Loan Repayment | Legal Help",
+    description: "Received a default notice on your mortgage? Get expert legal help. Best lawyer for loan repayment default notices in India. SARFAESI & Recall notice defense.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment",
     },

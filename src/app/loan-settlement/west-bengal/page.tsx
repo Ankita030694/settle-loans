@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Services in West Bengal | SettleLoans",
+  title: "Legal Loan Settlement Services in West Bengal | 40-70% Waiver",
   description: "Struggling with loan debt in Kolkata or West Bengal? Get legal protection under Bengal Money-Lenders Act and settle loans safely.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/west-bengal",

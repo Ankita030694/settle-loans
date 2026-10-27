@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Legal Action for Credit Card Default | SettleLoans",
+    title: "Legal Action for Credit Card Default in India | Rights & Remedies",
     description: "Facing legal action for credit card default? Learn about CIBIL impact, recovery agent guidelines, civil suits, and your rights as a borrower in India.",
     alternates: {
         canonical: "https://www.settleloans.in/legal-action-for-credit-card-default",

@@ -7,7 +7,7 @@ import { faTriangleExclamation, faStar, faCheck, faChartPie, faGavel, faClock, f
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Loan Write-Off vs. Loan Settlement Guide | SettleLoans",
+    title: "Loan Write-Off vs. Loan Settlement: Differences & CIBIL Impact | 2026 Guide",
     description: "Understand the critical differences between a loan write-off and a loan settlement in India. Learn about RBI guidelines, legal implications.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements",

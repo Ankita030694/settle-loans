@@ -32,7 +32,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Recovery Agent Police Call: Legal Rights & Protection',
+  title: 'Recovery Agent Calling From Police Station: Legal Rights, Fake Notice Verification & Anti-Extortion Guide (2026)',
   description: 'Received a fake police call or Crime Branch notice from a loan recovery agent? Learn your legal protections, how to verify FIR status.',
   keywords: [
     'recovery agent calling from police station',

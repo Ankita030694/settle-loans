@@ -37,7 +37,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Pre-Litigation Mediation for Loan Default | SettleLoans',
+  title: 'Pre-Litigation Mediation for Bank Loan Default: Free DLSA Process & Settlement Guide (2026)',
   description: 'Initiate court-backed pre-litigation mediation through your District Legal Services Authority (DLSA) for bank loan compromise settlement.',
   keywords: [
     'pre litigation mediation for bank loan default',

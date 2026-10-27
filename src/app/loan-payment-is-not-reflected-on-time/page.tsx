@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Payment Not Reflected on Time | SettleLoans",
+  title: "EMI Deducted But Not Updated? Loan Payment Is Not Reflected on Time",
   description: "Money deducted from your account but the bank says 'EMI bounced'? Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-payment-is-not-reflected-on-time",

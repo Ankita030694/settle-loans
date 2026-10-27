@@ -6,8 +6,8 @@ import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "FAQ: Education & Student Loan Settlement | SettleLoans",
-    description: "Learn about student loan default settlement programs in India. Explore Vidya Lakshmi, CGFSEL guarantee, and bank OTS relief schemes.",
+    title: "Student Loan Settlement Programs India | Vidya Lakshmi & OTS 2026",
+    description: "Learn about specialized programs for settling student loan defaults in India. Explore Vidya Lakshmi, CGFSEL guarantee, and bank OTS schemes for 2026.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/specialized-programs-student-loan-defaults-india",
     },

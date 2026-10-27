@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "ICICI Bank Loan Settlement Guide | SettleLoans",
-  description: 'Complete guide to ICICI Bank debt resolution. Learn SARFAESI rules, credit card relief, 2026 OTS schemes, and legal negotiation tactics.',
+  title: "ICICI Bank Loan Settlement Guide | 10,000+ Words of Expert Strategy",
+  description: "The most comprehensive guide to ICICI Bank debt resolution. Deep-dives into SARFAESI, credit card loops, 2026 OTS schemes, and legal debt negotiation tactics.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/icici-bank",
   },

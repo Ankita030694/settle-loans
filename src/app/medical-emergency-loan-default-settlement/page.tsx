@@ -37,7 +37,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Medical Emergency Loan Default Settlement Guide",
+  title: "Medical Emergency Loan Default Settlement Guide: Settle Debt on Compassionate Grounds (2026)",
   description: 'Learn how to settle personal loans and credit card debt after critical illness or hospitalization in India. Secure compassionate OTS waivers.',
   keywords: [
     "loan settlement due to medical emergency",

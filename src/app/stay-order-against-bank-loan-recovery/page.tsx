@@ -40,7 +40,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Stay Order Against Loan Recovery: Guide | SettleLoans',
+  title: 'How to Get Stay Order Against Loan Recovery: Civil Injunctions & Legal Guide',
   description: 'Facing unlawful physical harassment by bank recovery agents? Learn how to get a court stay order and interim civil injunction under Order 39 CPC.',
   keywords: [
     'how to get stay order against loan recovery',

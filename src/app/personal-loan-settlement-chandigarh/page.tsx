@@ -33,8 +33,8 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Company in Chandigarh | SettleLoans',
-  description: 'Leading loan settlement company in Chandigarh, Mohali & Panchkula. Expert advocate representation for high-ticket personal loans.',
+  title: 'Loan Settlement Company in Chandigarh: Tricity & NRI Debt Relief (2026)',
+  description: 'Leading loan settlement company in Chandigarh, Mohali & Panchkula. Expert advocate representation for high-ticket personal loans, credit cards & NRI debt under RBI OTS rules.',
   keywords: [
     'loan settlement company in chandigarh',
     'personal loan settlement chandigarh',

@@ -37,7 +37,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'How to Reply to Bank Arbitration Notice | SettleLoans',
+  title: 'How to Reply to Bank Arbitration Notice: Legal Process, Unilateral Defense & 60% Settlement Guide (2026)',
   description: 'Learn how to reply to a bank arbitration notice for personal loans and credit cards. Discover why unilateral arbitrator appointments by ICICI, Axis, HDFC.',
   keywords: [
     'how to reply to bank arbitration notice',

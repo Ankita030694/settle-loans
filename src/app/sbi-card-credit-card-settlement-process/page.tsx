@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/sbi-card-credit-card-settlement-process',
   },
   openGraph: {
-    title: 'SBI Credit Card Settlement Guide | SettleLoans',
+    title: 'SBI Card Credit Card Settlement: OTS Rules, Gurugram Legal Defense & Lok Adalat Guide (2026)',
     description: 'Learn how to settle SBI Card credit card debt legally. Stop legal notices, attend DLSA Lok Adalat, and negotiate OTS with SettleLoans.',
     url: 'https://www.settleloans.in/sbi-card-credit-card-settlement-process',
     siteName: 'SettleLoans',

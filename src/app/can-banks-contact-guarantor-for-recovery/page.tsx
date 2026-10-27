@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Can Banks Contact Your Guarantor? | SettleLoans',
+  title: 'Can Banks & Lenders Contact Your Guarantor for Recovery?',
   description: 'Are recovery agents harassing the friend or family member who stood as your loan guarantor? Understand their exact legal liability under RBI rules.',
   alternates: {
     canonical: 'https://www.settleloans.in/can-banks-contact-guarantor-for-recovery',

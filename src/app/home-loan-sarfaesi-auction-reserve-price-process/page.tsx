@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "SARFAESI Auction Reserve Price Rules | SettleLoans",
+  title: "Home Loan SARFAESI Auction: Reserve Price Process",
   description: "Is the bank trying to auction your house for pennies? Learn how to legally challenge a low 'Reserve Price' and protect your property's true value.",
   alternates: {
     canonical: "https://www.settleloans.in/home-loan-sarfaesi-auction-reserve-price-process",

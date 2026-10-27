@@ -5,7 +5,7 @@ import { Metadata } from 'next';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'What is Deferred Payment? Meaning & Guide | SettleLoans',
+  title: 'What is Deferred Payment? Meaning, Moratorium & BNPL Vs Deferred Payment',
   description: 'Understand deferred payment loan meaning, moratorium rules, and key differences between BNPL and deferred credit to avoid loan defaults.',
   alternates: {
     canonical: 'https://www.settleloans.in/what-is-deferred-payment',

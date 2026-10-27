@@ -38,7 +38,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Guarantor Liability in Loan Settlement | SettleLoans',
+  title: 'Guarantor & Co-Applicant Liability in Personal Loan Settlement: Section 128 Protections & Full OTS Discharge',
   description: 'Worried about guarantor liability in personal loan default? Understand Section 128 Indian Contract Act co-extensive liability.',
   keywords: [
     'guarantor liability in personal loan default',

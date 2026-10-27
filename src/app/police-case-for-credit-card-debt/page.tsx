@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Police Case for Credit Card Debt in India? | SettleLoans",
-    description: "Facing a police case for credit card debt? Learn about RBI guidelines, criminal vs civil default, and how to legally stop harassment from recovery agents.",
+    title: "Police Case for Credit Card Debt in India? | Your Legal Protection 2026",
+    description: "Facing a police case for credit card debt? Learn about RBI guidelines, criminal vs civil default, and how to legally stop harassment from recovery agents using the law.",
     alternates: {
         canonical: "https://www.settleloans.in/police-case-for-credit-card-debt",
     },

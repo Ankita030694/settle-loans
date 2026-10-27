@@ -6,7 +6,7 @@ import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Free Loan Settlement Consultation | SettleLoans",
+  title: "Free Loan Settlement Consultation | Expert Debt Relief Advice",
   description: "Book a free consultation for loan settlement to understand your rights and options. Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/faqs/free-consultation-loan-settlement",

@@ -36,7 +36,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'HSBC Loan Settlement Process in India | SettleLoans',
+  title: 'HSBC Loan Settlement Process in India: Premier Card & Loan OTS (2026)',
   description: 'Exhaustive legal guide to HSBC personal loan and Premier credit card settlement in India. Learn corporate workplace privacy defense.',
   keywords: [
     'hsbc loan settlement process in india',

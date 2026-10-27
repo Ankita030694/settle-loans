@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import IDFCFirstBankLoanSettlementClient from './IDFCFirstBankLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'IDFC First Bank Loan Settlement Guide | SettleLoans',
+  title: 'IDFC First Bank Loan Settlement: Process, OTS Policy & 60% Haircut (2026)',
   description: 'Legal guide to IDFC First Bank loan settlement. Settle consumer durable and personal loans legally while stopping recovery calls.',
   keywords: [
     'idfc first bank loan settlement process',

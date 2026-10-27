@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "HDFC Bank Loan Settlement | SettleLoans",
-  description: 'Struggling with HDFC debt? Learn the expert process for personal loan & credit card settlement to resolve dues for 40-70% less.',
+  title: "HDFC Bank Loan Settlement | Settle Credit Card & Personal Loans - SettleLoans",
+  description: "Struggling with HDFC Bank debt? Learn the expert process for HDFC Bank loan settlement and credit card OTS. Settle for 40-70% less and stop harassment legally.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/hdfc-bank",
   },

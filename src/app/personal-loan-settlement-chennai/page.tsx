@@ -43,7 +43,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement in Chennai | SettleLoans',
+  title: 'Loan Settlement Services in Chennai: Legal Notice Defense & OTS Haircut (2026)',
   description: 'Premier personal loan settlement in Chennai. Stop recovery harassment under RBI guidelines and defend Section 138 notices legally.',
   keywords: [
     'loan settlement services in chennai',

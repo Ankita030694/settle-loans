@@ -42,7 +42,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Canara Bank Personal Loan Settlement | SettleLoans',
+  title: 'Canara Bank Personal Loan Settlement: OTS Rules, SAMB Process & Haircut Hierarchy (2026)',
   description: 'Master Canara Bank personal loan settlement under RBI guidelines. Learn tier-based haircut approvals, SAMB escalation, and NDC verification.',
   keywords: [
     'canara bank loan settlement process',

@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import AxisBankPersonalLoanSettlementClient from './AxisBankPersonalLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'Axis Bank Personal Loan Settlement | SettleLoans',
+  title: 'Axis Bank Personal Loan Settlement: SARB Process, OTS Rules & Haircut (2026)',
   description: 'Exhaustive guide to Axis Bank personal loan settlement. Understand SARB branch escalation, Burgundy credit card dues, NPA provisioning.',
   keywords: [
     'axis bank loan settlement process',

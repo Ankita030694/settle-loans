@@ -5,7 +5,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: "Alternatives to Debt Settlement for Small Debts | Guide 2025",
-  description: "Explore debt settlement alternatives for loans under 2 Lakhs in India. Learn about debt consolidation, budgeting, and snowball repayment.",
+  description: "Explore effective alternatives to debt settlement for loans under 2 lakhs in India. Learn about debt consolidation, snowball method, and credit counseling.",
   alternates: {
     canonical: "https://www.settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts",
   },

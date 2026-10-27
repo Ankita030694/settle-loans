@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank',
   },
   openGraph: {
-    title: 'Lok Adalat Order Non-Compliance by Bank | SettleLoans',
+    title: 'What to Do If Bank Does Not Follow Lok Adalat Settlement? Execution & Legal Remedies',
     description: 'Bank refusing to honor Lok Adalat settlement order? Learn how to enforce Section 21 decree execution and obtain your NDC with SettleLoans.',
     url: 'https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank',
     siteName: 'SettleLoans',

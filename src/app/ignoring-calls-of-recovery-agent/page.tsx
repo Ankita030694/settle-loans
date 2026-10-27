@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Ignoring Calls of Recovery Agent? | SettleLoans",
-  description: "What happens if you ignore recovery agent calls in India? Understand the legal consequences, RBI guidelines against harassment.",
+  title: "Ignoring Calls of Recovery Agent? Legal Consequences & Solutions | SettleLoans",
+  description: "What happens if you ignore recovery agent calls in India? Understand the legal consequences, RBI guidelines against harassment, and how loan settlement can help you.",
   alternates: {
     canonical: "https://www.settleloans.in/ignoring-calls-of-recovery-agent",
   },

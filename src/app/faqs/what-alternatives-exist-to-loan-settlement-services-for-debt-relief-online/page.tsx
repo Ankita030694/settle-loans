@@ -7,8 +7,8 @@ import { faTriangleExclamation, faStar, faCheck, faChartLine, faCalculator, faSh
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Alternatives to Loan Settlement: Guide | SettleLoans",
-    description: 'Explore practical alternatives to loan settlement. Learn about debt consolidation, loan restructuring, counseling, and structured repayments.',
+    title: "Alternatives to Loan Settlement: Debt Relief & Consolidation Guide 2026",
+    description: "Explore effective alternatives to loan settlement. Learn about debt consolidation, restructuring, credit counseling, and strategic repayment plans in India.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online",
     },

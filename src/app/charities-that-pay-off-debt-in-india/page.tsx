@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Charities That Pay Off Debt in India | SettleLoans",
+  title: "Charities That Pay Off Debt in India | Direct Debt Relief & NGO Support",
   description: 'Find charities and NGOs that help pay off debt in India. Explore interest-free credit, free counseling, and financial assistance programs.',
   alternates: {
     canonical: "https://www.settleloans.in/charities-that-pay-off-debt-in-india",

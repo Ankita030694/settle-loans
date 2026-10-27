@@ -39,7 +39,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Consumer Court Case Against Bank Harassment | SettleLoans',
+  title: 'Consumer Court Case Against Bank for Harassment | DCDRC Filing & Compensation Guide (2026)',
   description: 'Suffering bank recovery agent harassment? Learn how to file a consumer court complaint in DCDRC for deficiency of service.',
   keywords: [
     'consumer court case against bank for harassment',

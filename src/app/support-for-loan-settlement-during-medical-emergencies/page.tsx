@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Medical Emergency Loan Settlement Support | SettleLoans",
+  title: "Support for Loan Settlement During Medical Emergencies in India",
   description: "Find legal support and RBI guidelines for loan settlement during medical emergencies. Learn how to negotiate with banks, stop harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/support-for-loan-settlement-during-medical-emergencies",

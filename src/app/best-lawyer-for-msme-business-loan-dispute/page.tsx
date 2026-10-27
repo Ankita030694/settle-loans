@@ -6,7 +6,7 @@ import { faGavel, faScaleBalanced, faShieldHalved, faHandshake, faBuildingCircle
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Lawyer for MSME Business Loan Disputes | SettleLoans",
+    title: "Best Lawyer for MSME Business Loan Dispute | Debt Recovery & SARFAESI Defense",
     description: "Are you facing a business loan dispute? Consult the best lawyer for MSME business loan disputes in India. Expert legal help for SARFAESI notices, DRT.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-msme-business-loan-dispute",

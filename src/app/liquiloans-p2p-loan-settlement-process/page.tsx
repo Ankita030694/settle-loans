@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/liquiloans-p2p-loan-settlement-process',
   },
   openGraph: {
-    title: 'LiquiLoans P2P Loan Settlement | SettleLoans',
+    title: 'LiquiLoans Settlement Process: NDX P2P Loan Relief & Legal Defense (2026)',
     description: 'Learn how to settle LiquiLoans P2P debt legally. Stop automated recovery notices and resolve overdue loans with expert help from SettleLoans.',
     url: 'https://www.settleloans.in/liquiloans-p2p-loan-settlement-process',
     siteName: 'SettleLoans',

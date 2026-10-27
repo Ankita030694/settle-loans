@@ -23,7 +23,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: 'Lawyer for MSME & Business Loans in India | SettleLoans',
+    title: 'Best Lawyer for MSME & Business Loans in India | Small Business Debt Defense',
     description: 'Protect your MSME from SARFAESI and loan defaults. Expert legal defense under the MSMED Act 2006. India\'s top lawyers for small business recovery defense.',
     alternates: {
         canonical: 'https://www.settleloans.in/best-lawyer-for-msme-and-business-loans',

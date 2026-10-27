@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/krazybee-services-nbfc-loan-settlement',
   },
   openGraph: {
-    title: 'KrazyBee NBFC Loan Settlement | SettleLoans',
+    title: 'KrazyBee Services NBFC Loan Settlement: Legal Notice Defense & OTS Guide (2026)',
     description: 'Learn how to settle KrazyBee and KreditBee NBFC loans legally. Stop legal notice harassment and negotiate structured OTS with SettleLoans.',
     url: 'https://www.settleloans.in/krazybee-services-nbfc-loan-settlement',
     siteName: 'SettleLoans',

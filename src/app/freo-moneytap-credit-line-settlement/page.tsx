@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/freo-moneytap-credit-line-settlement',
   },
   openGraph: {
-    title: 'Freo MoneyTap Credit Line Settlement | SettleLoans',
+    title: 'MoneyTap (Freo) Credit Line Settlement: OTS Process, RBL & DMI Legal Defense (2026)',
     description: 'Learn how to settle Freo MoneyTap credit line debt legally. Stop mounting late charges and negotiate a structured OTS with SettleLoans.',
     url: 'https://www.settleloans.in/freo-moneytap-credit-line-settlement',
     siteName: 'SettleLoans',

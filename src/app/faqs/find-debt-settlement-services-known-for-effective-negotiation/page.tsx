@@ -8,8 +8,8 @@ import CompanyComparison from "@/components/CompanyComparison";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Debt Settlement Services for Negotiation | SettleLoans",
-    description: 'Find trusted debt settlement services in India known for negotiation. Learn how advocates secure deep waivers from banks under RBI guidelines.',
+    title: "Find Debt Settlement Services Known for Effective Negotiation | Expert Guide",
+    description: "Discover the best debt settlement services in India known for effective negotiation. Learn how top agencies like SettleLoans secure deep waivers from banks.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation",
     },

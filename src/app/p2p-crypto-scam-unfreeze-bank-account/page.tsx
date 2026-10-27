@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "P2P Crypto Scam Unfreeze Bank Account | SettleLoans",
+  title: "P2P Crypto Scam Unfreeze Bank Account | Section 106 BNSS Legal Guide 2026",
   description: 'Learn how to unfreeze your bank account after a P2P crypto dispute. Legal guide on Section 106 BNSS (102 CrPC) and Cyber Cell NOC procedures.',
   alternates: {
     canonical: "https://www.settleloans.in/p2p-crypto-scam-unfreeze-bank-account",

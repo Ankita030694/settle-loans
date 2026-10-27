@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "How to Check if a Loan Settlement Offer is Genuine",
+  title: "How to Check if a Loan Settlement Offer is Genuine on Digital Platforms (2026)",
   description: "Learn how to verify if a loan settlement offer is genuine on digital platforms. Identify red flags, follow RBI guidelines.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms",

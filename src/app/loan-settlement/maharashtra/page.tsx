@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Maharashtra Debt Settlement Services | SettleLoans",
+  title: "Maharashtra Debt Settlement | Legal Relief from Overwhelming Loans",
   description: "Legal debt settlement across Mumbai, Pune, and Maharashtra. Protect your rights under Maharashtra Money Lending Act and RBI norms.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/maharashtra",

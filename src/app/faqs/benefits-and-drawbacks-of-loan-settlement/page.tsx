@@ -6,7 +6,7 @@ import { faScaleBalanced, faShieldHeart, faTriangleExclamation, faStar, faCheck,
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "FAQ: Pros and Cons of Loan Settlement | SettleLoans",
+    title: "Key Benefits & Drawbacks of Loan Settlement in India | 2026 Expert Guide",
     description: "Discover the critical benefits and hidden drawbacks of pursuing a loan settlement in India. Master the trade-offs between debt relief and CIBIL impact.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement",

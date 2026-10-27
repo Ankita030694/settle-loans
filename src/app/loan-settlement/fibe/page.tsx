@@ -6,8 +6,8 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Fibe EarlySalary Loan Settlement Guide | SettleLoans",
-  description: "Struggling with Fibe (EarlySalary) debt? Learn the expert process for Fibe loan settlement and OTS. Settle for 40-70% less, stop collection calls.",
+  title: "Fibe Loan Settlement | Settle EarlySalary Personal Loans & App Dues",
+  description: "Struggling with Fibe (EarlySalary) debt? Learn the expert process for Fibe loan settlement and OTS. Settle for 40-70% less, stop collection calls, and reclaim your peace.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/fibe",
   },

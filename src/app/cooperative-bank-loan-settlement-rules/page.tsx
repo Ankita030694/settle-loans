@@ -33,7 +33,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Cooperative Bank Loan Settlement Rules | SettleLoans',
+  title: 'Cooperative Bank Loan Settlement Rules 2026: UCB & DCCB OTS Process Guide',
   description: 'Master cooperative bank loan settlement in India. Learn how One-Time Settlement (OTS) works in UCBs and DCCBs under RBI directives.',
   keywords: [
     'cooperative bank loan settlement process',

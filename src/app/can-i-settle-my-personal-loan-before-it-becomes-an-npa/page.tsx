@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Pre-NPA Loan Settlement: Settle Before Default | SettleLoans",
+  title: "Pre-NPA Settlement: Can You Settle a Loan Before Default? 2026",
   description: "Understand the 90 days loan default rule in India. Learn if you can negotiate a loan settlement or restructuring before your account becomes an NPA.",
   alternates: {
     canonical: "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa",

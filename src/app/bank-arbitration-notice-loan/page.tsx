@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Bank Arbitration Notice for Loan | SettleLoans",
+    title: "Bank Arbitration Notice for Loan | Legal Rights & Response Guide",
     description: "Received a bank arbitration notice for your loan? Learn about the Arbitration Act 1996, how to challenge biased arbitrators, and your rights in India.",
     alternates: {
         canonical: "https://www.settleloans.in/bank-arbitration-notice-loan",

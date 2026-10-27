@@ -45,7 +45,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settle Kaise Kare: Full Guide | SettleLoans',
+  title: 'Personal Loan Settle Kaise Kare: Bank Se Baat Karne Ka Tarika, Haircut Formula & Legal Rules (2026)',
   description: 'Jane personal loan settle kaise kare step-by-step. Bank negotiation strategies, 40%-60% OTS haircut calculation, legal notice reply.',
   keywords: [
     'personal loan settle kaise kare',

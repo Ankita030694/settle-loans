@@ -32,7 +32,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Microfinance Loan Settlement Process & RBI Rules',
+  title: 'Microfinance Loan Settlement Process: RBI Master Directions, JLG Relief & Debt Haircut (2026)',
   description: 'Comprehensive guide to microfinance loan settlement rules under RBI Master Directions (2022). Learn how to halt Joint Liability Group (JLG) coercion.',
   keywords: [
     'microfinance loan settlement rules',

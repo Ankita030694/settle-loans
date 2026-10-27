@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Questions to Ask a Debt Settlement Consultant | SettleLoans",
-  description: 'Key questions to ask before hiring a debt settlement consultant in India. Learn about fees, RBI rules, CIBIL impact, and avoiding scams.',
+  title: "What Questions Should I Ask a Debt Settlement Consultant? | SettleLoans Guide",
+  description: "Crucial questions to ask before hiring a debt settlement consultant in India. Learn about fees, RBI compliance, CIBIL impact, and how to spot potential scams.",
   alternates: {
     canonical: "https://www.settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant",
   },

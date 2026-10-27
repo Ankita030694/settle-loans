@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail',
   },
   openGraph: {
-    title: 'Cyber Complaint for Loan App Blackmail | SettleLoans',
+    title: 'How to File Cyber Crime Complaint Against Loan App: Blackmail & Extortion Legal Guide',
     description: 'Immediate legal protection and cyber cell FIR filing protocols for victims of illegal lending apps, contact list scraping, and morphed photo extortion in India.',
     url: 'https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail',
     siteName: 'SettleLoans',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Cyber Complaint for Loan App Blackmail | SettleLoans',
-    description: 'Blackmailed by illegal loan apps with morphed photos? File a cyber crime complaint on 1930 and protect your digital privacy with SettleLoans.',
+    description: 'Comprehensive guide to filing an FIR on cybercrime.gov.in, blocking numbers via Chakshu, and leveraging RBI Digital Lending Guidelines against predatory loan syndicates.',
     images: ['https://www.settleloans.in/images/infographics/cyber-crime-complaint-illegal-loan-apps-blackmail.jpg'],
   },
 };

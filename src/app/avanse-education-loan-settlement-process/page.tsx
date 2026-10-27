@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/avanse-education-loan-settlement-process',
   },
   openGraph: {
-    title: 'Avanse Education Loan Settlement | SettleLoans',
+    title: 'Avanse Education Loan Settlement: OTS Process, Co-Borrower Shield & Haircut (2026)',
     description:
       'Learn how to settle Avanse education loans legally. Protect student and parent co-borrowers and negotiate structured OTS with SettleLoans.',
     url: 'https://www.settleloans.in/avanse-education-loan-settlement-process',

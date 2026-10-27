@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Bank Filed FIR for Loan Default: Guide | SettleLoans",
+    title: "Bank Filed FIR for Loan Default in India | Legal Rights & Recovery Guide",
     description: "Has a bank filed an FIR for your loan default? Learn the difference between civil and criminal default, Section 420 IPC, Section 138 NI Act.",
     alternates: {
         canonical: "https://www.settleloans.in/bank-filed-fir-for-loan-default",

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Services in Odisha | SettleLoans",
+  title: "Legal Loan Settlement Services in Odisha | 40-70% Debt Waiver",
   description: "Expert loan settlement services in Odisha. Stop bank harassment, reduce EMI burden, and settle personal loans & credit cards.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/odisha",

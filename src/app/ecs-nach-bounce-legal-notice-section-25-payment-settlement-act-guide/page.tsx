@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'NACH Bounce Notice: Section 25 PSSA Guide | SettleLoans',
+  title: 'ECS/NACH Bounce Legal Notice: Section 25 Payment & Settlement Act',
   description: 'Understand NACH and ECS bounce notices under Section 25 PSSA. Learn your legal rights, defense tactics, and court dispute procedure.',
   alternates: {
     canonical: 'https://www.settleloans.in/ecs-nach-bounce-legal-notice-section-25-payment-settlement-act-guide',

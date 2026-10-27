@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CaseStudyKotakCreditCardSettlementClient from './CaseStudyKotakCreditCardSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'Kotak Credit Card Settlement Case Study | SettleLoans',
+  title: 'Kotak Credit Card Settlement Case Study: ₹4.2L Debt Settled for ₹1.35L',
   description: 'Case study: How a ₹4.2 Lakh Kotak Bank credit card debt was settled for ₹1.35 Lakhs with an official No Dues Certificate under RBI OTS.',
   keywords: [
     'kotak mahindra bank credit card settlement',

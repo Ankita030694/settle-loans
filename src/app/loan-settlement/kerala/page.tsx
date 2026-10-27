@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Services in Kerala | SettleLoans",
+  title: "Legal Loan Settlement Services in Kerala | 40-70% Debt Waiver",
   description: "Struggling with debt in Kochi, Thiruvananthapuram, or Kozhikode? Expert legal representation for loan settlement in Kerala.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/kerala",

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "NBFC Education Loan Default Legal Action | SettleLoans",
+  title: "NBFC Education Loan Default: Legal Action by HDFC Credila, Avanse, and InCred",
   description: "Facing HDFC Credila or Avanse loan recovery harassment? Learn what happens if you don't pay an NBFC education loan and how to settle it.",
   alternates: {
     canonical: "https://www.settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred",

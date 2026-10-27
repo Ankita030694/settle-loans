@@ -6,7 +6,7 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Loan Agreement Arbitration Lawyer in India | SettleLoans",
+    title: "Best Loan Agreement Arbitration Lawyer in India | Section 9, 11 & 34",
     description: "Expert legal defense for arbitration in loan agreements. Navigate Section 9 interim relief, Section 11 arbitrator challenges.",
     alternates: {
         canonical: "https://www.settleloans.in/best-loan-agreement-arbitration-lawyer",

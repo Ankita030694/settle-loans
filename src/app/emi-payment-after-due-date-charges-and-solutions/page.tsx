@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'EMI Payment After Due Date Solutions | SettleLoans',
+  title: 'EMI Payment After Due Date: Charges and Solutions',
   description: "Paying your EMI a few days late? Beware of the hidden 'Penal Interest' trap. Learn how to request a penalty waiver from your bank manager.",
   alternates: {
     canonical: 'https://www.settleloans.in/emi-payment-after-due-date-charges-and-solutions',

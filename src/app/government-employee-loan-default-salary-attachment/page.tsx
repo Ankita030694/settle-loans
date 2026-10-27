@@ -41,7 +41,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Govt Employee Loan Default & Salary Attachment Rules',
+  title: 'Loan Default Rules for Government Employees: Salary Attachment, CCS Rules & Legal Defense',
   description: 'Can banks attach a government employee salary or report loan default to your department? Understand Section 60 CPC exemptions, CCS Conduct Rules.',
   keywords: [
     'loan default rules for government employees',

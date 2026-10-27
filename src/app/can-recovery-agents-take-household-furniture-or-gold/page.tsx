@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold',
   },
   openGraph: {
-    title: 'Can Agents Take Furniture or Gold? | SettleLoans',
+    title: 'Can Recovery Agents Seize Household Furniture or Gold? Legal Rights & RBI Rules',
     description: 'Can recovery agents seize your household furniture or gold? Learn Section 60 CPC movable property seizure exemptions with SettleLoans.',
     url: 'https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold',
     siteName: 'SettleLoans',

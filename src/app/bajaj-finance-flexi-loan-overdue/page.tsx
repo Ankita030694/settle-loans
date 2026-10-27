@@ -5,7 +5,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: 'Bajaj Finance Flexi Loan Overdue Plan | SettleLoans',
-  description: 'Trapped in a Bajaj Flexi Loan overdue cycle? Learn about flexi loan default consequences, overdue charges, the recovery process.',
+  description: 'Trapped in a Bajaj Flexi Loan overdue cycle? Learn about flexi loan default consequences, overdue charges, the recovery process, and how to negotiate a settlement.',
   alternates: { canonical: 'https://www.settleloans.in/bajaj-finance-flexi-loan-overdue' },
 };
 

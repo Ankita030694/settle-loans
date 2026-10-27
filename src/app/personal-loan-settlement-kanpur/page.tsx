@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-kanpur',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Kanpur | SettleLoans',
+    title: 'Debt Settlement Advocates in Kanpur: Legal Defense & Bank OTS Advisory',
     description:
       'Learn how to settle personal loans legally in Kanpur. Stop recovery harassment and negotiate up to 60% bank OTS waiver via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-kanpur',

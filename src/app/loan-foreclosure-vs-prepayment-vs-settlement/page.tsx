@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement',
   },
   openGraph: {
-    title: 'Foreclosure vs Prepayment vs Settlement | SettleLoans',
-    description: 'Understand the key differences between loan foreclosure, prepayment, and debt settlement. Choose the right debt strategy with SettleLoans.',
+    title: 'Loan Foreclosure vs Prepayment vs Settlement: Complete Regulatory & Financial Guide',
+    description: 'Comprehensive analysis of early loan exit mechanisms in India: CIBIL credit score impact, RBI foreclosure directives, financial trade-offs, and legal documentation.',
     url: 'https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement',
     siteName: 'SettleLoans',
     images: [

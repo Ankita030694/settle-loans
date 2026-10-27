@@ -42,7 +42,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Bank Contacting Employer HR About Loan? Legal Defenses',
+  title: 'Bank Recovery Agent Contacting Employer HR? Legal Defenses & Defamation Notice Guide',
   description: 'Is a bank recovery agent contacting your employer HR or sending legal notices to your office? Learn Supreme Court privacy protections.',
   keywords: [
     'bank recovery agent contacting employer hr',

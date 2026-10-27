@@ -6,7 +6,7 @@ import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Fees & Transparent Pricing | SettleLoans",
+  title: "Loan Settlement Fees & Charges | Transparent Pricing - SettleLoans",
   description: 'Understand loan settlement costs and fees in India. Learn standard fee structures, typical bank waivers, and how to avoid upfront scams.',
   alternates: {
     canonical: "https://www.settleloans.in/faqs/loan-settlement-fees",

@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/hdfc-credila-education-loan-settlement',
   },
   openGraph: {
-    title: 'HDFC Credila Education Loan Settlement | SettleLoans',
+    title: 'HDFC Credila Loan Settlement Process: OTS Rules, Moratorium Interest & Haircut (2026)',
     description: 'Learn how to settle HDFC Credila education loans legally. Protect parent co-signers and negotiate structured OTS waivers with SettleLoans.',
     url: 'https://www.settleloans.in/hdfc-credila-education-loan-settlement',
     siteName: 'SettleLoans',

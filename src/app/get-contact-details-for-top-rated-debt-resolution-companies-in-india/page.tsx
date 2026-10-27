@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Contact Top Debt Resolution Companies | SettleLoans",
+  title: "Contact Details for Top-Rated Debt Resolution Companies in India | Verified",
   description: "Get verified contact details for leading debt resolution companies like Amalegal, CredSettle, and SettleLoans. Find addresses, phone numbers, and emails.",
   alternates: {
     canonical: "https://www.settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india",

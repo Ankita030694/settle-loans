@@ -2,8 +2,8 @@ import { Metadata } from 'next';
 import CaseStudyCibilStatusSettledToClosedClient from './CaseStudyCibilStatusSettledToClosedClient';
 
 export const metadata: Metadata = {
-  title: 'Convert CIBIL Status from Settled to Closed | SettleLoans',
-  description: 'Real case study: How a borrower converted their CIBIL status from Settled to Closed by paying residual waiver dues, boosting score to 785+ and unlocking.',
+  title: 'How to Convert CIBIL Status from Settled to Closed: Home Loan Case Study',
+  description: 'Real case study: How a borrower converted their CIBIL status from Settled to Closed by paying residual waiver dues, boosting score to 785+ and unlocking a ₹75L home loan.',
   keywords: [
     'converted cibil status from settled to closed',
     'cibil settled to closed process',

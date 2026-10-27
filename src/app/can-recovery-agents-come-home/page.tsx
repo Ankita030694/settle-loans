@@ -5,8 +5,8 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Can Recovery Agents Come to Your Home? | SettleLoans",
-    description: 'Understand the legal truth about recovery agent home visits. Learn RBI guidelines, ID requirements, and your right to prevent intimidation.',
+    title: "Can Loan Recovery Agents Come Home Without Permission? (RBI Rules 2026)",
+    description: "Can a loan recovery agent visit your house without notice or on Sunday? Know your legal rights under 2026 RBI guidelines, ID checks, and how to refuse entry legally.",
     alternates: {
         canonical: "https://www.settleloans.in/can-recovery-agents-come-home",
     },

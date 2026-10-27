@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-visakhapatnam',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Vizag | SettleLoans',
+    title: 'Loan Settlement Lawyer in Vizag Visakhapatnam: Legal Defense & OTS Haircut (2026)',
     description: 'Settle personal loans legally in Visakhapatnam Vizag. Stop recovery harassment and resolve debt with structured bank OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-visakhapatnam',
     siteName: 'SettleLoans',

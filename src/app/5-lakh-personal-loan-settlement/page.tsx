@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import FiveLakhPersonalLoanSettlementClient from './5LakhPersonalLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'How to Settle 5 Lakh Personal Loan in India | SettleLoans',
+  title: 'How to Settle 5 Lakh Personal Loan: OTS Percentage, Timeline & Harassment Defense (2026)',
   description: 'Step-by-step legal guide to settling a ₹5 Lakh personal loan in India. Stop harassment & settle debt legally with SettleLoans.',
   keywords: [
     'how to settle 5 lakh personal loan',

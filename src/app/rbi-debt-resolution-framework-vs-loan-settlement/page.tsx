@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement',
   },
   openGraph: {
-    title: 'RBI Debt Resolution vs Loan Settlement | SettleLoans',
+    title: 'RBI Debt Resolution Framework vs Loan Settlement: Restructuring vs OTS Compared',
     description: 'Compare RBI Debt Resolution Framework restructuring with one-time loan settlement. Choose the right debt relief path with SettleLoans.',
     url: 'https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement',
     siteName: 'SettleLoans',

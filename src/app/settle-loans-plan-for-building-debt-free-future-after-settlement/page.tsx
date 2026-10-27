@@ -5,8 +5,8 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Plan for Building Debt-Free Future | SettleLoans",
-    description: "Master your financial future after loan settlement. Learn the SettleLoans plan for rebuilding credit, securing your legal rights with Amalegal Solutions.",
+    title: "SettleLoans Plan for Building Debt-Free Future After Settlement | 2026 Strategy",
+    description: "Master your financial future after loan settlement. Learn the SettleLoans plan for rebuilding credit, securing your legal rights with Amalegal Solutions, and building wealth.",
     alternates: {
         canonical: "https://www.settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement",
     },

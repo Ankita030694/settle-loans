@@ -32,7 +32,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'CASHe App Loan Settlement Process | SettleLoans',
+  title: 'CASHe App Loan Settlement: Process, Legal Notice Defense & Haircut (2026)',
   description: 'Comprehensive guide to CASHe loan settlement and Bhanix Finance resolution. Halt late fees, stop harassment, and settle for less.',
   keywords: [
     'cashe app loan settlement',

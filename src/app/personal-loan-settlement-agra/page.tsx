@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-agra',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Agra | SettleLoans',
+    title: 'Personal Loan Settlement Lawyer in Agra: Legal Defense & OTS Advisory',
     description:
       'Learn how to settle personal loans legally in Agra. Stop aggressive recovery harassment and negotiate structured bank OTS with SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-agra',

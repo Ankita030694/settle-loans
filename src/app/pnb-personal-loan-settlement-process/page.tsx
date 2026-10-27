@@ -36,7 +36,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'PNB Personal Loan Settlement Process | SettleLoans',
+  title: 'PNB Personal Loan Settlement: OTS Scheme, SASTRA Process & Rules (2026)',
   description: 'Exhaustive guide to Punjab National Bank (PNB) personal loan settlement. Understand PNB OTS compromise schemes, Circle SASTRA escalation.',
   keywords: [
     'punjab national bank loan settlement',

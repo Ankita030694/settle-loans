@@ -30,7 +30,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Personal Insolvency & Bankruptcy in India | SettleLoans',
+  title: 'Personal Insolvency and Bankruptcy Process in India: IBC Debt Discharge & DRT Guide (2026)',
   description: 'Exhaustive legal manual on the personal insolvency process in India under Part III of the IBC 2016. Learn how Section 94 debtor petitions.',
   keywords: [
     'personal insolvency process in india',

@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp',
   },
   openGraph: {
-    title: 'Fake Court Summons on WhatsApp Rules | SettleLoans',
+    title: 'Fake Court Notice by Loan Recovery Agent on WhatsApp: Legal Truth vs Forged Threats',
     description: 'Received fake court summons or police notice on WhatsApp from recovery agents? Learn Section 336 BNS forgery laws and action with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp',
     siteName: 'SettleLoans',

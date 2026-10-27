@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-trivandrum',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Trivandrum | SettleLoans',
+    title: 'Personal Loan Settlement Advocates in Trivandrum: Legal Defense & Bank OTS',
     description:
       'Settle personal loans legally in Trivandrum Kerala. Stop bank recovery harassment and resolve debt with structured OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-trivandrum',

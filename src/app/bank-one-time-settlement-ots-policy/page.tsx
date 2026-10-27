@@ -2,8 +2,8 @@ import { Metadata } from 'next';
 import BankOneTimeSettlementOtsPolicyClient from './BankOneTimeSettlementOtsPolicyClient';
 
 export const metadata: Metadata = {
-  title: 'Bank One-Time Settlement (OTS) Policy & Haircut Guide',
-  description: 'Understand internal bank One-Time Settlement (OTS) policies, RBI haircut guidelines, and NPA settlement formulas. Learn step-by-step how to negotiate.',
+  title: 'Bank One-Time Settlement (OTS) Policy: How to Negotiate & RBI Haircut Calculation Guide (2026)',
+  description: 'Understand internal bank One-Time Settlement (OTS) policies, RBI haircut guidelines, and NPA settlement formulas. Learn step-by-step how to negotiate a compromise settlement.',
   keywords: [
     'how to negotiate a one-time settlement',
     'bank one time settlement ots policy',

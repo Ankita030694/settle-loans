@@ -5,7 +5,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: "Frequently Asked Questions | Loan Settlement | SettleLoans",
-  description: 'Browse guides and FAQs about loan settlement, eligibility, fees, legal rights, and bank debt relief procedures across India.',
+  description: "Browse our detailed guides and frequently asked questions about loan settlement, eligibility, fees, and more.",
   alternates: {
     canonical: "https://www.settleloans.in/faqs",
   },

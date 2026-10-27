@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Wilful vs Non-Wilful Defaulter Rules | SettleLoans",
+  title: "Wilful Defaulter vs Non-Wilful Defaulter: RBI Guidelines",
   description: "Learn who is a wilful defaulter as per RBI, the difference between intentional and genuine default, consequences of the tag, and how to remove it.",
   alternates: {
     canonical: "https://www.settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences",

@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CaseStudyIciciCreditCardSettlementClient from './CaseStudyIciciCreditCardSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'ICICI Credit Card Settlement Case Study | SettleLoans',
+  title: 'ICICI Credit Card Settlement Case Study: ₹5 Lakh Debt Settled for ₹1.5L',
   description: 'Real case study: How a ₹5 Lakh ICICI Bank credit card debt (₹1.8L principal + ₹3.2L interest/penalties) was settled for ₹1.5 Lakhs (70% total waiver).',
   keywords: [
     'icici credit card settlement discount',

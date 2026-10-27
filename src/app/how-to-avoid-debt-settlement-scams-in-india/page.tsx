@@ -5,7 +5,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: "How to Avoid Debt Settlement Scams in India | Red Flags 2024",
-  description: "Stay safe from fraudulent debt relief agencies in India. Learn to identify red flags like upfront fee demands, fake RBI registrations.",
+  description: "Stay safe from fraudulent debt relief agencies in India. Learn to identify red flags like upfront fee demands, fake RBI registrations, and guaranteed 100% waivers.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-avoid-debt-settlement-scams-in-india",
   },

@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-dehradun',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Dehradun | SettleLoans',
+    title: 'Loan Settlement Services in Dehradun: Legal Debt Relief in Uttarakhand (2026)',
     description: 'Learn how to settle personal loans legally in Dehradun. Stop recovery harassment and resolve bank debt with structured OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-dehradun',
     siteName: 'SettleLoans',

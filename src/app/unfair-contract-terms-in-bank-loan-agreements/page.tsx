@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements',
   },
   openGraph: {
-    title: 'Unfair Bank Loan Agreement Terms | SettleLoans',
+    title: 'Unfair Contract Terms in Bank Loan Agreements: Consumer Protection Act Section 2(46) Legal Guide',
     description: 'Challenging unfair loan terms in bank agreements under Consumer Protection Act Section 2(46). Protect your borrower rights with SettleLoans.',
     url: 'https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements',
     siteName: 'SettleLoans',

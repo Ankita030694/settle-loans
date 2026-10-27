@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-bhubaneswar',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Bhubaneswar | SettleLoans',
+    title: 'Loan Settlement Lawyer in Bhubaneswar Odisha: Personal Loan OTS & Legal Relief (2026)',
     description:
       'Settle personal loans legally in Bhubaneswar & Odisha. Stop recovery harassment and resolve bank debt with expert OTS guidance from SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-bhubaneswar',

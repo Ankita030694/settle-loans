@@ -30,7 +30,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'RBL Bank Credit Card Settlement Guide | SettleLoans',
+  title: 'RBL Bank Credit Card Settlement: High-Risk Debt, Co-Branded Cards & OTS Guide (2026)',
   description:
     'Exhaustive guide to RBL Bank credit card settlement. Settle Bajaj SuperCard debts for 40-70% less and stop collection harassment.',
   keywords: [

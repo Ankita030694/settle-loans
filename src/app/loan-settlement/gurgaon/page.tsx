@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Services in Gurgaon | SettleLoans",
-  description: "Overleveraged in Gurgaon? Experienced debt settlement lawyers help corporate professionals settle bank loans and stop recovery harassment.",
+  title: "Expert Loan Settlement in Gurgaon | Cyber City Debt Relief Specialists - SettleLoans",
+  description: "Overleveraged with credit cards in Gurgaon or Udyog Vihar? Our lawyers help IT professionals settle loans legally. Stop recovery harassment at Golf Course Road society gates.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/gurgaon",
   },

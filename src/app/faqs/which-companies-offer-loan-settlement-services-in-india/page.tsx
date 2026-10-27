@@ -9,7 +9,7 @@ import CompanyComparison from "@/components/CompanyComparison";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Top Loan Settlement Companies in India | SettleLoans",
+    title: "Who are the Top Loan Settlement Companies in India? | 2026 Industry Guide",
     description: "Discover which companies offer loan settlement services in India. A comprehensive guide to the top debt resolution agencies, their processes.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india",

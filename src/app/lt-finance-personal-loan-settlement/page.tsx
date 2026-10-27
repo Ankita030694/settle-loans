@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/lt-finance-personal-loan-settlement',
   },
   openGraph: {
-    title: 'L&T Finance Personal Loan Settlement | SettleLoans',
+    title: 'L&T Finance Personal Loan Settlement: OTS Rules, Haircut Matrix & Legal Defense (2026)',
     description: 'Learn how to settle L&T Finance personal loans legally. Stop recovery harassment and negotiate structured OTS discount waivers with SettleLoans.',
     url: 'https://www.settleloans.in/lt-finance-personal-loan-settlement',
     siteName: 'SettleLoans',

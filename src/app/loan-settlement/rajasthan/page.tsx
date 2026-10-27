@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Services in Rajasthan | SettleLoans",
+  title: "Legal Loan Settlement Services in Rajasthan | 40-70% Debt Waiver",
   description: "Struggling with bank debts in Jaipur, Jodhpur, or Udaipur? Get professional legal representation, stop recovery agent harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/rajasthan",

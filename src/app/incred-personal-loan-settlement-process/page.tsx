@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/incred-personal-loan-settlement-process',
   },
   openGraph: {
-    title: 'InCred Personal Loan Settlement | SettleLoans',
+    title: 'InCred Personal Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
     description: 'Learn how to settle InCred personal and education loans legally. Handle advocate notices and negotiate compromise OTS with SettleLoans.',
     url: 'https://www.settleloans.in/incred-personal-loan-settlement-process',
     siteName: 'SettleLoans',

@@ -5,8 +5,8 @@ import { Metadata } from "next";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Types of Unsecured Loans in India | SettleLoans",
-    description: "Discover the major types of unsecured loans in India: personal loans, credit cards, education loans, and peer-to-peer digital credit.",
+    title: "What Are the Types of Unsecured Loans Available in India?",
+    description: "Looking for money without pledging your assets? Discover the complete list of unsecured loans available in India today, including personal loans and credit cards.",
     alternates: {
         canonical: "https://www.settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india",
     },

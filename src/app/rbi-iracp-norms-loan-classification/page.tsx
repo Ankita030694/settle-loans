@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "RBI IRACP Norms: Loan Classification, SMA & NPA Meaning",
+  title: "RBI IRACP Norms & Loan Classification | SMA & NPA Meaning",
   description: "Decode the RBI's complex IRACP norms. Learn what SMA-0, SMA-1, SMA-2, and NPA mean, and understand exactly how banks classify your financial stress level.",
   alternates: { canonical: "https://www.settleloans.in/rbi-iracp-norms-loan-classification" }
 };

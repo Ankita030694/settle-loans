@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default',
   },
   openGraph: {
-    title: 'Can Bank Debit Current Account for Loan? | SettleLoans',
+    title: 'Can Bank Freeze Current Account for Personal Loan Default? Legal Entity Protection & Unfreeze Guide',
     description: 'Can banks debit your current account for personal loan default? Understand banker lien rights and legal protections with SettleLoans.',
     url: 'https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default',
     siteName: 'SettleLoans',

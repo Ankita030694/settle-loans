@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import PersonalLoanSettlementBangaloreClient from './PersonalLoanSettlementBangaloreClient';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Company in Bangalore | SettleLoans',
+  title: 'Personal Loan Settlement Company Bangalore: Legal Defense & OTS (2026)',
   description:
     'Facing personal loan default or recovery calls in Bangalore? Get expert legal defense and settle your debt safely under RBI rules.',
   keywords: [

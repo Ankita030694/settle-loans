@@ -5,8 +5,8 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Property Auction Settlement Process & Rules | SettleLoans",
-  description: "Is your bank threatening a property auction? Learn the DRT auction settlement process and how to stay property sales legally.",
+  title: "Property Auction Settlement Process & Loan Recovery Rules Explained",
+  description: "Is the bank threatening to auction your property? Learn the strict legal DRT auction settlement process and discover how to stop bank auction loan recovery.",
   alternates: {
     canonical: "https://www.settleloans.in/auction-settlement-process-loan-recovery-explained",
   },

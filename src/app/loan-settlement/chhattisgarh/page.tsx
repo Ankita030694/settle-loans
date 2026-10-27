@@ -17,8 +17,8 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement in Chhattisgarh | SettleLoans',
-  description: 'Struggling with debt in Chhattisgarh? Professional loan settlement services in Raipur, Bilaspur & Bhilai. Stop recovery harassment, reduce debt by up.',
+  title: 'Loan Settlement in Chhattisgarh | Stop Bank Harassment & Settle Debt',
+  description: 'Struggling with debt in Chhattisgarh? Professional loan settlement services in Raipur, Bilaspur & Bhilai. Stop recovery harassment, reduce debt by up to 50% legally.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-settlement/chhattisgarh',
   },

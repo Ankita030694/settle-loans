@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Services in Uttar Pradesh | SettleLoans",
+  title: "Legal Loan Settlement Services in Uttar Pradesh | 40-70% Debt Waiver",
   description: "Struggling with debt in Lucknow, Kanpur, or Noida? Expert legal representation for loan settlement in Uttar Pradesh. Settle credit cards & personal loans.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/uttar-pradesh",

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Payday Loan Settlement Lawyer in India | SettleLoans",
+    title: "Payday Loan Settlement Lawyer India | Stop App Harassment & Settle Debt",
     description: "Caught in a payday loan app debt trap? Get expert legal help to settle online loans, stop harassment, and protect your data. RBI compliant legal defense.",
     alternates: {
         canonical: "https://www.settleloans.in/payday-loan-settlement-lawyer",

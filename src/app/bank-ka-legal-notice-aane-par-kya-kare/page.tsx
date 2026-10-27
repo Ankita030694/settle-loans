@@ -33,7 +33,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: 'Bank Ka Legal Notice Aane Par Kya Kare: 15-Day Action Plan',
-  description: 'Bank ka legal notice aane par kya kare? Learn why ignoring notice is dangerous, the 15-day reply window, advocate reply drafting.',
+  description: 'Bank ka legal notice aane par kya kare? Learn why ignoring notice is dangerous, the 15-day reply window, advocate reply drafting, and OTS loan settlement roadmap.',
   keywords: [
     'bank ka legal notice aane par kya kare',
     'bank legal notice reply format india',
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare',
   },
   openGraph: {
-    title: 'Bank Ka Legal Notice Aane Par Kya Kare: 15-Day Action Plan',
+    title: 'Bank Ka Legal Notice Aane Par Kya Kare: 15-Day Legal Action Protocol',
     description: 'Bank ka legal notice aane par kya kare? Learn why ignoring notice is dangerous, the 15-day reply window, advocate reply drafting.',
     url: 'https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare',
     siteName: 'SettleLoans',

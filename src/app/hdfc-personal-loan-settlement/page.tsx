@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import HdfcPersonalLoanSettlementClient from './HdfcPersonalLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'HDFC Personal Loan Settlement Guide | SettleLoans',
+  title: 'HDFC Personal Loan Settlement: OTS Rules, Haircut Formula & Legal Process (2026)',
   description: 'Exhaustive guide to HDFC Bank personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, recovery agent defense.',
   keywords: [
     'hdfc bank personal loan settlement process',

@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Can Banks Block PAN or Aadhaar for Loan Default?",
-  description: 'Recovery agents threatening to block your PAN or Aadhaar card? Learn the truth. Banks have zero legal authority to block your ID proofs.',
+  title: "Can Banks Block Your PAN Card or Aadhaar Card for a Personal Loan Default?",
+  description: "Are recovery agents threatening to block your PAN or Aadhaar card for a loan default? Learn the truth. Banks have zero legal authority to block your ID proofs.",
   alternates: {
     canonical: "https://www.settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default",
   },

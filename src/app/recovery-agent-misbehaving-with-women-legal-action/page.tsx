@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action',
   },
   openGraph: {
-    title: 'Action on Recovery Agents Misbehaviour | SettleLoans',
+    title: 'Recovery Agent Misbehaving with Female Borrower? Legal Action & RBI Rules',
     description: 'Recovery agent misbehaving with female borrowers? Learn strict RBI rules, Section 74 BNS criminal actions, and NCW remedies with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action',
     siteName: 'SettleLoans',

@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-nashik',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Nashik | SettleLoans',
+    title: 'Loan Settlement Services in Nashik: Legal Defense & 40%–70% OTS',
     description:
       'Learn how to settle personal loans legally in Nashik. Stop bank recovery harassment and resolve debt with up to 60% OTS waiver via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-nashik',

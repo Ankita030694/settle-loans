@@ -5,8 +5,8 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Partial Payment: Reduce Principal Fast | SettleLoans",
-  description: "Learn how partial payments on personal loans save massive interest, shorten your tenure, and accelerate your path to debt freedom.",
+  title: "Loan Partial Payment: How to Reduce Your Loan Principal Faster",
+  description: "Want to crush your debt faster? Learn the mathematical secret of how a partial payment in a personal loan can shave years off your loan and maximize part payment benefits.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-partial-payment",
   },

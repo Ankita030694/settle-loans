@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "How to Improve CIBIL Score Fast | SettleLoans",
+  title: "How to Improve CIBIL Score Fast | Rebuild Credit After Default",
   description: "Did a past loan default ruin your credit? Follow these exact steps to rebuild your CIBIL score back to 750+ and regain your financial freedom.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-improve-cibil-score",

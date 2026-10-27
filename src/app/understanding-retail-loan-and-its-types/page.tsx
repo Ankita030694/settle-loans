@@ -6,7 +6,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
     title: "Understanding Retail Loan and Its Types | Complete Guide",
-    description: "Learn the exact retail loan meaning, explore the different types of retail banking loans available, and understand how consumer loans in India affect.",
+    description: "Learn the exact retail loan meaning, explore the different types of retail banking loans available, and understand how consumer loans in India affect your rights.",
     alternates: {
         canonical: "https://www.settleloans.in/understanding-retail-loan-and-its-types",
     },

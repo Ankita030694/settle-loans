@@ -37,7 +37,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Debt Settlement Advocates in Kochi Kerala | SettleLoans',
+  title: 'Debt Settlement Advocates in Kochi Kerala: Legal Notice Defense & OTS Haircut (2026)',
   description: 'Top debt settlement advocates in Kochi, Kerala. Defend against Ernakulam CJM Section 138/25 PSSA notices, stop private bank recovery harassment.',
   keywords: [
     'debt settlement advocates in kochi kerala',

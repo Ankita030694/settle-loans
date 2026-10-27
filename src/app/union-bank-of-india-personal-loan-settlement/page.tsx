@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/union-bank-of-india-personal-loan-settlement',
   },
   openGraph: {
-    title: 'Union Bank Personal Loan Settlement | SettleLoans',
+    title: 'Union Bank of India Personal Loan Settlement: SAMB Process, RCC Limits & OTS Rules (2026)',
     description: 'Learn how to settle Union Bank of India personal loans legally. Navigate SAMB procedures and negotiate special OTS waivers with SettleLoans.',
     url: 'https://www.settleloans.in/union-bank-of-india-personal-loan-settlement',
     siteName: 'SettleLoans',

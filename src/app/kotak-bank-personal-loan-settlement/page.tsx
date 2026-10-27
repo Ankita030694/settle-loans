@@ -45,7 +45,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Kotak Mahindra Bank Loan Settlement | SettleLoans',
+  title: 'Kotak Mahindra Bank Loan Settlement: Legal Process, OTS Policy & 60% Haircut (2026)',
   description: 'Legal guide to Kotak Mahindra Bank personal loan settlement. Navigate pre-litigation notices, Sec 25 PSSA summons, and Phoenix ARC transfers.',
   keywords: [
     'kotak mahindra bank loan settlement',

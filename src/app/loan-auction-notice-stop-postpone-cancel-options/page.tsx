@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "How to Stop Loan Auction Notices | SettleLoans",
+  title: "Loan Auction Notice: Stop, Postpone, or Cancel Options",
   description: "Auction date announced? You still have options. Discover the 3 legal methods to postpone, cancel, or indefinitely delay a bank auction under SARFAESI.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-auction-notice-stop-postpone-cancel-options",

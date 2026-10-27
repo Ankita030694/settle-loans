@@ -43,7 +43,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Tax on Loan Settlement Haircut in India | SettleLoans',
+  title: 'Tax Implications on Loan Settlement Haircut in India: Is Waived Debt Taxable?',
   description: 'Is loan settlement haircut taxable in India? Understand tax implications of waived debt under Section 28(iv), Section 41(1), Section 194R TDS.',
   keywords: [
     'is loan settlement haircut taxable in india',

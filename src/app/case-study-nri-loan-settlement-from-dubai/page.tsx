@@ -2,8 +2,8 @@ import { Metadata } from 'next';
 import CaseStudyNriDubaiClient from './CaseStudyNriDubaiClient';
 
 export const metadata: Metadata = {
-  title: 'NRI Personal Loan Settlement Case Study | SettleLoans',
-  description: 'Case study: How an NRI in Dubai defaulted on a ₹10 Lakh Indian loan and settled for ₹4 Lakhs via legal POA representation and bank OTS.',
+  title: 'NRI Personal Loan Settlement Case Study: ₹10L Settled From Dubai via POA',
+  description: 'Real case study: How an NRI in Dubai defaulted on a ₹10 Lakh Indian personal loan and settled it for ₹4.1 Lakhs (60% waiver) via Power of Attorney without flying to India.',
   keywords: [
     'nri personal loan settlement case study',
     'nri loan default airport arrest india',

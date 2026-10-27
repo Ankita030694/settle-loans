@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent',
   },
   openGraph: {
-    title: 'Should You Pay Cash to Recovery Agents? | SettleLoans',
+    title: 'Can You Pay Cash to Loan Recovery Agents? RBI Rules, Fraud Risks & Safe Settlement Protocols',
     description: 'Should you pay cash to loan recovery agents? Understand RBI cash collection bans, fraud risks, and safe settlement protocols with SettleLoans.',
     url: 'https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent',
     siteName: 'SettleLoans',

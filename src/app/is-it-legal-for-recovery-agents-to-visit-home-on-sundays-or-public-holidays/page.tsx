@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Can Recovery Agents Visit Home on Sundays? | SettleLoans",
+  title: "Is it Legal for Bank Recovery Agents to Visit Your Home on Sundays?",
   description: "A definitive breakdown of the RBI's Fair Practices Code regarding recovery agent timings. Learn if banks can visit on Sundays or holidays.",
   alternates: {
     canonical: "https://www.settleloans.in/is-it-legal-for-recovery-agents-to-visit-home-on-sundays-or-public-holidays",

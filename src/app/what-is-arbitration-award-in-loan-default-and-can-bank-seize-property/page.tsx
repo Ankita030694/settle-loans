@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Arbitration Award in Loan Default & Property Rights",
-  description: 'Received an ex-parte arbitration award for loan default? Learn how banks attempt execution against assets and how to challenge it in court.',
+  title: "What is an Arbitration Award in a Loan Default and Can the Bank Seize My Property?",
+  description: "Received an ex-parte arbitration award for loan default? Learn how banks try to execute an arbitration award against your property and how to challenge it under Section 34.",
   alternates: {
     canonical: "https://www.settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property",
   },

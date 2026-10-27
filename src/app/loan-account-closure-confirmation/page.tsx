@@ -5,8 +5,8 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Bank Delaying Loan Closure Confirmation NOC? | SettleLoans",
-  description: "Paid your final EMI but the bank is delaying your loan closure NOC? Use RBI rules to force issuance and claim delayed compensation.",
+  title: "Bank Delaying Loan Closure Confirmation? Get NOC Under RBI Rules",
+  description: "Paid your final EMI but the bank is delaying your loan closure confirmation or NOC? Learn how to use RBI rules to force them to issue it and claim compensation.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-account-closure-confirmation",
   },

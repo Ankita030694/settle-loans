@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/lendenclub-p2p-loan-settlement-process',
   },
   openGraph: {
-    title: 'LenDenClub P2P Loan Settlement | SettleLoans',
+    title: 'LenDenClub Loan Settlement Process: Stop Recovery Harassment & Settle (2026)',
     description: 'Learn how to settle LenDenClub P2P loans legally. Stop collection notices, handle partner NBFCs, and settle debt with SettleLoans.',
     url: 'https://www.settleloans.in/lendenclub-p2p-loan-settlement-process',
     siteName: 'SettleLoans',

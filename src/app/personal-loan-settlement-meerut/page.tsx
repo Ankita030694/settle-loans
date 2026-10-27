@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-meerut',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Meerut | SettleLoans',
+    title: 'Personal Loan Settlement Advocates in Meerut: Legal Defense & OTS Advisory',
     description:
       'Learn how to settle personal loans legally in Meerut. Stop bank recovery harassment and resolve debt with up to 60% OTS waiver via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-meerut',

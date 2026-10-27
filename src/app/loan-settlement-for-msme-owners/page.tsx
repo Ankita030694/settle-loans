@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement for MSME Owners in India | SettleLoans",
-  description: "Are you an MSME owner struggling with bank debt or NPA? Learn the legal process of MSME loan settlement, RBI restructuring.",
+  title: "Loan Settlement for MSME Owners in India | Debt Relief & Samadhaan Guide",
+  description: "Are you an MSME owner struggling with bank debt or NPA? Learn the legal process of MSME loan settlement, RBI restructuring, and the MSME Samadhaan portal for debt relief.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-for-msme-owners",
   },

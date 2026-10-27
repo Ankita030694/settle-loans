@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Joint Personal Loan If Primary Borrower Dies | SettleLoans",
-  description: "Learn co-borrower liability if a primary borrower passes away. Understand loan insurance, legal heir liability, and settlement options.",
+  title: "What Happens to a Joint Personal Loan if the Primary Borrower Dies?",
+  description: "Learn about co-borrower liability after death in India. Discover how to handle a joint loan death clause and negotiate a compassionate settlement with the bank.",
   alternates: {
     canonical: "https://www.settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies",
   },

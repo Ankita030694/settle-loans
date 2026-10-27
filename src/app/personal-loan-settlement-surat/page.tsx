@@ -35,7 +35,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Services in Surat | SettleLoans',
+  title: 'Loan Settlement Services in Surat: Settle Unsecured & Business Loans (2026)',
   description: 'Struggling with unsecured personal loans, business loans, or OD facilities in Surat? Discover how diamond merchants, textile traders.',
   keywords: [
     'loan settlement services in surat',

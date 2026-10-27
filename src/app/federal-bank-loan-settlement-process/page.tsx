@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/federal-bank-loan-settlement-process',
   },
   openGraph: {
-    title: 'Federal Bank Personal Loan Settlement | SettleLoans',
+    title: 'Federal Bank Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
     description: 'Learn how to settle Federal Bank personal loans and cards legally. Stop legal notices and negotiate structured OTS waivers with SettleLoans.',
     url: 'https://www.settleloans.in/federal-bank-loan-settlement-process',
     siteName: 'SettleLoans',

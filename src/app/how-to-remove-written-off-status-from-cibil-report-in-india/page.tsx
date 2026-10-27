@@ -5,7 +5,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: "How to Remove a 'Written-Off' Status from Your CIBIL Report",
-  description: 'Bank wrote off your loan? Discover the impact of written-off status and learn how to clear dues to convert your CIBIL remark to \'Closed\'.',
+  description: "Bank wrote off your personal loan? Discover the severe consequences of a written-off status and learn exactly how to convert written-off to closed CIBIL status.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india",
   },

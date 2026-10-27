@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Success Rate of Debt Settlement Programs | SettleLoans",
+  title: "What is the Success Rate of Debt Settlement Programs? | 2026-2026 Stats",
   description: "Explore the real success rate of debt settlement programs in India for 2024-2025. Learn about average savings, account resolution rates.",
   alternates: {
     canonical: "https://www.settleloans.in/what-is-the-success-rate-of-debt-settlement-programs",

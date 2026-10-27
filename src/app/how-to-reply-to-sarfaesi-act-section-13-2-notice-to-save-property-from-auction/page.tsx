@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Reply to SARFAESI Section 13(2) Notice | SettleLoans",
+  title: "SARFAESI Act Section 13(2) Demand Notice: How to Reply and Save Your House from Auction",
   description: "Received a 60 days notice period home loan default under SARFAESI Act 13(2)? Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction",

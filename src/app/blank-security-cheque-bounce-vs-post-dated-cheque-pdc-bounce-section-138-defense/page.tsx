@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Security Cheque vs PDC Bounce Defense | SettleLoans",
-  description: "Learn how to defend yourself against a Section 138 criminal case when a bank deposits a blank security cheque. Understand the difference between PDC.",
+  title: "Blank Security Cheque vs. PDC Bounce: Section 138 Defenses",
+  description: "Learn how to defend yourself against a Section 138 criminal case when a bank deposits a blank security cheque. Understand the difference between PDC and security cheques.",
   alternates: {
     canonical: "https://www.settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense",
   },

@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Can Recovery Agents Call References & Relatives?",
+  title: "Can Bank Recovery Agents Call My References and Relatives for Loan Default?",
   description: "Addresses the massive social embarrassment caused when banks call the references provided during the loan application. Explains the strict RBI Fair.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default",

@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import KreditBeeLoanSettlementClient from './KreditBeeLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'KreditBee Loan Settlement Guide | SettleLoans',
+  title: 'KreditBee Loan Settlement: OTS Rules, Legal Defense & Harassment Shield (2026)',
   description: 'Complete legal guide to KreditBee and Krazybee Services personal loan settlement. Halt automated recovery calls and WhatsApp harassment.',
   keywords: [
     'kreditbee loan settlement process',

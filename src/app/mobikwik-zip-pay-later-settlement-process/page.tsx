@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process',
   },
   openGraph: {
-    title: 'MobiKwik Zip Pay Later Settlement | SettleLoans',
+    title: 'MobiKwik ZIP Pay Later Default Settlement: Late Fee Waiver & CIBIL Resolution Guide',
     description: 'Learn how to settle MobiKwik ZIP Pay Later debt legally. Stop penalty interest compounding and negotiate formal closure via SettleLoans.',
     url: 'https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process',
     siteName: 'SettleLoans',

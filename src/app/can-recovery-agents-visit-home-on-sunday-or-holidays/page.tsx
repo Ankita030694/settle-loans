@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/can-recovery-agents-visit-home-on-sunday-or-holidays',
   },
   openGraph: {
-    title: 'Can Recovery Agents Visit on Holidays? | SettleLoans',
+    title: 'Can Recovery Agents Visit on Sunday or Holidays? RBI Rules & Legal Rights',
     description: 'Can bank recovery agents visit on Sundays or public holidays? Learn your legal rights and RBI recovery timing rules with SettleLoans.',
     url: 'https://www.settleloans.in/can-recovery-agents-visit-home-on-sunday-or-holidays',
     siteName: 'SettleLoans',

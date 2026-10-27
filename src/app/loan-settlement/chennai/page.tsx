@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Services in Chennai | SettleLoans",
-  description: "Struggling with debt in Chennai or Tamil Nadu? Get professional legal help for loan settlement. Expert negotiation at Anna Salai banks & George Town.",
+  title: "Best Loan Settlement Services in Chennai | Legal Debt Relief Specialists - SettleLoans",
+  description: "Struggling with debt in Chennai or Tamil Nadu? Get professional legal help for loan settlement. Expert negotiation at Anna Salai banks & George Town courts. Zero harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/chennai",
   },

@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "How to Get 800 Credit Score in India | SettleLoans",
-  description: "Master the secrets to achieving a CIBIL score of 800+ in India. Learn about credit utilization, payment history, and the exact steps to reach super-prime.",
+  title: "How to Get 800 Credit Score in India | Step-by-Step 2026 Guide",
+  description: "Master the secrets to achieving a CIBIL score of 800+ in India. Learn about credit utilization, payment history, and the exact steps to reach super-prime status.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-get-800-credit-score-in-india",
   },

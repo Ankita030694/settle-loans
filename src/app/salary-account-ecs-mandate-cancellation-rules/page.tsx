@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules',
   },
   openGraph: {
-    title: 'Salary Account ECS Mandate Cancellation | SettleLoans',
+    title: 'How to Stop ECS Mandate for Loan: Salary Account Auto-Debit Cancellation Rules & Legal Defense',
     description: 'Learn how to stop ECS and NACH auto-debit mandates on your salary account legally without falling into default traps with SettleLoans.',
     url: 'https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules',
     siteName: 'SettleLoans',

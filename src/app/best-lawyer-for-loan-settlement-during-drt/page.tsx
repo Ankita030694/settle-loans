@@ -6,8 +6,8 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Lawyer for Loan Settlement During DRT | SettleLoans",
-    description: "Facing DRT proceedings? Settle your bank loan during litigation. Expert legal defense, OTS negotiation, and SARFAESI stay solutions.",
+    title: "Best Lawyer for Loan Settlement During DRT | Expert OTS Negotiation",
+    description: "Facing Debt Recovery Tribunal proceedings? Settle your bank loan during DRT. Specialized legal defense, OTS negotiation, and SARFAESI stay strategies for borrowers.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-loan-settlement-during-drt",
     },

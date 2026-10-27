@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Check Free CIBIL Score Online | SettleLoans",
+  title: "Check Free CIBIL Score Online | Official Report Without Impact",
   description: "Stop paying for expensive credit reports. Learn how to legally download your full, official CIBIL report for absolutely free.",
   alternates: {
     canonical: "https://www.settleloans.in/check-free-cibil-score",

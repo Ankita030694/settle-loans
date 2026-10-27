@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment',
   },
   openGraph: {
-    title: 'Writ Petition for Recovery Harassment | SettleLoans',
+    title: 'High Court Writ Petition Against Bank Recovery Harassment | Article 226 Constitutional Shield',
     description: 'File an Article 226 High Court writ petition to stop illegal bank recovery harassment and secure police protection orders with SettleLoans.',
     url: 'https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment',
     siteName: 'SettleLoans',

@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/american-express-amex-credit-card-settlement-india',
   },
   openGraph: {
-    title: 'Amex Credit Card Settlement in India | SettleLoans',
+    title: 'American Express Credit Card Settlement: Amex OTS Rules & Legal Defense (2026)',
     description: 'Learn how to settle American Express credit card debt in India legally. Handle legal notices and negotiate structured Amex OTS with SettleLoans.',
     url: 'https://www.settleloans.in/american-express-amex-credit-card-settlement-india',
     siteName: 'SettleLoans',

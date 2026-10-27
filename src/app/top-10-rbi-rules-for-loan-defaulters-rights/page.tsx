@@ -41,7 +41,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Top 10 RBI Rules for Loan Defaulters' Rights",
+  title: 'Top 10 RBI Rules for Loan Defaulters Rights: Harassment Ban, Calling Hours & OTS Guidelines',
   description: 'Master guide on RBI guidelines for loan defaulters rights in India. Discover statutory rules on 8 AM-7 PM calling hours, privacy protection.',
   keywords: [
     'rbi guidelines for loan defaulters rights',

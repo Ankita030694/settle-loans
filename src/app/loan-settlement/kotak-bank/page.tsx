@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Kotak Bank Loan Settlement | SettleLoans",
-  description: "Struggling with Kotak Mahindra Bank debt? Learn the expert process for Kotak Bank loan settlement and credit card OTS. Settle for 40-70% less and stop.",
+  title: "Kotak Bank Loan Settlement | Settle Credit Card & Personal Loans - SettleLoans",
+  description: "Struggling with Kotak Mahindra Bank debt? Learn the expert process for Kotak Bank loan settlement and credit card OTS. Settle for 40-70% less and stop harassment legally.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/kotak-bank",
   },

@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/onecard-slice-uni-credit-card-settlement',
   },
   openGraph: {
-    title: 'OneCard, Slice & Uni Card Settlement | SettleLoans',
+    title: 'OneCard, Slice & Uni Credit Card Settlement: Partner Bank OTS Rules & Legal Defense (2026)',
     description: 'Learn how to settle OneCard, Slice, and Uni credit card debt legally. Stop late charges and negotiate partner bank OTS with SettleLoans.',
     url: 'https://www.settleloans.in/onecard-slice-uni-credit-card-settlement',
     siteName: 'SettleLoans',

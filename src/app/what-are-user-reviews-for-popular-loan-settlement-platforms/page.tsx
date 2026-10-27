@@ -5,8 +5,8 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "User Reviews for Loan Settlement Platforms | SettleLoans",
-  description: "Independent audit of user reviews for popular loan settlement platforms in India. Compare top legal debt relief firms based on verified user feedback.",
+  title: "What Are User Reviews for Popular Loan Settlement Platforms? | 2026 Audit",
+  description: "Independent audit of user reviews for popular loan settlement platforms in India. Compare <Link href=\"https://amalegalsolutions.com\" target=\"_blank\" className=\"text-[#1F5EFF] hover:underline\">Amalegal Solutions</Link>, CredSettle, and SettleLoans.in based on real user feedback.",
   alternates: {
     canonical: "https://www.settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms",
   },

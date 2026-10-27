@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Loan Settlement Near Me in India | SettleLoans",
-    description: 'Find trusted loan settlement services near you. Expert legal help for personal loans, credit cards, and business debt relief across India.',
+    title: "Loan Settlement Near Me | Expert Debt Relief Services Across India",
+    description: "Find the best loan settlement services near you. Expert legal help for personal loans, credit cards, and business debt resolution across all Indian states and cities.",
     alternates: {
         canonical: "https://www.settleloans.in/loan-settlement-near-me",
     },

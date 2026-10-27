@@ -32,7 +32,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Aditya Birla Loan Settlement Process | SettleLoans',
+  title: 'Aditya Birla Capital Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
   description: 'Comprehensive guide to Aditya Birla Capital & Finance loan settlement. Learn how to settle personal and business loans, stop NACH bounce charges.',
   keywords: [
     'aditya birla capital loan settlement',

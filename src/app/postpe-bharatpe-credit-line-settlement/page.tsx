@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/postpe-bharatpe-credit-line-settlement',
   },
   openGraph: {
-    title: 'PostPe & BharatPe Line Settlement | SettleLoans',
+    title: 'PostPe & BharatPe Credit Line Settlement: OTS Rules, Legal Defense & Harassment Protection (2026)',
     description: 'Learn how to settle PostPe and BharatPe credit lines legally. Stop collection agent calls and resolve partner NBFC debt with SettleLoans.',
     url: 'https://www.settleloans.in/postpe-bharatpe-credit-line-settlement',
     siteName: 'SettleLoans',

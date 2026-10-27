@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo',
   },
   openGraph: {
-    title: 'Illegal Vehicle Repossession Rules | SettleLoans',
+    title: 'Recovery Agents Seizing Vehicle by Force on Road: Legal Protections & Retrieval Guide',
     description: 'Recovery agents snatching your bike or car on the road? Understand Supreme Court bans on forceful repossession and get legal help with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo',
     siteName: 'SettleLoans',

@@ -35,7 +35,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'IndusInd Bank Personal Loan Settlement | SettleLoans',
+  title: 'IndusInd Bank Personal Loan Settlement: OTS Process, Haircut & Legal Guide (2026)',
   description: 'Settle IndusInd Bank personal loans and credit cards legally. Stop recovery harassment and resolve Section 25 PSSA notices safely.',
   keywords: [
     'indusind bank personal loan settlement',

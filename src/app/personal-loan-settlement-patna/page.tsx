@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-patna',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Patna | SettleLoans',
+    title: 'Loan Settlement Services in Patna, Bihar: SARB Notice Defense & Lok Adalat Guide',
     description: 'Learn how to settle personal loans legally in Patna Bihar. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-patna',
     siteName: 'SettleLoans',

@@ -6,7 +6,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: 'What is a Line of Credit? Better than a Personal Loan?',
-  description: 'Understand what a line of credit is in India, how this revolving credit facility works, and how it compares against a personal loan to save you thousands.',
+  description: 'Understand what a line of credit is in India, how this revolving credit facility works, and how it compares against a personal loan to save you thousands in interest.',
   alternates: {
     canonical: 'https://www.settleloans.in/what-is-line-of-credit',
   },

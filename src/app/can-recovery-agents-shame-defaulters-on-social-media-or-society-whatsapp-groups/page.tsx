@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Can Recovery Agents Shame You Online? | SettleLoans",
-  description: "Learn your legal rights if recovery agents threaten to post your loan default on Facebook, LinkedIn, or your housing society WhatsApp group.",
+  title: "Can Recovery Agents Shame Defaulters on Social Media or WhatsApp?",
+  description: "Learn your legal rights if recovery agents threaten to post your loan default on Facebook, LinkedIn, or your housing society WhatsApp group. Fight defamation today.",
   alternates: {
     canonical: "https://www.settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups",
   },

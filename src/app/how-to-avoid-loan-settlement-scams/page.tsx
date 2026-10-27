@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import HowToAvoidLoanSettlementScamsClient from './HowToAvoidLoanSettlementScamsClient';
 
 export const metadata: Metadata = {
-  title: 'Identify Fake Loan Settlement Companies | SettleLoans',
+  title: 'How to Identify Fake Loan Settlement Companies & Avoid Scams (2026)',
   description:
     'Worried about loan settlement fraud? Learn how to identify fake loan settlement companies, spot upfront fee scams, verify authentic bank OTS letters.',
   keywords: [

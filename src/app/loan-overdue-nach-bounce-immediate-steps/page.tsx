@@ -6,7 +6,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: "Loan Overdue NACH Bounce: Immediate Steps to Take",
-  description: "Did your auto-debit NACH mandate bounce? Follow these 3 immediate steps to stop compounding penalty fees and resolve overdue EMIs.",
+  description: "Did your auto-debit NACH mandate just bounce? Take these 3 immediate steps to stop the bank from charging you heavy penalty fees like NACH bounce charges.",
   alternates: { canonical: "https://www.settleloans.in/loan-overdue-nach-bounce-immediate-steps" }
 };
 

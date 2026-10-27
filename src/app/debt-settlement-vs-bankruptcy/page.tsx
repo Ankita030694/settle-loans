@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Debt Settlement vs Bankruptcy in India | SettleLoans",
-  description: "A comprehensive comparison of Debt Settlement and Bankruptcy/Insolvency for Indian borrowers. Compare credit score impact (CIBIL), legal protections.",
+  title: "Debt Settlement vs Bankruptcy in India: Which is Better for You? (2026)",
+  description: "A comprehensive comparison of Debt Settlement and Bankruptcy/Insolvency for Indian borrowers. Compare credit score impact (CIBIL), legal protections, and resolution speed.",
   alternates: {
     canonical: "https://www.settleloans.in/debt-settlement-vs-bankruptcy",
   },

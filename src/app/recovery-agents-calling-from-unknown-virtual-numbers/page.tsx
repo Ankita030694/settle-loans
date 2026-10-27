@@ -67,7 +67,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers',
   },
   openGraph: {
-    title: 'Stop Recovery Calls from Virtual Numbers | SettleLoans',
+    title: 'Recovery Agents Calling from Virtual Numbers & WhatsApp? Legal Defenses & DoT Chakshu Guide',
     description: 'Recovery agents calling from unknown virtual VoIP numbers? Learn how to trace digital harassment and file DOT complaints with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers',
     siteName: 'SettleLoans',

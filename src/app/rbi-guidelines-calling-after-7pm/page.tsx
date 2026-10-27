@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Recovery Agent Calling After 7 PM: RBI Rules | SettleLoans",
-  description: "Are recovery agents calling you at night? RBI guidelines mandate that recovery contact is only permitted between 8 AM and 7 PM.",
+  title: "RBI Guidelines on Recovery Agent Calling Timings (8 AM to 7 PM Rule)",
+  description: "Can loan recovery agents call after 7 PM or on Sundays? Read the latest 2026 RBI circular on permitted calling hours (8 AM–7 PM) and how to file an Ombudsman complaint.",
   alternates: {
     canonical: "https://www.settleloans.in/rbi-guidelines-calling-after-7pm",
   },

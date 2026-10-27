@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers',
   },
   openGraph: {
-    title: 'Settlement for Housewives & Co-Borrowers | SettleLoans',
+    title: 'Loan Settlement for Non Earning Co Borrower & Housewives | SettleLoans',
     description: 'Non-earning housewives and co-borrowers facing recovery harassment? Understand Stridhan protections and legal debt relief with SettleLoans.',
     url: 'https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers',
     siteName: 'SettleLoans',

@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Recovery Agents Calling Family Members | SettleLoans",
+    title: "Recovery Agents Calling Family Members | Privacy Law in India",
     description: "Is a bank calling your family or neighbors? Learn about the DPDP Act 2023, RBI third-party contact bans, and how to stop illegal debt harassment today.",
     alternates: {
         canonical: "https://www.settleloans.in/recovery-agents-calling-family-members-law",

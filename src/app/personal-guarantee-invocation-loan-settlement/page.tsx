@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-guarantee-invocation-loan-settlement',
   },
   openGraph: {
-    title: 'Personal Guarantee Invocation Rules | SettleLoans',
+    title: 'Personal Guarantee Invocation for Business Loan Settlement: Legal Defenses & Promoter OTS Blueprint',
     description: 'Personal guarantee invoked for business loan default? Understand Section 128 Indian Contract Act defenses and settle debt with SettleLoans.',
     url: 'https://www.settleloans.in/personal-guarantee-invocation-loan-settlement',
     siteName: 'SettleLoans',

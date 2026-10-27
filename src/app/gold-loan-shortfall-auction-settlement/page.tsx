@@ -38,7 +38,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Gold Loan Shortfall Notice Settlement Guide | SettleLoans',
+  title: 'Gold Loan Shortfall Notice Settlement: Legal Defense & ₹0 Residual Debt Guide (2026)',
   description: 'Received a gold loan shortfall notice from Muthoot, Manappuram, or bank after auction? Learn your legal rights under RBI Master Directions.',
   keywords: [
     'gold loan shortfall notice settlement',

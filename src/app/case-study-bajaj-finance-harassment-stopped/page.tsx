@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import BajajHarassmentStoppedClient from './BajajHarassmentStoppedClient';
 
 export const metadata: Metadata = {
-  title: 'Stop Bajaj Finance Harassment Case Study | SettleLoans',
+  title: 'How to Stop Bajaj Finance Recovery Harassment: ₹3L Case Study & Legal Cease-and-Desist',
   description: 'Real case study: How SettleLoans halted illegal Bajaj Finance recovery agent workplace visits for a ₹3 Lakh loan using RBI cease-and-desist notices.',
   keywords: [
     'how to stop bajaj finance recovery harassment',

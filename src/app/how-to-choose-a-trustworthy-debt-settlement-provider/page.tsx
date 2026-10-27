@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Choose a Trustworthy Debt Settlement Firm | SettleLoans",
+  title: "How to Choose a Trustworthy Debt Settlement Provider in India",
   description: "Learn how to select a reliable debt settlement agency in India. Our comprehensive guide covers transparency, legal backing.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider",

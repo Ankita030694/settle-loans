@@ -38,7 +38,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Car Loan Repossession & Shortfall | SettleLoans',
+  title: 'Car Loan Repossession Rules & Shortfall Settlement: Stop Harassment & Settle Residual Debt (2026)',
   description: 'Vehicle seized or facing a car loan shortfall recovery notice? Learn Supreme Court rulings against forceful repossession.',
   keywords: [
     'car loan repossession rules and settlement',

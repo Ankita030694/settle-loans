@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-vadodara',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Vadodara | SettleLoans',
+    title: 'Debt Settlement Services in Vadodara: Legal OTS, Bank NPA Rules & Haircut Guide (2026)',
     description: 'Learn how to settle personal loans legally in Vadodara. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-vadodara',
     siteName: 'SettleLoans',

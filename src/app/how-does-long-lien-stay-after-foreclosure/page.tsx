@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "How Long Does a Lien Stay on Property? | SettleLoans",
+  title: "How Long Does a Lien Stay on Property After Foreclosure or Closure?",
   description: "Closed your loan but the bank's 'Lien' is still marked on your property or car? Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/how-does-long-lien-stay-after-foreclosure",

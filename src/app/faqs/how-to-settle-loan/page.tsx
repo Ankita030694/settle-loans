@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "How to Settle Your Loan in India: Guide | SettleLoans",
+  title: "Ultimate Guide: How to Settle Your Loan in India (2026) | SettleLoans",
   description: 'Learn how to settle your loan legally in India. Step-by-step guide on debt negotiation, RBI guidelines, Lok Adalat, and credit repair.',
   alternates: {
     canonical: "https://www.settleloans.in/faqs/how-to-settle-loan",

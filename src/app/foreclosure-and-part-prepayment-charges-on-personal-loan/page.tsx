@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Foreclosure & Prepayment Charges on Loans | SettleLoans',
+  title: 'Foreclosure and Part-Prepayment Charges on Personal Loans: RBI Rules',
   description: 'A detailed financial and legal breakdown of the RBI rules governing foreclosure (pre-closure) and part-prepayment charges on personal loans.',
   alternates: { canonical: 'https://www.settleloans.in/foreclosure-and-part-prepayment-charges-on-personal-loan' }
 };

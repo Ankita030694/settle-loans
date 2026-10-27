@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement',
   },
   openGraph: {
-    title: 'How to Permanently Close Settled Loan | SettleLoans',
+    title: 'How to Permanently Close Loan Account After Settlement: Complete 5-Step Protocol & Legal Clearance Guide',
     description: 'Learn the 5-step banking protocol to permanently close settled loan accounts, get the No Dues Certificate, and update CIBIL via SettleLoans.',
     url: 'https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement',
     siteName: 'SettleLoans',

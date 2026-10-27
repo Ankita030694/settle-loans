@@ -2,8 +2,8 @@ import { Metadata } from 'next';
 import EducationLoanSettlementIndiaClient from './EducationLoanSettlementIndiaClient';
 
 export const metadata: Metadata = {
-  title: 'How to Settle Education Loan in India | SettleLoans',
-  description: 'Unemployed after graduation with expired moratorium? Learn how to settle education loans in India, protect parent co-applicants.',
+  title: 'How to Settle Education Loan in India: Moratorium Expiry, Parent Liability & RBI Rules (2026)',
+  description: 'Unemployed after graduation with expired moratorium? Learn how to settle education loans in India, protect parent co-applicants, and negotiate an RBI-compliant OTS.',
   keywords: [
     'how to settle education loan in india',
     'education loan settlement process',

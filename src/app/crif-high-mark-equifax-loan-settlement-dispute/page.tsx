@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute',
   },
   openGraph: {
-    title: 'Fix CRIF & Equifax Settlement Disputes | SettleLoans',
+    title: 'CRIF High Mark & Equifax Loan Settlement Dispute: Online Correction Guide (2026)',
     description: 'Fix incorrect settled loan records on CRIF High Mark and Equifax credit bureaus. Learn the CICRA statutory dispute process with SettleLoans.',
     url: 'https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute',
     siteName: 'SettleLoans',

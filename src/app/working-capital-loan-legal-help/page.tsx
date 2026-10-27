@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Working Capital Loan Legal Help in India | SettleLoans",
+    title: "Working Capital Loan Legal Help in India | Recovery & Settlement Support",
     description: "Expert legal help for working capital loan disputes in India. Navigate RBI recovery guidelines, legal settlement procedures.",
     alternates: {
         canonical: "https://www.settleloans.in/working-capital-loan-legal-help",

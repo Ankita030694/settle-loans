@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Bad Loan Recovery Strategy in India | SettleLoans",
+    title: "Bad Loan Recovery Strategy in India | Expert Legal Debt Resolution Guide",
     description: "Comprehensive guide on bad loan recovery strategies in India. Learn about SARFAESI Act, DRT, Lok Adalats, and RBI guidelines.",
     alternates: {
         canonical: "https://www.settleloans.in/bad-loan-recovery-strategy",

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement for Traders in India | SettleLoans",
+  title: "Loan Settlement for Traders in India | Settle CC, OD & Business Loans",
   description: "Expert loan settlement services for traders in India. Settle your Cash Credit (CC), Overdraft (OD), and business loans for 40-70% less.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-for-traders",

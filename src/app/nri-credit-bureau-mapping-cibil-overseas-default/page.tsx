@@ -31,7 +31,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Will Loan Default Affect Overseas Credit? | SettleLoans',
+  title: 'Will Indian Loan Default Affect Overseas Credit Score? NRI CIBIL Guide',
   description: 'Will an Indian loan default affect your overseas credit score in the US, UK, Canada, or UAE? Understand cross-border credit reporting laws.',
   keywords: [
     'will indian loan default affect overseas credit score',

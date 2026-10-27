@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement for Salaried People | SettleLoans",
+  title: "Loan Settlement for Salaried People | Expert Debt Relief & Negotiation",
   description: "Comprehensive guide to loan settlement for salaried individuals in India. Learn about the process, legal rights, credit score impact.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-for-salaried-people",

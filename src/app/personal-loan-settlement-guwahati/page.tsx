@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-guwahati',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Guwahati | SettleLoans',
+    title: 'Loan Settlement Company in Guwahati Assam: Legal Defense & OTS Guide',
     description: 'Learn how to settle personal loans legally in Guwahati. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-guwahati',
     siteName: 'SettleLoans',

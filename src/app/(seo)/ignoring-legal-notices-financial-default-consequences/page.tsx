@@ -5,8 +5,8 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Consequences of Ignoring Legal Notices | SettleLoans",
-  description: "Discover what happens when you ignore bank legal notices, Section 138 summons, and how to prevent costly ex-parte court orders.",
+  title: "Ignoring Legal Notices: Financial & Default Consequences",
+  description: "Throwing bank notices in the trash? Discover what happens if you ignore bank notices, Section 138 notices, and the risks of an Ex-Parte order for loan default.",
   alternates: {
     canonical: "https://www.settleloans.in/ignoring-legal-notices-financial-default-consequences"
   }

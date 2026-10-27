@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Legal Risks of Non-Payment in Debt Settlement | SettleLoans",
-  description: "Understand the legal risks of non-payment during debt settlement in India. Detailed guide on Section 138 NI Act, Section 25 PSS Act.",
+  title: "Legal Implications of Non-Payment During Debt Settlement | India Guide",
+  description: "Understand the legal risks of non-payment during debt settlement in India. Detailed guide on Section 138 NI Act, Section 25 PSS Act, and RBI recovery guidelines.",
   alternates: {
     canonical: "https://www.settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement",
   },

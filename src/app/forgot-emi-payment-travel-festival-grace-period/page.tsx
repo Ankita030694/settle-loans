@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Forgot EMI Payment? Grace Period Guide | SettleLoans",
+  title: "Forgot EMI Payment? Travel & Festival Grace Periods",
   description: "Forgot your EMI date because you were traveling or busy with festivals? See if your bank offers a hidden 'Grace Period' to avoid CIBIL damage.",
   alternates: { canonical: "https://www.settleloans.in/forgot-emi-payment-travel-festival-grace-period" }
 };

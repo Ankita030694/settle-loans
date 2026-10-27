@@ -6,7 +6,7 @@ import { faTriangleExclamation, faChartLine, faCalculator, faGavel, faUserInjure
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Personal Loan Settlement Services in India | SettleLoans",
+  title: "Personal Loan Settlement Services | Debt Relief & Negotiation Experts",
   description: "Struggling with debt? SettleLoans is a top-rated loan settlement company offering professional debt relief. We help you settle personal loans, negotiate.",
   alternates: {
     canonical: "https://www.settleloans.in/services/personal-loan-settlement",

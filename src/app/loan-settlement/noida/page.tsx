@@ -5,7 +5,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: "Loan Settlement Lawyers in Noida | SettleLoans",
-  description: "Facing bank recovery house calls in Noida Extension or Greater Noida? Settle your personal loans with expert legal defense in Surajpur Court.",
+  description: "Facing bank recovery house calls in Noida Extension or Greater Noida? Settle your personal loans with expert legal defense in Surajpur Court. Trusted by 600+ families in NCR.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/noida",
   },

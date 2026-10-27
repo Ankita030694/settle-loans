@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from '@/components/LoanSettlementAssessmentFunnel';
 
 export const metadata: Metadata = {
-  title: 'Download NOC for Secured Loans Online | SettleLoans',
+  title: 'Download NOC for Secured Loans Online | Home & Car Loan Guide',
   description: "Closed your home or vehicle loan? Learn the step-by-step process to track and download your official bank No Objection Certificate online.",
   alternates: {
     canonical: 'https://www.settleloans.in/download-noc-for-secured-loan',

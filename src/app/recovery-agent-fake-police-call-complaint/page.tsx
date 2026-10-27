@@ -65,7 +65,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agent-fake-police-call-complaint',
   },
   openGraph: {
-    title: 'Report Fake Police Recovery Calls | SettleLoans',
+    title: 'Recovery Agent Pretending to Be Police Officer? Legal Rights, Criminal Offenses & FIR Guide',
     description: 'Recovery agent pretending to be a police officer or court bailiff? File an immediate police impersonation FIR under Section 204 BNS with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agent-fake-police-call-complaint',
     siteName: 'SettleLoans',

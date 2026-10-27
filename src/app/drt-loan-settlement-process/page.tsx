@@ -37,7 +37,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'DRT Loan Settlement Process in India | SettleLoans',
+  title: 'DRT Loan Settlement Process in India: High-Ticket Legal Procedure, OA Defense & OTS Guide (2026)',
   description: 'Master the DRT loan settlement process in India for debts exceeding ₹20 Lakhs. Learn how to contest bank Original Applications (OA).',
   keywords: [
     'drt loan settlement process in india',

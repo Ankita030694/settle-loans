@@ -6,7 +6,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: "Vehicle Seizure Rules: Overdue Loans & Repo Agents",
-  description: "Did goons seize your car from the middle of the road? This is completely illegal. Know the strict RBI rules that repo agents must follow and how to stop.",
+  description: "Did goons seize your car from the middle of the road? This is completely illegal. Know the strict RBI rules that repo agents must follow and how to stop car repossession.",
   alternates: {
     canonical: "https://www.settleloans.in/vehicle-seizure-overdue-loan-documents-repo-agent-rules",
   },

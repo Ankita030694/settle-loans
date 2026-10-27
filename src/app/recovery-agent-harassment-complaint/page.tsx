@@ -6,7 +6,7 @@ import { faStar, faShieldAlt, faGavel, faScaleBalanced, faHandshake, faCheckCirc
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Recovery Agent Harassment Complaint | SettleLoans",
+  title: "Recovery Agent Harassment Complaint | Legal Rights & RBI Rules Guide",
   description: "Face recovery agent harassment? Learn how to file a complaint against bank recovery agents in India. Know your RBI guidelines, legal rights.",
   alternates: {
     canonical: "https://www.settleloans.in/recovery-agent-harassment-complaint",

@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-vijayawada',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Vijayawada | SettleLoans',
+    title: 'Debt Settlement Advocates in Vijayawada: Personal Loan OTS & Legal Relief (2026)',
     description: 'Learn how to settle personal loans legally in Vijayawada. Stop bank recovery harassment and resolve debt with structured OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-vijayawada',
     siteName: 'SettleLoans',

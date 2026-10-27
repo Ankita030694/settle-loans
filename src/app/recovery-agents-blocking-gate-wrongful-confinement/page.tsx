@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement',
   },
   openGraph: {
-    title: 'Recovery Agents Blocking House Gate | SettleLoans',
+    title: 'Recovery Agent Blocking Door or Car From Leaving? Legal Rights & Criminal Action',
     description: 'Recovery agents blocking your house gate or vehicle? File wrongful restraint and confinement charges under Section 127 BNS with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement',
     siteName: 'SettleLoans',

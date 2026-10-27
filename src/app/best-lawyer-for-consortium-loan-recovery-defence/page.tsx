@@ -6,8 +6,8 @@ import { faGavel, faScaleBalanced, faShieldHalved, faHandshake, faBuildingShield
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Lawyer for Consortium Loan Recovery Defence | SettleLoans",
-    description: "Facing recovery from multiple banks? Consult top lawyers for consortium loan defence. Expert counsel for ICA, SARFAESI, and DRT cases.",
+    title: "Best Lawyer for Consortium Loan Recovery Defence | Multi-Bank Debt Resolution",
+    description: "Facing recovery from multiple banks? Consult the best lawyer for consortium loan recovery defence in India. Expert help for ICA, SARFAESI, and DRT cases.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-consortium-loan-recovery-defence",
     },

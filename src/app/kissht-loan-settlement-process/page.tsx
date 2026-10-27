@@ -34,7 +34,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Kissht App Loan Settlement Guide | SettleLoans',
+  title: 'Kissht App Loan Settlement: Stop Harassment, RBI Rules & OTS Guide (2026)',
   description: 'Trapped in Kissht or Ring app debt? Learn how to stop aggressive recovery harassment, halt WhatsApp threats, invoke RBI Digital Lending Guidelines.',
   keywords: [
     'kissht app loan settlement',

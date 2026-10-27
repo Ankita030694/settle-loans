@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Can You Get a Loan After Settlement? | SettleLoans",
+    title: "Can You Get a Loan Again After Settling a Previous Loan? | Credit Recovery Guide",
     description: "Wondering if you can get a loan again after settlement? Our comprehensive 5500+ word guide explains the CIBIL impact, timelines.",
     alternates: {
         canonical: "https://www.settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan",

@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/getting-home-loan-after-personal-loan-settlement',
   },
   openGraph: {
-    title: 'Home Loan After Personal Loan Settlement | SettleLoans',
+    title: 'Can I Get Home Loan After Loan Settlement? Step-by-Step Approval Guide (2026)',
     description: 'Can you get a home loan after settling personal loans? Discover the credit score rebuilding roadmap and lender approval rules via SettleLoans.',
     url: 'https://www.settleloans.in/getting-home-loan-after-personal-loan-settlement',
     siteName: 'SettleLoans',

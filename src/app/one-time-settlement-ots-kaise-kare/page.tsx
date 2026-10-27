@@ -35,8 +35,8 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'One Time Settlement (OTS) Kaise Kare | SettleLoans',
-  description: 'One Time Settlement (OTS) kaise kare? Jane bank loan settlement process, OTS proposal draft karne ka tarika aur 40-70% discount.',
+  title: 'One Time Settlement OTS Kaise Le: Bank NPA Strategy & ₹0 NDC Guide',
+  description: 'One Time Settlement OTS kaise le? Learn how to approach bank NPA Stressed Asset management, draft an OTS proposal, secure 40-70% waivers, and get a ₹0 NDC.',
   keywords: [
     'one time settlement ots kaise le',
     'one time settlement ots kaise kare',

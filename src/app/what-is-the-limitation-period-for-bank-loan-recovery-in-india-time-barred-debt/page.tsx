@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Limitation Period for Loan Recovery in India | SettleLoans",
+  title: "Time-Barred Debts: What is the Limitation Period for Loan Recovery in India?",
   description: "Learn about the Limitation Act 1963 and the limitation period for personal loan recovery in India. Can a bank recover a 5-year-old loan? Find out here.",
   alternates: {
     canonical: 'https://www.settleloans.in/what-is-the-limitation-period-for-bank-loan-recovery-in-india-time-barred-debt',

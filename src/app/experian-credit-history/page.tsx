@@ -6,7 +6,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: 'Experian Credit History vs CIBIL | Check & Fix Errors Free',
-  description: 'Your CIBIL is fine but your loan got rejected? Learn why banks check your Experian report, how to get your score for free.',
+  description: 'Your CIBIL is fine but your loan got rejected? Learn why banks check your Experian report, how to get your score for free, and fix Experian credit history errors.',
   alternates: {
     canonical: 'https://www.settleloans.in/experian-credit-history',
   },

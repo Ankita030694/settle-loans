@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts',
   },
   openGraph: {
-    title: 'Can Agents Freeze Family Bank Accounts? | SettleLoans',
+    title: 'Can Bank Freeze Family Member Account for Loan Default? Legal Rights & Protection Guide',
     description: 'Can recovery agents freeze bank accounts of family members? Learn third-party account immunity and separate PAN protections with SettleLoans.',
     url: 'https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts',
     siteName: 'SettleLoans',

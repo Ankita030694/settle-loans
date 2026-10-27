@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-ludhiana',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Ludhiana | SettleLoans',
+    title: 'Personal Loan Settlement in Ludhiana | Debt Settlement Advocates Punjab',
     description: 'Learn how to settle personal loans legally in Ludhiana. Stop bank recovery harassment and resolve debt with up to 60% OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-ludhiana',
     siteName: 'SettleLoans',

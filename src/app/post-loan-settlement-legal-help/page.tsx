@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Post Loan Settlement Legal Help: NOC & CIBIL | SettleLoans",
+    title: "Post Loan Settlement Legal Help | NOC, Credit Repair & Bank Help",
     description: "Expert legal help after loan settlement in India. Navigate NOC collection, credit score repair, and stop bank harassment with our technical masterclass.",
     alternates: {
         canonical: "https://www.settleloans.in/post-loan-settlement-legal-help",

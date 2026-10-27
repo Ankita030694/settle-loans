@@ -6,8 +6,8 @@ import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Legal Risks of Defaulting on a Loan | SettleLoans",
-    description: 'Understand civil and criminal risks of loan default in India. Learn about SARFAESI, Section 138, Wilful Defaulter rules, and legal rights.',
+    title: "Legal Risks of Defaulting on a Loan Without Settlement in India | 2026",
+    description: "Understand the civil and criminal risks of loan default in India. Learn about SARFAESI, Section 138, Wilful Defaulter status, and legal rights for 2026.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement",
     },

@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Documents Needed for Debt Settlement | SettleLoans",
-  description: "Complete list of documents required for debt settlement in India. Learn about KYC, financial hardship proof, income documents.",
+  title: "Documents Needed for Debt Settlement Services in India | 2026 Checklist",
+  description: "Complete list of documents required for debt settlement in India. Learn about KYC, financial hardship proof, income documents, and post-settlement NOC requirements.",
   alternates: {
     canonical: "https://www.settleloans.in/what-documents-are-needed-for-debt-settlement-services",
   },

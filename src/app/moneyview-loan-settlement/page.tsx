@@ -38,7 +38,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'MoneyView Loan Settlement: OTS Rules | SettleLoans',
+  title: 'MoneyView Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
   description: 'Step-by-step MoneyView loan settlement guide. Stop NACH bounce fees, halt recovery agent harassment, and settle for less under RBI norms.',
   keywords: [
     'money view loan settlement process',

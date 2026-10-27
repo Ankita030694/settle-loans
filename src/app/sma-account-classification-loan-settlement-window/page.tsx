@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/sma-account-classification-loan-settlement-window',
   },
   openGraph: {
-    title: 'SMA Account & Loan Settlement Window | SettleLoans',
+    title: 'SMA Account Classification & Loan Settlement Window: Settle Before 90-Day NPA',
     description: 'Understand SMA-0, SMA-1, and SMA-2 pre-NPA account classification. Settle overdue loans during the 90-day window with SettleLoans.',
     url: 'https://www.settleloans.in/sma-account-classification-loan-settlement-window',
     siteName: 'SettleLoans',

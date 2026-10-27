@@ -30,7 +30,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Cheque Bounce Warrant for Loan Default | SettleLoans',
+  title: 'Bailable & Non-Bailable Warrant for Cheque Bounce Loan Default: Cancel Warrant & Settle Under Sec 138 NI Act (2026)',
   description: 'Received a bailable or non-bailable warrant for cheque bounce loan default? Stop harassment & settle debt legally with SettleLoans.',
   keywords: [
     'warrant issued for cheque bounce loan default',

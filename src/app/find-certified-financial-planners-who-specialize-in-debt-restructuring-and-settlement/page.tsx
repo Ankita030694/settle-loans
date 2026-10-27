@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Find Certified Financial Planners for Debt | SettleLoans",
+  title: "Find Certified Financial Planners for Debt Restructuring & Settlement in India",
   description: "Locate Certified Financial Planners (CFPs) specializing in debt restructuring and loan settlement in India. Get expert advice on managing debt.",
   alternates: {
     canonical: "https://www.settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement",

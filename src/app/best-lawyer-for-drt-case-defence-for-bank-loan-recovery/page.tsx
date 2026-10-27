@@ -6,8 +6,8 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Lawyer for DRT Case Defence in India | SettleLoans",
-    description: "Expert DRT case defense for bank loan recovery. Challenge SARFAESI notices, Section 13(2), 13(4), and property auctions.",
+    title: "Best Lawyer for DRT Case Defence for Bank Loan Recovery India",
+    description: "Expert DRT case defense for bank loan recovery. Challenge SARFAESI notices, Section 13(2), 13(4), and property auctions. Technical legal defense for borrowers and MSMEs.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery",
     },

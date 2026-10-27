@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/can-recovery-agents-enter-house-without-permission',
   },
   openGraph: {
-    title: 'Can Recovery Agents Enter Your House? | SettleLoans',
+    title: 'Can Recovery Agents Enter House Without Permission? Legal Rights & RBI Rules',
     description: 'Can loan recovery agents enter your house without consent? Learn house trespass laws under Section 329 BNS and RBI rules with SettleLoans.',
     url: 'https://www.settleloans.in/can-recovery-agents-enter-house-without-permission',
     siteName: 'SettleLoans',

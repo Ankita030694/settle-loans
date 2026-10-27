@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "RBI Rules for Recovery Agents: Guide | SettleLoans",
-  description: 'Guide to RBI rules for recovery agents in 2026. Learn about 8 AM-7 PM timing, agent certification rules, and stopping illegal harassment.',
+  title: "RBI Rules for Recovery Agents 2026: Official Guidelines & Borrower Rights",
+  description: "Comprehensive guide to RBI rules for recovery agents in 2026. Learn about 8 AM-7 PM timing, certification requirements, and how to stop illegal harassment today.",
   alternates: {
     canonical: "https://www.settleloans.in/rbi-rules-for-recovery-agents",
   },

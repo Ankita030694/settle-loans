@@ -6,7 +6,7 @@ import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Alternatives to Loan Settlement in India | SettleLoans",
+    title: "Alternatives to Loan Settlement in India | Managing Overwhelming Debt 2026",
     description: "Explorer alternatives to loan settlement like debt consolidation, DMPs, and asset refinancing. Save your CIBIL score while clearing debt in 2024-25.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt",

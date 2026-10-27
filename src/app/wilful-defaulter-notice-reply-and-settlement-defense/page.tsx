@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense',
   },
   openGraph: {
-    title: 'Wilful Defaulter Notice Reply Defense | SettleLoans',
+    title: 'Wilful Defaulter Notice Reply & Settlement Defense: RBI Rules & Legal Guide',
     description: 'Received a wilful defaulter identification notice? Learn how to submit a 21-day legal representation and settle debt with SettleLoans.',
     url: 'https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense',
     siteName: 'SettleLoans',

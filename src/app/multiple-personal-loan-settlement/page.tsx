@@ -2,8 +2,8 @@ import { Metadata } from 'next';
 import MultiplePersonalLoanSettlementClient from './MultiplePersonalLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'How to Settle Multiple Personal Loans | SettleLoans',
-  description: 'Drowning in multiple personal loans and credit cards? Discover how to negotiate multiple lenders simultaneously into one manageable settlement plan.',
+  title: 'How to Settle Multiple Personal Loans in India | Multi-Debt Resolution Guide',
+  description: 'Drowning in multiple personal loans and credit cards? Discover how to negotiate multiple lenders simultaneously into one manageable settlement plan. Full RBI legal guide.',
   keywords: [
     'how to settle multiple personal loans',
     'multiple personal loan settlement india',

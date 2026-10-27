@@ -34,7 +34,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Full Settlement vs Compromise Settlement | SettleLoans',
+  title: 'Full and Final Settlement vs Compromise Settlement: Complete Guide (2026)',
   description: 'Understand the key differences between full loan closure, compromise settlement (OTS), and loan write-offs under RBI guidelines.',
   keywords: [
     'difference between full and final settlement and compromise settlement',

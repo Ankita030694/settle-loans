@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer',
   },
   openGraph: {
-    title: 'Escalate Loan Harassment to Nodal Officer | SettleLoans',
+    title: 'How to Escalate Bank Loan Harassment to Principal Nodal Officer (PNO) | RBI Grievance & Collection Freeze Guide',
     description: 'Learn how to escalate bank recovery harassment to Principal Nodal Officers under RBI guidelines and freeze illegal recovery via SettleLoans.',
     url: 'https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer',
     siteName: 'SettleLoans',

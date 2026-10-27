@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Mastering Loan Settlement & Debt Negotiation | SettleLoans",
+  title: "Mastering Loan Settlement: Tips to Negotiate Your Debt Wisely",
   description: "Unlock the secrets to mastering loan settlement with our expert tips! Negotiate your debt wisely and gain financial freedom today.",
   alternates: {
     canonical: "https://www.settleloans.in/mastering-loan-settlement",

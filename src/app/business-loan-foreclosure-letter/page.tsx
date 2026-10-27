@@ -5,8 +5,8 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Business Loan Foreclosure Letter Format | SettleLoans',
-  description: 'Download a verified Business Loan Foreclosure Letter format to close your MSME loan smoothly and get your bank NOC without delays.',
+  title: 'Business Loan Foreclosure Letter Format | Request MSME Loan Closure',
+  description: 'Download the legally vetted Business Loan Foreclosure Letter Format to request the foreclosure of your business or MSME loan and ensure the bank doesn\'t stall the process.',
   alternates: {
     canonical: 'https://www.settleloans.in/business-loan-foreclosure-letter',
   },

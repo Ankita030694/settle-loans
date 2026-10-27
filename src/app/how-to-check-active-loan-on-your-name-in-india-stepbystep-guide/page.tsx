@@ -5,8 +5,8 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "How to Check Active Loans on Your Name | SettleLoans",
-  description: "Learn how to check all active loans on your PAN card and Aadhaar in India. Step-by-step guide to using CIBIL, Income Tax AIS.",
+  title: "How to Check Active Loan on Your Name in India | 2026 Step-by-Step Guide",
+  description: "Learn how to check all active loans on your PAN card and Aadhaar in India. Step-by-step guide to using CIBIL, Income Tax AIS, and RBI portals to detect unauthorized loans.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide",
   },

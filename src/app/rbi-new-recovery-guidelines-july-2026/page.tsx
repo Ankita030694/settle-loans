@@ -5,8 +5,8 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "RBI New Recovery Guidelines July 2026 | SettleLoans",
-    description: "Explore the latest RBI guidelines on loan recovery effective July 2026. Learn about prohibited harassment, certified recovery agents.",
+    title: "RBI Guidelines for Loan Recovery 2026 | New Agent Rules & PDF Guide",
+    description: "Official 2026 RBI guidelines for loan recovery agents in India. Check new calling hours (8 AM–7 PM), prohibited harassment rules, PDF directives & complaint steps.",
     alternates: {
         canonical: "https://www.settleloans.in/rbi-new-recovery-guidelines-july-2026",
     },
@@ -179,7 +179,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                             RBI Regulatory Update 2026
                         </span>
                         <h1 className="text-3xl md:text-6xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight uppercase">
-                            RBI New Recovery <br /> <span className="text-[#1F5EFF]">Guidelines July 2026</span>
+                            RBI Loan Recovery <br /> <span className="text-[#1F5EFF]">Guidelines & New Rules 2026</span>
                         </h1>
                         <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-2xl mx-auto leading-[1.2] font-normal">
                             A historic shift in debt collection. Discover the new rules designed to end recovery harassment, enforce agency accountability, and protect borrower dignity across India.

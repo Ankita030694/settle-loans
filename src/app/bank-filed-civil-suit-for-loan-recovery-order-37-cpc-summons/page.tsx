@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Bank Civil Suit: Order 37 CPC Summons Guide | SettleLoans",
+  title: "Bank Filed Civil Suit for Loan Recovery: Order 37 CPC Summons Guide",
   description: "Received Order 37 CPC summary suit summons for loan default? Learn how to file leave to defend and reply effectively in court.",
   alternates: {
     canonical: "https://www.settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons",

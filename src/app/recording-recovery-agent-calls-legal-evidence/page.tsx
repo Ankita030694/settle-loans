@@ -42,7 +42,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Record Recovery Agent Calls for Evidence | SettleLoans',
+  title: 'How to Record Recovery Agent Calls for Court Evidence: Section 65B Guide',
   description: 'Learn how to legally record recovery agent calls and threats for court evidence in India under Section 65B of the Indian Evidence Act.',
   keywords: [
     'how to record recovery agent calls for court evidence',

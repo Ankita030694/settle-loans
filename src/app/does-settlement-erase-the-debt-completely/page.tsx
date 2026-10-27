@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Does Loan Settlement Erase Debt Completely? | SettleLoans",
-  description: "Wondering if loan settlement clears your debt completely? Discover the impact on CIBIL, the difference between 'Settled' & 'Closed'.",
+  title: "Does Settlement Erase the Debt Completely? | The Unspoken Truth - SettleLoans",
+  description: "Wondering if loan settlement clears your debt completely? Discover the impact on CIBIL, the difference between 'Settled' & 'Closed', and how to rebuild your credit after settlement.",
   alternates: {
     canonical: "https://www.settleloans.in/does-settlement-erase-the-debt-completely",
   },

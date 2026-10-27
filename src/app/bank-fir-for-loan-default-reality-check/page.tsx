@@ -37,7 +37,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Can Bank File FIR for Loan Default? Section 420 Myth',
+  title: 'Can Bank File FIR for Personal Loan Default? Section 420 IPC Myth vs Reality & Legal Protections',
   description: 'Can a bank file an FIR for loan default? Uncover the truth behind Section 420 & 406 IPC threats by collection agencies, Supreme Court precedents.',
   keywords: [
     'can bank file fir for personal loan default',

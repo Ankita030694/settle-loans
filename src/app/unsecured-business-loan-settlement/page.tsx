@@ -2,8 +2,8 @@ import { Metadata } from 'next';
 import UnsecuredBusinessLoanSettlementClient from './UnsecuredBusinessLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'Unsecured Business Loan Settlement Guide | SettleLoans',
-  description: 'Learn the unsecured business loan settlement process for MSMEs. Defend personal guarantees and negotiate OTS under RBI guidelines.',
+  title: 'Unsecured Business Loan Settlement: MSME Distress & Haircut Guide (2026)',
+  description: 'Learn the unsecured business loan settlement process for failed SMEs. Understand corporate vs retail debt, personal guarantee defense, and RBI OTS rules.',
   keywords: [
     'unsecured business loan settlement process',
     'business loan settlement india',

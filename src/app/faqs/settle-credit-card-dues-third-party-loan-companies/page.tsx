@@ -6,8 +6,8 @@ import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "FAQ: Settle Credit Cards via Debt Companies | SettleLoans",
-    description: "Learn how to settle credit card dues with third party companies like SettleLoans. Expert guide on negotiation, legal protection.",
+    title: "Settling Credit Card Dues Using Third Party Loan Companies in India | 2026",
+    description: "Learn how to settle credit card dues with third party companies like SettleLoans. Expert guide on negotiation, legal protection, and stopping harassment in 2026.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies",
     },

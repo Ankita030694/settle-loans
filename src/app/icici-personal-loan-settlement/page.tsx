@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import IciciPersonalLoanSettlementClient from './IciciPersonalLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'ICICI Personal Loan Settlement Guide | SettleLoans',
+  title: 'ICICI Personal Loan Settlement: OTS Rules, Haircut Formula & Process (2026)',
   description: 'Exhaustive guide to ICICI Bank personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, recovery agent defense.',
   keywords: [
     'icici bank loan settlement process',

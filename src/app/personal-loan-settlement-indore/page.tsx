@@ -33,7 +33,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Lawyer in Indore | SettleLoans',
+  title: 'Loan Settlement Lawyer in Indore: Settle Personal & Business Debt (2026)',
   description: 'Facing loan default in Indore? Consult experienced lawyers to halt recovery harassment and defend against Section 138 or PSSA notices.',
   keywords: [
     'loan settlement lawyer in indore',

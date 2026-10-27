@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement After Failed Settlement | SettleLoans",
-  description: "What happens if your loan settlement fails? Learn about IARC (International Asset Reconstruction Company) resolution process.",
+  title: "Loan Settlement After Settlement Failed | IARC Debt Resolution Guide 2026",
+  description: "What happens if your loan settlement fails? Learn about IARC (International Asset Reconstruction Company) resolution process, and how to fix a breached OTS agreement.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-after-settlement-failed",
   },

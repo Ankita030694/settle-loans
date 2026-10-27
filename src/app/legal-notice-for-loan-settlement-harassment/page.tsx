@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Legal Notice for Loan Harassment: Guide | SettleLoans",
+  title: "Legal Notice for Loan Settlement Harassment | RBI Rules & IPC Guide 2026",
   description: "Facing harassment from loan recovery agents? Learn how to issue a legal notice to banks and collection agencies under RBI and IPC rules.",
   alternates: {
     canonical: "https://www.settleloans.in/legal-notice-for-loan-settlement-harassment",

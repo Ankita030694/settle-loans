@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment',
   },
   openGraph: {
-    title: 'File RBI Ombudsman Harassment Complaint | SettleLoans',
+    title: 'How to File Complaint in RBI Ombudsman Against Recovery Agents | Step-by-Step CMS Portal Guide',
     description: 'Step-by-step guide to filing an RBI Ombudsman complaint against recovery agent harassment. Claim up to ₹20 Lakh compensation with SettleLoans.',
     url: 'https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment',
     siteName: 'SettleLoans',

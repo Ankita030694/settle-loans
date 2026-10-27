@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Check Loan Settlement Status: Track & Get NOC Online",
+  title: "Check Loan Settlement Status: How to Track & Get NOC Online",
   description: "Waiting for your settlement NOC? Learn how to legally check loan settlement status online, track your NOC, and force the bank to update your CIBIL.",
   alternates: {
     canonical: "https://www.settleloans.in/check-loan-settlement-status",

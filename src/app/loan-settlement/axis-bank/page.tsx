@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Axis Bank Loan Settlement Guide 2026 | SettleLoans",
-  description: "Expert legal guide to Axis Bank loan and credit card settlement. Settle delinquent debts legally and eliminate recovery harassment.",
+  title: "Axis Bank Loan Settlement Guide 2026 | Expert OTS & Debt Resolution",
+  description: "Advanced legal analysis of Axis Bank loan and credit card settlement. Master the Citi migration nuances, Burgundy banking protocols, and MSME OTS 2026.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/axis-bank",
   },

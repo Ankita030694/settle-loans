@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Reminder Calls After EMI Bounce: Your Rights | SettleLoans',
+  title: 'Handling Reminder Calls After an EMI Bounce | Stop Harassment',
   description: 'Getting 20 calls a day after a single EMI bounce? Learn the exact script to use with tele-callers to stop the harassment and understand your rights.',
   alternates: {
     canonical: 'https://www.settleloans.in/reminder-calls-after-emi-bounce'

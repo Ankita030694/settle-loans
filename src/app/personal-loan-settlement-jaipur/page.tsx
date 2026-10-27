@@ -33,7 +33,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Debt Settlement Services in Jaipur | SettleLoans',
+  title: 'Debt Settlement Services in Jaipur: Legal Defense & OTS Advocates (2026)',
   description:
     'Facing personal loan default or recovery harassment in Jaipur? Get expert legal defense and negotiate debt settlement under RBI rules.',
   keywords: [

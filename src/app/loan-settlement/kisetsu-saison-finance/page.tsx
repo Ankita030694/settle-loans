@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Kisetsu Saison Finance Loan Settlement | SettleLoans",
-  description: "Struggling with Kisetsu Saison Finance (Credit Saison India) debt? Stop harassment & settle debt legally with SettleLoans.",
+  title: "Kisetsu Saison Finance Loan Settlement | Credit Saison India OTS Guide - SettleLoans",
+  description: "Struggling with Kisetsu Saison Finance (Credit Saison India) debt? Expert guide to loan settlement, interest waivers, and stopping collection harassment legally.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/kisetsu-saison-finance",
   },

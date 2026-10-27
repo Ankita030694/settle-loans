@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process',
   },
   openGraph: {
-    title: 'MSME Samadhaan Loan Default Guide | SettleLoans',
+    title: 'MSME Loan Settlement Scheme in India: Resolve Business Debt & Protect Machinery',
     description: 'Learn how to settle MSME business loan defaults legally under Udyam and RBI frameworks. Protect collateral and plant machinery with SettleLoans.',
     url: 'https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process',
     siteName: 'SettleLoans',

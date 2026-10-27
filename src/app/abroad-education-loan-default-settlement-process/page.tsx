@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/abroad-education-loan-default-settlement-process',
   },
   openGraph: {
-    title: 'Abroad Education Loan Default Options | SettleLoans',
+    title: 'Abroad Education Loan Default Settlement Process: Shield Parents & Settle NBFC Debt',
     description: 'Defaulting on international student loans? Learn how to protect Indian co-signers and settle abroad education debt with SettleLoans.',
     url: 'https://www.settleloans.in/abroad-education-loan-default-settlement-process',
     siteName: 'SettleLoans',

@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Can Bank Freeze Company Account for Director Loan?",
-  description: "Learn why a bank cannot legally freeze a Private Limited Company or MSME current account to recover a director's personal loan default.",
+  title: "Can a Bank Freeze a Company Current Account for a Director's Personal Loan Default?",
+  description: "Learn why a bank cannot legally freeze a Private Limited Company or MSME current account to recover a director's personal loan default. Understand the corporate veil.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default",
   },

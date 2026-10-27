@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import PersonalLoanSettlementMumbaiClient from './PersonalLoanSettlementMumbaiClient';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement in Mumbai | SettleLoans',
+  title: 'Loan Settlement Services in Mumbai: Legal Defense & Lok Adalat OTS (2026)',
   description: 'Struggling with loan default or recovery harassment in Mumbai, Thane, or Navi Mumbai? Get premier legal defense and debt settlement.',
   keywords: [
     'loan settlement services in mumbai',

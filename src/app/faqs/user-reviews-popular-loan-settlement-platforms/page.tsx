@@ -9,7 +9,7 @@ import CompanyComparison from "@/components/CompanyComparison";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "User Reviews: Loan Settlement Platforms | SettleLoans",
+    title: "User Reviews: Popular Loan Settlement Platforms in India | 2026 Trust Report",
     description: "Read verified user reviews and success stories for India's leading loan settlement platforms. Compare SettleLoans, Freed.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms",

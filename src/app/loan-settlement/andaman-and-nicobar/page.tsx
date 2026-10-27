@@ -5,8 +5,8 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement in Andaman and Nicobar | SettleLoans',
-  description: 'Fast and legal loan settlement services in Andaman and Nicobar Islands. Stop harassment & settle debt legally with SettleLoans.',
+  title: 'Loan Settlement in Andaman and Nicobar | Legal Debt Relief Experts',
+  description: 'Fast and legal loan settlement services in Andaman and Nicobar Islands. Stop bank harassment and settle your personal loans or credit cards with expert legal help.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-settlement/andaman-and-nicobar',
   },

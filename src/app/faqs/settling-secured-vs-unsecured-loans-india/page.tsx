@@ -6,7 +6,7 @@ import { faHouseLock, faLockOpen, faBuildingColumns, faGavel, faScaleBalanced, f
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Settling Secured vs Unsecured Loans in India | SettleLoans",
+    title: "Settling Secured vs Unsecured Loans in India | 2026 Expert Guide",
     description: "Can you settle a home loan? Discover the differences between secured and unsecured loan settlements in India. Master SARFAESI and negotiation tactics.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/settling-secured-vs-unsecured-loans-india",

@@ -5,8 +5,8 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Avoid Recovery Agents: Legal Risks of Changing Number",
-  description: "Learn why changing your SIM card to avoid loan recovery agents can turn a civil default into a criminal fraud case (Section 420 IPC) and how skip tracing.",
+  title: "Absconding from Banks: The Legal Consequences of Changing Your Number and Address",
+  description: "Learn why changing your SIM card to avoid loan recovery agents can turn a civil default into a criminal fraud case (Section 420 IPC) and how skip tracing works in India.",
   alternates: {
     canonical: "https://www.settleloans.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents"
   }

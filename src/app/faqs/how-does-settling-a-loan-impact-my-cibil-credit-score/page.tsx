@@ -6,8 +6,8 @@ import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "How Loan Settlement Impacts CIBIL Score | SettleLoans",
-    description: "Deep-dive into how loan settlement affects your CIBIL score in India. Stop harassment & settle debt legally with SettleLoans.",
+    title: "How Does Settling a Loan Impact My CIBIL Credit Score | 2026 Guide",
+    description: "Deep-dive into how loan settlement affects your CIBIL score in India. Learn recovery timelines, rebuilding strategies, and the difference between closed and settled status.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score",
     },

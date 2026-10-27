@@ -5,7 +5,7 @@ import { Metadata } from 'next';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Charges for Loan Settlement Services in India | SettleLoans',
+  title: 'Charges for Loan Settlement Services by Top Financial Firms in India (2026)',
   description: 'Compare the charges and fees of top loan settlement firms in India. Detailed analysis of AMA Legal Solutions, CredSettle, and SettleLoans fee structures.',
   alternates: {
     canonical: 'https://www.settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms',

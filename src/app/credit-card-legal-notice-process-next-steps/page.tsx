@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Credit Card Legal Notice Guide | SettleLoans",
+  title: "Credit Card Legal Notice Process & Next Steps",
   description: "Received a legal notice for credit card default? Learn how to reply to a credit card legal notice, handle summons, and protect yourself from legal action.",
   alternates: {
     canonical: "https://www.settleloans.in/credit-card-legal-notice-process-next-steps",

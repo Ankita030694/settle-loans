@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Loan Parties Dispute Resolution India | SettleLoans",
+    title: "Loan Parties Dispute Resolution India | Legal Help for Recovery Conflicts",
     description: "Expert legal advisory for loan party disputes in India. Navigate DRT procedures, Banking Ombudsman complaints, and ADR mechanisms.",
     alternates: {
         canonical: "https://www.settleloans.in/loan-parties-dispute-resolution",

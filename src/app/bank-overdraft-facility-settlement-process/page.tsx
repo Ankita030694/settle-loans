@@ -32,7 +32,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'How to Settle Bank Overdraft Loan | SettleLoans',
+  title: 'How to Settle Bank Overdraft Loan: Unsecured & Dropline OD OTS Guide (2026)',
   description: 'Learn how to settle bank overdraft loans, unsecured OD limits, and dropline credit facilities in India. Discover how to freeze compounding interest.',
   keywords: [
     'how to settle bank overdraft loan',

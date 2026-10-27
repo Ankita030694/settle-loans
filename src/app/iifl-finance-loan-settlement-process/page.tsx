@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/iifl-finance-loan-settlement-process',
   },
   openGraph: {
-    title: 'IIFL Finance Loan Settlement Guide | SettleLoans',
+    title: 'IIFL Finance Loan Settlement: OTS Process, Gold Auction Shortfall & Haircut (2026)',
     description: 'Learn how to settle IIFL Finance personal loans and gold loan shortfalls legally. Stop legal notices and resolve debt with SettleLoans.',
     url: 'https://www.settleloans.in/iifl-finance-loan-settlement-process',
     siteName: 'SettleLoans',

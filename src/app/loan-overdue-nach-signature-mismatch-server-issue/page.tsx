@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Loan Overdue: NACH Signature Mismatch | SettleLoans',
+  title: 'Loan Overdue Due to NACH Signature Mismatch or Server Issue | Fight Bounce Charges',
   description: "Did your EMI bounce because of the bank's server issue or a signature mismatch? You are NOT liable for the bounce charges. Learn how to fight it.",
   alternates: {
     canonical: 'https://www.settleloans.in/loan-overdue-nach-signature-mismatch-server-issue',

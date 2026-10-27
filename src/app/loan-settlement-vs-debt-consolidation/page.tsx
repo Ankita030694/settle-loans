@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import LoanSettlementVsDebtConsolidationClient from './LoanSettlementVsDebtConsolidationClient';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement vs Debt Consolidation Guide | SettleLoans',
+  title: 'Personal Loan Settlement vs Debt Consolidation: Decision Guide (2026)',
   description:
     'Confused between loan settlement vs debt consolidation? Compare monthly EMI relief vs 40%–70% debt haircuts, CIBIL score impact, eligibility, costs.',
   keywords: [

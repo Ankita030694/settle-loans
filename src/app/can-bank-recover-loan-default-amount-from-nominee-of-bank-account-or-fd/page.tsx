@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Can Banks Recover Loan Default from Nominee? | SettleLoans",
-  description: "Learn the legal difference between a nominee and a legal heir. Find out if a bank can attach or freeze a nominee's FD or savings account for a deceased.",
+  title: "Can Banks Recover Loan Default from an FD or Bank Account Nominee?",
+  description: "Learn the legal difference between a nominee and a legal heir. Find out if a bank can attach or freeze a nominee's FD or savings account for a deceased borrower's loan default under RBI rules.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd",
   },

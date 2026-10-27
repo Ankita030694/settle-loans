@@ -39,7 +39,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Does SARFAESI Act Apply to Personal Loans? | SettleLoans',
+  title: 'Does SARFAESI Act Apply to Personal Loans? Rules, Exemption & Legal Rights (2026)',
   description: 'Does the SARFAESI Act apply to personal loans or credit cards? Understand the legal reality behind Section 13(2) notices, security interest rules.',
   keywords: [
     'does sarfaesi act apply to personal loans',

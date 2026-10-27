@@ -65,7 +65,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation',
   },
   openGraph: {
-    title: 'Late Night Recovery Calls RBI Rules | SettleLoans',
+    title: 'Recovery Agents Calling Before 8 AM or After 7 PM? RBI Rules & Injunction Guide',
     description: 'Recovery agents calling before 8 AM or after 7 PM? Learn RBI recovery timing violation rules and how to file complaints with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation',
     siteName: 'SettleLoans',

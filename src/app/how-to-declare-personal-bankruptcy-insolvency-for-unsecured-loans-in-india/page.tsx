@@ -5,8 +5,8 @@ import LoanSettlementAssessmentFunnel from '@/components/LoanSettlementAssessmen
 import { ShieldCheck, Scale, AlertTriangle, FileText, CheckCircle2, IndianRupee, AlertCircle, PhoneCall, Check, Star, ArrowRight, BookOpen } from 'lucide-react';
 
 export const metadata = {
-  title: 'Personal Bankruptcy for Unsecured Loans | SettleLoans',
-  description: 'Learn the individual bankruptcy process under IBC in India. Understand how to file for personal insolvency, Fresh Start process.',
+  title: 'How to Declare Personal Bankruptcy for Unsecured Loans in India',
+  description: 'Learn the individual bankruptcy process under IBC in India. Understand how to file for personal insolvency, Fresh Start process, and legal protection from creditors.',
   alternates: {
     canonical: 'https://www.settleloans.in/how-to-declare-personal-bankruptcy-insolvency-for-unsecured-loans-in-india',
   }

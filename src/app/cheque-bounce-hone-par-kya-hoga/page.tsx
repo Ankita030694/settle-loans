@@ -33,7 +33,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Cheque Bounce Hone Par Kya Hoga: Legal Defense Guide',
+  title: 'Cheque Bounce Hone Par Kya Hoga: Section 138 Legal Defence & OTS',
   description: 'Cheque bounce hone par kya kare? Discover your rights against bank security cheque misuse, Section 138 notice timelines, bailable offense protections.',
   keywords: [
     'cheque bounce hone par kya kare',

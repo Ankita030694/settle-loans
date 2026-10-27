@@ -4,7 +4,7 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "What is an Arrear EMI? Meaning & Difference | SettleLoans",
+  title: "What is an Arrear EMI? Meaning, Overdue Differences & How to Clear",
   description: "Your bank statement shows an 'Arrear EMI'—what does this actually mean? Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/what-is-arrear-emi",

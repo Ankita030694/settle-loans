@@ -4,8 +4,8 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement with IARC | SettleLoans",
-  description: "Struggling with IARC loan settlement or can't pay EMI due to job loss? Stop harassment & settle debt legally with SettleLoans.",
+  title: "IARC Loan Settlement Process 2026 | Contact, OTS Waiver & NOC Guide",
+  description: "Did your bank sell your loan to IARC (International Asset Reconstruction Company)? Learn how to verify IARC notices, contact support, and settle dues for up to 70% less.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-with-iarc",
   },

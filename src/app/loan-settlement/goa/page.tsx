@@ -18,7 +18,7 @@ import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmen
 
 export const metadata: Metadata = {
   title: 'Loan Settlement in Goa | Legal Debt Relief & Stop Harassment',
-  description: 'Struggling with debt in Goa? Expert loan settlement services to stop bank harassment, reduce debt by up to 50%, and settle legally.',
+  description: 'Struggling with debt in Goa? Expert loan settlement services to stop bank harassment, reduce debt by up to 50%, and settle legally. Expert guidance on Goa Money Lenders Act.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-settlement/goa',
   },

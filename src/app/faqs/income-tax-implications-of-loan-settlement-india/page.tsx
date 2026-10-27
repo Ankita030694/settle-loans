@@ -6,7 +6,7 @@ import { faCoins, faFileInvoiceDollar, faBuildingColumns, faGavel, faScaleBalanc
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-    title: "Tax Implications of Loan Settlement | SettleLoans",
+    title: "Income Tax Implications of Loan Settlement in India | 2026 Expert Guide",
     description: "Understand the taxability of settled debt in India. Master Section 28(iv), 41(1), and 194R. Expert guide on how loan waivers impact your tax liability.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/income-tax-implications-of-loan-settlement-india",

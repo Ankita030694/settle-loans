@@ -17,7 +17,7 @@ const satoshi = localFont({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.settleloans.in"),
-  title: "Loan Settlement & Debt Relief Services | SettleLoans",
+  title: "Loan Settlement Services - Debt Relief & Legal Assistance in India",
   description: "Resolve personal loans, credit card dues, and recovery harassment with legal debt settlement and RBI-compliant advisory across India.",
   keywords: ["loan settlement", "debt settlement India", "debt relief services", "legal help for loan defaults", "bank loan settlement", "NPA settlement experts", "credit score improvement"],
   authors: [{ name: "SettleLoans" }],

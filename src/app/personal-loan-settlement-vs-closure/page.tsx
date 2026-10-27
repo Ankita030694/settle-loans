@@ -2,8 +2,8 @@ import { Metadata } from 'next';
 import PersonalLoanSettlementVsClosureClient from './PersonalLoanSettlementVsClosureClient';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement vs Loan Closure in CIBIL | SettleLoans',
-  description: 'Understand the difference between loan settlement vs loan closure in CIBIL. Compare credit score impact (-150 vs +40 pts), 7-year remarks.',
+  title: 'Loan Settlement vs Loan Closure CIBIL: Score Impact & Differences (2026)',
+  description: 'Understand the difference between loan settlement vs loan closure in CIBIL. Compare credit score impact (-150 vs +40 pts), 7-year remarks, RBI rules & recovery roadmap.',
   keywords: [
     'loan settlement vs loan closure cibil',
     'difference between loan settlement and loan closure',

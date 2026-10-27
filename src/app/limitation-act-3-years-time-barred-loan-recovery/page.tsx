@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery',
   },
   openGraph: {
-    title: '3-Year Limitation Act Loan Recovery | SettleLoans',
+    title: 'Limitation Act 3 Years for Bank Loan Recovery in India | Time-Barred Debt Defense',
     description: 'Understand the 3-year Limitation Act for bank loan recovery in India. Learn legal defenses against time-barred debts with SettleLoans.',
     url: 'https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery',
     siteName: 'SettleLoans',

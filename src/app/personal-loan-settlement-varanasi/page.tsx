@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-varanasi',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Varanasi | SettleLoans',
+    title: 'Personal Loan Settlement Lawyer in Varanasi: Legal Defense & OTS Advisory',
     description:
       'Learn how to settle personal loans legally in Varanasi. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-varanasi',

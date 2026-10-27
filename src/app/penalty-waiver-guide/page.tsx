@@ -5,8 +5,8 @@ import TableOfContents from '@/components/TableOfContents';
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Penalty Waiver Guide for Indian Borrowers | SettleLoans',
-  description: 'Guide to fighting unfair banking penalties. Learn how to use RBI guidelines to force lenders to waive unjust penal interest and late fees.',
+  title: 'Penalty Waiver Guide for Indian Borrowers | Stop Unfair Bank Charges',
+  description: 'The ultimate guide to fighting unfair banking penalties. Learn how to use the latest RBI guidelines to force banks to waive unjust penal interest and late fees.',
   alternates: {
     canonical: 'https://www.settleloans.in/penalty-waiver-guide',
   },

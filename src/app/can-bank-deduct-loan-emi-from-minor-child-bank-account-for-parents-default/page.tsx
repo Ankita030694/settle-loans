@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "Can Bank Deduct Loan EMI from Minor Child Account?",
+  title: "Can the Bank Deduct Loan EMI from a Minor Child's Bank Account?",
   description: "Learn if banks can legally deduct a parent's loan EMI from their minor child's savings account. Discover RBI rules on minor accounts and illegal deductions.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default",

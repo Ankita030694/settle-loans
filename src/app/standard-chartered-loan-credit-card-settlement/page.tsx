@@ -32,7 +32,7 @@ import {
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: 'Standard Chartered Loan & Credit Card Settlement',
+  title: 'Standard Chartered Loan & Credit Card Settlement: Central Hub Process & 40–65% Haircut (2026)',
   description: 'Exhaustive guide to Standard Chartered Bank credit card and personal loan settlement in India. Learn how to negotiate with the Central Collections Hub.',
   keywords: [
     'standard chartered credit card settlement',

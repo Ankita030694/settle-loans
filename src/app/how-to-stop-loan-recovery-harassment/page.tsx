@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 export const metadata: Metadata = {
-  title: "How to Stop Loan Recovery Harassment | SettleLoans",
+  title: "How to Stop Loan Recovery Harassment in India | RBI Guidelines 2026",
   description: 'Facing harassment from loan recovery agents? Learn how to stop illegal collection tactics using RBI guidelines and formal legal notices.',
   alternates: {
     canonical: "https://www.settleloans.in/how-to-stop-loan-recovery-harassment",
