@@ -299,7 +299,7 @@ export default function PersonalLoanSettlementBangaloreClient() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4 shadow-sm">
               <div className="flex items-center gap-2 pb-3 mb-3 border-b border-slate-200 text-slate-900 font-bold text-sm">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
@@ -504,7 +504,7 @@ export default function PersonalLoanSettlementBangaloreClient() {
                 </div>
                 <h3 className="text-lg sm:text-xl md:text-2xl font-black mb-2 text-white">
                   Bangalore Tech Corridor Loan Settlement &amp; Legal Defense Blueprint
-                </h2>
+                </h3>
                 <p className="text-xs sm:text-sm text-slate-300 max-w-2xl mx-auto mb-6">
                   A structured four-pillar institutional defense framework: from forensic audit and salary shielding to KSLSA Lok Adalat compromise awards and 40%–70% OTS debt waivers.
                 </p>
@@ -764,7 +764,7 @@ export default function PersonalLoanSettlementBangaloreClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Personal Loan Settlement Company Bangalore
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -905,7 +905,7 @@ export default function PersonalLoanSettlementBangaloreClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

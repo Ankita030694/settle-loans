@@ -391,7 +391,7 @@ export default function CheckCibilDefaulterListClient() {
               <div className="my-6">
                 <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
                   RBI Asset Classification &amp; CIBIL DPD Reporting Matrix
-                </h2>
+                </h3>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -545,7 +545,7 @@ export default function CheckCibilDefaulterListClient() {
                     </span>
                     <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       CIBIL Defaulter List Summary &amp; Process Overview
-                    </h2>
+                    </h3>
                   </div>
                 </div>
                 <a
@@ -696,7 +696,7 @@ export default function CheckCibilDefaulterListClient() {
             <section id="score-rebuilding-blueprint" className="scroll-mt-28 mb-12">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. The 18–24 Month Score Rebound Plan: Proven Steps to Restore 750+ CIBIL Score
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Experiencing a loan settlement or past default does not permanently end your financial future. Credit scoring algorithms operate on mathematical models that assign exponential weight to recent repayment behavior while discounting historical delinquency over time. By executing a disciplined credit rebuilding protocol, borrowers can systematically elevate their CIBIL score from sub-600 levels back into the prime 750+ range within 18 to 24 months:
               </p>
@@ -755,7 +755,7 @@ export default function CheckCibilDefaulterListClient() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50">
                   <h4 className="font-bold text-slate-900 text-sm mb-1">
                     Rule 2: Eliminate Multiple Hard Loan Inquiries
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Do not submit speculative loan applications across multiple bank websites. Each hard bureau inquiry reduces your score by 5 to 10 points and flags credit desperation.
                   </p>
@@ -778,7 +778,7 @@ export default function CheckCibilDefaulterListClient() {
             <section id="faqs" className="scroll-mt-28 mb-12">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Frequently Asked Questions (FAQ)
-              </h3>
+              </h2>
               <p className="text-sm md:text-base leading-relaxed mb-6 text-slate-600">
                 Authoritative answers to the most urgent legal, regulatory, and credit scoring questions regarding CIBIL default records in India.
               </p>
@@ -801,7 +801,7 @@ export default function CheckCibilDefaulterListClient() {
               <h3 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
-              </h4>
+              </h3>
               <ul className="space-y-2 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-[#1F5EFF] flex-shrink-0" />
@@ -932,7 +932,7 @@ export default function CheckCibilDefaulterListClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-5">
+          <aside className="w-full lg:sticky lg:top-24 space-y-5">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm">
               <div className="flex items-center gap-3 mb-3">

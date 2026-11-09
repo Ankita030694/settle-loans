@@ -480,7 +480,7 @@ export default function Page() {
           <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
 
             {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-            <aside className="w-full sticky top-24 space-y-4">
+            <aside className="w-full lg:sticky lg:top-24 space-y-4">
               <SidebarTOC items={tocItems} />
 
               {/* Quick Executive Case Crux Box */}
@@ -1075,7 +1075,7 @@ export default function Page() {
             </main>
 
             {/* Right Column: Author Bio, Emergency Advocate CTA, Trust Signals */}
-            <aside className="w-full sticky top-24 space-y-6">
+            <aside className="w-full lg:sticky lg:top-24 space-y-6">
               
               {/* Author Bio Card */}
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">

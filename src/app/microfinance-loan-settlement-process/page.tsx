@@ -499,7 +499,7 @@ export default function MicrofinanceLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -707,7 +707,7 @@ export default function MicrofinanceLoanSettlementPage() {
                     <span className="w-7 h-7 rounded-lg bg-blue-500/30 border border-blue-400/40 text-blue-200 text-xs font-black flex items-center justify-center">5</span>
                     <h3 className="font-bold text-base md:text-lg text-white">
                       Visual Blueprint: Microfinance Loan Settlement &amp; Vulnerable Borrower Protection
-                    </h2>
+                    </h3>
                   </div>
                   <a
                     href="/contact"
@@ -797,7 +797,7 @@ export default function MicrofinanceLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Compiling Bona Fide Hardship Documentation
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Assemble comprehensive documentary proof evidencing genuine, non-wilful financial distress. Critical documentation includes medical hospitalization discharge summaries, death certificates of primary earners, crop damage certificates from local revenue authorities, business trade closure records, or bank statements showing depleted liquidity.
                   </p>
@@ -808,7 +808,7 @@ export default function MicrofinanceLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Isolating the Account &amp; Establishing Written Communication
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Serve a formal written representation to the NBFC-MFI branch and regional headquarters directing that all future communication be conducted exclusively in writing or through designated legal counsel. This halts unannounced center-meeting disruptions and establishes an auditable legal trail.
                   </p>
@@ -819,7 +819,7 @@ export default function MicrofinanceLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting the Formal Hardship OTS Proposal
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Bypass local field collection agents who lack settlement discretion. Submit a formal One-Time Settlement petition directly to the MFI Stressed Asset Department and Principal Nodal Officer, proposing a realistic compromise figure (typically 35% to 50% of the core principal outstanding) backed by the hardship dossier.
                   </p>
@@ -830,7 +830,7 @@ export default function MicrofinanceLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Negotiating the Debt Haircut &amp; Demanding 100% Penalty Waivers
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Conduct structured negotiations with MFI regional credit authorities. Insist on a complete 100% waiver of all accumulated bounce charges, late payment fees, and penal interest under the RBI Fair Lending Practice framework, arriving at an agreed, discounted lump-sum or structured 2-to-3 installment settlement.
                   </p>
@@ -868,7 +868,7 @@ export default function MicrofinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Navigating Section 25 PSSA Notices, Arbitration &amp; National Lok Adalat Decrees
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 As microfinance defaults mature beyond 90 to 180 days, lending institutions routinely deploy formal legal procedures to accelerate recoveries. Understanding how to handle legal notices transforms procedural pressure into an opportunity for structured compromise:
               </p>
@@ -933,7 +933,7 @@ export default function MicrofinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Microfinance Settlement Letters &amp; Enforcing the ₹0 NDC Mandate
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A grave danger in rural and semi-urban microfinance recovery involves field collection agents or unauthorized third-party agencies issuing fake or verbal settlement assurances to collect partial payments. When a borrower deposits money without an authentic stamped sanction letter, the MFI core banking system automatically credits the funds toward overdue penal interest and bounce charges, leaving the principal balance active, compounding, and in default.
               </p>
@@ -967,7 +967,7 @@ export default function MicrofinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Credit Bureau Trajectory Post-Settlement &amp; 18-Month Financial Rehabilitation Plan
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following the execution of an OTS, the microfinance institution reports the updated account status to all four authorized credit bureaus in India—TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. The loan status transitions from active &apos;Default&apos; or &apos;Written-Off&apos; to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-Off Settled&apos;</strong>, with the outstanding ledger balance reduced to exactly <strong>₹0</strong>.
               </p>
@@ -1016,7 +1016,7 @@ export default function MicrofinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Vulnerable Microfinance &amp; JLG Borrowers Choose SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving defaulted microfinance and Joint Liability Group loans requires specialized regulatory expertise, aggressive anti-harassment legal advocacy, and direct access to NBFC-MFI Stressed Asset Management committees. SettleLoans shields vulnerable borrowers from coercive recovery tactics, halts community shaming, defends against Section 25 notices and arbitration summons, and negotiates authentic stamped One-Time Settlements with maximum principal waivers and guaranteed ₹0 No Dues Certificates.
               </p>
@@ -1035,7 +1035,7 @@ export default function MicrofinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Microfinance &amp; JLG Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1196,7 +1196,7 @@ export default function MicrofinanceLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

@@ -252,7 +252,7 @@ export default function PersonalBankruptcyIndia() {
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
                   <h4 className="font-black text-[#1F5EFF] text-lg mb-3 flex items-center gap-2">
                     <FileText className="w-5 h-5" /> Gross Income Limit
-                  </h3>
+                  </h4>
                   <p className="text-gray-700">Your gross annual income cannot exceed ₹60,000.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -331,7 +331,7 @@ export default function PersonalBankruptcyIndia() {
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
                 <h3 className="text-xl font-black text-red-700 mb-4 flex items-center gap-2">
                   <AlertTriangle className="w-6 h-6" /> The Brutal Reality of Bankruptcy in India
-                </h4>
+                </h3>
                 <ul className="space-y-4 text-red-900 text-lg">
                   <li className="flex items-start gap-3">
                     <Check className="w-6 h-6 text-red-500 flex-shrink-0 mt-0.5" />

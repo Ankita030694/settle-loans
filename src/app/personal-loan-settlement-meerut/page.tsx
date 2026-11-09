@@ -478,7 +478,7 @@ export default function Page() {
           <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
 
             {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-            <aside className="w-full sticky top-24 space-y-4">
+            <aside className="w-full lg:sticky lg:top-24 space-y-4">
               <SidebarTOC items={tocItems} />
 
               {/* Quick Executive Case Crux Box */}
@@ -867,7 +867,7 @@ export default function Page() {
                   </div>
                   <h3 className="text-xl sm:text-2xl font-black text-slate-900 mb-3 leading-tight">
                     Premier Loan Settlement &amp; Legal Defense Advocates in Meerut
-                  </h2>
+                  </h3>
                   <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                     Facing debt stress, agent calls. And court notices in Meerut and Ghaziabad requires strong legal defense. SettleLoans stops recovery harassment under RBI rules. We defend you in Meerut Civil Lines Court and negotiate with bank Zonal teams for complete debt relief.
                   </p>
@@ -884,7 +884,7 @@ export default function Page() {
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Meerut
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Meerut can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -1065,7 +1065,7 @@ export default function Page() {
             </main>
 
             {/* Right Column: Author Bio, Emergency Advocate CTA, Trust Signals */}
-            <aside className="w-full sticky top-24 space-y-6">
+            <aside className="w-full lg:sticky lg:top-24 space-y-6">
               
               {/* Author Bio Card */}
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">

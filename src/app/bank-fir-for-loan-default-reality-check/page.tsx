@@ -545,7 +545,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
                 <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Scale className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Landmark Supreme Court Jurisprudence</span>
-                </h2>
+                </h3>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Hridaya Ranjan Prasad Verma v. State of Bihar (2000) 4 SCC 168</p>
@@ -752,7 +752,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
             <section id="recovery-mechanism-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution Comparative Matrix: Recovery Mechanisms in India
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The following comparative table illustrates the jurisdictional boundaries, procedural timelines, and realistic borrower exposure across various dispute resolution avenues in Indian banking practice:
               </p>

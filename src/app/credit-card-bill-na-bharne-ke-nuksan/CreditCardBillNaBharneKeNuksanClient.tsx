@@ -298,7 +298,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -685,7 +685,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                   <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
                     <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Advocate Legal Demand Notice (Contractual Recall)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
                     A standard 15-day or 30-day demand notice demanding repayment of total card dues plus compounded interest. It is a pre-litigation communication, not a court order. Responding through specialized legal counsel highlighting genuine financial hardship establishes documentary evidence for future compromise negotiations.
                   </p>
@@ -695,7 +695,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                   <h4 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 PSSA Notices (Auto-Debit / NACH Dishonour)</span>
-                  </h2>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
                     If you set up an electronic NACH auto-debit for your credit card bill that bounced due to insufficient funds, banks may issue a notice under Section 25 of the Payment and Settlement Systems Act (PSSA), 2007. This is a quasi-criminal bailable proceeding handled in Metropolitan Magistrate Courts that is routinely compounded and dismissed through compromise settlement.
                   </p>
@@ -705,7 +705,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                   <h4 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
                     <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Order 37 CPC Summary Suits &amp; DRT Pecuniary Limits</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
                     Under the Recovery of Debts and Bankruptcy Act (RDB Act), 1993, banks cannot approach the Debt Recovery Tribunal (DRT) for debts below <strong>₹20 Lakhs</strong>. Because virtually all individual credit card balances fall below ₹20 Lakhs, banks are restricted to local Civil Courts under Order 37 of the Code of Civil Procedure (CPC), where court fees (typically 5% to 8% ad-valorem) and 4 to 7 years of judicial delays make litigation economically unviable for the bank.
                   </p>
@@ -835,7 +835,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Impact &amp; Credit Rehabilitation: Rebuilding to 750+ After Settlement
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a credit card settlement results in your credit report status updating to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-Off Settled&apos;</strong> with an outstanding ledger balance of ₹0. While this causes a temporary credit score drop of 75 to 120 points and creates a cooling-off window for unsecured loan applications, it immediately terminates compounding default flags, monthly DPD escalation, and legal collection proceedings.
               </p>
@@ -884,7 +884,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Credit Card Default &amp; Debt Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -904,7 +904,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -962,7 +962,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Credit Card &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/how-to-settle-credit-card-debt"
@@ -1029,7 +1029,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

@@ -559,7 +559,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                 <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Scale className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Landmark Supreme Court Rulings on Co-Extensive Liability</span>
-                </h2>
+                </h3>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">State Bank of India v. Indexport &amp; Ors. (1992) 3 SCC 159</p>
@@ -793,7 +793,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
             <section id="comparative-liability-matrix" className="space-y-4">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
                 9. Legal Matrix: Borrower vs Co-Applicant vs Personal Guarantor
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The following comparative matrix outlines the jurisdictional liabilities, statutory exposure, and settlement protections across different borrower classifications in Indian retail lending:
               </p>

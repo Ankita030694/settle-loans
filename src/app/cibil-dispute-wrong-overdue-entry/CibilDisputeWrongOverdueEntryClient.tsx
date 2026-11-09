@@ -395,7 +395,7 @@ export default function CibilDisputeWrongOverdueEntryClient() {
               <div className="my-6">
                 <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
                   CIBIL Error Classification &amp; Evidence Matrix
-                </h2>
+                </h3>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -495,7 +495,7 @@ export default function CibilDisputeWrongOverdueEntryClient() {
                     </span>
                     <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       CIBIL Dispute Resolution Summary &amp; Process Overview
-                    </h2>
+                    </h3>
                   </div>
                 </div>
                 <a
@@ -656,7 +656,7 @@ export default function CibilDisputeWrongOverdueEntryClient() {
             <section id="rebuilding-cibil-score" className="scroll-mt-28 mb-12">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Post-Rectification Credit Score Reconstruction Blueprint
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Once TransUnion CIBIL concludes the dispute investigation and updates the erroneous overdue entry to &quot;Closed&quot; or &quot;Zero Overdue,&quot; your credit score will begin an immediate upward trajectory. However, fully restoring your score to prime territory (750+) requires deliberate financial management over the subsequent 6 to 12 months.
               </p>
@@ -675,7 +675,7 @@ export default function CibilDisputeWrongOverdueEntryClient() {
             <section id="faqs" className="scroll-mt-28 mb-12">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 11. Frequently Asked Questions (FAQ)
-              </h3>
+              </h2>
               <p className="text-sm md:text-base leading-relaxed mb-6 text-slate-600">
                 Authoritative answers to the most common procedural, technical, and regulatory questions regarding CIBIL dispute resolution in India.
               </p>
@@ -829,7 +829,7 @@ export default function CibilDisputeWrongOverdueEntryClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-5">
+          <aside className="w-full lg:sticky lg:top-24 space-y-5">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm">
               <div className="flex items-center gap-3 mb-3">

@@ -302,7 +302,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4 shadow-sm">
               <div className="flex items-center gap-2 pb-3 mb-3 border-b border-slate-200 text-slate-900 font-bold text-sm">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
@@ -486,7 +486,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <h3 className="text-base font-bold text-blue-400 mb-2 flex items-center gap-2">
                   <Calculator className="w-5 h-5 text-[#1F5EFF]" />
                   <span>The NBFC Net Present Value (NPV) Settlement Equation</span>
-                </h2>
+                </h3>
                 <div className="p-3.5 bg-slate-800 rounded-xl font-mono text-xs sm:text-sm text-emerald-400 border border-slate-700 mb-3">
                   NPV Recovery = (Estimated Court Realization - Advocate Fees - Collection Cost) / (1 + Cost of Funds)^Time (Years)
                 </div>
@@ -557,7 +557,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Bajaj Finance Personal Loan Settlement &amp; Defense Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -637,7 +637,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Financial Audit &amp; Hardship Compilation
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Assemble verifiable evidence of involuntary financial disruption, including severance letters, medical treatment records, or audited loss statements. Consecutive bank statements showing depleted liquidity prove default is non-wilful.
                   </p>
@@ -648,7 +648,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking NACH Mandates &amp; Channeling notice
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Stop NACH debit presentations at your bank to eliminate return charges. Direct all settlement discussions in writing to Bajaj Finance&apos;s Zonal Stressed Assets Desk.
                   </p>
@@ -659,7 +659,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Hardship Representation
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a structured OTS petition citing the RBI Master Direction on Compromise Settlements. Anchor an opening settlement offer at 25% to 35% of total ledger dues.
                   </p>
@@ -708,7 +708,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Section 25 PSSA Notices, Arbitration & Lok Adalat
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a personal loan crosses 60 to 90 days of default, Bajaj Finance issues statutory demand notices. These notices fall under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates. The lender may also dispatch notices invoking private arbitration.
               </p>
@@ -772,7 +772,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Bajaj Settlement Letters & Enforcing NDC
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A major hazard in retail debt recovery involves rogue collection agents issuing unverified settlement letters to collect partial payments. If funds are paid against an unauthorized letter, Bajaj Finance credits the money toward accumulated penal interest, leaving the core default open.
               </p>
@@ -792,7 +792,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory & 18-Month Recovery Plan
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Completing a settlement with Bajaj Finance leads to the account being reported to all credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) as <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points.
               </p>
@@ -812,7 +812,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Bajaj Finance Borrowers Trust SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Negotiating a debt settlement with an automated, aggressive lender like Bajaj Finance requires experienced legal defense. SettleLoans halts collection harassment through formal cease-and-desist notices, defends against Section 25 PSSA notices, and negotiates directly with Bajaj Finance&apos;s Zonal Stressed Assets Committees to achieve maximum lawful debt waivers.
               </p>
@@ -831,7 +831,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Bajaj Finance Personal Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -983,7 +983,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

@@ -406,7 +406,7 @@ export default function PersonalLoanLegalNoticeClient() {
                   <h3 className="text-base font-bold text-blue-900 flex items-center gap-2 mb-1">
                     <FileText className="w-5 h-5 text-[#1F5EFF]" />
                     1. Pure Civil Loan Default (Zero Jail Risk)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-blue-800 leading-relaxed">
                     When you fail to pay your EMIs on an unsecured personal loan, credit card, or digital lending app, the lender&apos;s remedy is purely civil: classifying the account as an NPA, reporting the delinquency to CIBIL/Experian, and filing a civil recovery suit or initiating arbitration. The police have <strong>zero statutory authority</strong> to register an FIR, summon you to a police station, or execute an arrest for civil default.
                   </p>
@@ -416,7 +416,7 @@ export default function PersonalLoanLegalNoticeClient() {
                   <h3 className="text-base font-bold text-amber-900 flex items-center gap-2 mb-1">
                     <Scale className="w-5 h-5 text-amber-600" />
                     2. Section 138 NI Act &amp; Section 25 PSS Act (Quasi-Criminal &amp; Bailable)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-amber-800 leading-relaxed">
                     If you issued physical post-dated security cheques that bounced for &quot;Funds Insufficient&quot; (Section 138 of the Negotiable Instruments Act, 1881) or an automated e-NACH mandate failed (Section 25 of the Payment and Settlement Systems Act, 2007), the bank can file a private complaint before a Judicial Magistrate. However, these are <strong>bailable and compoundable</strong> summary offences. You receive a court summons (not an immediate arrest warrant). You appear through your advocate, secure bail on the spot, and can compound or settle the matter without going to jail.
                   </p>
@@ -426,7 +426,7 @@ export default function PersonalLoanLegalNoticeClient() {
                   <h3 className="text-base font-bold text-rose-900 flex items-center gap-2 mb-1">
                     <ShieldAlert className="w-5 h-5 text-rose-600" />
                     3. Criminal Fraud / Cheating (Section 420 IPC / Section 318 BNS) — Myth vs. Fact
-                  </h2>
+                  </h3>
                   <p className="text-sm text-rose-800 leading-relaxed">
                     Recovery agents frequently send fake notices alleging &quot;Section 420 / 406 IPC Cheating &amp; Criminal Breach of Trust&quot;. For criminal cheating to stand in court, the prosecution must establish that the borrower harboured <em>fraudulent intent at the very moment of taking the loan</em> (e.g., submitting fake salary slips, forged PAN cards, or fictitious employer details). If you serviced several initial EMIs and defaulted later due to legitimate job loss, salary cuts, or medical crisis, courts routinely dismiss criminal complaints as an abuse of judicial process.
                   </p>
@@ -438,7 +438,7 @@ export default function PersonalLoanLegalNoticeClient() {
             <div className="my-8">
               <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 Legal Classification: Loan Default vs. Cheque Bounce vs. Criminal Fraud
-              </h2>
+              </h3>
               <div className="overflow-x-auto">
                 <table>
                   <thead>
@@ -502,7 +502,7 @@ export default function PersonalLoanLegalNoticeClient() {
                     </span>
                     <h3 className="text-lg font-bold text-slate-900">
                       Bank Demand Notice / Loan Recall Notice
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed mb-3">
                     <strong>What it is:</strong> A formal civil notice issued either directly by the bank&apos;s Stressed Asset Resolution Branch (SARB) or through an empanelled advocate. It states that due to continuous default across 90+ days (NPA status), the bank is terminating the loan agreement, accelerating the total balance, and demanding payment of the entire principal plus interest within 7 to 15 days.
@@ -520,7 +520,7 @@ export default function PersonalLoanLegalNoticeClient() {
                     </span>
                     <h3 className="text-lg font-bold text-slate-900">
                       Section 138 Negotiable Instruments Act Notice (Cheque Bounce)
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed mb-3">
                     <strong>What it is:</strong> A mandatory statutory notice served within 30 days of a physical cheque being returned unpaid by the bank. By law, the lender must provide you with exactly <strong>15 days from the date of notice receipt</strong> to make good the cheque amount.
@@ -649,7 +649,7 @@ export default function PersonalLoanLegalNoticeClient() {
             <section id="genuine-vs-fake-notice" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. Genuine Bank Legal Notice vs. Fake Recovery Agent Notice
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 In India&apos;s retail lending ecosystem, aggressive collection agencies frequently commit criminal forgery by drafting fictitious &quot;Legal Notices&quot;, &quot;Court Summons&quot;, or &quot;Police Arrest Warrants&quot; and sending them over WhatsApp or email to intimidate borrowers.
               </p>
@@ -672,7 +672,7 @@ export default function PersonalLoanLegalNoticeClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Clock className="w-5 h-5 text-[#1F5EFF]" />
                     Check 2: Delivery Mode (Physical Speed Post vs. WhatsApp Blast)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Under Indian Evidence Act and Civil Procedure Code, valid legal service requires delivery via <strong>Registered Post AD, India Post Speed Post with tracking number</strong>, or formal email from an institutional domain. A poorly formatted WhatsApp message or image without postal proof is rarely accepted by courts as valid statutory service.
                   </p>
@@ -682,7 +682,7 @@ export default function PersonalLoanLegalNoticeClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <ShieldAlert className="w-5 h-5 text-rose-600" />
                     Check 3: Absence of Fabricated Police or Court Emblems
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     It is a criminal offence under the State Emblem of India (Prohibition of Improper Use) Act, 2005 for private parties to use the Ashoka Lion emblem, &quot;Ministry of Home Affairs&quot;, or &quot;Crime Branch Police&quot; stamps on recovery notices. If a notice carries police logos or claims &quot;Immediate 2-Hour Arrest Warrant Issued&quot;, it is <strong>100% fraudulent</strong>.
                   </p>
@@ -692,7 +692,7 @@ export default function PersonalLoanLegalNoticeClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Landmark className="w-5 h-5 text-amber-600" />
                     Check 4: Payment Destination (Loan Account vs. Personal UPI ID)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     A genuine bank notice strictly instructs you to deposit overdue funds into your <strong>specific loan account number</strong> at the authorized bank branch or official net banking portal. Fake notices urge you to transfer money to personal UPI handles (e.g., <em>collection.officer@okaxis</em>) or offer cash pick-up.
                   </p>
@@ -702,7 +702,7 @@ export default function PersonalLoanLegalNoticeClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Scale className="w-5 h-5 text-indigo-600" />
                     Check 5: Realistic Accounting &amp; Ledger Itemization
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     An authentic notice itemizes the exact principal disbursed, total EMIs paid, outstanding principal, contractual interest, and penal charges. Fraudulent notices present arbitrary, inflated round figures (e.g., demanding ₹15 Lakhs on a ₹4 Lakh loan) with zero mathematical breakdown.
                   </p>
@@ -712,7 +712,7 @@ export default function PersonalLoanLegalNoticeClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Gavel className="w-5 h-5 text-purple-600" />
                     Check 6: Reasonable Statutory Notice Period (15–30 Days vs. &quot;24 Hours&quot;)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     The law mandates a fair opportunity to cure the default, giving 15 to 30 days. Recovery notices claiming &quot;Pay within 2 hours or police team will visit your home/office&quot; are coercive scare tactics that violate the RBI Fair Practices Code.
                   </p>
@@ -724,7 +724,7 @@ export default function PersonalLoanLegalNoticeClient() {
             <section id="reply-procedure-and-timeline" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Action Plan: Legally Replying to a Loan Notice in 15-30 Days
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Receiving a genuine legal notice requires swift, structured action. The single worst mistake a borrower can make is ignoring the notice. When a notice goes unanswered, the bank&apos;s counsel argues before the court that the borrower had no defense and admitted to all allegations.
               </p>
@@ -905,7 +905,7 @@ export default function PersonalLoanLegalNoticeClient() {
             <section id="settlement-after-legal-notice" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Negotiating a Bank OTS After Receiving a Legal Notice
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A widespread misconception is that once a bank issues a legal notice, compromise settlement is off the table. The reality is precisely the opposite: <strong>a legal notice is the bank&apos;s strongest signal that they are ready to settle</strong>.
               </p>
@@ -917,7 +917,7 @@ export default function PersonalLoanLegalNoticeClient() {
                 <h3 className="text-[#1F5EFF] font-bold text-base flex items-center gap-2 mb-2">
                   <Award className="w-5 h-5" />
                   THE SETTLEMENT FORMULA POST LEGAL NOTICE:
-                </h4>
+                </h3>
                 <ul className="text-sm text-slate-700 space-y-2 list-disc list-inside">
                   <li>
                     <strong>Step 1:</strong> Reply to the notice through your advocate, asserting your legal defense and requesting a detailed NPA statement of account.
@@ -939,7 +939,7 @@ export default function PersonalLoanLegalNoticeClient() {
             <div className="my-8">
               <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 Litigating in Court vs. Negotiating an Amicable OTS Settlement
-              </h4>
+              </h3>
               <div className="overflow-x-auto">
                 <table>
                   <thead>
@@ -979,7 +979,7 @@ export default function PersonalLoanLegalNoticeClient() {
             <section id="borrower-rights-rbi-supreme-court" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Borrower Rights Under RBI Directives & SC Judgments
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Indian law provides robust statutory safeguards to protect debtors from predatory intimidation and unconstitutional coercion. When dealing with a bank legal notice, you possess several enforceable rights:
               </p>
@@ -990,7 +990,7 @@ export default function PersonalLoanLegalNoticeClient() {
                   <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                     1. RBI Master Direction on Fair Practices Code (FPC)
-                  </h4>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Under RBI circulars, banks and NBFC recovery agents are strictly prohibited from: calling borrowers before 8:00 AM or after 7:00 PM; contacting friends, family, or workplace colleagues; making anonymous threats; or visiting residences without prior written appointment. Violation invites strict regulatory action under the <strong>Integrated Ombudsman Scheme, 2021</strong>.
                   </p>
@@ -1022,7 +1022,7 @@ export default function PersonalLoanLegalNoticeClient() {
             <section id="reply-format-and-clauses" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Legal Reply Checklist & Essential Rebuttal Clauses
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 When your advocate prepares a formal legal reply to a personal loan notice, ensuring that specific statutory clauses are incorporated protects you against future criminal claims and strengthens your settlement stance.
               </p>
@@ -1031,7 +1031,7 @@ export default function PersonalLoanLegalNoticeClient() {
                 <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
                   <FileText className="w-5 h-5 text-[#1F5EFF]" />
                   Mandatory Legal Clauses to Include in Your Notice Reply:
-                </h4>
+                </h3>
                 <ol className="list-decimal list-inside space-y-3 text-sm md:text-base text-slate-700">
                   <li>
                     <strong>Specific Denial of Criminal Intent (Bona Fide Intent):</strong> Rebut any mention of Section 420 IPC / Section 318 BNS by documenting that the borrower serviced initial EMIs diligently, thereby establishing absence of <em>mens rea</em> (guilty mind) at the loan inception.
@@ -1058,7 +1058,7 @@ export default function PersonalLoanLegalNoticeClient() {
             <section id="faqs" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Frequently Asked Questions (FAQ)
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-8 text-slate-600">
                 Instant answers to the most critical legal, court, and settlement questions regarding personal loan notices in India.
               </p>
@@ -1081,7 +1081,7 @@ export default function PersonalLoanLegalNoticeClient() {
               <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1212,7 +1212,7 @@ export default function PersonalLoanLegalNoticeClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

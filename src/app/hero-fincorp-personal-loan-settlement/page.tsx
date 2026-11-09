@@ -475,7 +475,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -720,7 +720,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                       </span>
                       <h3 className="text-xs sm:text-sm font-black text-white leading-tight">
                         Hero FinCorp Personal Loan Settlement &amp; Legal Defense Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -946,7 +946,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 Why Distressed Hero FinCorp Borrowers Trust SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 SettleLoans provides legal defense and debt relief for defaulted Hero FinCorp loans. Our advocates stop agent harassment, answer Section 25 notices, and negotiate directly with SARB credit desks for top debt waivers and ₹0 No Dues Certificates.
               </p>
@@ -1068,7 +1068,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-5">
+          <aside className="w-full lg:sticky lg:top-24 space-y-5">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm">
               <div className="flex items-center gap-3 mb-3">

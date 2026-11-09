@@ -861,7 +861,7 @@ export default function Order37SummarySuitDefensePage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Bureau Status &amp; Post-Litigation Credit Rebuilding
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following the compromise disposal of the summary suit, the bank updates the credit bureau record:
               </p>
@@ -885,7 +885,7 @@ export default function Order37SummarySuitDefensePage() {
             <section id="summary-suit-resolution-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Order 37 Summary Suit Defense vs Alternate Resolution Matrix
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the legal pathways available upon receiving an Order 37 summary recovery summons allows borrowers to make an informed, risk-adjusted decision:
               </p>

@@ -244,7 +244,7 @@ export default function LoanSettlementCalculatorClient() {
                                             <p className="text-[#747474] font-black uppercase tracking-widest text-xs mb-4">Targeted Settlement Window</p>
                                             <h3 className="text-4xl md:text-5xl font-black text-[#1F5EFF] mb-2 leading-none">
                                                 ₹{result.lower.toLocaleString('en-IN')}
-                                            </h2>
+                                            </h3>
                                             <div className="w-10 h-1 bg-[#DEDEDE] mx-auto my-3"></div>
                                             <h3 className="text-4xl md:text-5xl font-black text-[#2E2E2E] leading-none mb-6">
                                                 ₹{result.upper.toLocaleString('en-IN')}
@@ -264,7 +264,7 @@ export default function LoanSettlementCalculatorClient() {
                         <section id="math-of-settlement" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Decoding the <span className="text-[#1F5EFF]">Mathematics of Loan Settlement</span>
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 To successfully negotiate a debt resolution, you must first understand how the bank views your file from a mathematical perspective. Behind every recovery agent's call and every demand notice lies a balance sheet where your loan is no longer an asset but a liability. In the banking world, once a loan crosses the 90-day threshold of non-repayment, it is classified as a Non-Performing Asset (NPA).
                             </p>

@@ -163,7 +163,7 @@ export default function JointLoanSettlementPage() {
                                 <h3 className="text-lg font-bold text-red-900 mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faTriangleExclamation} />
                                     The "Shared Ruin" Warning
-                                </h2>
+                                </h3>
                                 <p className="text-red-800">
                                     In a joint loan, there is no such thing as "my half" and "your half". In the bank's eyes, you are both 100% liable for the 100% amount. If you settle your "portion" but your co-borrower defaults on the rest, you are still legally trapped.
                                 </p>
@@ -555,7 +555,7 @@ export default function JointLoanSettlementPage() {
                         <section id="faqs" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Frequently Asked Questions: Joint Loan Settlements
-                            </h3>
+                            </h2>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can one co-borrower settle without the other's consent?", a: "Legally, yes. However, the bank is unlikely to offer a full account closure if one party is missing. You will likely only get a 'Partial Settlement' which doesn't protect your CIBIL score from further damage by the other party's default." },

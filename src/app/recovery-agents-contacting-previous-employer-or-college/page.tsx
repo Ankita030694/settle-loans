@@ -621,7 +621,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Criminal Defamation (Section 499 &amp; 500 IPC / Section 356 BNS 2023)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Telling ex-bosses or professors about a debt harms reputation. It is punishable with up to 2 years in prison.
                   </p>
@@ -630,7 +630,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-purple-600" />
                     <span>Doctrine of Privity of Contract (Indian Contract Act, 1872)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Section 2(h), a loan binds only the lender and borrower. Past employers have zero legal duty for your debt.
                   </p>
@@ -980,7 +980,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Digital Personal Data Protection Act, 2023 (DPDP Act, Section 5, 6, 8 &amp; 33)</span></span>
                 <a
@@ -1018,7 +1018,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-sending-legal-notice-to-employer-illegal-recovery"

@@ -639,7 +639,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Criminal Intimidation (Section 503 &amp; 506 IPC / Section 351 BNS)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Threatening a borrower or their family with harm or public shaming is a crime under Sections 503 and 506 IPC (Section 351 BNS). It carries up to seven years in prison for severe threats.
                   </p>
@@ -648,7 +648,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Volume2 className="w-4 h-4 text-purple-600" />
                     <span>Public Nuisance &amp; Domestic Peace Breach (Section 268 &amp; 290 IPC / Section 270 BNS)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Shouting loudly in apartment buildings and disturbing neighbors is a crime under Sections 268 and 290 IPC (Section 270 BNS) for breach of public peace.
                   </p>
@@ -657,7 +657,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <HeartHandshake className="w-4 h-4 text-rose-600" />
                     <span>Insulting Modesty of Women (Section 509 IPC / Section 79 BNS)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Using foul language or aggressive gestures toward women in the house violates Section 509 IPC (Section 79 BNS). It carries up to three years in prison.
                   </p>
@@ -897,7 +897,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 CIBIL Bureau Reporting Trajectory &amp; Credit Rehabilitation
-              </h4>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 After settlement, the bank marks your credit report as <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with a current balance of <strong>₹0</strong>. Your score may drop by 70 to 120 points initially. However, it stops further fines and ends collection calls. Using a secured card and making on-time payments will restore your credit score above 750 in 18 to 24 months.
               </p>
@@ -1004,7 +1004,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Juvenile Justice Act, 2015 (Section 75 Child Cruelty &amp; Trauma)</span></span>
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Penal Code / Bharatiya Nyaya Sanhita (Trespass &amp; Intimidation)</span></span>
@@ -1042,7 +1042,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

@@ -478,7 +478,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -742,7 +742,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         HDFC Credila Education Loan Settlement &amp; Co-Borrower Protection Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -999,7 +999,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed HDFC Credila Borrowers Trust SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling a Credila loan takes good math, legal skill, and firm talks. SettleLoans halts agent abuse against parents with legal notices. We defend Section 138 and Section 25 notices. We also pause SARFAESI claims. We talk directly with Credila Credit Desks to get top debt waivers and ₹0 No Dues Certificates.
               </p>
@@ -1177,7 +1177,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

@@ -603,7 +603,7 @@ export default function PoliceStationCallForLoanDefaultPage() {
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <FileWarning className="w-4 h-4 text-red-500" />
                     <span>Red Flag 1: Forged Emblems &amp; Incoherent Legal Jargon</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Fake notices frequently copy low-resolution state police logos, national emblems, or Ministry of Home Affairs crests. They combine contradictory legal phrases such as <em>&quot;Section 420 Non-Bailable Arrest Warrant issued by Cyber Crime Branch under Banking Ombudsman Act&quot;</em>. Police departments cannot issue court arrest warrants, and the Banking Ombudsman has zero criminal jurisdiction.
                   </p>
@@ -612,7 +612,7 @@ export default function PoliceStationCallForLoanDefaultPage() {
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <AlertTriangle className="w-4 h-4 text-amber-500" />
                     <span>Red Flag 2: WhatsApp Delivery Without Speed Post or Registered Mail</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Legitimate judicial summonses and statutory police notices under Section 41A CrPC must be formally served in physical writing by an assigned process server or sent via registered Speed Post with an official acknowledgment card. Real police officers never send informal PDF attachments via disposable prepaid mobile numbers on WhatsApp.
                   </p>
@@ -621,7 +621,7 @@ export default function PoliceStationCallForLoanDefaultPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <PhoneOff className="w-4 h-4 text-blue-500" />
                     <span>Red Flag 3: Urgent Settlement Demands via UPI or Private QR Codes</span>
-                  </h2>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the caller or message demands that you transfer funds immediately to a personal UPI ID, a third-party gateway, or a virtual account to <em>&quot;quash the arrest warrant&quot;</em>, you are experiencing pure criminal extortion. Police officers and courts never accept commercial loan settlements over UPI.
                   </p>
@@ -630,7 +630,7 @@ export default function PoliceStationCallForLoanDefaultPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <Building2 className="w-4 h-4 text-purple-500" />
                     <span>Red Flag 4: Territorial Jurisdiction Absurdities</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     A borrower residing in Bengaluru will receive a threat call from an alleged <em>&quot;Rohini Crime Branch Police Station in Delhi&quot;</em> or <em>&quot;Khar Police Station in Mumbai&quot;</em>. Under Section 177 CrPC, criminal inquiries can only be initiated within the local jurisdiction where the alleged cause of action arose. A distant police station cannot initiate proceedings for an unsecured loan taken locally.
                   </p>
@@ -769,7 +769,7 @@ export default function PoliceStationCallForLoanDefaultPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <span className="w-5 h-5 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs">1</span>
                     <span>Demand Full Police Credentials &amp; Station Landline</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Ask the caller for their full name, rank/designation, Police General Diary (GD) number, posting station, and official government landline number. Impersonators will evade these specific questions, turn abusive, or abruptly disconnect the call.
                   </p>
@@ -811,7 +811,7 @@ export default function PoliceStationCallForLoanDefaultPage() {
             <section id="filing-criminal-extortion-complaints" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Filing Criminal Extortion Complaints (IPC / BNS) &amp; RBI Ombudsman Actions
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a recovery agent impersonates a police officer or threatens arrest, they cross the boundary from aggressive civil collection into active criminal offenses. Borrowers hold the legal power to initiate criminal and regulatory proceedings against both the individual agent and the lending institution under the following statutory provisions:
               </p>
@@ -873,14 +873,14 @@ export default function PoliceStationCallForLoanDefaultPage() {
             <section id="remittance-rbi-ndc-mandate-cibil" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Loan Remittance Protocols, RBI No Dues Certificate (NDC) Mandate &amp; CIBIL Bureau Restoration
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once advocate representation halts police impersonation threats and transitions the dispute into legitimate One-Time Settlement (OTS) negotiations, executing the settlement cleanly is essential to prevent future disputes.
               </p>
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Five Golden Rules for Safe Settlement Remittance
-              </h4>
+              </h3>
               <ul className="space-y-2 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2">
                   <BadgePercent className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -909,7 +909,7 @@ export default function PoliceStationCallForLoanDefaultPage() {
             <section id="harassment-defense-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Harassment Response &amp; Dispute Resolution Comparative Matrix
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A comparative evaluation of borrower response strategies highlights why legal advocate defense delivers superior protection compared to unrepresented panic:
               </p>
@@ -1012,7 +1012,7 @@ export default function PoliceStationCallForLoanDefaultPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Penal Code (Sections 170, 384, 419 &amp; 506) / BNS</span></span>
                 <a
@@ -1058,7 +1058,7 @@ export default function PoliceStationCallForLoanDefaultPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Anti-Harassment Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/can-i-go-to-jail-for-loan-default"

@@ -388,7 +388,7 @@ export default function LegalRisksLoanDefaultPage() {
                                 <h3 className="text-lg font-bold text-red-900 mb-4 flex items-center">
                                     <svg className="w-5 h-5 mr-3 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3"></path></svg>
                                     The 2024 Legal Landscape
-                                </h2>
+                                </h3>
                                 <p className="text-red-800">
                                     In 2024 and 2025, the Reserve Bank of India (RBI) has further strengthened the regulatory framework, mandating that lenders follow "fair practices" while ensuring they have robust mechanisms to recover Non-Performing Assets (NPAs). Ignoring the law is no longer an option for the modern borrower.
                                 </p>
@@ -535,7 +535,7 @@ export default function LegalRisksLoanDefaultPage() {
                                     <h3 className="font-black text-xl mb-3 flex items-center">
                                         <svg className="w-5 h-5 mr-3 text-[#1F5EFF]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                                         Right to Notice
-                                    </h2>
+                                    </h3>
                                     <p>You have the constitutional right to be informed. Banks cannot suddenly take your property or file a case without sending at least one formal notice.</p>
                                 </div>
                                 <div>
@@ -625,7 +625,7 @@ export default function LegalRisksLoanDefaultPage() {
                         <section id="court-summons" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Managing Court Summons: A Practical Checklist
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 Never ignore 'Bailable Warrants'. Scan the QR code on your summons. Draft a 'Written Statement' (WS) that focuses on the bank's procedural failures rather than just your inability to pay.
                             </p>
@@ -634,7 +634,7 @@ export default function LegalRisksLoanDefaultPage() {
                         <section id="future-impact" className="scroll-mt-32 mb-16 text-justify">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Impact of a Legal Battle on Your Future
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 Legal battles are expensive and mentally draining. Professional legal fees can sometimes exceed the settlement savings. This is why 90% of banking cases end in a 'Compromise Settlement'. The goal is a 'Win-Win' where the account is closed and everyone moves on.
                             </p>

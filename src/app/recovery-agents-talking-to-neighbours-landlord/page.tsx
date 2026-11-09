@@ -590,21 +590,21 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Criminal Trespass (Section 329 BNS 2023 / Section 441 &amp; 447 IPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Entering apartment buildings without consent. or staying to insult residents, is criminal trespass punishable by jail.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-purple-600" />
                     <span>Criminal Intimidation &amp; Extortion (Section 351 &amp; 308 BNS / Sections 503, 506 &amp; 384 IPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Threatening a debtor with eviction or social shame to force payment is criminal threats and extortion under Indian law.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-blue-500 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Building className="w-4 h-4 text-blue-600" />
                     <span>RWA Society Bye-Laws &amp; Civil Injunctions (Order 39 CPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Resident Welfare Associations can bar rogue recovery agents under society bye-laws. Advocates can also obtain civil court injunctions under Order 39 Rules 1 & 2 CPC to block visits.</p>
                 </div>
               </div>
@@ -800,7 +800,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 CIBIL Bureau Reporting Trajectory &amp; Credit Score Rehabilitation
-              </h4>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">After settlement, the bank marks your credit bureau record as <strong>&quot;Settled&quot;</strong> with a balance of <strong>₹0</strong>. While this causes a temporary score dip, it stops default fines and ends abuse. Use a secured credit card. Keep card usage under 30%. This rebuilds credit scores above 750 within 18 to 24 months.</p>
             </section>
 
@@ -899,7 +899,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Privity of Contract &amp; Section 171)</span></span>
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Bharatiya Nyaya Sanhita, 2023 / IPC (Defamation &amp; Trespass Provisions)</span></span>
@@ -937,7 +937,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

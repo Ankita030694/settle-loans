@@ -653,7 +653,7 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Instant Loan App Harassment: 4-Stage Emergency Shield Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -883,7 +883,7 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Instant Loan App Harassment &amp; Legal Shielding
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 <details className="group border border-slate-200 rounded-2xl bg-white shadow-sm overflow-hidden transition-all duration-200 hover:border-slate-300" open>

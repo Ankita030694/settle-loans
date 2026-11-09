@@ -432,7 +432,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                   <h3 className="text-base font-bold text-rose-900 flex items-center gap-2 mb-1">
                     <UserX className="w-5 h-5 text-rose-600" />
                     Reference / Emergency Contact (ZERO Legal Liability)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-rose-800 leading-relaxed">
                     A reference contact is provided solely for verifying the borrower&apos;s physical address or establishing contact if the borrower becomes completely untraceable. A reference <strong>never signs a loan agreement</strong>, undergoes no KYC, provides no credit consent, and has <strong>0% financial liability</strong>. Lenders have zero legal standing to demand money from a reference.
                   </p>
@@ -442,7 +442,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                   <h3 className="text-base font-bold text-amber-900 flex items-center gap-2 mb-1">
                     <AlertTriangle className="w-5 h-5 text-amber-600" />
                     Guarantor (Conditional Legal Liability)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-amber-800 leading-relaxed">
                     A guarantor signs a formal <em>Deed of Guarantee</em> under Section 126 of the Indian Contract Act, 1872. A guarantor agrees to be co-extensively liable (Section 128) only if the primary borrower defaults. Standard unsecured personal loans and credit cards almost never have guarantors.
                   </p>
@@ -452,7 +452,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                   <h3 className="text-base font-bold text-blue-900 flex items-center gap-2 mb-1">
                     <Users className="w-5 h-5 text-[#1F5EFF]" />
                     Co-Borrower / Co-Applicant (Joint Financial Liability)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-blue-800 leading-relaxed">
                     A co-applicant jointly signs the primary loan agreement and submits full KYC documents. Both the primary borrower and co-applicant share joint and several liability to repay the debt.
                   </p>
@@ -466,7 +466,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             <div className="my-8">
               <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 Comparison: Permitted Bank Recovery Norms vs. Illegal Harassment Practices
-              </h2>
+              </h3>
               <div className="overflow-x-auto">
                 <table>
                   <thead>
@@ -521,7 +521,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                   <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <MessageSquareWarning className="w-5 h-5 text-rose-600" />
                     1. WhatsApp Group Shaming &amp; Contact Harvesting
-                  </h2>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Predatory instant loan apps and rogue agents create WhatsApp groups including your family members, colleagues, and friends, posting your photo with derogatory captions like &quot;defaulter&quot; or &quot;fraudster&quot;. This is a severe criminal offense under the Information Technology Act and Indian Penal / BNS Code.
                   </p>
@@ -531,7 +531,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                   <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <PhoneIncoming className="w-5 h-5 text-amber-600" />
                     2. Caller ID Spoofing &amp; Virtual Numbers
-                  </h2>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Agents use VoIP software and virtual number pools to call family members from hundreds of different numbers, bypassing phone call blocks and creating constant psychological harassment.
                   </p>
@@ -541,7 +541,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <FileWarning className="w-5 h-5 text-purple-600" />
                     3. Fabricated Police &amp; Court Summons via SMS
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Sending fake text messages mimicking the &quot;Delhi High Court&quot;, &quot;Crime Branch&quot;, or local police stations threatening that a police team is en route with an arrest warrant. In civil loan defaults, police have zero jurisdiction to arrest borrowers or contact family members.
                   </p>
@@ -553,7 +553,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             <section id="criminal-civil-laws" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Legal Protections: Privacy Rights, BNS & IT Act
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Borrowers facing aggressive collection harassment are protected by powerful constitutional, criminal, and civil legal frameworks in India. An unpaid civil loan is never a crime, and lenders must operate strictly within judicial boundaries:
               </p>
@@ -573,7 +573,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <Gavel className="w-5 h-5 text-emerald-600" />
                     Bharatiya Nyaya Sanhita (BNS) / IPC Criminal Provisions
-                  </h3>
+                  </h4>
                   <ul className="text-xs md:text-sm text-slate-600 space-y-1.5 list-disc list-inside mt-2">
                     <li><strong>Section 351 BNS (Criminal Intimidation):</strong> Punishable with imprisonment up to 2 years for threatening injury to person, reputation, or property.</li>
                     <li><strong>Section 356 BNS (Defamation):</strong> Punishable for making false imputations to damage the social reputation of a borrower or family member.</li>
@@ -585,7 +585,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <Lock className="w-5 h-5 text-purple-600" />
                     Information Technology Act, 2000 &amp; Digital Lending Norms
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Under Section 66E (Violation of Privacy) and Section 67 (Publishing Obscene Information), transmitting private data or morphing pictures carries rigorous imprisonment of up to 3 years and heavy fines. The Digital Personal Data Protection Act, 2023 further penalizes unauthorized processing of personal data.
                   </p>
@@ -650,7 +650,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             <section id="emergency-action-plan" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 5. Emergency Protocol: Stopping Family Calls in 24–48h
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 If recovery agents are currently calling your parents, spouse, or friends, do not panic. Execute this proven 5-step emergency legal protocol to halt third-party interference immediately:
               </p>
@@ -660,7 +660,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs">1</span>
                     Instruct Family Members to Record and Collect Caller Metadata
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Brief your family and relatives calmly: <em>&quot;You have zero debt liability. Do not argue. Turn on call recording and ask for their Full Name, Agency Name, Bank Name, and Employee ID.&quot;</em> If the caller refuses to identify themselves, that itself constitutes a direct violation of RBI Fair Practice norms.
                   </p>
@@ -712,7 +712,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             <section id="legal-notice-complaint-drafts" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Drafting Cease-and-Desist Notices &amp; Legal Grievance Templates
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Banks and collection agencies pay immediate attention when a borrower communicates in the precise language of Indian statutory law. Here is the exact structured legal draft you can customize and serve to the bank&apos;s Nodal Officer:
               </p>
@@ -745,7 +745,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             <div className="my-8">
               <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 Legal Roles &amp; Financial Liability Matrix Under Indian Law
-              </h4>
+              </h3>
               <div className="overflow-x-auto">
                 <table>
                   <thead>
@@ -795,7 +795,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             <section id="rbi-ombudsman-escalation" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Escalating to RBI Ombudsman: CMS Portal Guide
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021</strong> provides a cost-free, high-speed quasi-judicial grievance mechanism for Indian bank customers. If your bank fails to resolve harassment or continues calling your family, filing a complaint on the RBI Complaint Management System (CMS) triggers immediate regulatory scrutiny:
               </p>
@@ -829,7 +829,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             <div className="my-8">
               <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 Multi-Tier Escalation Matrix &amp; Resolution Timelines
-              </h4>
+              </h3>
               <div className="overflow-x-auto">
                 <table>
                   <thead>
@@ -886,7 +886,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             <section id="permanent-debt-resolution" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Permanent Relief: How an OTS Ends Harassment
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 While stopping recovery agent harassment protects your family in the short term, the underlying unsecured loan default remains on bank ledgers, accumulating compounding penal interest and degrading your credit score. If genuine financial distress (job loss, business failure, medical catastrophe) prevents you from paying the full balance, the permanent, lawful exit strategy is a <strong>One-Time Settlement (OTS)</strong>.
               </p>
@@ -898,7 +898,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                 <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
                   <Award className="w-5 h-5 text-[#1F5EFF]" />
                   Why Structured OTS is the Ultimate Shield for Distressed Borrowers:
-                </h4>
+                </h3>
                 <ul className="space-y-3 text-sm md:text-base text-slate-700">
                   <li className="flex items-start gap-2.5">
                     <CheckCircle2 className="w-5 h-5 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -932,7 +932,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             <section id="faqs" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Frequently Asked Questions (FAQ)
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-8 text-slate-600">
                 Clear, authoritative answers to the most critical questions regarding bank recovery agents contacting family members, legal rights, and immediate dispute resolution in India.
               </p>
@@ -955,7 +955,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
               <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1086,7 +1086,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

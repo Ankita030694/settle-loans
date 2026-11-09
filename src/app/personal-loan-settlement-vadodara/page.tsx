@@ -461,7 +461,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column: Sticky Table of Contents + Executive Crux */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -597,7 +597,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                   <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     When NACH auto-debit payments bounce, lenders send a Section 25 PSSA notice. You get 15 days to reply. If you ignore it, banks can file a case in Diwalipura court. An advocate reply explaining your hardship stops court filings and opens settlement talks.
                   </p>
@@ -607,7 +607,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                   <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <FileText className="w-4 h-4 text-indigo-600" />
                     <span>Section 138 of the Negotiable Instruments Act, 1881 (NI Act)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     If security cheques bounce, banks issue a Section 138 notice. Cheque bounce cases can be settled under Section 147 of the NI Act. Our advocates send a formal legal reply. We challenge unfair fees and seek a compromise settlement.
                   </p>
@@ -617,7 +617,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                   <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <ShieldX className="w-4 h-4 text-rose-600" />
                     <span>Debunking SARFAESI Act Threats on Unsecured Personal Loans</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Recovery agents often threaten to seize homes under the SARFAESI Act, 2002. This threat is illegal for personal loans. SARFAESI rules apply only to secured loans backed by property. Lenders have no right to touch your house or unit for unsecured debt.
                   </p>
@@ -698,7 +698,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                   <h4 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5">
                     <Percent className="w-4 h-4 text-emerald-600" />
                     <span>Principal Haircut: 40% to 60% Concession</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-emerald-900 leading-relaxed">
                     Borrowers with proven hardship win a 40% to 60% principal waiver on unpaid balances.
                   </p>
@@ -714,7 +714,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Executing a Legally Secure One-Time Settlement in Vadodara
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Our simple four-step plan helps you get maximum debt relief:
               </p>
@@ -924,7 +924,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Vadodara
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Vadodara can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -963,7 +963,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions on Debt Settlement in Vadodara
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {(((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.["mainEntity"] || []) as Array<{ name: string; acceptedAnswer: { text: string } }>).map((faq, index: number) => (
@@ -1048,7 +1048,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-of-baroda-personal-loan-settlement"
@@ -1115,7 +1115,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
           </main>
 
           {/* Right Column: Author Bio, Emergency Advocate CTA, Trust Signals */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             
             {/* Author Bio Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">

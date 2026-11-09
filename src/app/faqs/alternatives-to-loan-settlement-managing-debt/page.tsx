@@ -395,7 +395,7 @@ export default function AlternativesToSettlementPage() {
                                 <h3 className="text-lg font-bold text-blue-900 mb-4 flex items-center">
                                     <svg className="w-5 h-5 mr-3 text-[#1F5EFF]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                                     Expert Insights
-                                </h2>
+                                </h3>
                                 <p className="text-blue-800">
                                     In the 2024-25 financial landscape, several sophisticated alternatives have emerged, ranging from debt consolidation to professional debt management plans. This guide explores these options to help you choose the path of most reward.
                                 </p>
@@ -688,7 +688,7 @@ export default function AlternativesToSettlementPage() {
                         <section id="conclusion" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Conclusion: The Architecture of Financial Freedom
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6 italic">
                                 Finalizing your strategy to manage overwhelming debt is like building a house. Settlement is the emergency tent you use when the house has burned down. Consolidation and DMPs are the structural repairs that keep the house standing. By choosing an alternative, you are investing in the long-term stability of your financial architecture.
                             </p>

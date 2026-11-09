@@ -365,7 +365,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <h3 className="text-base font-bold text-slate-900 mb-1.5 flex items-center gap-2">
                   <Info className="w-5 h-5 text-[#1F5EFF]" />
                   The Legal Reality of a &quot;Settled&quot; Account in CIBIL
-                </h2>
+                </h3>
                 <p className="text-sm text-slate-700 leading-relaxed">
                   Under the <strong>Credit Information Companies (Regulation) Act, 2005 (CICRA)</strong>, licensed credit bureaus (TransUnion CIBIL, Experian, CRIF High Mark, Equifax) do not make qualitative judgments about why you settled. When a bank accepts a discounted payoff, it writes off the unpaid balance as a commercial loss. The bank reports this account as <strong>&quot;Settled&quot;</strong> (indicating a financial loss to the lender) rather than <strong>&quot;Closed&quot;</strong> (which denotes 100% full repayment with zero haircut).
                 </p>
@@ -474,7 +474,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                     </div>
                     <h3 className="text-lg md:text-xl font-bold text-slate-900">
                       Step 1: Conduct a Forensic Audit of Your Official Credit Information Report (CIR)
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed mb-3">
                     Obtain fresh, official Credit Information Reports from all four licensed credit bureaus: <strong>TransUnion CIBIL, Experian India, CRIF High Mark, and Equifax</strong>. Do not rely on third-party marketing apps that provide compressed summaries.
@@ -494,7 +494,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                     </div>
                     <h3 className="text-lg md:text-xl font-bold text-slate-900">
                       Step 2: Submit a Formal Written Application to the Bank&apos;s Stressed Asset / Nodal Department
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed mb-3">
                     Do not negotiate verbally with local branch executives or recovery agents. Draft a formal representation on legal stationery addressed to the bank&apos;s <strong>Stressed Assets Resolution Branch (SARB)</strong> and <strong>Principal Nodal Officer (PNO)</strong>.
@@ -512,7 +512,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                     </div>
                     <h3 className="text-lg md:text-xl font-bold text-slate-900">
                       Step 3: Negotiate Residual Waiver Terms &amp; Remit Payment via Verifiable Channels
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed mb-3">
                     Ensure the bank does not attempt to levy retroactive 24%–36% penal interest or late charges from the date of settlement. The payable figure must strictly be the <strong>net principal haircut and base contractual interest</strong> that was waived during the OTS.
@@ -530,7 +530,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                     </div>
                     <h3 className="text-lg md:text-xl font-bold text-slate-900">
                       Step 4: Secure the Unconditional Full &amp; Final No Dues Certificate (NDC)
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed mb-3">
                     Within 7 to 15 working days of receipt of payment, the bank must issue an unconditional <strong>No Dues Certificate (NDC)</strong> or <strong>Full Closure Letter</strong> on official corporate letterhead, signed by an authorized branch officer with employee code and bank seal.
@@ -583,7 +583,7 @@ export default function RemoveSettledStatusFromCibilClient() {
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 4. Cost-Benefit Analysis: Paying Residual Debt vs Rebuilding
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Upgrading your account from &quot;Settled&quot; to &quot;Closed&quot; requires paying real capital to your past lender. Is it always worth it? The answer depends entirely on your immediate financial goals, the size of the original haircut, and how much time has elapsed since the settlement.
               </p>
@@ -722,7 +722,7 @@ export default function RemoveSettledStatusFromCibilClient() {
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 5. Beware of CIBIL Clearance Agents: Scams vs Reality
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 The desperation to remove a &quot;Settled&quot; mark has spawned a thriving black market of cyber fraudsters on WhatsApp, Telegram, and deceptive social media advertisements pretending to be &quot;CIBIL Officers,&quot; &quot;Credit Score Hackers,&quot; or &quot;Guaranteed Negative Remark Erasers.&quot;
               </p>
@@ -786,7 +786,7 @@ export default function RemoveSettledStatusFromCibilClient() {
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 6. Bank Delays Updating CIBIL: RBI Ombudsman Rights
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 In many instances, borrowers dutifully pay the full settlement or residual balance, yet the branch staff fails to update the back-office Core Banking System (CBS) or omits uploading the revised status during the monthly bureau run. If you find yourself in this deadlock, Indian banking law provides powerful statutory recourse.
               </p>
@@ -821,7 +821,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <h4 className="font-bold text-[#1F5EFF] text-base mb-2 flex items-center gap-2">
                   <Award className="w-5 h-5" />
                   Statutory Compensation: ₹100 Per Day for Unresolved Credit Reporting Delays
-                </h3>
+                </h4>
                 <p className="text-xs md:text-sm text-slate-700 leading-relaxed">
                   Under RBI circular <strong>RBI/2023-24/72 (Framework for Compensation to Customers for Delayed Updation of Credit Information)</strong>, if a regulated bank or credit bureau fails to resolve a credit misreporting grievance or update a verified closure within <strong>30 calendar days</strong> of receiving a formal dispute, the institution is legally obligated to pay compensation of <strong>₹100 per calendar day</strong> directly into the borrower&apos;s bank account until the record is rectified.
                 </p>
@@ -836,7 +836,7 @@ export default function RemoveSettledStatusFromCibilClient() {
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 7. Rebuilding Your CIBIL Score to 750+ Post-Closure
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Whether you have successfully upgraded your account to &quot;Closed&quot; or are waiting out the post-settlement seasoning period, you must actively inject positive payment data to accelerate your credit score recovery. Follow this proven 4-pillar rehabilitation roadmap:
               </p>
@@ -910,7 +910,7 @@ export default function RemoveSettledStatusFromCibilClient() {
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Frequently Asked Questions (FAQ)
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-8 text-slate-600">
                 Clear, definitive legal answers to the most common questions regarding loan settlements, CIBIL disputes, and account closure upgrades.
               </p>
@@ -933,7 +933,7 @@ export default function RemoveSettledStatusFromCibilClient() {
               <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Statutory References</span>
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1064,7 +1064,7 @@ export default function RemoveSettledStatusFromCibilClient() {
           </main>
 
           {/* Right Column: Dedicated Track containing Author Bio, Emergency CTA, and Trust Signals */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

@@ -783,7 +783,7 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-blue-600" />
                     <span>Salaried Defense: Illegal Salary Account Freezes &amp; Workplace Intimidation</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Banks hosting a salaried borrower&apos;s payroll account frequently place unauthorized debit freezes or balance sweeps. Advocates immediately invoke Section 60 CPC wage exemptions, submit formal branch objections, instruct HR to divert future salary credits to an unaffected institution, and escalate arbitrary set-off violations to the RBI Banking Ombudsman under the Integrated Ombudsman Scheme, 2021.
                   </p>
@@ -793,7 +793,7 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-indigo-600" />
                     <span>Self-Employed Defense: Section 138 NI Act &amp; DRT Original Applications</span>
-                  </h2>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     For business defaults, lenders aggressively file criminal complaints under Section 138 of the Negotiable Instruments Act for bounced security cheques and NACH mandate rejections. Advocates appear in the jurisdictional Magistrate Court to secure prompt personal bail, file formal defense replies under Section 139 NI Act challenging the legally enforceable debt quantum, and simultaneously initiate compromise settlement discussions at the National Lok Adalat or High Court mediation centers.
                   </p>
@@ -809,7 +809,7 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
             <section id="sanction-forensics-rbi-ndc" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Trajectory
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical vulnerability during loan settlement is falling prey to fraudulent settlement offers issued by third-party recovery agencies attempting to meet recovery quotas. Disbursing funds against an unverified WhatsApp letter or informal email will result in the payment being credited as a regular overdue adjustment rather than a full debt extinguishment.
               </p>
@@ -849,7 +849,7 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
             <section id="comparative-matrix-breakdown" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comprehensive Comparative Matrix: Salaried vs. Self-Employed Settlement Blueprint
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The strategic matrix below summarizes the operational, legal, and financial differences between salaried and self-employed debt settlement under Indian banking regulations:
               </p>
@@ -995,7 +995,7 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-freeze-salary-account-loan-default"

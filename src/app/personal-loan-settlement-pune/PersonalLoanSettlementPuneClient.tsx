@@ -300,7 +300,7 @@ export default function PersonalLoanSettlementPuneClient() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column: Sticky Table of Contents + Crux Pill */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4 shadow-sm">
               <div className="flex items-center gap-2 pb-3 mb-3 border-b border-slate-200 text-slate-900 font-bold text-sm">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
@@ -485,7 +485,7 @@ export default function PersonalLoanSettlementPuneClient() {
                 <h3 className="text-slate-900 font-bold text-base mb-2 flex items-center gap-2">
                   <Info className="w-5 h-5 text-[#1F5EFF]" />
                   Section 138 NI Act &amp; Section 25 PSSA: Compoundable Quasi-Criminal Matters
-                </h2>
+                </h3>
                 <p className="text-slate-700 text-sm leading-relaxed">
                   While ordinary default is civil, the bouncing of repayment cheques or automated NACH mandates allows banks to file complaints under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> or <strong>Section 25 of the Payment and Settlement Systems Act, 2007</strong> before Judicial Magistrates in Pune. These offences are strictly bailable and legally compoundable under Section 147 of the NI Act. Upon concluding a negotiated One-Time Settlement, the bank is legally required to withdraw the complaint, extinguishing all criminal exposure.
                 </p>
@@ -530,7 +530,7 @@ export default function PersonalLoanSettlementPuneClient() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Pune Debt Settlement Roadmap: IT/Auto Corridors &amp; Lok Adalat Protocols
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -774,7 +774,7 @@ export default function PersonalLoanSettlementPuneClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Pune &amp; PCMC Borrowers Trust SettleLoans for Debt Resolution
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating complex multi-loan defaults across Pune demands seasoned banking litigation counsel. The legal advocates and financial strategists at SettleLoans provide comprehensive, end-to-end protection: issuing anti-harassment cease-and-desist notices, defending court summons at Shivajinagar and Pimpri Courts, representing clients at PDLSA Lok Adalats, and negotiating maximum permissible OTS haircuts directly with bank Zonal Credit Committees.
               </p>
@@ -793,7 +793,7 @@ export default function PersonalLoanSettlementPuneClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Debt Settlement Services in Pune
-              </h3>
+              </h2>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -945,7 +945,7 @@ export default function PersonalLoanSettlementPuneClient() {
           </main>
 
           {/* Right Column: Author Bio Card, Emergency CTA, Trust Signals */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

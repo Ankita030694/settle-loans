@@ -689,7 +689,7 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         CIBIL Score Kaise Sudhare Settlement Ke Baad: 4-Step Strategic Roadmap
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -924,7 +924,7 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: CIBIL Score Repair After Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 <details className="group border border-slate-200 rounded-2xl bg-white shadow-sm overflow-hidden transition-all duration-200 hover:border-slate-300" open>

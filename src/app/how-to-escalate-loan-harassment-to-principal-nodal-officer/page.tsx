@@ -615,7 +615,7 @@ export default function PNOEscalationHarassmentPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>WhatsApp and SMS Messages</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Take screenshots of rude messages, fake legal threats. And abusive texts sent to you or your family.
                   </p>
@@ -624,7 +624,7 @@ export default function PNOEscalationHarassmentPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-[#1F5EFF]" />
                     <span>CCTV and Visitor Logs</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Keep security footage and gate records if agents visit your home or office without permission.
                   </p>
@@ -633,7 +633,7 @@ export default function PNOEscalationHarassmentPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <HeartPulse className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Medical and Doctor Records</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Keep doctor prescriptions if collection stress caused anxiety or high blood pressure.
                   </p>
@@ -859,7 +859,7 @@ export default function PNOEscalationHarassmentPage() {
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <BadgePercent className="w-4 h-4 text-emerald-600" />
                     <span>100% Waiver on Penal Fees</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The bank cancels all late charges, extra interest. And notice fees.
                   </p>
@@ -995,7 +995,7 @@ export default function PNOEscalationHarassmentPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://cms.rbi.org.in"
@@ -1041,7 +1041,7 @@ export default function PNOEscalationHarassmentPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/consumer-court-complaint-against-bank-harassment"

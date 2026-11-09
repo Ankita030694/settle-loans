@@ -318,7 +318,7 @@ export default function PersonalLoanSettlementLawyerClient() {
                   <h3 className="text-red-600 font-bold mb-2 flex items-center">
                     <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                     What NOT to do
-                  </h2>
+                  </h3>
                   <ul className="text-sm m-0 pl-4 space-y-2 text-slate-600">
                     <li>Do not ignore the notice hoping it goes away.</li>
                     <li>Do not panic and make partial payments without a written settlement agreement.</li>
@@ -329,7 +329,7 @@ export default function PersonalLoanSettlementLawyerClient() {
                   <h4 className="text-green-600 font-bold mb-2 flex items-center">
                     <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                     What YOU SHOULD do
-                  </h3>
+                  </h4>
                   <ul className="text-sm m-0 pl-4 space-y-2 text-slate-600">
                     <li>Contact a loan settlement lawyer immediately.</li>
                     <li>Gather all loan documents, statements, and evidence of financial hardship.</li>
@@ -384,7 +384,7 @@ export default function PersonalLoanSettlementLawyerClient() {
 
               <h2 id="choosing-lawyer" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 What to Look for When Choosing a Loan Settlement Advocate
-              </h3>
+              </h2>
               <p>
                 Not all lawyers specialize in banking and debt resolution. When selecting an advocate to represent you in a personal loan dispute, look for the following criteria:
               </p>
@@ -434,7 +434,7 @@ export default function PersonalLoanSettlementLawyerClient() {
               <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center">
                 <svg className="w-5 h-5 mr-2 text-slate-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 14c1.669 0 3.218.51 4.5 1.385A7.962 7.962 0 0114.5 14c1.255 0 2.443.29 3.5.804v-10A7.968 7.968 0 0014.5 4c-1.255 0-2.443.29-3.5.804V12a1 1 0 11-2 0V4.804z"/></svg>
                 Legal References & Citations
-              </h4>
+              </h3>
               <ul className="space-y-2 text-sm text-slate-500">
                 <li>1. Reserve Bank of India (RBI) - <a href="https://m.rbi.org.in/Scripts/FAQView.aspx?Id=86" target="_blank" rel="noopener noreferrer" className="hover:text-[#2D68FF] hover:underline">Guidelines on Fair Practices Code for NBFCs</a></li>
                 <li>2. RBI Circular on Recovery Agents - <a href="https://rbi.org.in/scripts/NotificationUser.aspx?Id=4124&Mode=0" target="_blank" rel="noopener noreferrer" className="hover:text-[#2D68FF] hover:underline">Engagement of Recovery Agents by Banks</a></li>

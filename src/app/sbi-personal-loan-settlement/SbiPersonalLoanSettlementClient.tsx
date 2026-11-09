@@ -304,7 +304,7 @@ export default function SbiPersonalLoanSettlementClient() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky TOC) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4 shadow-sm">
               <div className="flex items-center gap-2 pb-3 mb-3 border-b border-slate-200 text-slate-900 font-bold text-sm">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
@@ -451,7 +451,7 @@ export default function SbiPersonalLoanSettlementClient() {
                 <h3 className="text-sm font-bold text-slate-900 mb-2 flex items-center gap-2">
                   <Calculator className="w-4 h-4 text-[#1F5EFF]" />
                   SBI Rin Samadhan Haircut Formula
-                </h2>
+                </h3>
                 <div className="bg-white p-3 rounded-xl border border-slate-200 font-mono text-xs text-slate-800 mb-2 overflow-x-auto">
                   <strong>Sanctioned OTS = </strong> [Principal at NPA Date] - [Approved Policy Haircut (40%–65%)] + [Direct Legal Costs]
                   <br />
@@ -547,7 +547,7 @@ export default function SbiPersonalLoanSettlementClient() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         SBI Personal Loan Settlement Summary &amp; Process Overview
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -671,7 +671,7 @@ export default function SbiPersonalLoanSettlementClient() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm">
                   <h3 className="font-bold text-slate-900 text-sm md:text-base mb-1">
                     1. Audit NPA Bucket &amp; Identify File Location (Home Branch vs SARB)
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                     Obtain a certified Statement of Account. Separate the actual principal outstanding from unaccrued memorandum penal charges and confirm whether your file is managed by the home branch or regional SARB recovery cell.
                   </p>
@@ -680,7 +680,7 @@ export default function SbiPersonalLoanSettlementClient() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm">
                   <h3 className="font-bold text-slate-900 text-sm md:text-base mb-1">
                     2. Assemble an Incontrovertible Hardship Dossier
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                     Document genuine insolvency through termination letters, medical summaries, salary reductions, and bank statements. Solid proof provides SBI committee officers the regulatory justification required to approve maximum haircuts.
                   </p>
@@ -723,7 +723,7 @@ export default function SbiPersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 Sanction Letter Audit Checklist &amp; Statutory ₹0 NDC Mandate
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
                 Never pay against verbal assurances or agent letters. Payments made without a validated sanction are treated as routine interest part-payments, leaving the default active.
               </p>
@@ -775,7 +775,7 @@ export default function SbiPersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 CIBIL Score Trajectory &amp; Credit recovery Post-Settlement
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
                 Following full settlement payment, SBI updates credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-Off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points, alongside a mandatory 12-month cooling period under RBI directives before fresh unsecured credit can be obtained.
               </p>
@@ -792,7 +792,7 @@ export default function SbiPersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed SBI Borrowers Choose SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base">
                 Negotiating with State Bank of India requires seasoned banking advocates who understand CVC regulations, SARB committee powers, and Lok Adalat conciliation. SettleLoans halts recovery harassment, audits NPA provisioning, and negotiates directly with SBI decision-makers to achieve maximum legal debt waivers.
               </p>
@@ -810,7 +810,7 @@ export default function SbiPersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 Frequently Asked Questions About SBI Personal Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -962,7 +962,7 @@ export default function SbiPersonalLoanSettlementClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-5">
+          <aside className="w-full lg:sticky lg:top-24 space-y-5">
             {/* Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm">
               <div className="flex items-center gap-3 mb-3">

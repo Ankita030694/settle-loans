@@ -581,7 +581,7 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 RBI Master Directions: Fair Practices Code for Lenders &amp; Recovery Agents
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The RBI has established strict regulatory standards governing debt collection. These are codified in the <strong>Master Direction – Fair Practices Code</strong> and Circular on <strong>Recovery Agents (RBI/2022-23/108)</strong>. Commercial banks and NBFCs must follow these rules strictly. Any deviation constitutes an actionable regulatory offense:
               </p>
@@ -615,7 +615,7 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Landmark Supreme Court Precedents on Recovery Harassment
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In <strong>ICICI Bank Ltd. v. Shanti Devi Sharma &amp; Ors. (2008) 7 SCC 532</strong>, the Supreme Court delivered a decisive condemnation of bank recovery practices, declaring: <em>&quot;We are governed by a rule of law in this country. The recovery of loans or the seizure of vehicles could be done only through legal means. The banks cannot employ goondas to take possession by force.&quot;</em> The court held bank managing directors and executives vicariously responsible for the tortious actions of outsourced recovery agents.
               </p>
@@ -906,7 +906,7 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
             <section id="sanction-forensics-rbi-ndc-cibil-trajectory" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Letter Forensics, Direct Remittance & ₹0 NDC
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical danger during debt resolution is falling victim to unauthorized settlement promises made by unauthorized tele-callers or rogue collection agencies. Unscrupulous intermediaries often fabricate fake settlement letters on forged bank letterheads or instruct borrowers to transfer funds to personal UPI handles or agency accounts. A borrower must never disburse settlement money without thorough forensic verification.
               </p>
@@ -946,7 +946,7 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
             <section id="comparative-legal-matrix-injunction-vs-remedies" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Legal Matrix: Injunction vs FIR vs Ombudsman vs OTS
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the different legal mechanisms available to borrowers facing coercive recovery clarifies why a civil court injunction provides the fastest, most potent protective shield:
               </p>

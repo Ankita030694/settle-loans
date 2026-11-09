@@ -485,7 +485,7 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
                     </span>
                     <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       Loan Write-Off vs. Loan Waive-Off: Process &amp; Legal Architecture
-                    </h2>
+                    </h3>
                   </div>
                 </div>
                 <a
@@ -606,7 +606,7 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
                     </div>
                     <h3 className="font-bold text-slate-900 text-base">
                       Forensic Debt &amp; Credit Bureau Audit
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed pl-10">
                     Review official account statements, calculate the exact ratio of disbursed principal versus accumulated penal interest and late fees, and verify whether the loan is held by the original bank or has been assigned to an Asset Reconstruction Company.
@@ -620,7 +620,7 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
                     </div>
                     <h3 className="font-bold text-slate-900 text-base">
                       Comprehensive Hardship Dossier Preparation
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed pl-10">
                     Compile verifiable legal evidence proving genuine financial distress, including salary termination notices, medical treatment records, income tax filings, or business closure documentation to justify statutory waiver eligibility.
@@ -675,7 +675,7 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
             <section id="legal-defense-borrower-rights" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 9. Legal Defense Framework: Stopping Harassment &amp; Enforcing RBI Rights
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 While commercial lenders possess the right to seek recovery of written-off debts, they are strictly bound by the Reserve Bank of India Fair Practices Code for Lenders and Guidelines on Recovery Agents. Under these statutory directives, recovery personnel are strictly prohibited from resorting to intimidation, verbal abuse, public humiliation, contacting borrowers before 8:00 AM or after 7:00 PM, or making unauthorized visits to borrower workplaces and residential premises.
               </p>
@@ -691,7 +691,7 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
             <section id="settleloans-advocate-strategy" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 10. Institutional Legal Representation with SettleLoans
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Navigating the complex institutional hierarchy of public and private commercial banks requires specialized legal and financial expertise. As India&apos;s premier debt settlement and borrower advocacy platform, SettleLoans bridges the gap between distressed borrowers and institutional lenders.
               </p>
@@ -714,7 +714,7 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
                 </div>
                 <h2 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
                   Frequently Asked Questions
-                </h3>
+                </h2>
               </div>
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -840,7 +840,7 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm">
               <div className="flex items-center gap-3 mb-3">

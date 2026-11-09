@@ -513,7 +513,7 @@ export default function JobLossLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -801,7 +801,7 @@ export default function JobLossLoanSettlementPage() {
                 <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Enforcement Protocol for Harassment Violations</span>
-                </h2>
+                </h3>
                 <p className="text-xs text-slate-600 leading-relaxed">
                   When recovery agents violate these statutory norms, legal counsel issues a formal <strong>Legal Cease-and-Desist Notice</strong> to the bank&apos;s Managing Director and Principal Nodal Officer (PNO). If the lender fails to halt collection harassment within 30 days, a formal regulatory complaint is lodged on the RBI Integrated Ombudsman portal (<a href="https://cms.rbi.org.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline">cms.rbi.org.in</a>). Under RBI guidelines, lending institutions face severe financial penalties and regulatory sanctions for third-party agency misconduct.
                 </p>
@@ -855,7 +855,7 @@ export default function JobLossLoanSettlementPage() {
                   <h3 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                     <span>Comprehensive Delinquency &amp; Ledger Audit</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Obtain the complete Statement of Account (SOA) from the lender. Reconcile all historical EMI payments, isolate the core unamortized principal balance, and demand 100% elimination of all accumulated late fees, cheque bounce surcharges, and penal interest compounded post-default.
                   </p>
@@ -865,7 +865,7 @@ export default function JobLossLoanSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">2</span>
                     <span>Submission of Formal Hardship Petition</span>
-                  </h2>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Submit a formal, advocate-drafted OTS Hardship Petition directly to the bank&apos;s Zonal Stressed Assets Recovery Branch (SARB) or Credit Committee. Accompany the petition with the verified Hardship Portfolio, explicitly citing RBI Master Directions on Compromise Settlements.
                   </p>
@@ -875,7 +875,7 @@ export default function JobLossLoanSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">3</span>
                     <span>Mathematical NPV Haircut talks</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Anchor the settlement offer between 30% and 40% of the core principal. Structure the talks using the Net Present Value recovery formula, showing that an immediate lump-sum settlement delivers higher economic recovery than multi-year civil litigation.
                   </p>
@@ -885,7 +885,7 @@ export default function JobLossLoanSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">4</span>
                     <span>Forensic Sanction Letter Verification</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Before releasing a single rupee of settlement funds, conduct a forensic legal audit of the bank&apos;s written OTS Sanction Letter. Ensure the letter contains authorized branch seals, explicit waiver clauses, and guaranteed No Dues Certificate delivery timelines.
                   </p>
@@ -911,7 +911,7 @@ export default function JobLossLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 OTS Sanction Letters: 5 Key Clauses & ₹0 NDC Mandate
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The greatest risk facing distressed borrowers is fake oral promises made by rogue collection agents. Tele-callers frequently induce borrowers to deposit token amounts like ₹50,000 on a ₹5 Lakh loan. The bank then treats this token as overdue interest rather than a settlement. This leaves the full debt active and compounding.
               </p>
@@ -943,7 +943,7 @@ export default function JobLossLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparative Debt Resolution Matrix & Credit Repair
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Distressed borrowers often struggle to evaluate whether a One-Time Settlement (OTS) is superior to alternative relief mechanisms such as loan restructuring, emergency moratoriums, or conciliation through National Lok Adalat. The comparative matrix below details the strategic trade-offs of each avenue following employment termination:
               </p>
@@ -995,7 +995,7 @@ export default function JobLossLoanSettlementPage() {
 
               <h3 className="text-lg md:text-xl font-bold text-slate-900 mt-8 mb-3">
                 Rebuilding Your CIBIL Score from &apos;Settled&apos; to 750+ Post-Re-employment
-              </h4>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a loan settlement updates your credit bureau status to <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. This entry leads to an initial score dip of 75 to 150 points and a 12-month cooling period. However, it permanently ends compounding default marks, quashes legal notices, and eliminates harassment.
               </p>
@@ -1020,7 +1020,7 @@ export default function JobLossLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Loan Settlement After Job Loss &amp; Layoffs
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1049,7 +1049,7 @@ export default function JobLossLoanSettlementPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1114,7 +1114,7 @@ export default function JobLossLoanSettlementPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
@@ -1181,7 +1181,7 @@ export default function JobLossLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

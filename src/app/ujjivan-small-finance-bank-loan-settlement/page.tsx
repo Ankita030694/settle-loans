@@ -509,7 +509,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -776,7 +776,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Ujjivan Small Finance Bank Loan Settlement &amp; Legal Defense Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -994,7 +994,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Ujjivan SFB Borrowers Trust SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling loan debt needs skilled legal help. SettleLoans stops agent calls and home visits with legal notices. We handle Section 25 PSSA court notices. We block illegal arbitration. We talk with Ujjivan SFB Stressed Assets teams to win up to 60% waivers and valid ₹0 No Dues Certificates.
               </p>
@@ -1173,7 +1173,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

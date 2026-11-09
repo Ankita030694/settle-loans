@@ -557,7 +557,7 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
                 <h3 className="text-xs sm:text-sm font-bold text-blue-950 uppercase tracking-wider mb-2 flex items-center gap-1.5">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Key Statutory Highlights of RBI June 8, 2023 Master Direction</span>
-                </h2>
+                </h3>
                 <ul className="space-y-2 text-xs sm:text-sm text-slate-700">
                   <li className="flex items-start gap-2">
                     <div className="w-1.5 h-1.5 rounded-full bg-[#1F5EFF] flex-shrink-0 mt-2" />
@@ -664,7 +664,7 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-emerald-100 text-emerald-800 flex items-center justify-center text-xs font-black">A</span>
                     <span>Full and Final Loan Closure (100% Repayment)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Under a regular full closure, the borrower satisfies all primary contractual obligations under the original loan agreement. The bank issues an unconditional <strong>No Dues Certificate (NDC)</strong> or <strong>NOC</strong>, cancels all registered hypothecations or mortgages within 30 days pursuant to the RBI directive of September 13, 2023, returns all original property documents or vehicle title deeds, and updates credit bureaus (CIBIL, Experian, Equifax, CRIF) to reflect an unblemished &quot;Closed&quot; status.
                   </p>
@@ -674,7 +674,7 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-800 flex items-center justify-center text-xs font-black">B</span>
                     <span>Compromise Settlement / OTS (Accord &amp; Satisfaction)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Under a compromise settlement, the parties enter into a binding accord and satisfaction. The lender formally agrees to accept a discounted cash consideration in exchange for releasing the borrower from all further liabilities. Once the agreed compromise amount is credited to the bank&apos;s designated loan account, the original debt is legally extinguished. The bank must unconditionally withdraw all pending legal notices, arbitration claims, SARFAESI proceedings, and criminal complaints under Section 138 of the NI Act or Section 25 of the PSS Act.
                   </p>
@@ -684,7 +684,7 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-rose-100 text-rose-800 flex items-center justify-center text-xs font-black">C</span>
                     <span>Credit Write-Off (Zero Legal Discharge)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     A credit write-off does not alter the borrower&apos;s legal status in the slightest. The borrower remains fully liable for the entire outstanding principal, contractual interest, and penal charges. Banks often sell written-off debt portfolios to Asset Reconstruction Companies (ARCs) under Section 5 of the SARFAESI Act, 2002. If a borrower does not formally resolve a written-off loan through an OTS, they face ongoing enforcement actions and perpetual credit bureau impairment.
                   </p>
@@ -696,7 +696,7 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
             <section id="forensic-audit-compromise-sanction-letter" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Forensic Checklist for Watertight Compromise Settlement Letters
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 One of the most dangerous hazards in debt resolution is falling victim to unauthorized, fraudulent, or defective settlement arrangements. Unscrupulous recovery agents frequently issue fabricated settlement letters or demand cash payments into third-party accounts, falsely promising that the loan will be closed. To ensure complete legal immunity, every compromise settlement must undergo rigorous forensic verification against the following statutory checklist before any funds are disbursed:
               </p>
@@ -705,7 +705,7 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
                 <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-4 flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-emerald-600" />
                   <span>The 7-Point Compromise Sanction Letter Forensic Audit</span>
-                </h2>
+                </h3>
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="flex items-start gap-2.5">
                     <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -743,7 +743,7 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
             <section id="post-settlement-ndc-cibil-rectification" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Post-Resolution Execution: Securing ₹0 NDC &amp; CIBIL Score Rehabilitation
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Remitting the agreed settlement payment is not the final step in resolving defaulted debt. The post-settlement execution phase is critical to guarantee that the compromise agreement is accurately recorded in statutory credit repositories and banking archives.
               </p>
@@ -759,7 +759,7 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
             <section id="comparative-matrix-settlement-options" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comprehensive Comparative Matrix: 3 Resolution Mechanisms Compared
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative table below outlines the core parameters, financial impacts, legal protections, and credit bureau consequences of Full Closure, Compromise Settlement (OTS), and Technical Write-Off:
               </p>
@@ -832,7 +832,7 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
             <section id="company-resolution-section" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 10. SettleLoans Legal Advisory: Securing Legally Binding Debt Extinguishment
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating the complex institutional machinery of commercial banks, NBFCs, and Asset Reconstruction Companies requires specialized legal expertise and seasoned financial negotiation acumen. At <strong>SettleLoans</strong>, our senior debt defense advocates and banking specialists represent stressed borrowers across India to achieve decisive, legally binding compromise settlements.
               </p>
@@ -852,7 +852,7 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold tracking-tight">
                   11. Frequently Asked Questions
-                </h3>
+                </h2>
               </div>
 
               <div className="space-y-3">

@@ -2,14 +2,14 @@ import type { Metadata } from "next";
 import LoanSettlementCalculatorClient from "./LoanSettlementCalculatorClient";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Calculator | Estimate Savings",
-  description: "Calculate your loan settlement savings and One-Time Settlement (OTS) amount. Understand waiver percentages and RBI rules with our estimator.",
+  title: "Loan Settlement Amount Calculator 2026 | Estimate Bank OTS Waiver %",
+  description: "Calculate your personal loan and credit card One-Time Settlement (OTS) amount. Check realistic 40%–70% bank haircut percentages and 2026 RBI compromise rules.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-amount-calculator",
   },
   openGraph: {
-    title: "Loan Settlement Calculator | Estimate Savings",
-    description: "Calculate your loan settlement savings and One-Time Settlement (OTS) amount. Understand waiver percentages and RBI rules with our estimator.",
+    title: "Loan Settlement Amount Calculator 2026 | Estimate Bank OTS Waiver %",
+    description: "Calculate your personal loan and credit card One-Time Settlement (OTS) amount. Check realistic 40%–70% bank haircut percentages and 2026 RBI compromise rules.",
     url: "https://www.settleloans.in/loan-settlement-amount-calculator",
     type: "website",
     images: [
@@ -23,8 +23,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Loan Settlement Calculator | Estimate Savings",
-    description: "Calculate your loan settlement savings and One-Time Settlement (OTS) amount. Understand waiver percentages and RBI rules with our estimator.",
+    title: "Loan Settlement Amount Calculator 2026 | Estimate Bank OTS Waiver %",
+    description: "Calculate your personal loan and credit card One-Time Settlement (OTS) amount. Check realistic 40%–70% bank haircut percentages and 2026 RBI compromise rules.",
     images: ["https://www.settleloans.in/og-image.jpg"],
   },
 };

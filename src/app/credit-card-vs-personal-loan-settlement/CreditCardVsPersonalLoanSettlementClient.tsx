@@ -456,7 +456,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
               <div className="my-8">
                 <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Financial Settlement Simulation: ₹5,00,000 Default Balance Comparison
-                </h2>
+                </h3>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -542,7 +542,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                     </span>
                     <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       Credit Card vs Personal Loan Settlement Matrix
-                    </h2>
+                    </h3>
                   </div>
                 </div>
                 <a
@@ -600,7 +600,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                   <h3 className="font-bold text-rose-900 text-base mb-1.5 flex items-center gap-2">
                     <ShieldAlert className="w-4 h-4 text-rose-600" />
                     <span>Priority 1: Active Statutory Legal Exposure (Personal Loans with Sec 138/25 Notices)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs text-rose-950 leading-relaxed">
                     If an NBFC or bank has issued a formal advocate notice under Section 138 of the Negotiable Instruments Act or Section 25 of the PSS Act, this debt must be addressed first. SettleLoans advocates engage the lender recovery division immediately to negotiate a compromise OTS and secure an official withdrawal of court cases upon settlement execution.
                   </p>
@@ -610,7 +610,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                   <h4 className="font-bold text-emerald-900 text-base mb-1.5 flex items-center gap-2">
                     <TrendingUp className="w-4 h-4 text-emerald-600" />
                     <span>Priority 2: Deepest Discount Leverage (Charged-Off Credit Cards at 65%–75% Haircut)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-emerald-950 leading-relaxed">
                     Once criminal litigation exposure is neutralized, allocate liquid cash to settled credit cards. Because credit card divisions offer deep 65%–75% discounts on charged-off accounts, a ₹4,00,000 credit card debt can frequently be extinguished for ₹1,20,000 to ₹1,40,000, immediately eliminating high-velocity interest compounding.
                   </p>
@@ -662,7 +662,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
             <section id="cibil-credit-bureau-recovery" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 7. Credit Bureau Reporting & CIBIL Score Trajectory
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Both credit card and personal loan settlements result in a &quot;Settled&quot; or &quot;Post (WO) Settled&quot; status being transmitted to all four RBI-licensed credit information companies in India: TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. While both settlements cause an immediate CIBIL score drop of 75 to 150 points, their structural impact on your ongoing credit profile differs.
               </p>
@@ -678,7 +678,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
             <section id="step-by-step-multi-debt-protocol" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 8. Step-by-Step Multi-Debt Settlement talks Protocol
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Successfully resolving a multi-lender portfolio requires disciplined execution across five systematic phases to ensure complete legal compliance and authentic bank records:
               </p>
@@ -740,7 +740,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
             <section id="settleloans-defense-framework" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 9. SettleLoans Multi-Lender Defense Framework &amp; Representation
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Managing multi-lender debt talks independently while facing aggressive collection agents is intimidating and legally risky. SettleLoans provides a comprehensive institutional defense framework designed to protect your dignity, preserve your rights, and achieve maximum lawful debt reduction.
               </p>
@@ -764,7 +764,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                 </div>
                 <h3 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
                   Frequently Asked Questions: Credit Card vs Personal Loan Settlement
-                </h4>
+                </h3>
                 <p className="text-sm text-slate-600 mt-1">
                   Clear, authoritative answers to the most common legal, banking, and financial questions regarding multi-debt resolution.
                 </p>
@@ -894,7 +894,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm">
               <div className="flex items-center gap-3 mb-3">

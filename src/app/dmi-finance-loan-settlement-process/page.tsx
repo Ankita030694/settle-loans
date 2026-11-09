@@ -511,7 +511,7 @@ export default function DMIFinanceLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -787,7 +787,7 @@ export default function DMIFinanceLoanSettlementPage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         DMI Finance Loan Settlement &amp; Legal Defense Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -881,7 +881,7 @@ export default function DMIFinanceLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Documenting Genuine Financial Hardship
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Compile comprehensive documentary proof demonstrating bona fide, non-wilful financial incapacity. Essential records include salary slips showing pay cuts or termination letters, medical treatment discharge summaries, GST returns showing business revenue declines, or bank statements evidencing depleted liquidity. This establishes non-wilful default status under RBI guidelines.
                   </p>
@@ -892,7 +892,7 @@ export default function DMIFinanceLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking e-NACH Mandates &amp; Directing Formal Communication
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your bank to suspend or cancel the active e-NACH mandate to halt recurring debit bounce fees. Serve a formal written communication to DMI Finance directing that all future correspondence be conducted exclusively via registered email or through designated legal counsel, establishing a verifiable audit trail.
                   </p>
@@ -903,7 +903,7 @@ export default function DMIFinanceLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting a Formal OTS Hardship Petition
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Bypass third-party recovery tele-callers who lack financial delegation powers. Submit a formal settlement proposal directly to DMI Finance&apos;s Stressed Asset Management division and Principal Nodal Officer, proposing a realistic settlement figure (typically 35% to 50% of the core principal outstanding) backed by the hardship dossier.
                   </p>
@@ -914,7 +914,7 @@ export default function DMIFinanceLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Negotiating the Haircut &amp; Demanding 100% Penalty Waiver
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Conduct structured negotiations with DMI Finance credit officers. Insist on a complete 100% waiver of all accumulated bounce charges, late payment fees, and penal interest under the RBI Fair Lending Practice framework, arriving at an agreed, discounted lump-sum or structured 2-to-3 installment settlement.
                   </p>
@@ -952,7 +952,7 @@ export default function DMIFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Navigating Section 25 PSSA Notices, Online Arbitration &amp; National Lok Adalat
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 As unsecured fintech loan defaults cross 60 to 90 days, DMI Finance routinely initiates statutory legal steps. Understanding the precise legal mechanics prevents panic and empowers borrowers to utilize legal notices as strategic gateways to compromise settlements:
               </p>
@@ -1020,7 +1020,7 @@ export default function DMIFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating DMI Finance Settlement Letters &amp; Enforcing the ₹0 NDC Mandate
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A grave hazard in digital lending recovery involves unauthorized tele-callers or third-party collection agents issuing fraudulent or verbal settlement promises to secure partial collections. If a borrower deposits money without an authentic stamped sanction letter, DMI Finance&apos;s core banking system automatically applies the funds toward outstanding penal interest and overdue bounce charges, leaving the principal balance active, compounding, and in default.
               </p>
@@ -1054,7 +1054,7 @@ export default function DMIFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Recovery Plan
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following the execution of an OTS, DMI Finance reports the updated account status to all four authorized credit bureaus in India—TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. The loan status transitions from active &apos;Default&apos; or &apos;Written-Off&apos; to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-Off Settled&apos;</strong>, with the outstanding ledger balance reduced to exactly <strong>₹0</strong>.
               </p>
@@ -1103,7 +1103,7 @@ export default function DMIFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed DMI Finance Borrowers Trust SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating a high-stakes loan settlement with a major digital underwriter like DMI Finance requires deep financial knowledge, algorithmic insight, and seasoned legal advocacy. SettleLoans stops aggressive recovery tele-calling through immediate cease-and-desist notices, defends against Section 25 PSSA summons and digital arbitration notices, and negotiates directly with DMI Finance&apos;s Stressed Asset Desks to achieve maximum debt haircuts and authentic ₹0 No Dues Certificates.
               </p>
@@ -1122,7 +1122,7 @@ export default function DMIFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About DMI Finance Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1283,7 +1283,7 @@ export default function DMIFinanceLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

@@ -392,7 +392,7 @@ export default function CreditCardSettlementPage() {
                  <h3 className="text-xl font-bold text-gray-800 mb-2 flex items-center">
                     <FontAwesomeIcon icon={faLandmark} className="mr-3 text-green-600 w-6 h-6" />
                     Board Approved Settlement
-                 </h2>
+                 </h3>
                  <p className="text-gray-700 text-sm">
                    The RBI mandates that every bank must have a Board-approved policy for <strong>Compromise Settlements</strong> of NPAs. This means they are <em>legally authorized</em> to offer you a discount if you cannot pay.
                  </p>
@@ -402,7 +402,7 @@ export default function CreditCardSettlementPage() {
                  <h3 className="text-xl font-bold text-gray-800 mb-2 flex items-center">
                     <FontAwesomeIcon icon={faShieldHalved} className="mr-3 text-blue-600 w-6 h-6" />
                     Fair Practices Code
-                 </h2>
+                 </h3>
                  <p className="text-gray-700 text-sm">
                    Under the RBI's "Fair Practices Code", recovery agents cannot call before 08:00 AM or after 07:00 PM, nor can they use abusive language or threaten physical harm.
                  </p>
@@ -412,7 +412,7 @@ export default function CreditCardSettlementPage() {
                  <h3 className="text-xl font-bold text-gray-800 mb-2 flex items-center">
                     <FontAwesomeIcon icon={faUserShield} className="mr-3 text-purple-600 w-6 h-6" />
                     Right to Privacy
-                 </h2>
+                 </h3>
                  <p className="text-gray-700 text-sm">
                    Your debt is a private contract. Agents cannot shame you publicly, contact your employer without permission (unless you are uncontactable), or threaten to "ruin your reputation" in your society. SettleLoans helps enforce this right strictly.
                  </p>
@@ -486,7 +486,7 @@ export default function CreditCardSettlementPage() {
                    <div className="absolute -left-[14px] md:-left-[18px] top-0 w-6 h-6 md:w-8 md:h-8 rounded-full bg-white border-4 border-[#1F5EFF] flex items-center justify-center z-10 group-hover:scale-110 transition-transform shadow-sm"></div>
                    <h3 className="text-xl font-black text-[#1F5EFF] mb-2 flex items-center">
                      <span className="opacity-50 text-3xl mr-4 -mt-2 font-mono">{item.step}</span> {item.title}
-                   </h2>
+                   </h3>
                    <p className="text-[var(--color-text-body)] opacity-90 leading-relaxed max-w-3xl">{item.desc}</p>
                 </div>
               ))}
@@ -617,7 +617,7 @@ export default function CreditCardSettlementPage() {
            <section className="scroll-mt-32">
               <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
                The Hidden Cost: Mental Health
-              </h3>
+              </h2>
               <div className="bg-orange-50 border-l-4 border-orange-500 p-6 rounded-r-xl text-orange-900">
                  <p className="mb-4">
                    Debt is not just a financial number; it is a heavy emotional burden. Our clients often report:
@@ -638,7 +638,7 @@ export default function CreditCardSettlementPage() {
           <section id="write-off-vs-waive-off" className="scroll-mt-32">
              <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               "Written Off" vs "Waived Off" - Know the Difference
-            </h3>
+            </h2>
             <div className="flex flex-col gap-6">
                <div className="bg-red-50 p-6 rounded-xl border-l-4 border-red-500">
                   <h3 className="text-lg font-bold text-red-800 mb-2">Write-off (Bad for you)</h3>
@@ -659,7 +659,7 @@ export default function CreditCardSettlementPage() {
           <section id="post-settlement" className="scroll-mt-32 bg-gradient-to-br from-indigo-50 to-blue-50 p-8 md:p-12 rounded-3xl border border-indigo-100">
             <h2 className="text-3xl font-bold text-indigo-900 mb-6 flex items-center">
               <FontAwesomeIcon icon={faHandHoldingDollar} className="mr-3 text-indigo-600 w-12 h-12" /> Life After Settlement
-            </h3>
+            </h2>
             <p className="mb-8 text-indigo-800 text-lg">
               Many clients fear that "Settlement" equals financial death. It does not. It is a comma, not a full stop. It is a strategic pause to rebuild your foundation.
             </p>
@@ -734,7 +734,7 @@ export default function CreditCardSettlementPage() {
           {/* FAQs - Expanded */}
           <h2 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
             Frequently Asked Questions
-          </h3>
+          </h2>
           <div className="space-y-4 not-prose mb-20">
             {[
               { 

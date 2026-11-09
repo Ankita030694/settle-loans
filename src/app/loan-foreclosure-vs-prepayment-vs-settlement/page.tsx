@@ -656,7 +656,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Income Tax Implications: Retail vs. Commercial Borrowers (Section 194R &amp; Section 41(1))
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the Income Tax Act, 1961, the tax impact of a waived loan depends on your loan type:
               </p>
@@ -885,7 +885,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
             <section id="three-way-comparative-decision-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comprehensive 3-Way Comparative Decision Matrix Table
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative matrix below outlines every legal, financial, legal. And operational parameter across all three exit options:
               </p>

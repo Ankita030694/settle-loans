@@ -719,7 +719,7 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Trading &amp; Crypto Debt Settlement: Resolution Roadmap
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -991,7 +991,7 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Trading &amp; Crypto Loss Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {(jsonLdGraph['@graph'][4] as any).mainEntity.map((faq: any, index: number) => (
@@ -1139,7 +1139,7 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
           </main>
 
           {/* Right Column: Author Bio, Emergency Advocate CTA, Trust Signals */}
-          <aside className="w-full sticky top-24 space-y-6 h-fit">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6 h-fit">
             
             {/* Author Bio Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">

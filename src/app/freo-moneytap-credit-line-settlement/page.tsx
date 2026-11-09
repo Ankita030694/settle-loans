@@ -498,7 +498,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -827,7 +827,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-black">2</span>
                     Establishing Bona Fide Commercial Hardship
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Gather clear proof of financial distress. Useful proofs include job loss letters, medical bills, or salary cuts. This shows genuine, non-wilful default.
                   </p>
@@ -837,7 +837,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-black">3</span>
                     Submitting the Formal Hardship &amp; OTS Petition
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Send a formal settlement letter. Contact the Stressed Assets Desk at RBL Bank or DMI Finance. Also copy the Nodal Officer. Ask for full fee waivers.
                   </p>
@@ -987,7 +987,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1052,7 +1052,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/rbl-bank-credit-card-loan-settlement"
@@ -1119,7 +1119,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

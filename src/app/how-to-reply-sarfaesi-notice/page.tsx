@@ -319,7 +319,7 @@ export default function SarfaesiReplyPage() {
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
                 <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
                   A Specialized DRT Lawyer Will:
-                </h2>
+                </h3>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -375,7 +375,7 @@ export default function SarfaesiReplyPage() {
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
                 <h3 className="text-xl font-black text-red-700 mb-4">
                   Do Not Make These Errors
-                </h2>
+                </h3>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="font-black text-red-700">✗</span>
@@ -397,7 +397,7 @@ export default function SarfaesiReplyPage() {
             <section id="success-stories" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h3>
+              </h2>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 {/* Card 1 */}
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -453,7 +453,7 @@ export default function SarfaesiReplyPage() {
             <section id="faqs" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h3>
+              </h2>
               <div className="space-y-4">
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
                   <summary className="font-bold text-lg text-[#2E2E2E] outline-none">What is a SARFAESI 13(2) notice?</summary>

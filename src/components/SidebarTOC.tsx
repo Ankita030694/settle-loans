@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useEffect, useState } from 'react';
-import { BookOpen } from 'lucide-react';
+import { BookOpen, ChevronDown } from 'lucide-react';
 
 export interface TOCItem {
   id: string;
@@ -14,6 +14,7 @@ interface SidebarTOCProps {
 
 export default function SidebarTOC({ items = [] }: SidebarTOCProps) {
   const [activeId, setActiveId] = useState<string>(items[0]?.id || '');
+  const [isMobileOpen, setIsMobileOpen] = useState<boolean>(false);
 
   useEffect(() => {
     if (!items || items.length === 0) return;
@@ -63,17 +64,34 @@ export default function SidebarTOC({ items = [] }: SidebarTOCProps) {
       const y = el.getBoundingClientRect().top + window.pageYOffset + yOffset;
       window.scrollTo({ top: y, behavior: 'smooth' });
       setActiveId(id);
+      setIsMobileOpen(false);
     }
   };
 
   return (
     <div className="space-y-4">
       <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4 shadow-sm">
-        <div className="flex items-center gap-2 pb-3 mb-3 border-b border-slate-200 text-slate-900 font-bold text-sm">
-          <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
-          <span>Table of Contents</span>
-        </div>
-        <nav className="space-y-1 text-xs">
+        <button
+          type="button"
+          onClick={() => setIsMobileOpen((prev) => !prev)}
+          aria-expanded={isMobileOpen}
+          className="w-full flex items-center justify-between gap-2 text-slate-900 font-bold text-sm lg:cursor-default lg:pb-3 lg:mb-3 lg:border-b lg:border-slate-200"
+        >
+          <span className="flex items-center gap-2">
+            <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
+            <span>Table of Contents</span>
+          </span>
+          <ChevronDown
+            className={`w-4 h-4 text-slate-500 transition-transform duration-200 lg:hidden ${
+              isMobileOpen ? 'rotate-180' : ''
+            }`}
+          />
+        </button>
+        <nav
+          className={`${
+            isMobileOpen ? 'block pt-3 mt-3 border-t border-slate-200' : 'hidden'
+          } lg:block lg:pt-0 lg:mt-0 lg:border-t-0 space-y-1 text-xs`}
+        >
           {items.map((item) => {
             const isActive = activeId === item.id;
             return (

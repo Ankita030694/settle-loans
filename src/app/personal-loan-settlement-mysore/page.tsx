@@ -508,7 +508,7 @@ export default function PersonalLoanSettlementMysorePage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -722,7 +722,7 @@ export default function PersonalLoanSettlementMysorePage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Personal Loan Settlement &amp; Legal Conciliation Roadmap in Karnataka
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -781,7 +781,7 @@ export default function PersonalLoanSettlementMysorePage() {
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Laptop className="w-5 h-5 text-[#1F5EFF]" />
                     <span>1. IT Software Engineers, Tech Leads &amp; Remote Consultants</span>
-                  </h2>
+                  </h3>
                   <p className="text-slate-700 leading-relaxed text-sm md:text-base">
                     Tech specialists in Hebbal IT parks or remote consultants in Vijayanagar, Gokulam, and Kuvempunagar often carry multiple unsecured personal loans and credit cards. When restructuring or compensation freezes strike, servicing high EMIs becomes unsustainable. SettleLoans negotiates discreetly with bank Zonal Desks, invokes Section 60(1)(i) CPC salary exemptions, and resolves liabilities through heavily discounted settlements without workplace exposure.
                   </p>
@@ -791,7 +791,7 @@ export default function PersonalLoanSettlementMysorePage() {
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Store className="w-5 h-5 text-[#1F5EFF]" />
                     <span>2. Heritage Silk Merchants, Sandalwood Artisans &amp; Tourism Operators</span>
-                  </h2>
+                  </h3>
                   <p className="text-slate-700 leading-relaxed text-sm md:text-base">
                     Traders along Sayyaji Rao Road, Mandi Mohalla, and tourist zones face sharp seasonal revenue drops. Many rely on unsecured commercial loans for inventory. When receivables stall, repayments collapse. Our advocates compile GST records and audited statements into a verified hardship dossier, securing 45% to 60% principal waivers from bank Credit Committees.
                   </p>
@@ -801,7 +801,7 @@ export default function PersonalLoanSettlementMysorePage() {
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Building2 className="w-5 h-5 text-[#1F5EFF]" />
                     <span>3. Agro-Processing Founders, Sugar Unit Suppliers &amp; Mandya MSMEs</span>
-                  </h2>
+                  </h3>
                   <p className="text-slate-700 leading-relaxed text-sm md:text-base">
                     Industrial units in Mandya and Belagola/Nanjangud face liquidity crunches from long corporate credit cycles and raw material swings. Borrowers often face Section 138 notices on machinery top-up loans. SettleLoans audits debt accounts for improper penal charges and negotiates structured compromise packages through bank Stressed Assets Committees.
                   </p>
@@ -837,7 +837,7 @@ export default function PersonalLoanSettlementMysorePage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Forensics: Verifying Legitimate OTS Documents &amp; ₹0 NDC Delivery
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Verifying settlement documentation before remitting funds is vital to protect against recovery agency fraud. Disreputable agencies often issue fake letters or verbal promises, diverting payments into suspense accounts while leaving the debt active. SettleLoans audits every settlement document before authorizing client disbursement.
               </p>
@@ -857,7 +857,7 @@ export default function PersonalLoanSettlementMysorePage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; Systematic Credit Restoration Strategy
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following an OTS, the lender reports the account to credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) as &apos;Settled&apos; with a ₹0 balance. While this results in an initial 75–150 point score reduction and a 12-to-18-month cooling period, it permanently halts active default compounding and litigation risk.
               </p>
@@ -920,7 +920,7 @@ export default function PersonalLoanSettlementMysorePage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Borrowers Across Mysore &amp; Mandya Trust SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving unsecured personal loan defaults, multi-bank credit card balances, and distressed business credit lines across Mysore and Mandya requires specialized banking jurisprudence, rigorous financial forensic accounting, and direct institutional engagement with bank Stressed Assets Committees. SettleLoans delivers total anti-harassment protection, robust legal defense in local district courts, maximized debt haircuts, and authentic ₹0 No Dues Certificates delivered with complete transparency and confidentiality.
               </p>
@@ -939,7 +939,7 @@ export default function PersonalLoanSettlementMysorePage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Loan Settlement in Mysore &amp; Karnataka
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1101,7 +1101,7 @@ export default function PersonalLoanSettlementMysorePage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

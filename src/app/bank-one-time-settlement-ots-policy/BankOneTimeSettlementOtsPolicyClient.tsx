@@ -734,7 +734,7 @@ Residential Address: [Your Full Postal Address]`;
                 <h3 className="text-base md:text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
                   <FileSpreadsheet className="w-5 h-5 text-[#1F5EFF]" />
                   Mathematical Case Study: ₹10 Lakh Unsecured Personal Loan in Doubtful-2 NPA
-                </h2>
+                </h3>
                 <div className="space-y-3 text-xs md:text-sm text-slate-700">
                   <p>
                     <strong>Book Ledger Balance:</strong> Principal ₹7,00,000 + Accrued Penal Interest ₹3,00,000 = <strong>₹10,00,000</strong>.
@@ -931,7 +931,7 @@ Residential Address: [Your Full Postal Address]`;
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Bank One-Time Settlement (OTS) Summary &amp; Process Overview
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -1062,7 +1062,7 @@ Residential Address: [Your Full Postal Address]`;
             <section id="sanction-letter-audit-ndc-protocol" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Sanction Letter Audit & RBI 30-Day NDC Mandate
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Over 40% of borrowers who attempt settlement independently fall victim to payment traps. Many transfer funds based on phone calls or WhatsApp messages from recovery agents, only to discover the bank credited the money as part-payment without closing the loan account.</p>
 
@@ -1127,7 +1127,7 @@ Residential Address: [Your Full Postal Address]`;
             <section id="cibil-impact-credit-rebuilding" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 10. CIBIL Impact &amp; Credit Score recovery Post-OTS
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 A One-Time Settlement successfully eliminates debt and ends all legal risks, but it does carry credit bureau consequences. Understanding this lifecycle ensures realistic financial planning:
               </p>
@@ -1328,7 +1328,7 @@ Residential Address: [Your Full Postal Address]`;
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

@@ -253,7 +253,7 @@ export default function LoanContractLawyerPage() {
                             <div className="bg-[#EBF2FF] p-8 rounded-2xl border-l-4 border-[#1F5EFF] my-10 shadow-sm">
                                 <h3 className="text-xl font-bold text-[#2E2E2E] mb-4 uppercase tracking-wider">
                                     The "Enforceability" Test:
-                                </h2>
+                                </h3>
                                 <p className="text-gray-700 leading-relaxed italic">
                                     "A loan agreement that is improperly stamped or missing an acceleration clause is like a lock without a key. You can see your money, but you cannot access the legal system to get it back."
                                 </p>
@@ -317,7 +317,7 @@ export default function LoanContractLawyerPage() {
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-lg transition-all">
                                     <h3 className="font-bold text-lg mb-3 text-[#1F5EFF] flex items-center gap-2">
                                         <FontAwesomeIcon icon={faShieldAlt} /> Affirmative Covenants
-                                    </h2>
+                                    </h3>
                                     <p className="text-sm text-gray-600 italic">"The borrower WILL do..."</p>
                                     <p className="text-sm mt-3 text-gray-700">Maintaining insurance on assets, submitting annual audited balance sheets, and keeping the business as a 'Going Concern'.</p>
                                 </div>
@@ -458,7 +458,7 @@ export default function LoanContractLawyerPage() {
                         <section id="regulatory-compliance" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Regulatory Compliance: RBI & State Money Lending Laws
-                            </h3>
+                            </h2>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 A loan contract doesn't exist in a vacuum. It is governed by layers of regulation that can override your contract if it's not compliant.
                             </p>
@@ -528,7 +528,7 @@ export default function LoanContractLawyerPage() {
                         <section id="contract-faq" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Frequently Asked Questions: Loan Contract Lawyer
-                            </h3>
+                            </h2>
                             <div className="space-y-8">
                                 <div className="border-b border-gray-100 pb-6">
                                     <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">1. What makes a loan agreement legally valid in India?</h3>

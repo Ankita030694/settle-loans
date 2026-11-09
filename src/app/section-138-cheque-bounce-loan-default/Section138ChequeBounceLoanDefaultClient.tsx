@@ -473,7 +473,7 @@ SettleLoans Legal Advisory Network`;
                     </div>
                     <h3 className="font-bold text-slate-900 text-base">
                       Cheque Dishonour &amp; Return Memo
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed mb-2">
                     The cheque must be presented to the bank within its validity period of <strong>3 months</strong> from the date inscribed on it. Upon dishonour, the drawee bank issues a formal &quot;Cheque Return Memo&quot; specifying the reason (e.g. &quot;Funds Insufficient&quot; or &quot;Account Closed&quot;).
@@ -490,7 +490,7 @@ SettleLoans Legal Advisory Network`;
                     </div>
                     <h3 className="font-bold text-slate-900 text-base">
                       Mandatory 30-Day Legal Demand Notice
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed mb-2">
                     Under Section 138(b), the bank MUST issue a formal statutory demand notice in writing within <strong>30 calendar days</strong> of receiving the cheque dishonour memo from the clearing house. If dispatched on Day 31, the entire proceeding is void ab initio.
@@ -507,7 +507,7 @@ SettleLoans Legal Advisory Network`;
                     </div>
                     <h3 className="font-bold text-slate-900 text-base">
                       15-Day Statutory Cure Period
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed mb-2">
                     Upon receipt of the legal notice, the law gives the borrower a mandatory <strong>15-day cure window</strong> to respond or arrange settlement. No criminal offence exists during these 15 days. The bank is legally barred from filing any court complaint until Day 16.
@@ -524,7 +524,7 @@ SettleLoans Legal Advisory Network`;
                     </div>
                     <h3 className="font-bold text-slate-900 text-base">
                       30-Day Court Complaint Window
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed mb-2">
                     If payment is not made within 15 days, the statutory cause of action arises on Day 16. The bank has exactly <strong>30 calendar days</strong> to file a private criminal complaint before the Judicial Magistrate / Metropolitan Magistrate under Section 142.
@@ -553,7 +553,7 @@ SettleLoans Legal Advisory Network`;
                   <div className="flex items-center justify-between gap-3 mb-2">
                     <h3 className="text-lg font-bold text-slate-900">
                       Dashrathbhai Trikambhai Patel v. Hitesh Mahendrabhai Patel (2022) 10 SCC 594
-                    </h2>
+                    </h3>
                     <span className="text-xs bg-[#1F5EFF]/10 text-[#1F5EFF] font-bold py-1 px-2.5 rounded-full whitespace-nowrap">
                       Landmark 3-Judge Bench
                     </span>
@@ -571,7 +571,7 @@ SettleLoans Legal Advisory Network`;
                   <div className="flex items-center justify-between gap-3 mb-2">
                     <h3 className="text-lg font-bold text-slate-900">
                       Indus Airways Pvt. Ltd. v. Magnum Aviation Pvt. Ltd. (2014) 12 SCC 539
-                    </h2>
+                    </h3>
                     <span className="text-xs bg-slate-200 text-slate-700 font-bold py-1 px-2.5 rounded-full whitespace-nowrap">
                       Security Cheque Precedent
                     </span>
@@ -602,7 +602,7 @@ SettleLoans Legal Advisory Network`;
             <section id="legal-defense-strategies" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Key Legal Defense Strategies for Personal Loan Borrowers
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 When faced with Section 138 legal notices or court proceedings, borrowers often feel helpless due to aggressive collection calls. However, under the law, an experienced debt defense advocate can raise powerful, evidence-backed defenses to invalidate the bank&apos;s criminal complaint:
               </p>
@@ -710,7 +710,7 @@ SettleLoans Legal Advisory Network`;
             <section id="court-summons-bail-protocol" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Court Summons, Bailable Warrants (BW), and Bail Protocol
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A major source of anxiety for borrowers is understanding what actually happens when a Section 138 complaint is filed in court. Misleading recovery agents often claim that police will arrive at night with handcuffs. In reality, Indian criminal procedure provides structured, bailable safeguards:
               </p>
@@ -749,7 +749,7 @@ SettleLoans Legal Advisory Network`;
             <section id="notice-reply-template" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Official Advocate Reply to 15-Day Legal Notice (Interactive Template)
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Responding to the bank&apos;s statutory demand notice within 15 days is your most powerful strategic tool. A well-drafted legal reply establishes your defense on record, places the bank on notice regarding Section 56 violations, prevents surprise ex-parte orders, and initiates structured settlement talks.
               </p>
@@ -788,7 +788,7 @@ SettleLoans Legal Advisory Network`;
             <section id="compounding-ots-settlement" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Section 147 Compounding &amp; One-Time Settlement (OTS)
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The ultimate objective of handling a Section 138 personal loan case is not protracted multi-year criminal litigation, but achieving complete, permanent debt closure without a criminal record. Under <strong>Section 147 of the Negotiable Instruments Act</strong>, every offence under the chapter is explicitly compoundable.
               </p>
@@ -819,7 +819,7 @@ SettleLoans Legal Advisory Network`;
             <section id="comparative-legal-matrix" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Comparative Legal Process Matrix
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 Understanding the distinct avenues used by lending institutions allows borrowers to recognize the difference between legitimate judicial procedures and unlawful third-party recovery harassment.
               </p>
@@ -936,7 +936,7 @@ SettleLoans Legal Advisory Network`;
                   </span>
                   <h2 className="text-2xl md:text-3xl font-black text-slate-900">
                     Frequently Asked Questions on Section 138 Cheque Bounce
-                  </h3>
+                  </h2>
                 </div>
               </div>
 
@@ -1089,7 +1089,7 @@ SettleLoans Legal Advisory Network`;
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

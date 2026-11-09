@@ -509,7 +509,7 @@ export default function MPokketLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -791,7 +791,7 @@ export default function MPokketLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Documenting Involuntary Financial Hardship
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Compile verifiable documentary proof establishing non-wilful financial incapacity. Essential records include college semester fee receipts, exam postponement notices, layoff letters, medical hospitalization bills, or bank statements showing depleted liquidity. This substantiates non-wilful default under RBI compromise guidelines.
                   </p>
@@ -802,7 +802,7 @@ export default function MPokketLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking e-NACH Mandates &amp; Directing Formal Communication
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your bank to revoke the active e-NACH/UPI AutoPay mandate to stop recurring debit bounce charges. Concurrently, serve a written communication to Maybright Ventures directing that all future correspondence be conducted exclusively via registered email or designated legal counsel, establishing a permanent audit trail.
                   </p>
@@ -813,7 +813,7 @@ export default function MPokketLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting a Formal OTS Hardship Petition
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Bypass third-party recovery call centers that lack financial settlement authority. Submit a formal settlement proposal directly to Maybright Ventures&apos; Stressed Asset Management Desk and Principal Nodal Officer, proposing a realistic settlement figure (typically 40% to 50% of the core principal) backed by the hardship dossier.
                   </p>
@@ -824,7 +824,7 @@ export default function MPokketLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Negotiating the Haircut &amp; Securing 100% Penalty Waivers
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Engage in structured compromise discussions with Maybright&apos;s settlement desk. Insist on a complete 100% cancellation of all daily overdue penalties, extension charges, and return fees under RBI Fair Lending Directions, arriving at an agreed, discounted lump-sum settlement.
                   </p>
@@ -835,7 +835,7 @@ export default function MPokketLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Verification of the Official OTS Sanction Letter
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Prior to transferring any funds, conduct a forensic audit of the settlement letter. Verify that it is issued on official Maybright Ventures Private Limited letterhead, citing your unique loan agreement number, exact settlement amount, payment deadline, and explicit covenants confirming complete liability extinguishment and withdrawal of collection actions.
                   </p>
@@ -862,7 +862,7 @@ export default function MPokketLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Neutralizing Fake WhatsApp Police Notices and Defending Section 25 PSSA Summons
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 As unsecured app loan defaults cross 60 to 90 days, collection agencies frequently deploy aggressive digital communication tactics to trigger panic among young borrowers. Understanding the distinction between fabricated scare tactics and legitimate statutory notices is vital for protecting your legal rights:
               </p>
@@ -930,7 +930,7 @@ export default function MPokketLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Maybright OTS Letters &amp; Enforcing the Mandatory ₹0 No Dues Certificate
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A grave danger confronting young borrowers is making payments against unauthorized verbal promises or WhatsApp messages from recovery agents. If a borrower deposits money without an authentic stamped sanction letter, Maybright&apos;s core banking system automatically credits the funds toward accrued penal fees and interest, leaving the core principal active, compounding, and in default.
               </p>
@@ -964,7 +964,7 @@ export default function MPokketLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; 18-Month Credit Rehabilitation Plan
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following the execution of an OTS, Maybright Ventures reports the updated account status to all four authorized credit bureaus in India—TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. The loan status transitions from active &apos;Default&apos; or &apos;Written-Off&apos; to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-Off Settled&apos;</strong>, with the outstanding ledger balance reduced to exactly <strong>₹0</strong>.
               </p>
@@ -1010,7 +1010,7 @@ export default function MPokketLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Young Borrowers and First-Time Defaulters Trust SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving defaulted app loans with digital lenders like mPokket requires seasoned banking knowledge, algorithmic insight, and firm legal advocacy. SettleLoans halts aggressive tele-calling and family contact threats through immediate cease-and-desist notices, defends against Section 25 PSSA notices, and negotiates directly with Maybright Ventures&apos; Stressed Asset Desks to secure maximum debt waivers and authentic ₹0 No Dues Certificates.
               </p>
@@ -1029,7 +1029,7 @@ export default function MPokketLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About mPokket Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1190,7 +1190,7 @@ export default function MPokketLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

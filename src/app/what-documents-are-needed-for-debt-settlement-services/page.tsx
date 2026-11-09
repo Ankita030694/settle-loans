@@ -600,7 +600,7 @@ export default function DocumentRequirementsPage() {
                   <h3 className="text-2xl font-black mb-6 text-[#1F5EFF] flex items-center gap-4">
                     <span className="bg-[#1F5EFF] text-white px-3 py-1 rounded-lg text-sm uppercase">Sample A</span>
                     Unforeseen Unemployment
-                  </h2>
+                  </h3>
                   <div className="font-mono text-sm leading-relaxed text-gray-700 whitespace-pre-wrap border-l-4 border-[#1F5EFF] pl-8 py-4 italic">
                     "Subject: Request for Amicable One-Time Settlement (OTS) - Loan A/C [Number]\n\nRespected Branch Manager,\n\nI am writing this letter to formally request a settlement for my outstanding personal loan dues. Until July 2023, I was a regular payer with a clean track record. However, on August 15, 2023, my current employer [Company Name] downsized its operations, leading to my immediate termination (Proof Attached).\n\nDespite my best efforts, I have not been able to secure a stable income for the last 6 months. Currently, I am surviving on my wife's minimal income and have exhausted all my savings. I genuinely wish to honor my debt but am physically unable to pay the full outstanding balance of ₹[Total Amount].\n\nI have organized a sum of ₹[Settlement Amount] by borrowing from a close relative. This is my final and best offer to close this account permanently. I request you to consider this on humanitarian grounds and issue an OTS letter."
                   </div>
@@ -768,7 +768,7 @@ export default function DocumentRequirementsPage() {
             <section id="dealing-with-lost-papers" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">
                 Handling Lost Documents: Forensic Retrieval
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-6 font-medium">
                 "I don't have my papers anymore" is the most common reason people avoid settlement. It shouldn't be.
               </p>

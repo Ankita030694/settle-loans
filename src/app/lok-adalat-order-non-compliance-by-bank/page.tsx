@@ -613,7 +613,7 @@ export default function LokAdalatOrderNonCompliancePage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Landmark className="w-4 h-4 text-indigo-600" />
                     <span>Attachment of Bank Branch Operating Accounts (Order 21 Rule 43 &amp; 46 CPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If a bank took extra money, the court issues a Garnishee Order. This freezes the bank branch&apos;s RBI account until the decree is paid.
                   </p>
@@ -622,7 +622,7 @@ export default function LokAdalatOrderNonCompliancePage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-purple-600" />
                     <span>Territorial Jurisdiction of the Executing Court</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Sections 38 and 39 CPC, file the petition where the case started. Or file where the bank branch is located.
                   </p>
@@ -951,7 +951,7 @@ export default function LokAdalatOrderNonCompliancePage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://nalsa.gov.in"
@@ -997,7 +997,7 @@ export default function LokAdalatOrderNonCompliancePage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/case-study-sbi-lok-adalat-settlement"

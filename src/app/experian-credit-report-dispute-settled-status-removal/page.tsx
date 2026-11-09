@@ -639,7 +639,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Fragmented Multi-Bureau Member Reporting Feeds</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Banks often update CIBIL first and delay Experian files. Any format glitch or data error can freeze your Experian profile in default status.
                   </p>
@@ -648,7 +648,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <CreditCard className="w-4 h-4 text-purple-600" />
                     <span>Lingering Phantom Overdue Balances &amp; DPD Accumulation</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Some bank systems leave waived amounts in the overdue field. Showing an overdue balance on a settled account lowers your credit score every month.
                   </p>
@@ -996,7 +996,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Credit Information Companies (Regulation) Act, 2005 (CICRA Section 21)</span></span>
                 <a
@@ -1042,7 +1042,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Credit Repair &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/case-study-cibil-status-settled-to-closed"

@@ -517,7 +517,7 @@ export default function FederalBankLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -786,7 +786,7 @@ export default function FederalBankLoanSettlementPage() {
                   <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <Clock className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Strict Calling Hours (08:00 AM – 07:00 PM)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Agents may call only between 8:00 AM and 7:00 PM. Calls before 8 AM or after 7 PM are illegal. Repeat auto-dialing is also banned.
                   </p>
@@ -795,7 +795,7 @@ export default function FederalBankLoanSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                     <span>No Contact With Third Parties</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Agents cannot call employers, friends, or neighbors. Sharing loan details violates DPDP laws and RBI rules.
                   </p>
@@ -804,7 +804,7 @@ export default function FederalBankLoanSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <Building2 className="w-4 h-4 text-[#1F5EFF]" />
                     <span>No Office Visits</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Office visits meant to shame borrowers are illegal. Field agents must show bank ID cards. They must respect your privacy.
                   </p>
@@ -1002,7 +1002,7 @@ export default function FederalBankLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Federal Bank Borrowers Choose SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling a Federal Bank loan requires expert legal handling. SettleLoans stops recovery harassment with legal notices. We defend Section 138 and Section 25 court cases. We audit statements to waive illegal fees. Our team talks directly with Federal Bank SAMD desks. We negotiate at Aluva and zonal hubs. We secure top debt cuts and your ₹0 No Dues Certificate.
               </p>
@@ -1048,7 +1048,7 @@ export default function FederalBankLoanSettlementPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1113,7 +1113,7 @@ export default function FederalBankLoanSettlementPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
@@ -1180,7 +1180,7 @@ export default function FederalBankLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

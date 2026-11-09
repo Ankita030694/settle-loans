@@ -823,7 +823,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Bureau Rehabilitation Overview
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 After settlement, banks update credit bureaus to <strong>&quot;Settled&quot;</strong> with a <strong>₹0</strong> balance. This stops negative marks. You can restore your score to 750+ within 18 to 24 months.
               </p>
@@ -833,7 +833,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
             <section id="guwahati-settlement-vs-litigation-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Guwahati Banking Settlement vs. Court Litigation Matrix
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing bank OTS and court trials shows why settlement is the smarter choice:
               </p>

@@ -389,7 +389,7 @@ export default function NaviAppLoanSettlementClient() {
                 <h3 className="font-bold text-xs sm:text-sm text-slate-900 flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Crucial Distinctions: Genuine Statutory Notice vs. Fake Agent Threat</span>
-                </h2>
+                </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-lg border border-slate-200">
                     <p className="font-bold text-emerald-800 mb-1">Authentic Section 25 PSSA Notice:</p>
@@ -647,7 +647,7 @@ export default function NaviAppLoanSettlementClient() {
             <section id="navi-settlement-comparative-matrix" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Resolution Matrix: DIY App Settlement vs. Ignoring Default vs. Legal Advocate OTS
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Distressed borrowers facing default on Navi app personal loans generally consider three paths. The comparative matrix below outlines the legal exposure, financial outcome, and credit implications of each approach:
               </p>

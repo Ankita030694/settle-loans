@@ -485,7 +485,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -656,7 +656,7 @@ Unsecured personal loans and micro-business credit lack physical collateral. Equ
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Equitas Small Finance Bank Loan Settlement &amp; Legal Defense Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -884,7 +884,7 @@ Borrowers can rebuild their CIBIL score back to 750+ within 18 to 24 months. Tak
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Equitas SFB Borrowers Trust SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg"> Settling a defaulted loan with Equitas Small Finance Bank requires legal and financial expertise. SettleLoans halts recovery agent harassment with legal cease-and-desist notices. We reply to Section 25 PSSA notices, contest one-sided arbitration. and negotiate directly with Equitas SFB Stressed Assets Desks. Our team secures 40% to 60% debt waivers and authentic ₹0 No Dues Certificates. </p>
 
               {/* Placement of Reusable CompanySection */}
@@ -1011,7 +1011,7 @@ Borrowers can rebuild their CIBIL score back to 750+ within 18 to 24 months. Tak
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

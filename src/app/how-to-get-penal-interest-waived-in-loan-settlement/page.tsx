@@ -575,7 +575,7 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Civil Law Protections: Section 74 of the Indian Contract Act, 1872
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Beyond RBI circulars, borrowers are protected by foundational civil contract law. Under <strong>Section 74 of the Indian Contract Act, 1872</strong> (Compensation for breach of contract where penalty stipulated for), the law draws a strict distinction between legitimate liquidated damages and unconscionable penalties:
               </p>
@@ -927,7 +927,7 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
             <section id="forensic-audit-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Resolution Matrix: Forensic Audit vs. Unchecked Bank Recovery
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the stark mathematical and legal contrast between unrepresented debt negotiations and advocate-led forensic audit settlements demonstrates the vital importance of isolating genuine principal:
               </p>

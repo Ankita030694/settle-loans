@@ -491,7 +491,7 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Axis Bank Business Loan Settlement: ₹15L to ₹5.5L Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -676,7 +676,7 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
             <section id="comparative-resolution-matrix" className="mb-10 scroll-mt-24">
               <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Comparative Resolution Matrix: Commercial OTS vs. IBC/NCLT vs. DRT Litigation
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Distressed enterprise owners must evaluate the comparative advantages of commercial One-Time Settlements against alternative institutional debt resolution avenues available under Indian banking jurisprudence:
               </p>
@@ -901,7 +901,7 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
           </main>
 
           {/* Right Column: Sidebar Cards */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

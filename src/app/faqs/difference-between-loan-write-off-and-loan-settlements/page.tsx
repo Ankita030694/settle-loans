@@ -157,7 +157,7 @@ export default function LoanWriteOffVsSettlementPage() {
                                 <h3 className="text-lg font-bold text-orange-900 mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faCircleExclamation} className="text-orange-500" />
                                     The "Written-Off" Trap
-                                </h2>
+                                </h3>
                                 <p className="text-orange-800">
                                     Many borrowers wake up to find their loan status changed to "Written-Off" in their credit reports and assume the bank has "given up" on the money. This is arguably the most dangerous assumption in personal finance. A write-off is a transfer of debt from the active balance sheet to the recovery department; it is not a waiver of your liability.
                                 </p>
@@ -209,7 +209,7 @@ export default function LoanWriteOffVsSettlementPage() {
                                 <h3 className="text-lg font-bold text-green-900 mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faCheck} className="text-green-500" />
                                     The Legal Immunity of Settlement
-                                </h2>
+                                </h3>
                                 <p className="text-green-800">
                                     The primary benefit of a settlement is legal immunity. Once you have a valid No Dues Certificate, the bank cannot take any future legal action against you for that specific loan account. The recovery calls stop, and any active court cases are withdrawn.
                                 </p>
@@ -342,7 +342,7 @@ export default function LoanWriteOffVsSettlementPage() {
                                 <h3 className="text-red-900 font-bold mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faTriangleExclamation} />
                                     The SARFAESI Timeline:
-                                </h2>
+                                </h3>
                                 <ul className="space-y-3 text-red-800 text-sm">
                                     <li>**Notice 13(2):** Gives the borrower 60 days to clear the dues.</li>
                                     <li>**Notice 13(4):** Gives the bank the right to take physical possession of the asset.</li>
@@ -539,7 +539,7 @@ export default function LoanWriteOffVsSettlementPage() {
                         <section id="institutional-memory" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Institutional Memory: How Long Do Banks Remember?
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 While CIBIL records might fade after 7 years, **Internal Bank Records** (known as 'Institutional Memory') often last forever. If you default on a loan with Bank A, settle it, and then apply for a new loan with Bank A twenty years later, their internal systems will still flag you.
                             </p>
@@ -551,7 +551,7 @@ export default function LoanWriteOffVsSettlementPage() {
                         <section id="comparative-matrix" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Ultimate Comparison: Side-by-Side Analysis
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-8">
                                 This matrix provides the final word on the operational and legal differences between the two debt states.
                             </p>
@@ -596,7 +596,7 @@ export default function LoanWriteOffVsSettlementPage() {
                         <section id="faq" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Frequently Asked Questions: Write-offs and Settlements
-                            </h3>
+                            </h2>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can I be arrested if my loan is written off?", a: "No. Loan default is a civil matter in India. However, if your cheques bounce, the bank can initiate criminal proceedings under Section 138 of the Negotiable Instruments Act. A write-off doesn't change this fact." },

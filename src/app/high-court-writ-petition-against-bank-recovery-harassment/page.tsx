@@ -576,21 +576,21 @@ export default function HighCourtWritBankHarassmentPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Criminal Intimidation &amp; Abuse (BNS Sec. 351, 352 / IPC 506)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed"> Threatening injury, bad language. or reputation damage is criminal threats. The law strictly punishes agents who use foul words over phone calls or in person. </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-indigo-600" />
                     <span>Criminal Trespass &amp; Lurking (BNS Sec. 329 / IPC 441, 447)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed"> Entering your house without permission is criminal trespass. Agents cannot enter your home uninvited or block your apartment gate. </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <Lock className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Defamation &amp; Privacy Breach (BNS Sec. 356 / IT Act Sec. 66E)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed"> Telling neighbours or employers about your loan is illegal. Sending abusive messages or photos violates both criminal slander and IT privacy laws. </p>
                 </div>
               </div>
@@ -791,7 +791,7 @@ export default function HighCourtWritBankHarassmentPage() {
                 <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                   <Check className="w-4 h-4 text-emerald-600" />
                   <span>The High Court Dual-Track Resolution Plan</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <strong className="text-slate-900 block mb-1">Track A: Court Injunction Pressure</strong>
@@ -905,7 +905,7 @@ export default function HighCourtWritBankHarassmentPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.sci.gov.in"
@@ -943,7 +943,7 @@ export default function HighCourtWritBankHarassmentPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/consumer-court-complaint-against-bank-harassment"

@@ -572,7 +572,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     3. Criminal Law Remedies under Bharatiya Nyaya Sanhita (BNS) / IPC
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Entering a home without permission or threatening harm is a crime. These acts violate Sections 329, 126, and 351 of the Bharatiya Nyaya Sanhita, 2023 (earlier Sections 441, 341, and 506 IPC). Formal legal notices force recovery agencies to stop all field visits.
                   </p>
@@ -812,7 +812,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     1. Mandatory Sanction Letter Clauses &amp; Entity Verification
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The letter must come on official bank letterhead with a reference number, date, stamp. And officer signature. It must state the exact loan account number, full names, and PAN numbers of student and parents. It must specify the final settlement amount and due dates. It must also promise full case withdrawal upon payment.
                   </p>
@@ -954,7 +954,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -992,7 +992,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Debt Defense &amp; Loan Settlement Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/education-loan-settlement-india"

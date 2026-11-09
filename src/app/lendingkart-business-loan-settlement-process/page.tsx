@@ -485,7 +485,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -737,7 +737,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Lendingkart Business Loan Settlement &amp; Legal Resolution Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -816,7 +816,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Assemble GST returns, audited P&amp;L records, debtor payment delays, or cancellation orders verifying non-wilful business distress under RBI guidelines.
                   </p>
@@ -826,7 +826,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     NACH Revocation &amp; Legal Routing
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your bank in writing to cancel electronic auto-debits to stop return charges. Direct Lendingkart to route all correspondence through written legal channels.
                   </p>
@@ -836,7 +836,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Hardship Petition to Credit Committee
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal OTS petition to Lendingkart&apos;s Stressed Assets division citing RBI compromise directions, proposing an opening settlement at 25% to 35% of core dues.
                   </p>
@@ -882,7 +882,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Section 25 PSSA Notices, Arbitration &amp; Lok Adalat
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Between 60 and 90 days of default, Lendingkart issues demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, along with notices invoking sole arbitration in Ahmedabad or Mumbai.
               </p>
@@ -949,7 +949,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Settlement Letters &amp; PAN Liabilities
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A major risk involves third-party collection callers issuing unverified settlement proposals. Depositing funds against an informal email or verbal promise causes Lendingkart to credit payments against accrued penal fees, leaving the principal balance in active default while continuing legal proceedings.
               </p>
@@ -969,7 +969,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why MSME Borrowers Trust SettleLoans for Resolution
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving an unsecured working capital default with Lendingkart requires strategic financial analysis combined with assertive legal advocacy. SettleLoans shields your enterprise from recovery harassment, cancels unauthorized debit presentations, defends against Section 25 PSSA notices, and negotiates directly with Lendingkart&apos;s Credit Committees to secure authorized 40% to 55% debt haircuts and ₹0 No Dues Certificates.
               </p>
@@ -988,7 +988,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1150,7 +1150,7 @@ export default function LendingkartBusinessLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

@@ -523,7 +523,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Unsecured Business Loan Settlement &amp; MSME Debt Resolution Overview
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -763,7 +763,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Unsecured Business Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (

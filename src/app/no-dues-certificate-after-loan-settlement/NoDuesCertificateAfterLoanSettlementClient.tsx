@@ -793,7 +793,7 @@ ENCLOSURES:
                     </span>
                     <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       No Dues Certificate (NDC) Post-Settlement Verification Blueprint
-                    </h2>
+                    </h3>
                   </div>
                 </div>
                 <a
@@ -852,7 +852,7 @@ ENCLOSURES:
                     <div>
                       <h3 className="text-base md:text-lg font-bold text-slate-900 mb-2">
                         Stage 1: Remit Funds Strictly to the Loan Account Number via Direct Banking
-                      </h2>
+                      </h3>
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
                         Never pay in cash or transfer funds to any third party. Always remit the exact sanctioned settlement amount via NEFT or RTGS directly into your specific loan account number. Retain the bank payment acknowledgement slip containing the 16-character UTR (Unique Transaction Reference) number.
                       </p>
@@ -872,7 +872,7 @@ ENCLOSURES:
                     <div>
                       <h3 className="text-base md:text-lg font-bold text-slate-900 mb-2">
                         Stage 2: Submit Formal Proof of Payment to the Branch &amp; Stressed Assets Desk
-                      </h2>
+                      </h3>
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
                         Within 48 hours of payment, submit a formal written letter to the Branch Manager and Head of Stressed Assets Recovery Branch (SARB) attaching: (a) Copy of OTS Sanction Letter, (b) Bank payment receipt / UTR counterfoil, (c) Identity proof (PAN/Aadhaar). Obtain a physical receiving stamp with date and employee code on your duplicate copy.
                       </p>
@@ -889,7 +889,7 @@ ENCLOSURES:
                     <div>
                       <h3 className="text-base md:text-lg font-bold text-slate-900 mb-2">
                         Stage 3: Verify Core Banking System (CBS) Ledger Adjustment (Day 7 to Day 15)
-                      </h2>
+                      </h3>
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
                         Log into your NetBanking or visit the branch between Day 7 and Day 15 to confirm that the bank&apos;s credit operations team has executed the internal write-off entry. The loan ledger must reflect Total Outstanding: ₹0.00 and Account Status: Closed/Settled.
                       </p>
@@ -906,7 +906,7 @@ ENCLOSURES:
                     <div>
                       <h3 className="text-base md:text-lg font-bold text-slate-900 mb-2">
                         Stage 4: Collect Stamped Physical &amp; Digital No Dues Certificate (Within 30 Days)
-                      </h2>
+                      </h3>
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
                         Under RBI regulations, the bank must provide your official No Dues Certificate within 30 calendar days. Collect the original physical certificate bearing the branch seal and authorized signatory from your home branch, and simultaneously download the digital PDF from the bank&apos;s self-service portal.
                       </p>
@@ -923,7 +923,7 @@ ENCLOSURES:
                     <div>
                       <h3 className="text-base md:text-lg font-bold text-slate-900 mb-2">
                         Stage 5: Audit Credit Bureau Update &amp; Archive Legal Dossier (Day 45)
-                      </h2>
+                      </h3>
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
                         Pull your latest credit reports from CIBIL, Experian, Equifax, and CRIF High Mark 45 days after payment. Confirm the loan reflects &apos;Settled&apos; status with ₹0 Current Balance. Secure all physical copies (OTS Sanction, Payment Slip, NDC, CIBIL Report) in a permanent legal archival dossier.
                       </p>
@@ -937,7 +937,7 @@ ENCLOSURES:
             <section id="online-portal-download-procedures" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Online NDC Download: SBI, HDFC, ICICI, Axis & NBFCs
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Most top tier Indian banks provide automated self-service portals where settled borrowers can retrieve digital No Dues Certificates. Here are the specific online navigation steps across India&apos;s leading financial institutions:
               </p>
@@ -1005,7 +1005,7 @@ ENCLOSURES:
             <section id="copyable-ndc-escalation-template" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Legal Grievance Template for Delayed No Dues Certificate
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 If your bank or NBFC has exceeded the mandatory 30-day statutory window after accepting your settlement remittance, use this formal legal escalation notice. Formulated under <strong>RBI Circular RBI/2023-24/60</strong>, this template demands the immediate issuance of your NDC and initiates a formal statutory claim for <strong>₹5,000 per day in delay compensation</strong>:
               </p>
@@ -1022,7 +1022,7 @@ ENCLOSURES:
             <section id="recovery-harassment-post-settlement" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. What to Do If Agents Harass You After Settlement Payment
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 One of the most distressing issues borrowers encounter is receiving aggressive collection calls or unannounced visits even after remitting their agreed OTS amount. This typically occurs because of an internal communication breakdown between the bank&apos;s legal credit desk and its outsourced recovery agencies.
               </p>
@@ -1065,7 +1065,7 @@ ENCLOSURES:
             <section id="cibil-credit-bureau-post-settlement-audit" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 10. CIBIL Audit Post-Settlement: Verifying ₹0 Balance
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 A critical responsibility post-settlement is ensuring that all four licensed Credit Information Companies in India—<strong>TransUnion CIBIL, Experian, Equifax, and CRIF High Mark</strong>—accurately update their credit information reports (CIR).
               </p>
@@ -1122,7 +1122,7 @@ ENCLOSURES:
             <section id="original-property-documents-release" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 11. Return of Property Documents & Removal of Encumbrance
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 For settled secured loans—such as Home Loans, Loans Against Property (LAP), or Auto Loans—obtaining the physical No Dues Certificate is only the first part of asset liberation. Borrowers must actively ensure that all physical collaterals and legal liens are formally removed:
               </p>
@@ -1171,7 +1171,7 @@ ENCLOSURES:
                 <HelpCircle className="w-6 h-6 text-[#1F5EFF]" />
                 <h2 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
                   13. Frequently Asked Questions (FAQs)
-                </h3>
+                </h2>
               </div>
               <p className="text-base text-slate-600 mb-8 leading-relaxed">
                 Clear, legally authoritative answers to the most urgent post-settlement questions faced by Indian borrowers regarding No Dues Certificates, bank delays, and credit rehabilitation.
@@ -1327,7 +1327,7 @@ ENCLOSURES:
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

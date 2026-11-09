@@ -545,7 +545,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
                 <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <FileText className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory Elements of a Section 65B / Section 63 BSA Certificate</span>
-                </h2>
+                </h3>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">1. Device Identification &amp; Lawful Custody</p>
@@ -748,7 +748,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
             <section id="evidence-admissibility-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Evidence Admissibility Matrix: Electronic Proof in Court
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The evidentiary threshold and procedural requirements for electronic evidence vary across judicial and quasi-judicial forums in India. The following comparative matrix outlines these distinctions:
               </p>

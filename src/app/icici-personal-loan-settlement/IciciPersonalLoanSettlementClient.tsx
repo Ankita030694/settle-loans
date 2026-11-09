@@ -294,7 +294,7 @@ export default function IciciPersonalLoanSettlementClient() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4 shadow-sm">
               <div className="flex items-center gap-2 pb-3 mb-3 border-b border-slate-200 text-slate-900 font-bold text-sm">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
@@ -447,7 +447,7 @@ export default function IciciPersonalLoanSettlementClient() {
                 <h3 className="text-xs font-bold text-blue-400 mb-1 flex items-center gap-1.5">
                   <Calculator className="w-4 h-4 text-[#1F5EFF]" />
                   <span>The Banking Net Present Value (NPV) Equation</span>
-                </h2>
+                </h3>
                 <div className="p-2 bg-slate-800 rounded-xl font-mono text-xs text-emerald-400 border border-slate-700 mb-1">
                   NPV = (Estimated Realization - Legal Fees - Overhead) / (1 + Cost of Funds)^Years
                 </div>
@@ -549,7 +549,7 @@ export default function IciciPersonalLoanSettlementClient() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         ICICI Bank Personal Loan Settlement Process &amp; Haircut Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -606,7 +606,7 @@ export default function IciciPersonalLoanSettlementClient() {
                   <h3 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
                     <span className="w-4 h-4 rounded-md bg-blue-50 text-[#1F5EFF] font-black text-[10px] flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Assemble documentary proof of insolvency, including severance letters, medical records, and bank statements illustrating nominal balances to prove default is involuntary.
                   </p>
@@ -616,7 +616,7 @@ export default function IciciPersonalLoanSettlementClient() {
                   <h3 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
                     <span className="w-4 h-4 rounded-md bg-blue-50 text-[#1F5EFF] font-black text-[10px] flex items-center justify-center border border-blue-200">2</span>
                     Cease-and-Desist Notice
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Issue formal legal notices routing discussions to ICICI&apos;s SARB and Principal Nodal Officer, neutralizing collection agencies and eliminating unauthorized markups.
                   </p>
@@ -626,7 +626,7 @@ export default function IciciPersonalLoanSettlementClient() {
                   <h3 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
                     <span className="w-4 h-4 rounded-md bg-blue-50 text-[#1F5EFF] font-black text-[10px] flex items-center justify-center border border-blue-200">3</span>
                     Submitting the Formal Proposal
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Submit a formal OTS petition citing RBI directives, detailing hardship events, and anchoring an opening offer at 25%–35% of ledger dues to secure 40%–55% final approvals.
                   </p>
@@ -672,7 +672,7 @@ export default function IciciPersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 ICICI OTS vs Loan Restructuring vs National Lok Adalat
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 Distressed borrowers often evaluate whether to pursue an OTS, apply for loan restructuring, or settle dues at the National Lok Adalat. Each avenue carries distinct legal outcomes, cash flow requirements, and credit reporting impacts.
               </p>
@@ -737,7 +737,7 @@ export default function IciciPersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 ICICI Settlement Sanction Letters & ₹0 NDC Checklist
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 A serious risk in retail debt recovery involves rogue intermediaries issuing unauthorized settlement letters to induce token payments. If money is paid against an invalid letter, ICICI Bank credits funds toward penal interest, leaving default active.
               </p>
@@ -757,7 +757,7 @@ export default function IciciPersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 CIBIL Score Impact & Credit Repair Post-ICICI OTS
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 After full remittance of the agreed OTS amount, ICICI Bank must update all four credit bureaus. It reports to CIBIL, Experian, Equifax, and CRIF High Mark. The bank modifies the account status from &apos;Default&apos; to <strong>&apos;Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>.
               </p>
@@ -777,7 +777,7 @@ export default function IciciPersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed ICICI Borrowers Choose SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm md:text-base">
                 Negotiating an equitable compromise settlement with ICICI Bank requires seasoned banking litigation counsel. The advocates at SettleLoans provide comprehensive protection, stopping collection harassment, auditing NPA provisioning allocations, and engaging ICICI&apos;s Zonal Settlement Committees to secure maximum permissible debt waivers.
               </p>
@@ -817,7 +817,7 @@ export default function IciciPersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Frequently Asked Questions About ICICI Personal Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -969,7 +969,7 @@ export default function IciciPersonalLoanSettlementClient() {
           </main>
 
           {/* Right Column */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <div className="bg-white border border-slate-200 rounded-2xl p-4 shadow-sm">
               <div className="flex items-center gap-2.5 mb-2.5">
                 <div className="w-9 h-9 rounded-full bg-gradient-to-br from-blue-600 to-indigo-700 text-white font-black text-xs flex items-center justify-center shadow-md">

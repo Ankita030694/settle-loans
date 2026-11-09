@@ -593,7 +593,7 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Inder Mohan Goswami &amp; Another v. State of Uttaranchal (2007) 12 SCC 1
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The Supreme Court established unequivocal rules regarding personal liberty under Article 21 of the Constitution. The Court ruled that Non-Bailable Warrants must not be issued mechanically in the first instance. Courts must strictly follow a graded hierarchy: first issuing a summons, followed by a Bailable Warrant if the summons is ignored, and reserving Non-Bailable Warrants solely as a last resort when the court is fully satisfied that the accused is deliberately evading the judicial process.
                   </p>
@@ -602,7 +602,7 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Damodar S. Prabhu v. Sayed Babalal H. (2010) 5 SCC 663
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The Supreme Court held that the primary objective of Section 138 is the recovery of money and compensatory settlement rather than punitive incarceration. The bench framed comprehensive guidelines encouraging early compounding of offences under Section 147, establishing that compounding can take place at any stage of litigation, including trial, appeal, or revision, without requiring custodial detention.
                   </p>
@@ -611,7 +611,7 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     In Re: Expeditious Trial of Cases Under Section 138 of N.I. Act, 2021 SCC OnLine SC 325
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     A 5-judge Constitution Bench of the Supreme Court mandated that trial courts must carefully scrutinize postal tracking reports and delivery certificates before treating summons as validly served. Issuing warrants without verified evidence of proper service or without recording written judicial satisfaction violates procedural mandates, rendering such warrants immediately liable to be recalled upon application.
                   </p>
@@ -750,7 +750,7 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Step 1: Case Inspection, Vakalatnama Execution &amp; Certified Order Copies
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The defense advocate files a formal Memo of Appearance or Vakalatnama before the concerned trial court and conducts an immediate court diary and case file inspection. Counsel examines the summons service report, verifies whether postal acknowledgement cards were forged or unserved, obtains certified copies of the order sheets directing warrant issuance, and checks the exact warrant execution return date given to the local police station.
                   </p>
@@ -759,7 +759,7 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Step 2: Drafting the Section 70(2) CrPC / BNSS Recall &amp; Cancellation Petition
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates draft an exhaustive, verified Application under Section 70(2) of the CrPC (or Section 72(2) of BNSS) for Recall and Cancellation of the Bailable or Non-Bailable Warrant. The application sets forth legitimate, bonafide reasons for previous non-appearances—supported by medical discharge summaries, address relocation proof, out-of-station employment affidavits, or non-receipt of summons. Counsel explicitly invokes <em>Inder Mohan Goswami</em> to demonstrate that the absence was neither intentional nor contumacious.
                   </p>
@@ -793,7 +793,7 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
             <section id="section-147-compounding-ots-negotiation" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Section 147 NI Act Compounding &amp; Out-of-Court Settlement Negotiation: Securing 40%–70% OTS Waivers
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the arrest warrant is recalled and bail is secured, the borrower holds immense strategic leverage to resolve the dispute permanently. Under <strong>Section 147 of the Negotiable Instruments Act, 1881</strong>, every offense punishable under the Act is non-cognizable and expressly compoundable by law. Unlike general Indian Penal Code / Bharatiya Nyaya Sanhita offenses that require high court quashing, a Section 138 complaint can be compounded and dismissed directly before the trial Magistrate with mutual consent of the parties.
               </p>
@@ -858,7 +858,7 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
             <section id="post-compounding-ndc-cibil-rehabilitation" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Case Disposal, RBI No Dues Certificate Delivery &amp; CIBIL Bureau Clean-Up
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Remitting the compromised settlement amount is only the financial milestone of debt resolution. Achieving total legal immunity and restoring creditworthiness requires completing three essential post-settlement legal steps:
               </p>
@@ -907,7 +907,7 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
             <section id="criminal-defense-vs-compounding-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Criminal Trial Contest vs. Out-of-Court Compounding Strategic Matrix
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an arrest warrant is recalled, borrowers must choose between contesting the Section 138 trial on merits or negotiating an out-of-court compromise under Section 147. Comparing both strategic pathways highlights why out-of-court compounding provides superior certainty:
               </p>
@@ -1010,7 +1010,7 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Negotiable Instruments Act, 1881 (Section 138 &amp; Section 147 Compounding)</span></span>
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Criminal Procedure, 1973 (Section 70, 71 &amp; 70(2) Recall of Warrants)</span></span>
@@ -1048,7 +1048,7 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Debt Settlement Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/cheque-bounce-hone-par-kya-hoga"

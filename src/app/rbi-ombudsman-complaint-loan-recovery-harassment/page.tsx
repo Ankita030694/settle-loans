@@ -546,7 +546,7 @@ export default function RbiOmbudsmanComplaintPage() {
                 <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
                   <ShieldAlert className="w-4 h-4 text-rose-600" />
                   <span>Actionable Regulatory Violations Explicitly Barred by RBI Mandates</span>
-                </h2>
+                </h3>
                 <ul className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <li className="flex items-start gap-2">
                     <span className="font-bold text-rose-600 min-w-[20px]">•</span>
@@ -778,7 +778,7 @@ export default function RbiOmbudsmanComplaintPage() {
                 <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-blue-600" />
                   <span>Mandatory Regulatory Protections for Executed Loan Settlements</span>
-                </h2>
+                </h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                   Upon mutually agreeing on settlement terms, the agreement must be executed via an official bank-issued Sanction Letter detailing the final discounted amount and payment schedule. Under RBI Circular RBI/2023-24/60 on <em>&quot;Release of Movable / Immovable Property Documents and No Dues Certificates&quot;</em>, the bank is legally obligated to:
                 </p>
@@ -878,7 +878,7 @@ export default function RbiOmbudsmanComplaintPage() {
             <section id="settleloans-advocate-representation" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 10. Institutional Defense: Safeguarding Borrowers & OTS
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating an institutional confrontation with a major national bank or well-funded NBFC can be daunting for an person borrower already enduring severe financial stress. SettleLoans bridges this power asymmetry by providing dedicated legal advocacy, regulatory petition drafting, and senior-level financial talks for distressed borrowers across India.
               </p>
@@ -936,7 +936,7 @@ export default function RbiOmbudsmanComplaintPage() {
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight flex items-center gap-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
                 <span>11. FAQs: RBI Ombudsman Complaints & Recovery Rights</span>
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Find clear, authoritative legal answers to the most critical questions regarding RBI Complaint Management System procedures, recovery agent restrictions, relief limits, and debt settlement execution:
               </p>

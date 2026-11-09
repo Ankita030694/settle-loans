@@ -240,7 +240,7 @@ export default function Page() {
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
                 <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
                   Key Differences in NBFC Recovery
-                </h2>
+                </h3>
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -401,7 +401,7 @@ export default function Page() {
             <section id="faqs" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h3>
+              </h2>
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
                   <details key={index} name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">

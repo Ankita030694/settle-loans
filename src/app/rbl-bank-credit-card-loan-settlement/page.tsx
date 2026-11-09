@@ -766,7 +766,7 @@ export default function RblBankCreditCardSettlementPage() {
                   <h3 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                     Comprehensive Ledger Forensics &amp; Account Segmentation
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Obtain complete historical billing statements for all RBL credit cards and co-branded SuperCards. Perform a granular ledger audit separating actual merchant transactions and cash withdrawals from unearned revolving interest, late penalties, and GST charges to establish the authentic core principal balance.
                   </p>
@@ -776,7 +776,7 @@ export default function RblBankCreditCardSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">2</span>
                     Hardship Dossier Compilation
-                  </h2>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Compile verifiable documentary evidence demonstrating involuntary financial insolvency. Essential documentation includes medical discharge summaries, termination letters, salary reduction notices, business loss statements, bank account statements showing depleted liquidity, and tax return filings.
                   </p>
@@ -786,7 +786,7 @@ export default function RblBankCreditCardSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">3</span>
                     Submission of Formal OTS Proposal to RBL Central Stressed Asset Vertical
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Bypass outsourced recovery tele-callers and submit a formal, legally structured One-Time Settlement proposal directly to RBL Bank&apos;s Central Stressed Asset Management desk and Zonal Nodal Officers under the RBI Compromise Settlement Framework.
                   </p>
@@ -796,7 +796,7 @@ export default function RblBankCreditCardSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">4</span>
                     Credit Committee Evaluation &amp; Structured Tranche Structuring
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Represent the cardholder in structured negotiations with RBL Bank&apos;s Competent Authority. Establish a realistic lump-sum or structured multi-tranche settlement figure (typically payable across 2 to 4 monthly installments) tailored to the borrower&apos;s verified capacity.
                   </p>
@@ -900,7 +900,7 @@ export default function RblBankCreditCardSettlementPage() {
               {/* 4-Sided Bordered Comparative Table */}
               <h3 className="text-base md:text-lg font-bold text-slate-900 mt-8 mb-3">
                 Comparative Analysis: Resolution Pathways for Defaulted RBL Credit Card Debt
-              </h4>
+              </h3>
               <div className="overflow-x-auto">
                 <table className="min-w-full">
                   <thead>
@@ -955,7 +955,7 @@ export default function RblBankCreditCardSettlementPage() {
             <section id="company-advocacy-section" className="mb-10 scroll-mt-24">
               <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. SettleLoans: Specialized Legal Representation &amp; Direct Bank Negotiation
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6">
                 SettleLoans is India’s premier tech-enabled debt resolution and legal advocacy platform. Our panel of seasoned banking lawyers, chartered accountants, and former recovery officers specialize in protecting distressed borrowers against aggressive recovery misconduct, conducting forensic ledger audits, and securing formal compromise settlements directly with institutional credit committees.
               </p>
@@ -969,7 +969,7 @@ export default function RblBankCreditCardSettlementPage() {
               <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-6 leading-tight flex items-center gap-2">
                 <HelpCircle className="w-6 h-6 text-[#1F5EFF]" />
                 11. Frequently Asked Questions (FAQs) - RBL Bank Credit Card Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {(jsonLdGraph['@graph'][4] as any).mainEntity.map((faq: any, index: number) => (
@@ -998,7 +998,7 @@ export default function RblBankCreditCardSettlementPage() {
               <h3 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 Official Statutory Authorities &amp; Regulatory Frameworks
-              </h4>
+              </h3>
               <ul className="space-y-2.5">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1063,7 +1063,7 @@ export default function RblBankCreditCardSettlementPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Credit Card &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/how-to-settle-credit-card-debt"
@@ -1130,7 +1130,7 @@ export default function RblBankCreditCardSettlementPage() {
           </main>
 
           {/* Right Column: Sidebar Cards */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

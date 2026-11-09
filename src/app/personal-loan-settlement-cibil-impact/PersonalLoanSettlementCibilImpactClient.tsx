@@ -416,7 +416,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             <div className="my-8">
               <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 Comparison: Personal Loan Settlement vs. Alternative Outcomes
-              </h2>
+              </h3>
               <div className="overflow-x-auto">
                 <table>
                   <thead>
@@ -476,7 +476,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
                   <h3 className="text-base font-bold text-emerald-900 flex items-center gap-2 mb-1">
                     <CheckCircle className="w-5 h-5 text-emerald-600" />
                     1. &quot;Closed&quot; (Pristine Health)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-emerald-800 leading-relaxed">
                     The borrower repaid 100% of the loan principal, contractual interest, and associated fees over the agreed tenure. No concession was sought or given. Lenders view this as the highest benchmark of creditworthiness.
                   </p>
@@ -486,7 +486,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
                   <h3 className="text-base font-bold text-blue-900 flex items-center gap-2 mb-1">
                     <ShieldCheck className="w-5 h-5 text-[#1F5EFF]" />
                     2. &quot;Settled&quot; (Compromise Resolution)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-blue-800 leading-relaxed">
                     The borrower encountered genuine financial hardship (e.g., job loss, medical emergency, business loss), and the bank sanctioned an OTS. A discounted payment was accepted, the remaining balance was waived, and the account balance is recorded as ₹0 with no further recovery rights.
                   </p>
@@ -496,7 +496,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
                   <h3 className="text-base font-bold text-amber-900 flex items-center gap-2 mb-1">
                     <AlertTriangle className="w-5 h-5 text-amber-600" />
                     3. &quot;Written Off&quot; (Unresolved Loss)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-amber-800 leading-relaxed">
                     The lender deemed the unpaid loan uncollectible after 180+ days of default and moved the entire outstanding balance to their internal bad-debt accounting ledger (write-off). The borrower has not settled, and recovery agencies or asset reconstruction companies (ARCs) may still pursue recovery.
                   </p>
@@ -506,7 +506,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
                   <h3 className="text-base font-bold text-rose-900 flex items-center gap-2 mb-1">
                     <ShieldAlert className="w-5 h-5 text-rose-600" />
                     4. &quot;Suit Filed&quot; / &quot;Willful Defaulter&quot; (Legal Action Active)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-rose-800 leading-relaxed">
                     The highest tier of credit delinquency. The bank has initiated formal judicial recovery proceedings in the Debt Recovery Tribunal (DRT), Civil Courts, or filed criminal complaints under Section 138 of the Negotiable Instruments Act. A &quot;Willful Defaulter&quot; tag bars the individual from holding directorships or accessing any regulated credit in India.
                   </p>
@@ -520,7 +520,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             <div className="my-8">
               <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 CIBIL Account Status Codes &amp; Underwriting Risk Assessment
-              </h2>
+              </h3>
               <div className="overflow-x-auto">
                 <table>
                   <thead>
@@ -614,7 +614,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             <section id="future-loan-eligibility" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Can You Ever Get a Personal Loan, Credit Card, or Home Loan Again?
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The short answer is <strong>yes, you can qualify for loans and credit cards again</strong> after settling a personal loan, but your approach must be strategic and phased.
               </p>
@@ -637,7 +637,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Landmark className="w-5 h-5 text-emerald-600" />
                     Home Loans &amp; Mortgage Loans: Accessible After 24–36 Months
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Housing finance companies (HFCs) and public sector banks evaluate the Loan-to-Value (LTV) ratio of the property and your current debt-to-income ratio. If your post-settlement score has rebounded above 720 and you provide your No Dues Certificate, home loans are routinely sanctioned.
                   </p>
@@ -647,7 +647,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Building2 className="w-5 h-5 text-amber-600" />
                     Unsecured Personal Loans: Accessible After 24 Months
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     While the original lending bank that absorbed the haircut will internally blacklist you for future unsecured products, <strong>other non-consortium banks and NBFCs</strong> will evaluate your renewed 750+ score and approve personal loans based on stable income and low credit utilization.
                   </p>
@@ -712,7 +712,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             <section id="rbi-settlement-norms" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 5. RBI Guidelines & Borrower Rights in Compromise OTS
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Many distressed borrowers are unaware that loan settlement is not an act of charity by the bank—it is a formalized, statutory mechanism governed by Reserve Bank of India (RBI) circulars and protected under Indian consumer and banking law.
               </p>
@@ -733,7 +733,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Scale className="w-5 h-5 text-emerald-600" />
                     RBI Fair Practices Code &amp; Recovery Agent Guidelines
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Under the Master Circular on Recovery Agents, lenders are strictly prohibited from: calling borrowers before 8:00 AM or after 7:00 PM, contacting friends/family or employers, using abusive language, or visiting homes without prior formal notice. Any violation makes the lender liable to severe penalties under the Integrated Ombudsman Scheme.
                   </p>
@@ -755,7 +755,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             <section id="ndc-cibil-audit" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. NDC Forensic Audit & 45-Day CIBIL Reporting Mandate
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A critical pitfall that traps thousands of Indian borrowers is paying a settlement amount based on verbal promises or informal WhatsApp messages from third-party recovery agents, only to find months later that the bank still shows an active default.
               </p>
@@ -764,7 +764,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
                 <h3 className="text-amber-900 font-bold text-base flex items-center gap-2 mb-2">
                   <AlertTriangle className="w-5 h-5 text-amber-600" />
                   THE 3 MANDATORY RULES OF AUTHENTIC LOAN SETTLEMENT:
-                </h4>
+                </h3>
                 <ul className="text-sm text-amber-800 space-y-2 list-disc list-inside">
                   <li>
                     <strong>Rule 1:</strong> Never pay a single rupee without an official OTS Sanction Letter issued on the bank&apos;s registered letterhead, containing your loan account number, sanctioned settlement figure, payment schedule, and authorized signatory signature.
@@ -790,7 +790,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             <section id="rebuilding-blueprint" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. From 550 to 750+: The Step-by-Step Credit Rebuilding Blueprint
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A personal loan settlement is not a financial death sentence—it is a financial reset button. With a disciplined 5-pillar rebuilding strategy, you can reliably restore your CIBIL score to prime status (750+) within 18 to 24 months.
               </p>
@@ -799,7 +799,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
               <div className="my-8">
                 <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   36-Month CIBIL Score Recovery Blueprint
-                </h4>
+                </h3>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -872,7 +872,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             <section id="settled-to-closed-conversion" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Settled to Closed: Paying Balance Later to Clean CIBIL
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A unique legal provision in Indian credit reporting allows borrowers whose financial situation improves to convert a past <strong>&quot;Settled&quot;</strong> account into a 100% clean <strong>&quot;Closed&quot;</strong> account.
               </p>
@@ -907,7 +907,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             <section id="faqs" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Frequently Asked Questions (FAQ)
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-8 text-slate-600">
                 Get immediate answers to the most critical legal, financial, and credit score questions regarding personal loan settlement in India.
               </p>
@@ -930,7 +930,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
               <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1061,7 +1061,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

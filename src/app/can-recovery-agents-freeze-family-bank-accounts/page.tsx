@@ -640,7 +640,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-indigo-600" />
                     <span>The Equitable Right of Set-Off &amp; The Mutuality Requirement</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Banker Set-Off applies only to the same person.
                     It requires mutual debts.
@@ -1115,7 +1115,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/application-to-unblock-bank-account-for-loan-emi"

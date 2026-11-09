@@ -534,7 +534,7 @@ export default function PersonalLoanSettlementNagpurPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -761,7 +761,7 @@ export default function PersonalLoanSettlementNagpurPage() {
                   <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 138 of the Negotiable Instruments Act, 1881 (Cheque Dishonour)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1">
                     If a cheque bounces, the lender sends a 15-day notice. Then, they file a criminal complaint. Our advocates file a Vakalatnama and secure bail. We challenge court jurisdiction. We apply for Lok Adalat transfer under Section 147.
                   </p>
@@ -770,7 +770,7 @@ export default function PersonalLoanSettlementNagpurPage() {
                   <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 of the Payment and Settlement Systems Act, 2007 (Electronic Mandate Dishonour)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1">
                     When NACH auto-debits bounce, lenders file Section 25 PSSA complaints. We prove lack of criminal intent. We document financial distress. We guide your case to a compromise settlement.
                   </p>
@@ -995,7 +995,7 @@ export default function PersonalLoanSettlementNagpurPage() {
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Shield className="w-6 h-6 text-[#1F5EFF]" />
                 <span>12. SettleLoans Legal Defense in Nagpur</span>
-              </h3>
+              </h2>
               <p>
                 SettleLoans is India's premier debt defense advisory. Our Nagpur team brings deep SARB and Nyay Mandir court defense experience. We helped 1,200+ borrowers stop harassment. We secured major OTS savings.
               </p>
@@ -1140,7 +1140,7 @@ export default function PersonalLoanSettlementNagpurPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 <span>Explore Related Banking &amp; Debt Resolution Guides</span>
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
@@ -1207,7 +1207,7 @@ export default function PersonalLoanSettlementNagpurPage() {
           </main>
 
           {/* Right Column (Author Bio, Emergency Advocate CTA, Trust Signals) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">

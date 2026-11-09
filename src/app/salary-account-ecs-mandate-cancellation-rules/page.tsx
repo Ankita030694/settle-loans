@@ -635,7 +635,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-blue-600" />
                     <span>Debunking Criminal Fraud &amp; Section 420 IPC / Section 318 BNS Allegations</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The Supreme Court ruled that loan default due to hardship is a civil breach, not criminal cheating. Cheating requires proving bad intent from the start. If you paid early EMIs, police have no power to file an FIR or arrest you.
                   </p>
@@ -644,7 +644,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <FileCheck className="w-4 h-4 text-emerald-600" />
                     <span>Formal Prior Revocation as Legal Shield</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     A formal cancel notice proves you acted in good faith with no guilty mind (mens rea). If the lender still files a Section 25 case, your lawyer can move the court to refer the case to Lok Adalat for an instant settlement.
                   </p>
@@ -997,7 +997,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11666&amp;Mode=0"
@@ -1035,7 +1035,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-freeze-salary-account-loan-default"

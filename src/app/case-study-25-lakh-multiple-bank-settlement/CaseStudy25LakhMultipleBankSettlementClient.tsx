@@ -742,7 +742,7 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
                   <h3 className="font-bold text-slate-900 text-sm mb-1">
                     Tier 1: Bank Grievance Redressal Officer (GRO) // Resolution Window: 7 to 10 Days
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-xs md:text-sm leading-relaxed">
                     A formal written complaint is lodged with the bank&apos;s GRO detailing unlawful recovery conduct, requiring statutory acknowledgment within 48 hours and written resolution within 10 days.
                   </p>
@@ -751,7 +751,7 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
                   <h3 className="font-bold text-slate-900 text-sm mb-1">
                     Tier 2: Principal Nodal Officer (PNO) // Resolution Window: 14 to 21 Days
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-xs md:text-sm leading-relaxed">
                     If the GRO fails to resolve the grievance or harassment persists, the complaint is escalated to the PNO for executive intervention and collection agency de-escalation.
                   </p>
@@ -760,7 +760,7 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
                   <h3 className="font-bold text-slate-900 text-sm mb-1">
                     Tier 3: RBI Integrated Ombudsman // Portal: cms.rbi.org.in
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-xs md:text-sm leading-relaxed">
                     Unresolved grievances are escalated to the RBI Ombudsman, which holds authority to penalize non-compliant lenders, award harassment compensation, and mandate compromise resolution.
                   </p>
@@ -842,7 +842,7 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Specialized Multi-Lender Case Scenarios
-              </h3>
+              </h2>
               <p>
                 Multi-bank resolution strategies must adapt to the unique collection behaviors and provisioning policies of different lender categories.
               </p>
@@ -907,7 +907,7 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Frequently Asked Questions on Multi-Bank Debt Settlement
-              </h3>
+              </h2>
               <p className="text-slate-600 text-sm leading-relaxed mb-6">
                 Below are authoritative legal and financial answers to the most pressing questions concerning multi-bank loan defaults, recovery agent harassment, and One-Time Settlement execution in India.
               </p>
@@ -933,7 +933,7 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Statutory Citations & Outbound Authority Grid
-              </h3>
+              </h2>
               <p className="text-slate-700 text-sm leading-relaxed">
                 The legal defenses, borrower protections, and compromise settlement protocols documented throughout this case study are strictly anchored in statutory Indian financial legislation, Reserve Bank of India master directions, and binding Supreme Court precedents.
               </p>
@@ -1030,7 +1030,7 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
           </main>
 
           {/* Right Column: Sticky Sidebar */}
-          <aside className="space-y-6 sticky top-24">
+          <aside className="space-y-6 lg:sticky lg:top-24">
             <div className="space-y-6">
               
               {/* Author Bio Card */}

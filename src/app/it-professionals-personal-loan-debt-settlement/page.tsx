@@ -516,7 +516,7 @@ export default function ITProfessionalsLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -830,7 +830,7 @@ export default function ITProfessionalsLoanSettlementPage() {
                   <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs font-black flex items-center justify-center">1</span>
                     Comprehensive Ledger Forensic Audit
-                  </h2>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Our banking specialists analyze your complete loan account statement, dissecting principal disbursed, total EMIs paid, unamortized interest, and illegitimate penalty charges. We establish the authentic core principal liability and compute target haircut thresholds.
                   </p>
@@ -840,7 +840,7 @@ export default function ITProfessionalsLoanSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs font-black flex items-center justify-center">2</span>
                     Digital Representation &amp; Legal Shield Activation
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Execution of digital Vakalatnama and Power of Attorney authorizing SettleLoans advocates to represent your case. We immediately serve statutory cease-and-desist notices to bank nodal desks, eliminating third-party calling and shielding your workplace and references.
                   </p>
@@ -850,7 +850,7 @@ export default function ITProfessionalsLoanSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs font-black flex items-center justify-center">3</span>
                     Preparation of Institutional Hardship Dossier
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Compilation of an unassailable documentary dossier substantiating genuine financial incapacity: corporate termination letters, severance release agreements, salary reduction slips, medical expenditure records, and bank statements establishing zero alternative liquidity.
                   </p>
@@ -1033,7 +1033,7 @@ export default function ITProfessionalsLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: IT Professionals Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1062,7 +1062,7 @@ export default function ITProfessionalsLoanSettlementPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1127,7 +1127,7 @@ export default function ITProfessionalsLoanSettlementPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
@@ -1194,7 +1194,7 @@ export default function ITProfessionalsLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

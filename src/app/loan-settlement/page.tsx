@@ -341,7 +341,7 @@ export default function LoanSettlementPage() {
             <h3 className="text-2xl font-black text-[#2E2E2E] mb-6 flex items-center">
               <span className="w-8 h-8 rounded-lg bg-red-100 text-red-600 flex items-center justify-center mr-3 text-sm font-black">⚠</span>
               The "Minimum Due" Trap
-            </h2>
+            </h3>
             <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl">
               <p className="mb-4 font-medium text-red-900">
                 One of the most common ways people fall into a debt trap is through credit cards. It starts innocently. You pay the "Minimum Amount Due" (5%), thinking you are safe.
@@ -595,7 +595,7 @@ export default function LoanSettlementPage() {
            <section id="documents-required" className="scroll-mt-32 mb-12">
             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Documents Required
-            </h3>
+            </h2>
             <div className="bg-gray-50 p-6 rounded-lg">
                <p className="mb-4">To successfully negotiate, you need proof:</p>
                <ul className="grid sm:grid-cols-2 gap-2 text-sm font-medium">

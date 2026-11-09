@@ -628,7 +628,7 @@ export default function BankFreezeSalaryAccountPage() {
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Collateral Bounces &amp; Section 138 NI Act Vulnerability</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Legitimate outbound payments—such as home loan EMIs, rent cheques, and insurance premiums—bounce due to the account hold. Third-party lenders may initiate criminal complaints under <strong>Section 138 of the Negotiable Instruments Act</strong> or Section 25 of the Payment and Settlement Systems Act, unaware that the bounce was engineered by an internal freeze.
                   </p>
@@ -637,7 +637,7 @@ export default function BankFreezeSalaryAccountPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Severe Violation of RBI Fair Practices Code</span>
-                  </h2>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under the <strong>RBI Master Direction on Fair Practices Code for Lenders</strong>, regulated entities are strictly prohibited from resorting to coercive, abusive, or extra-judicial recovery mechanisms that deprive borrowers of basic livelihood funds without formal prior notice and grievance redressal opportunities.
                   </p>
@@ -646,7 +646,7 @@ export default function BankFreezeSalaryAccountPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <CreditCard className="w-4 h-4 text-purple-600" />
                     <span>Unwarranted CIBIL Score Destruction</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Secondary loan defaults triggered by the primary account freeze lead to cascading 30+ and 60+ Days Past Due (DPD) entries across all credit bureaus, artificially destroying creditworthiness even when the borrower had ample funds to honor those obligations.
                   </p>
@@ -866,7 +866,7 @@ export default function BankFreezeSalaryAccountPage() {
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Bureau Trajectory
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical danger during debt resolution is falling victim to unauthorized settlement promises made by external recovery agents. Unscrupulous tele-callers frequently issue fake WhatsApp approval slips to hit monthly recovery quotas. A borrower must never disburse funds until the settlement letter undergoes rigorous forensic verification.
               </p>
@@ -906,7 +906,7 @@ export default function BankFreezeSalaryAccountPage() {
             <section id="dispute-resolution-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Legal Matrix: Banker Right of Set-Off vs. Court Decree vs. Ombudsman vs. OTS
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the core legal mechanisms governing debt recovery and account freezes allows salaried borrowers to understand their strategic rights and choose the fastest path to financial recovery:
               </p>
@@ -1009,7 +1009,7 @@ export default function BankFreezeSalaryAccountPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 Salary Exemption)</span></span>
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 171 Banker&apos;s Lien)</span></span>
@@ -1047,7 +1047,7 @@ export default function BankFreezeSalaryAccountPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/application-to-unblock-bank-account-for-loan-emi"

@@ -749,7 +749,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <MailCheck className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Check 1: Official Corporate Domain Email Dispatch</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Ensure the settlement letter is emailed directly from the bank&apos;s registered corporate email domain (e.g., <code className="text-blue-700 bg-blue-50 px-1 py-0.5 rounded">nodal.officer@hdfcbank.com</code>, <code className="text-blue-700 bg-blue-50 px-1 py-0.5 rounded">retail.settlements@icicibank.com</code>, or <code className="text-blue-700 bg-blue-50 px-1 py-0.5 rounded">sarb.zonal@sbi.co.in</code>). Any letter received exclusively via WhatsApp, Telegram, or from public webmail servers (@gmail.com, @yahoo.co.in) is completely invalid.
                   </p>
@@ -759,7 +759,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <Building2 className="w-4 h-4 text-indigo-600" />
                     <span>Check 2: Registered Zonal Letterhead &amp; Corporate Details</span>
-                  </h2>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Authentic letters are printed on high-grade corporate letterheads displaying the bank&apos;s full legal corporate entity name, Corporate Identification Number (CIN), registered head office address, and zonal branch coordinates. Counterfeit letters often display pixelated, low-resolution logos downloaded from web searches.
                   </p>
@@ -769,7 +769,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <FileText className="w-4 h-4 text-purple-600" />
                     <span>Check 3: Traceable Committee Approval Reference Number</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     A genuine OTS sanction letter always features a unique, structured internal reference number (e.g., <code className="text-slate-800 bg-slate-200 px-1 py-0.5 rounded">HDFC/SARB/NZ/OTS/2026/08/9421</code>). This reference code corresponds directly to an entry in the bank&apos;s Centralized Core Banking System and Credit Committee minutes.
                   </p>
@@ -779,7 +779,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <UserCheck className="w-4 h-4 text-emerald-600" />
                     <span>Check 4: Authorized Officer Name, Designation &amp; Employee Code</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The sanction letter must clearly disclose the authorized signing officer&apos;s full name, formal corporate designation (such as Chief Manager, Assistant General Manager, or Stressed Asset Recovery Officer), employee ID code, and official branch stamp.
                   </p>
@@ -882,7 +882,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             <section id="safe-remittance-ndc-cibil-recovery" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Safe Remittance, RBI ₹0 NDC Mandate & CIBIL Update
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the One-Time Settlement sanction letter has passed all 7 forensic verification checks, executing the settlement payment requires absolute procedural discipline. Adhere strictly to the following three safe remittance channels:
               </p>
@@ -913,7 +913,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding CIBIL Bureau Reporting &amp; Credit Score Rebuilding
-              </h4>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following settlement execution, the bank reports your loan account to all four authorized credit bureaus: CIBIL, Experian, Equifax, and CRIF High Mark. The status is marked as &apos;Settled&apos;, reflecting an outstanding balance of ₹0.</p>
             </section>
@@ -922,7 +922,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             <section id="comparative-settlement-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Matrix: Authentic Bank OTS vs Rogue Fake Letter
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To provide total clarity, the comparative matrix below contrasts the critical forensic parameters of a genuine, legally binding bank OTS sanction letter against a fraudulent instrument fabricated by rogue collection agents:
               </p>
@@ -1029,7 +1029,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1075,7 +1075,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

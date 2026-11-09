@@ -534,7 +534,7 @@ export default function PersonalLoanSettlementNashikPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -761,7 +761,7 @@ export default function PersonalLoanSettlementNashikPage() {
                   <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 138 of the Negotiable Instruments Act, 1881 (Cheque Bounce)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1">
                     If security cheques bounce, the bank sends a 15-day notice before filing a case. Our Nashik advocates file a Vakalatnama, obtain bail, and apply under Section 147 of the NI Act to move the dispute to Lok Adalat for full closure.
                   </p>
@@ -770,7 +770,7 @@ export default function PersonalLoanSettlementNashikPage() {
                   <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 of the Payment and Settlement Systems Act, 2007 (NACH Bounce)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1">
                     When electronic NACH debits fail, lenders file cases under Section 25 PSSA. Our advocates show genuine financial distress and guide the case toward a mutual OTS agreement.
                   </p>
@@ -995,7 +995,7 @@ export default function PersonalLoanSettlementNashikPage() {
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Shield className="w-6 h-6 text-[#1F5EFF]" />
                 <span>12. SettleLoans Legal Defense &amp; Debt Advisory in Nashik</span>
-              </h3>
+              </h2>
               <p>
                 SettleLoans is India&apos;s leading legal debt resolution service. Our Nashik legal team brings deep knowledge in banking rules, bank SARB talks, and court defense at the Old Agra Road Court Complex. We have helped over 1,200 borrowers across Maharashtra stop recovery harassment and secure maximum debt waivers.
               </p>
@@ -1140,7 +1140,7 @@ export default function PersonalLoanSettlementNashikPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 <span>Explore Related Banking &amp; Debt Resolution Guides</span>
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
@@ -1207,7 +1207,7 @@ export default function PersonalLoanSettlementNashikPage() {
           </main>
 
           {/* Right Column (Author Bio, Emergency Advocate CTA, Trust Signals) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">

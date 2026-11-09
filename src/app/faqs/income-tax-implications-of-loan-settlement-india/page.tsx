@@ -320,7 +320,7 @@ export default function TaxImplicationsPage() {
                                 <h3 className="font-bold text-xl mb-4 flex items-center text-red-900">
                                     <FontAwesomeIcon icon={faGavel} className="text-red-600 mr-3 w-5 h-5" />
                                     Supreme Court Clarity: Chevron vs. Commissioner
-                                </h2>
+                                </h3>
                                 <p className="text-sm text-red-800 leading-relaxed mb-4 font-sans">
                                     In the landmark case of <strong>Commissioner of Income Tax vs. Mahindra and Mahindra Ltd</strong>, the Supreme Court initially ruled that a waiver was not taxable as income. However, subsequent amendments to the law have significantly narrowed this protection for active business entities.
                                 </p>
@@ -420,7 +420,7 @@ export default function TaxImplicationsPage() {
                         <section id="expert-tips" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Strategy: Reducing Your Tax Exposure
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 At SettleLoans, we advise clients implementing business settlements to work with their CAs to classify the waiver correctly. If the loan was for a fixed asset (like machinery), the waiver should be used to reduce the "Written Down Value" (WDV) of the asset rather than being declared as direct income. This reduces your depreciation but avoids a massive immediate tax hit.
                             </p>

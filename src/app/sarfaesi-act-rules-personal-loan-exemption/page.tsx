@@ -691,7 +691,7 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
                   <h3 className="font-bold text-sm text-slate-900 flex items-center gap-2">
                     <Building2 className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Order 37 CPC Summary Civil Suit</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Lenders can file a summary suit in Civil Court. However, banks must pay court fees (3% to 7%) and serve summons. Borrowers can apply for Leave to Defend. When advocates show triable issues like improper interest compounding, courts grant leave to defend, converting the case into a regular trial.
                   </p>
@@ -701,7 +701,7 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
                   <h3 className="font-bold text-sm text-slate-900 flex items-center gap-2">
                     <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 138 NI Act &amp; Section 25 PASSA</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     If NACH or ECS auto-debits bounce, lenders may issue notices under Section 25 of the Payment and Settlement Systems Act or Section 138 NI Act. These bailable proceedings require strict 30-day notice compliance and are routinely resolved through Lok Adalat or compromise settlement.
                   </p>
@@ -711,7 +711,7 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
                   <h3 className="font-bold text-sm text-slate-900 flex items-center gap-2">
                     <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Institutional Arbitration Proceedings</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Lenders may invoke loan arbitration clauses. However, under Supreme Court rulings in TRF Ltd and Perkins Eastman, unilateral sole arbitrator appointments by banks are void under Section 12(5) of the Arbitration Act. Legal challenges routinely redirect banks toward settlement.
                   </p>
@@ -733,7 +733,7 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
             <section id="strategic-ots-negotiation-framework" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Converting Recovery Pressure into a Bank-Sanctioned OTS
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recognizing that lending institutions lack SARFAESI enforcement powers and confront extensive procedural barriers in civil recovery rebalances negotiating leverage in favor of the distressed borrower. An advocate-managed One-Time Settlement (OTS) converts high-pressure collection tactics into an institutional compromise through four disciplined milestones:
               </p>
@@ -795,7 +795,7 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
             <section id="rbi-ndc-mandate-cibil-recovery" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Loan Closure Protocols: RBI NDC Mandate &amp; CIBIL Rehabilitation
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Settlement completion requires formal legal closure. Under <strong>RBI Circular RBI/2023-24/60</strong>, banks and NBFCs must issue a formal <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> and update credit bureaus within <strong>30 calendar days</strong> of final payment.
               </p>
@@ -840,7 +840,7 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
             <section id="comparative-recovery-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution Comparative Matrix: SARFAESI vs Civil Suit vs OTS
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating resolution channels clarifies borrower protections:
               </p>

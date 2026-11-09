@@ -399,7 +399,7 @@ export default function PersonalLoanSettlementPercentageClient() {
                   <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Percent className="w-5 h-5 text-[#1F5EFF]" />
                     Settlement Amount Percentage (What You Pay)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     This represents the exact proportion of the outstanding debt you must arrange in cash to satisfy the lender&apos;s compromise demand. For example, a <strong>35% settlement</strong> on a ₹10,00,000 total claim means you pay <strong>₹3,50,000</strong> to fully discharge the debt.
                   </p>
@@ -409,7 +409,7 @@ export default function PersonalLoanSettlementPercentageClient() {
                   <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <BadgePercent className="w-5 h-5 text-emerald-600" />
                     Haircut / Discount Percentage (What You Save)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     This is the proportion of the loan the bank agrees to write off and permanently forgive. In the same example above, paying ₹3,50,000 yields a <strong>65% haircut (₹6,50,000 net savings)</strong> for the borrower.
                   </p>
@@ -419,7 +419,7 @@ export default function PersonalLoanSettlementPercentageClient() {
               {/* Components of Total Dues */}
               <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 Deconstructing the Bank&apos;s Claim: Why Total Dues Are Inflated
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 When a borrower defaults on EMIs for 6 months, a loan with an original ₹5 Lakh balance suddenly balloons into a ₹7.5 Lakh demand notice. Lenders artificially inflate default balances using three distinct layers:
               </p>
@@ -465,7 +465,7 @@ export default function PersonalLoanSettlementPercentageClient() {
                 <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
                   <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                   The Economic Driver: Why RBI Provisioning Forces Banks to Settle
-                </h2>
+                </h3>
                 <p className="text-sm text-slate-700 leading-relaxed mb-3">
                   When an unsecured personal loan misses 3 consecutive EMI cycles (90 days), it is classified as a <strong>Non-Performing Asset (NPA)</strong>. Under RBI regulations, the bank is legally barred from recognizing accrued interest as income and is forced to set aside cash reserves (provisions) directly from its operating profits to cover potential default losses:
                 </p>
@@ -483,7 +483,7 @@ export default function PersonalLoanSettlementPercentageClient() {
               <div className="my-8">
                 <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Default Vintage vs. Expected Personal Loan Settlement Percentage Matrix
-                </h2>
+                </h3>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -606,7 +606,7 @@ export default function PersonalLoanSettlementPercentageClient() {
             <section id="lender-comparison-matrix" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Expected Settlement Percentages: Banks vs NBFCs
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Not all financial institutions operate under identical regulatory mandates. Public sector banks, private commercial giants, and digital fintech NBFCs handle loan default resolution through distinct operational frameworks:
               </p>
@@ -727,7 +727,7 @@ export default function PersonalLoanSettlementPercentageClient() {
             <section id="fund-arrangement-playbook" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 5. Capital Planning Playbook: Settling at the Lowest %
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Understanding the target settlement percentage is only half the battle. The critical practical challenge is arranging the necessary compromise funds without plunging into new high-cost debt traps. Follow this structured 5-step fund planning and negotiation playbook:
               </p>
@@ -790,7 +790,7 @@ export default function PersonalLoanSettlementPercentageClient() {
             <section id="settlement-calculators-cases" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Real-World Case Math: How Settlement Percentages Work
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 To see exactly how settlement percentage formulas translate into real cash savings, review these three verified settlement case studies resolved by SettleLoans empanelled advocates across different loan sizes and borrower profiles:
               </p>
@@ -937,7 +937,7 @@ export default function PersonalLoanSettlementPercentageClient() {
             <section id="cibil-tax-legal-realities" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. CIBIL Impact, Section 194R Tax & 750+ Rebuild Roadmap
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 While settling a personal loan for 35%–45% delivers immediate financial freedom and halts all legal risk, borrowers must understand the post-settlement regulatory and credit realities:
               </p>
@@ -1012,7 +1012,7 @@ export default function PersonalLoanSettlementPercentageClient() {
             <section id="faqs" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. FAQs: Personal Loan Settlement Percentages
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 Find clear, authoritative answers to the most critical legal, mathematical, and procedural questions regarding loan settlement percentages in India:
               </p>
@@ -1166,7 +1166,7 @@ export default function PersonalLoanSettlementPercentageClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

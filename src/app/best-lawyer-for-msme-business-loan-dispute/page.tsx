@@ -288,7 +288,7 @@ export default function MSMELoanDisputePage() {
                                 <h3 className="text-xl font-bold mb-6 flex items-center gap-3">
                                     <FontAwesomeIcon icon={faScaleBalanced} className="text-[#1F5EFF]" />
                                     Fundamental Protections for MSMEs
-                                </h2>
+                                </h3>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li className="flex items-start gap-2">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full mt-1.5 flex-shrink-0"></span>
@@ -336,7 +336,7 @@ export default function MSMELoanDisputePage() {
                         <section id="drt-proceedings" className="scroll-mt-32 mb-12">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 DRT Litigation Strategy for MSMEs
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Debt Recovery Tribunal is where the real legal battle takes place. For an MSME, the DRT is not just a court; it is a tactical arena. Our strategy in the DRT is often focused on time and transparency. We compel the bank to provide full account statements and justify every single rupee claimed as outstanding.
                             </p>

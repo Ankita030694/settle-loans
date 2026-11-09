@@ -516,7 +516,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -828,7 +828,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Enforcement &amp; Ombudsman Escalation Mechanism</span>
-                </h2>
+                </h3>
                 <p className="text-xs text-slate-600 leading-relaxed">
                   When collection agencies violate these statutory safeguards, specialized legal advocates issue a formal <strong>Legal Cease-and-Desist Notice</strong> to the bank&apos;s Managing Director and Principal Nodal Officer (PNO), attaching hospital admission records. If the harassment continues, a formal complaint is escalated to the <strong>RBI Integrated Ombudsman Portal (<a href="https://cms.rbi.org.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-semibold">cms.rbi.org.in</a>)</strong>. Under the Ombudsman scheme, banks face mandatory regulatory reprimands, institutional fines, and monetary relief orders awarded directly to the distressed borrower.
                 </p>
@@ -882,7 +882,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                   <h3 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                     <span>Audit &amp; Medical Dossier Assembly</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Collate all hospital discharge summaries, inpatient invoices, TPA claim vouchers, treating physician prognosis certificates, and 12-month stamped bank account statements establishing total savings exhaustion.
                   </p>
@@ -892,7 +892,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">2</span>
                     <span>Legal Representation &amp; Harassment Injunction</span>
-                  </h2>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Formal Letters of Authority (LoA) are served on the lender&apos;s Nodal Officers. Legal cease-and-desist notices immediately halt collection agent harassment at home, office, and hospital premises under RBI directives.
                   </p>
@@ -902,7 +902,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">3</span>
                     <span>Direct Submission to Zonal Stressed Assets Cell</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     The structured compassionate hardship petition is submitted directly to the bank&apos;s Zonal Settlement Committee, bypassing retail branch personnel and presenting detailed NPV recovery mathematics.
                   </p>
@@ -912,7 +912,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">4</span>
                     <span>Multi-Round Haircut talks</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Advocates negotiate aggressively to eliminate 100% of accumulated penal interest and bounce charges, securing a 50% to 75% haircut on the core principal balance based on verified healthcare costs.
                   </p>
@@ -938,7 +938,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 OTS Sanction Letters: 5 Key Clauses & ₹0 NDC Mandate
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A dangerous trap facing medically distressed borrowers is relying on verbal settlement promises or WhatsApp messages. Tele-callers trick borrowers into depositing token payments of ₹25,000 to ₹50,000, promising account closure. The bank then credits this token against penal interest, leaving the principal balance active and compounding.
               </p>
@@ -970,7 +970,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparative Debt Resolution Matrix & Credit Repair
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Distressed borrowers often evaluate whether a One-Time Settlement (OTS) is superior to alternative relief mechanisms such as loan tenure restructuring, medical moratoriums, or conciliation through National Lok Adalat. The comparative matrix below details the strategic trade-offs of each avenue following a healthcare crisis:
               </p>
@@ -1022,7 +1022,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
 
               <h3 className="text-lg md:text-xl font-bold text-slate-900 mt-8 mb-3">
                 Rebuilding Your CIBIL Score from &apos;Settled&apos; to 750+ Post-Recovery
-              </h4>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a loan settlement updates your credit bureau status to <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While this causes an initial score dip of 75 to 150 points and a 12-month cooling period, it permanently stops compounding default marks, halts legal notices, and eliminates harassment.
               </p>
@@ -1047,7 +1047,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Loan Settlement Due to Medical Emergency
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1076,7 +1076,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1141,7 +1141,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
@@ -1208,7 +1208,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

@@ -585,21 +585,21 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Sexual Harassment &amp; Lewd Conduct (Section 75 BNS / Section 354A IPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Agents who make unwelcome physical contact, demand favors. or make vulgar remarks in person or over phone calls face up to three years of rigorous imprisonment.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-purple-600" />
                     <span>Insulting the Modesty of a Woman (Section 79 BNS / Section 509 IPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Anyone who utters rude words, makes offensive gestures. or invades a woman&apos;s privacy faces up to three years in jail. Shouting insults in front of neighbors falls squarely under this law.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-500 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-indigo-600" />
                     <span>Criminal Intimidation &amp; Trespass (Sections 351, 352 &amp; 329 BNS / Sections 503, 506 &amp; 441 IPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Threatening injury or entering a private home unlawfully to cause fear gives the police legal power to arrest the offending agents right away.</p>
                 </div>
               </div>
@@ -794,7 +794,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 CIBIL Bureau Reporting &amp; Post-Settlement Credit Rehabilitation
-              </h4>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">After settlement, credit bureaus mark the loan as <strong>&quot;Settled&quot;</strong> with an outstanding balance of <strong>₹0</strong>. This may cause a temporary drop of 60 to 100 points. But it stops default accumulation and ends abuse. You can rebuild your score above 750 in 18 to 24 months with a secured credit card and timely payments.</p>
             </section>
 
@@ -893,7 +893,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://ncwapps.nic.in"
@@ -939,7 +939,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/loan-settlement-for-housewives-and-co-borrowers"

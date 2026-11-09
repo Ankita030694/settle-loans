@@ -390,7 +390,7 @@ export default function FreeConsultationPage() {
                   <h3 className="font-bold text-blue-800 mb-4 flex items-center">
                     <span className="w-6 h-6 rounded-full bg-blue-200 mr-2 flex items-center justify-center text-xs">ℹ</span>
                     What to Have Ready
-                  </h2>
+                  </h3>
                   <ul className="space-y-3 text-blue-900/80 font-medium text-sm">
                     <li className="flex items-start"><span className="mr-2">•</span> <strong>List of Creditors:</strong> Names of all banks and apps you owe money to.</li>
                     <li className="flex items-start"><span className="mr-2">•</span> <strong>Outstanding Amounts:</strong> Approximate total due for each loan.</li>
@@ -402,7 +402,7 @@ export default function FreeConsultationPage() {
                   <h3 className="font-bold text-amber-800 mb-4 flex items-center">
                     <span className="w-6 h-6 rounded-full bg-amber-200 mr-2 flex items-center justify-center text-xs">?</span>
                     What We Will Ask
-                  </h2>
+                  </h3>
                   <ul className="space-y-3 text-amber-900/80 font-medium text-sm">
                     <li className="flex items-start"><span className="mr-2">•</span> "What caused your financial difficulty? (Job loss, medical, etc)"</li>
                     <li className="flex items-start"><span className="mr-2">•</span> "How much disposable income do you have monthly for savings?"</li>
@@ -445,7 +445,7 @@ export default function FreeConsultationPage() {
             <section id="red-flags" className="scroll-mt-32 mb-12">
               <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-6">
                 Warning Signs: Spotting Scams
-              </h3>
+              </h2>
               <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-lg">
                 <p className="font-bold text-red-900 mb-4">Be careful if an agent:</p>
                 <ul className="space-y-3 text-red-900/80">
@@ -506,7 +506,7 @@ export default function FreeConsultationPage() {
             <section id="process" className="scroll-mt-32 mb-12">
               <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 How the Process Works
-              </h3>
+              </h2>
               <div className="bg-white p-8 rounded-2xl border border-gray-100">
                 <div className="space-y-8">
                   <div className="flex">

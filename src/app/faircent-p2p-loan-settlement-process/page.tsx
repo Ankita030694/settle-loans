@@ -513,7 +513,7 @@ export default function FaircentP2PLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -680,7 +680,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>RBI Fair Lending Compliance Mandate</span>
-                </h2>
+                </h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                   Under the RBI Master Directions on Fair Practices Code and the Circular on Fair Lending Practice - Penal Charges in Loan Accounts (RBI/2023-24/53), lenders cannot capitalize penal charges or compound overdue interest into principal dues. In any formal One-Time Settlement, 100% of accumulated bounce fees, late administrative levies, and penal compounding must be completely waived.
                 </p>
@@ -736,7 +736,7 @@ export default function FaircentP2PLoanSettlementPage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Faircent &amp; P2P Loan Settlement &amp; Legal Defense Architecture
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -899,7 +899,7 @@ export default function FaircentP2PLoanSettlementPage() {
                   <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 PSSA Demand Notices (Dishonoured NACH Mandates)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Under Section 25 of the Payment and Settlement Systems Act, 2007, a bounced electronic mandate carries quasi-criminal liability comparable to a bounced physical cheque under Section 138 of the Negotiable Instruments Act, 1881. However, before any complaint can be filed in a Magistrate Court, the platform must serve a statutory 15-day demand notice. A formal legal reply drafted by experienced counsel showing involuntary financial hardship, highlighting unauthorized repeat presentations, and proposing compromise terms routinely transitions the dispute into settlement discussions.
                   </p>
@@ -909,7 +909,7 @@ export default function FaircentP2PLoanSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Unilateral Sole Arbitration cases</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Many P2P loan agreements contain arbitration clauses under which platforms attempt to appoint a sole arbitrator unilaterally in Delhi, Mumbai, or Bengaluru. Under binding Supreme Court precedents (Perkins Eastman Architects DVM v. HSCC (India) Ltd. and TRF Ltd. v. Energo Engineering Projects Ltd.), unilateral arbitrator appointments without mutual written consent are legally invalid. Legal counsel can challenge the arbitrator&apos;s jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting ex-parte cases.
                   </p>
@@ -919,7 +919,7 @@ export default function FaircentP2PLoanSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Users className="w-4 h-4 text-[#1F5EFF]" />
                     <span>National Lok Adalat Amicable Settlement</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     P2P platforms frequently refer delinquent accounts to National Lok Adalat sessions organized under the Legal Services Authorities Act, 1987. Lok Adalat is an amicable, non-adversarial dispute resolution forum presided over by a retired judicial officer. Lok Adalat awards carry the statutory finality of a civil court decree under Section 21 of the Act, with zero court fees, guaranteed principal waivers, and complete termination of all legal claims.
                   </p>
@@ -935,7 +935,7 @@ export default function FaircentP2PLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating OTS Sanction Letters & Enforcing NDCs
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A critical danger in the loan settlement ecosystem involves informal, verbal, or WhatsApp &quot;settlement promises&quot; extended by third-party recovery agency callers. Borrowers who transfer funds based on casual WhatsApp messages frequently discover that the money was credited as a partial installment payment, leaving the remaining loan active and compounding fresh default charges.
               </p>
@@ -973,7 +973,7 @@ export default function FaircentP2PLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory: Post-Settlement Credit Rebuilding
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A common concern among borrowers settling a Faircent or P2P personal loan is the long-term impact on their credit profile across TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. When a loan is resolved through a compromise settlement, the P2P platform updates the credit bureaus with the status &quot;Settled&quot; or &quot;Post-Write-off Settled&quot; and reflects an outstanding balance of ₹0.
               </p>
@@ -1016,7 +1016,7 @@ export default function FaircentP2PLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Faircent &amp; P2P Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1046,7 +1046,7 @@ export default function FaircentP2PLoanSettlementPage() {
               <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                 Official Statutory References &amp; Regulatory Frameworks
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                 <a
                   href="https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11137"
@@ -1101,7 +1101,7 @@ export default function FaircentP2PLoanSettlementPage() {
               <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
@@ -1168,7 +1168,7 @@ export default function FaircentP2PLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

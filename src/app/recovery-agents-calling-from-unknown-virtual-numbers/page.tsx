@@ -593,14 +593,14 @@ export default function RecoveryAgentsVirtualNumbersPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldCheck className="w-4 h-4 text-amber-600" />
                     <span>RBI Master Direction on Managing Risks and Code of Conduct in Outsourcing of Financial Services</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">The RBI states that outsourcing debt recovery does not reduce the bank&apos;s legal duties. Banks must ensure agents follow the Fair Practices Code and use only verified phone lines.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-purple-600" />
                     <span>Judicial Precedent: ICICI Bank Ltd. v. Prakash Kaur (2007) 2 SCC 711</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">The Supreme Court ruled that banks cannot use musclemen or threats to recover debt. Lenders remain directly liable in court for agent misconduct.</p>
                 </div>
               </div>
@@ -894,7 +894,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://sancharsaathi.gov.in/sfc/"
@@ -948,7 +948,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

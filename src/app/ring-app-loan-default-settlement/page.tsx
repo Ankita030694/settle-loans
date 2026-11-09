@@ -536,7 +536,7 @@ export default function RingAppLoanDefaultSettlementPage() {
       <div className="w-full max-w-[1720px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 py-8 md:py-12">
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -830,7 +830,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Ring App (PayWithRing) Loan Default &amp; Settlement Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -914,7 +914,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                       1
                     </span>
                     Financial Hardship Audit &amp; Evidentiary Dossier Preparation
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Compile comprehensive documentary evidence showing bona fide financial incapacity. Relevant documents include pink slips or layoff notices, medical discharge summaries, business GST filings showing revenue declines, or bank statements showing depleted liquidity. This establishes that the default is non-wilful and qualifies for compromise relief under RBI rules.
                   </p>
@@ -927,7 +927,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                       2
                     </span>
                     Revoking NACH Mandates &amp; Directing notice Channels
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit an e-mandate cancellation request to your bank to stop automated debit presentation fees. Issue a formal notice to Si Creva Capital directing all notice to official written email channels or designated legal counsel, establishing an auditable paper trail.
                   </p>
@@ -940,7 +940,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                       3
                     </span>
                     Submitting Formal Hardship Petition to NBFC Nodal Desk
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a structured compromise petition addressed to Si Creva Capital&apos;s Stressed Asset Settlement Committee. Cite RBI Master Directions and propose an opening settlement offer at 25% to 35% of total outstanding ledger dues to establish room for talks.
                   </p>
@@ -953,7 +953,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                       4
                     </span>
                     Counter-talks &amp; Credit Committee Approval
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     The NBFC will initially reject low offers and propose minor discounts. Experienced legal counsel counters by showing that settlement funds are being pooled from third-party relatives or asset liquidation, steering the committee toward the target 40% to 60% principal waiver band.
                   </p>
@@ -995,7 +995,7 @@ export default function RingAppLoanDefaultSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Section 25 PSSA, Digital Arbitration & Lok Adalat
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a Ring app credit line crosses 60 to 90 days of non-payment, the lending NBFC issues statutory notices. These notices fall under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> for dishonoured NACH mandates. The lender may also issue notices invoking private digital arbitration in Mumbai or Delhi.
               </p>
@@ -1063,7 +1063,7 @@ export default function RingAppLoanDefaultSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Ring App Settlement Letters & ₹0 NDC
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A serious risk in digital debt recovery involves rogue collection agents issuing fake settlement letters or demanding cash / personal UPI transfers. If a borrower transfers funds against an unverified or verbal offer, the NBFC credits the money toward outstanding penal charges, leaving the default open and compounding.
               </p>
@@ -1083,7 +1083,7 @@ export default function RingAppLoanDefaultSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory & 18-Month Recovery Plan
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling with Ring App updates your status across all four credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark). The account is marked <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. While this causes an initial drop of 70 to 120 points, it halts compounding default charges.
               </p>
@@ -1103,7 +1103,7 @@ export default function RingAppLoanDefaultSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Ring App Borrowers Trust SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving defaulted digital credit lines requires skilled advocacy. SettleLoans halts third-party harassment through immediate cease-and-desist notices. We defend against Section 25 PSSA summons and challenge unilateral arbitration notices. also, we negotiate directly with Si Creva Capital&apos;s Stressed Assets Desks to secure maximum lawful waivers and authentic ₹0 No Dues Certificates.
               </p>
@@ -1122,7 +1122,7 @@ export default function RingAppLoanDefaultSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Ring App (PayWithRing) Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1283,7 +1283,7 @@ export default function RingAppLoanDefaultSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

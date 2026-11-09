@@ -842,7 +842,7 @@ export default function BankSoldLoanToArcSettlementPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Navigating Credit Bureau Reporting &amp; Credit Score Rehabilitation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding how credit information companies reflect an ARC settlement is essential for strategic long-term financial recovery:
               </p>
@@ -870,7 +870,7 @@ export default function BankSoldLoanToArcSettlementPage() {
             <section id="bank-vs-arc-settlement-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Bank vs. ARC Debt Settlement Comparative Strategy Matrix
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing the key institutional differences between settling directly with an originating commercial bank versus settling with an Asset Reconstruction Company highlights why an ARC assignment creates superior settlement outcomes:
               </p>

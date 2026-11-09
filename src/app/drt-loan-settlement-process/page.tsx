@@ -868,7 +868,7 @@ export default function DRTLoanSettlementProcessPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Information Bureau (CIBIL) Trajectory &amp; Score recovery
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must understand the precise mechanism of credit bureau reporting after resolving high-value litigation:
               </p>
@@ -896,7 +896,7 @@ export default function DRTLoanSettlementProcessPage() {
             <section id="drt-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution Matrix: DRT vs SARFAESI vs Civil Suit
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the strategic parameters across major Indian debt recovery forums illustrates why a DRT-supervised One Time Settlement offers the most advantageous balance of legal finality, risk mitigation, and debt reduction:
               </p>

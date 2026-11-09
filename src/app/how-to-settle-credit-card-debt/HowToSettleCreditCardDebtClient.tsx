@@ -410,7 +410,7 @@ export default function HowToSettleCreditCardDebtClient() {
                 <h3 className="text-sm font-bold text-blue-300 uppercase tracking-wider mb-2 flex items-center gap-2">
                   <Calculator className="w-4 h-4" />
                   <span>The Mathematical Minimum Due Trap on a ₹2,00,000 Balance</span>
-                </h2>
+                </h3>
                 <p className="text-xs text-slate-300 leading-relaxed mb-3">
                   If you carry a ₹2,00,000 credit card balance at 42% APR (3.5% monthly) and strictly pay only the 5% Minimum Amount Due (₹10,000 starting payment):
                 </p>
@@ -545,7 +545,7 @@ export default function HowToSettleCreditCardDebtClient() {
                       </span>
                       <h3 className="font-bold text-slate-900 text-base">
                         SMA-0 Stage (1 to 30 Days Past Due)
-                      </h2>
+                      </h3>
                     </div>
                     <span className="text-xs font-semibold px-2.5 py-1 bg-slate-100 text-slate-600 rounded-full">
                       Early Delinquency
@@ -564,7 +564,7 @@ export default function HowToSettleCreditCardDebtClient() {
                       </span>
                       <h4 className="font-bold text-slate-900 text-base">
                         SMA-1 &amp; SMA-2 Stage (31 to 90 Days Past Due)
-                      </h2>
+                      </h4>
                     </div>
                     <span className="text-xs font-semibold px-2.5 py-1 bg-amber-100 text-amber-800 rounded-full">
                       Card Block &amp; Agency Allocation
@@ -583,7 +583,7 @@ export default function HowToSettleCreditCardDebtClient() {
                       </span>
                       <h4 className="font-bold text-slate-900 text-base">
                         NPA Classification (90+ Days Past Due) — Prime Settlement Window
-                      </h2>
+                      </h4>
                     </div>
                     <span className="text-xs font-semibold px-2.5 py-1 bg-blue-100 text-blue-800 rounded-full font-bold">
                       Maximum OTS Leverage
@@ -602,7 +602,7 @@ export default function HowToSettleCreditCardDebtClient() {
                       </span>
                       <h4 className="font-bold text-slate-900 text-base">
                         Technical Write-Off / ARC Assignment (180+ Days Past Due)
-                      </h2>
+                      </h4>
                     </div>
                     <span className="text-xs font-semibold px-2.5 py-1 bg-purple-100 text-purple-800 rounded-full">
                       Distressed Asset Desk
@@ -756,7 +756,7 @@ export default function HowToSettleCreditCardDebtClient() {
             <section id="step-by-step-settlement-blueprint" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 6. Step-by-Step Legal Blueprint to Settle Credit Card Debt in India
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 Settling credit card debt successfully requires a structured, multi-stage legal and financial negotiation strategy. Following this verified protocol ensures maximum debt waivers while completely insulating you from illegal collection harassment.
               </p>
@@ -770,7 +770,7 @@ export default function HowToSettleCreditCardDebtClient() {
                   <div>
                     <h3 className="text-base font-bold text-slate-900 mb-1">
                       Step 1: Forensic Statement Audit &amp; Phantom Debt Calculation
-                    </h4>
+                    </h3>
                     <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                       Download the last 12 months of credit card statements. Our legal analysts separate your <strong>Actual Principal Spend</strong> (physical transactions, fuel, merchant swipes, ATM cash) from <strong>Phantom Accumulated Debt</strong> (monthly 3.5% finance charges, late payment fees, over-limit penalties, and 18% GST). This establishes the authentic baseline for all OTS negotiations.
                     </p>
@@ -867,7 +867,7 @@ export default function HowToSettleCreditCardDebtClient() {
             <section id="rbi-regulations-anti-harassment" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 7. RBI Regulations &amp; Borrower Anti-Harassment Protections
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Credit card recovery in India has historically been fraught with aggressive collection practices. To curb these abuses, the Reserve Bank of India has enacted stringent, binding regulatory directives that protect delinquent cardholders:
               </p>
@@ -933,7 +933,7 @@ export default function HowToSettleCreditCardDebtClient() {
             <section id="bank-specific-settlement-realities" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 8. Bank-Specific Credit Card Settlement Realities in India
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 While all scheduled commercial banks adhere to RBI guidelines, each major card issuer operates internal settlement matrices, delegated financial authority limits, and standard waiver ranges:
               </p>
@@ -1001,7 +1001,7 @@ export default function HowToSettleCreditCardDebtClient() {
             <section id="cibil-rehabilitation-ndc-verification" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 9. Post-Settlement CIBIL Repair & ₹0 NDC Verification
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Executing a settlement provides instant psychological and legal peace of mind by eliminating active collection threats. However, managing your credit bureau footprint post-settlement is vital for your long-term financial freedom.
               </p>
@@ -1012,7 +1012,7 @@ export default function HowToSettleCreditCardDebtClient() {
                   <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <Info className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Understanding the &quot;Settled&quot; Remark in CIBIL</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed mb-3">
                     Under the <em>Credit Information Companies (Regulation) Act, 2005</em>, banks report settled accounts as <strong>&quot;Settled&quot; with a Current Balance of ₹0</strong>. This indicates that the lender accepted a compromise haircut and the borrower has zero active financial or legal liability.
                   </p>
@@ -1073,7 +1073,7 @@ export default function HowToSettleCreditCardDebtClient() {
                 </div>
                 <h2 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
                   Expert Answers to Critical Credit Card Debt Settlement Queries
-                </h3>
+                </h2>
                 <p className="text-xs md:text-sm text-slate-600 mt-2">
                   Detailed, search-optimized answers addressing legal rights, bank negotiation tactics, CIBIL impacts, and settlement procedures.
                 </p>
@@ -1097,7 +1097,7 @@ export default function HowToSettleCreditCardDebtClient() {
               <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory References &amp; Official Regulatory Sources</span>
-              </h4>
+              </h3>
               <ul className="text-xs text-slate-600 space-y-2">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
@@ -1203,7 +1203,7 @@ export default function HowToSettleCreditCardDebtClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm">
               <div className="flex items-center gap-3 mb-3">

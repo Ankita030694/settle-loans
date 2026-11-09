@@ -298,7 +298,7 @@ export default function TimeBarredDebtPage() {
               <div id="the-3-year-rule" className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8 scroll-mt-32">
                 <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
                   The 3-Year Rule
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6 text-blue-900">
                   A time-barred debt is simply a loan or credit card outstanding that has crossed the statutory limitation period for legal recovery. For unsecured personal loans and credit cards, this period is <strong>3 years</strong>.
                 </p>
@@ -367,7 +367,7 @@ export default function TimeBarredDebtPage() {
               <div id="fake-legal-notices" className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8 scroll-mt-32">
                 <h3 className="text-xl font-black text-red-700 mb-4">
                   ⚠️ The Trap: Sending Fake Legal Notices
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed text-red-900">
                   Agents often send WhatsApp messages containing fake "court notices" or "FIR warrants" for 5 to 10-year-old personal loans. This is completely illegal. An FIR cannot be filed for a simple loan default, and a court will throw out a civil suit for a time-barred debt immediately.
                 </p>
@@ -420,7 +420,7 @@ export default function TimeBarredDebtPage() {
             <section id="success-stories" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Success Stories: Stopping Harassment on Time-Barred Debts
-              </h3>
+              </h2>
               
               <div className="grid sm:grid-cols-2 gap-6">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -461,7 +461,7 @@ export default function TimeBarredDebtPage() {
             <section id="faqs" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h3>
+              </h2>
               <div className="space-y-4">
                 {[
                   { q: "What is a time-barred debt in India?", a: "Under the Limitation Act of 1963, a time-barred debt is a debt that is beyond the legal limitation period for recovery through the courts. For unsecured loans, this period is generally 3 years from the date of the last payment or written acknowledgment." },

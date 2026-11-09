@@ -630,7 +630,7 @@ export default function BankSendingLegalNoticeToEmployerPage() {
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Criminal Defamation (Section 499 &amp; 500 IPC / Section 356 BNS 2023)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Whoever, by words spoken or written, makes or publishes any imputation concerning another person intending to harm their reputation commits criminal defamation. Sending defamatory notices, emails, or debt claims to an employer with intent to lower the borrower&apos;s professional standing carries a penalty of up to two years of simple imprisonment, a fine, or both.
                   </p>
@@ -639,7 +639,7 @@ export default function BankSendingLegalNoticeToEmployerPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Criminal Intimidation &amp; Extortion (Section 503, 506 &amp; 384 IPC / Sections 351 &amp; 308 BNS)</span>
-                  </h2>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Threatening a borrower with termination of employment, public exposure at their workplace, or visiting their corporate office to cause humiliation constitutes criminal intimidation. Using coercive workplace threats to extract money constitutes attempted extortion under criminal law.
                   </p>
@@ -648,7 +648,7 @@ export default function BankSendingLegalNoticeToEmployerPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-purple-600" />
                     <span>Civil Tort of Defamation &amp; Exemplary Damages</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Indian tort law, a borrower whose professional reputation, appraisal, or career progression is damaged by unauthorized bank communications can initiate a civil suit for substantial monetary damages against the lending institution and the collection agency.
                   </p>
@@ -868,7 +868,7 @@ export default function BankSendingLegalNoticeToEmployerPage() {
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Recovery
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers dealing with rogue collection agencies must exercise extreme vigilance during settlement execution. Unscrupulous tele-callers frequently fabricate fake settlement letters on WhatsApp or promise verbal closures to collect partial token amounts. A borrower must never transfer funds until the settlement letter is forensically verified by legal counsel.
               </p>
@@ -908,7 +908,7 @@ export default function BankSendingLegalNoticeToEmployerPage() {
             <section id="comparative-legal-defense-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Legal Matrix: Workplace Harassment vs. Legal Due Process vs. Ombudsman vs. OTS
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the legal remedies available to salaried borrowers allows you to choose the most effective strategy to protect your career, stop recovery harassment, and resolve your outstanding debt:
               </p>
@@ -1011,7 +1011,7 @@ export default function BankSendingLegalNoticeToEmployerPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Privity of Contract &amp; Section 171)</span></span>
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Penal Code / Bharatiya Nyaya Sanhita (Defamation &amp; Intimidation)</span></span>
@@ -1049,7 +1049,7 @@ export default function BankSendingLegalNoticeToEmployerPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

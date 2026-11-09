@@ -641,7 +641,7 @@ export default function KotakBankPersonalLoanSettlementPage() {
               </div>
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Statutory Defense Against Third-Party Debt Recovery Harassment
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When personal loans become delinquent beyond 60 days, Kotak Bank routinely outsources field recovery to empanelled Debt Recovery Agencies (DRAs). However, all recovery activities are strictly governed by the <strong>RBI Master Directions on Recovery Agents and Conduct (2022)</strong> and the Fair Practices Code. Borrowers possess robust legal protections against overreach:
               </p>
@@ -920,7 +920,7 @@ export default function KotakBankPersonalLoanSettlementPage() {
             <section id="kotak-settlement-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Resolution Matrix: OTS vs Restructure vs Litigation vs ARC
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating different debt resolution pathways enables borrowers to make informed financial and legal choices when managing overdue Kotak personal loans:
               </p>

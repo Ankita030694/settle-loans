@@ -510,7 +510,7 @@ export default function CredCashPersonalLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -774,7 +774,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         CRED Cash Personal Loan Settlement &amp; Partner Bank Resolution Architecture
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -850,7 +850,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Identify the Underwriting Regulated Entity &amp; Loan Number
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Check your loan letter or credit report. Find whether your loan is with IDFC FIRST Bank, Newtap Finance, or L&amp;T Finance. Note down your loan account number.
                   </p>
@@ -1013,7 +1013,7 @@ export default function CredCashPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed CRED Cash Borrowers Trust SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans stops collection harassment through legal notices. We handle Section 25 PSSA notices and challenge unfair arbitration. We negotiate directly with IDFC FIRST Bank, Newtap Finance, and L&amp;T Finance to secure large debt cuts and genuine No Dues Certificates.
               </p>
@@ -1032,7 +1032,7 @@ export default function CredCashPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs on CRED Cash Loan Settlement &amp; RBI Rules
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1194,7 +1194,7 @@ export default function CredCashPersonalLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

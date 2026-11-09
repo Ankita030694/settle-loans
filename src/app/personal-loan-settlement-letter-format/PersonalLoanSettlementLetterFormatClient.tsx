@@ -645,7 +645,7 @@ PAN: [Your PAN]`;
                 <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2">
                   <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                   How Banks Evaluate Your Settlement Proposal Letter:
-                </h2>
+                </h3>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs md:text-sm">
                   <div className="bg-white p-4 rounded-xl border border-slate-200 shadow-sm">
                     <p className="font-bold text-[#1F5EFF] mb-1">1. NPA Aging &amp; Provisioning</p>
@@ -690,7 +690,7 @@ PAN: [Your PAN]`;
                   <div>
                     <h3 className="font-bold text-slate-900 text-base mb-1">
                       Precise Identification &amp; Loan Coordinates
-                    </h2>
+                    </h3>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Your full legal name (matching PAN card), registered residential address, permanent mobile number, official email, loan account number, loan sanction date, and the specific disbursing branch name.
                     </p>
@@ -704,7 +704,7 @@ PAN: [Your PAN]`;
                   <div>
                     <h4 className="font-bold text-slate-900 text-base mb-1">
                       Track Record of Prior Prompt Repayments
-                    </h2>
+                    </h4>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Highlight the exact number of consecutive monthly EMIs successfully paid before the crisis, along with the total cumulative amount remitted. This establishes your bona fide character and negates any allegation of fraudulent intent.
                     </p>
@@ -718,7 +718,7 @@ PAN: [Your PAN]`;
                   <div>
                     <h4 className="font-bold text-slate-900 text-base mb-1">
                       Factual, Substantiated Hardship Statement
-                    </h2>
+                    </h4>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       A clear, objective narrative detailing the specific unforeseen catastrophe (e.g., hospitalization, diagnosis of chronic disease, company layoffs, bankruptcy of key buyers) that disrupted your debt servicing capability.
                     </p>
@@ -732,7 +732,7 @@ PAN: [Your PAN]`;
                   <div>
                     <h4 className="font-bold text-slate-900 text-base mb-1">
                       Statement of Current Asset &amp; Income Insolvency
-                    </h2>
+                    </h4>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       show that your current monthly disposable income is insufficient to cover contractual EMIs after meeting bare family sustenance, and that you possess no unencumbered liquid assets to pledge.
                     </p>
@@ -746,7 +746,7 @@ PAN: [Your PAN]`;
                   <div>
                     <h4 className="font-bold text-slate-900 text-base mb-1">
                       Concrete One-Time Settlement (OTS) Offer Amount
-                    </h3>
+                    </h4>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       State the specific lump-sum settlement sum offered in both figures (e.g., INR 3,50,000) and words (Rupees Three Lakhs Fifty Thousand Only), indicating the source of funds (e.g., borrowed from family/relatives).
                     </p>
@@ -760,7 +760,7 @@ PAN: [Your PAN]`;
                   <div>
                     <h4 className="font-bold text-slate-900 text-base mb-1">
                       Defined Execution &amp; Payment Horizon
-                    </h3>
+                    </h4>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Specify the payment window (typically 15 to 30 calendar days from receipt of written sanction) or propose a maximum of 2–3 structured monthly tranches if liquidity is constrained.
                     </p>
@@ -922,7 +922,7 @@ PAN: [Your PAN]`;
                     </span>
                     <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       Personal Loan Settlement Letter Drafting &amp; Approval Process in India
-                    </h4>
+                    </h3>
                   </div>
                 </div>
                 <a
@@ -966,7 +966,7 @@ PAN: [Your PAN]`;
             <section id="hardship-document-checklist" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 5. Crucial Supporting Documents to Attach with Your Settlement Letter
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A settlement proposal without verifiable hardship evidence is almost universally rejected or categorized as a deliberate strategic default. To secure an approval with an optimal 40%–60% haircut, you must substantiate your claims with objective proof:
               </p>
@@ -1017,7 +1017,7 @@ PAN: [Your PAN]`;
             <section id="submission-delivery-protocol" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. How to Submit Settlement Letters with Proof of Delivery
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Merely writing an exceptional letter is insufficient; you must establish verifiable <strong>Proof of Delivery (POD)</strong> so that the bank cannot claim non-receipt in court or during Ombudsman cases. Follow our 3-channel submission protocol:
               </p>
@@ -1068,7 +1068,7 @@ PAN: [Your PAN]`;
             <section id="bank-evaluation-timeline" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. What Happens After Submission: Timeline & talks
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Once your settlement letter is delivered, the internal banking workflow typically follows this timeline:
               </p>
@@ -1110,7 +1110,7 @@ PAN: [Your PAN]`;
                 <h3 className="text-lg font-bold text-rose-900 flex items-center gap-2 mb-3">
                   <ShieldAlert className="w-5 h-5 text-rose-600" />
                   5 Critical Settlement Red Flags You Must Never Commit:
-                </h4>
+                </h3>
                 <ul className="space-y-2.5 text-xs md:text-sm text-rose-800">
                   <li className="flex items-start gap-2">
                     <AlertCircle className="w-4 h-4 text-rose-600 flex-shrink-0 mt-0.5" />
@@ -1140,7 +1140,7 @@ PAN: [Your PAN]`;
             <section id="post-approval-noc-audit" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Post-Settlement Protocol: Sanction Letter & NDC Audit
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Securing the OTS approval is only half the battle. To ensure complete financial and legal freedom, follow this post-settlement verification checklist:
               </p>
@@ -1150,7 +1150,7 @@ PAN: [Your PAN]`;
                   <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <FileSpreadsheet className="w-5 h-5 text-[#1F5EFF]" />
                     1. Audit the OTS Sanction Letter Before Transferring Money
-                  </h4>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Verify that the letter is printed on official bank stationery with a unique reference number. It must state the agreed compromise sum and display the Chief Manager&apos;s signature. Crucially, it must affirm that all remaining dues will be written off upon payment.
                   </p>
@@ -1189,7 +1189,7 @@ PAN: [Your PAN]`;
                 <div>
                   <h2 className="text-2xl md:text-3xl font-black text-slate-900">
                     Frequently Asked Questions
-                  </h3>
+                  </h2>
                   <p className="text-xs md:text-sm text-slate-500">
                     Authoritative legal answers regarding loan settlement letters, bank formats &amp; RBI compliance.
                   </p>
@@ -1214,7 +1214,7 @@ PAN: [Your PAN]`;
               <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Statutory References</span>
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs md:text-sm text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1283,7 +1283,7 @@ PAN: [Your PAN]`;
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Personal Loan Debt Relief Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/personal-loan-settlement-cibil-impact"
@@ -1338,7 +1338,7 @@ PAN: [Your PAN]`;
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

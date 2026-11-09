@@ -286,7 +286,7 @@ export default function DRTLoanSettlementPage() {
                                 <h3 className="text-xl font-bold mb-6 flex items-center gap-3">
                                     <FontAwesomeIcon icon={faLandmark} className="text-[#1F5EFF]" />
                                     Key Components of the DRT Process
-                                </h2>
+                                </h3>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li className="flex items-start gap-2">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full mt-1.5 flex-shrink-0"></span>
@@ -321,7 +321,7 @@ export default function DRTLoanSettlementPage() {
                                 <h3 className="text-xl font-bold text-red-900 mb-4 flex items-center gap-3">
                                     <FontAwesomeIcon icon={faShieldHalved} />
                                     Tactical Defense Against Bank Possession
-                                </h2>
+                                </h3>
                                 <p className="text-sm text-red-800 leading-relaxed mb-4">
                                     Did the bank provide a full response to your Section 13(3A) representation? Did they properly valuate your property? Did they serve the possession notice (13(4)) correctly by publishing it in two leading newspapers? In many cases, the answer is no. Each of these 'no's is a ground for your lawyer to challenge the bank's action and get it quashed in the DRT.
                                 </p>
@@ -334,7 +334,7 @@ export default function DRTLoanSettlementPage() {
                         <section id="filing-sa" className="scroll-mt-32 mb-12">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Critical Importance of the Securitization Application (SA)
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Securitization Application (SA) is your primary weapon under Section 17 of the SARFAESI Act. This application must be filed within 45 days of the bank taking a 'recourse measure' like physical or symbolic possession. Missing this 45 day deadline can be fatal to your case.
                             </p>
@@ -346,7 +346,7 @@ export default function DRTLoanSettlementPage() {
                         <section id="stay-orders" className="scroll-mt-32 mb-12">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Securing Stay Orders Against Property Auctions
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 The most urgent task for a DRT lawyer is often getting a 'Stay Order'. When a bank schedules an auction of your property, an expert lawyer files an urgent application to stay the auction. The Presiding Officer of the DRT will look for three things: a prima facie case, the balance of convenience, and the risk of irreparable injury.
                             </p>

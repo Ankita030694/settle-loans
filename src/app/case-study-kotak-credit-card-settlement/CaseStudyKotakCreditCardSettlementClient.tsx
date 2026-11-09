@@ -557,7 +557,7 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Kotak Mahindra Bank Credit Card Settlement: ₹4.2L to ₹1.35L Case Study
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -724,7 +724,7 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
             <section id="ots-vs-restructuring-matrix" className="mb-10 scroll-mt-24">
               <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Comparative Resolution Matrix: Direct OTS vs. Restructuring vs. MAD Servicing
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 When confronting credit card debt distress, borrowers must evaluate the mathematical and legal outcomes of all available resolution pathways in India:
               </p>
@@ -949,7 +949,7 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
           </main>
 
           {/* Right Column: Sidebar Cards */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

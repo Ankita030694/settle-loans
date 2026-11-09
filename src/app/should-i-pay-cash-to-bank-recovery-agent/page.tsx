@@ -733,7 +733,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
                 <div className="p-4 rounded-xl border-l-4 border-red-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Warning Sign 1: Handwritten Slips, Generic Receipts or Third-Party Agency Branding
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the slip or letter shows an agency name (like &quot;Apex Recovery&quot;) instead of the bank (like &quot;HDFC Bank Ltd.&quot;), it is invalid. Genuine settlements use the lending bank name only.
                   </p>
@@ -742,7 +742,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Warning Sign 2: Absence of Verifiable Bank Dispatch Reference Numbers
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Genuine OTS letters carry a unique system reference number (such as `HDFC/RECOVERY/OTS/2026/XXXXX`). Any branch manager can verify it on the bank intranet. Fake letters use generic dates.
                   </p>
@@ -966,7 +966,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1004,7 +1004,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Debt Settlement Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-agent-threatening-me"

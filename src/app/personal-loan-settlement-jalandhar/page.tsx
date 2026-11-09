@@ -569,7 +569,7 @@ export default function PersonalLoanSettlementJalandharPage() {
                 <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Enforceable Legal Protections Governing Borrowers in Punjab</span>
-                </h2>
+                </h3>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">1. Strict Time &amp; Location Rules on Recovery Outreach</p>
@@ -766,7 +766,7 @@ export default function PersonalLoanSettlementJalandharPage() {
                 <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Statutory Checklist for Authentic Bank OTS Sanction Letters</span>
-                </h2>
+                </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">1. Official Bank Letterhead &amp; Digital Authentication</p>
@@ -804,7 +804,7 @@ export default function PersonalLoanSettlementJalandharPage() {
             <section id="ndc-cibil-commercial-credit-repair" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. NDC Issuance &amp; CIBIL Commercial Repair in Jalandhar
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The ultimate legal milestone of debt resolution is the issuance of the unconditional No Dues Certificate (NDC). Under Reserve Bank of India Circular <em>RBI/2023-24/60</em> on Responsible Lending Conduct, commercial banks and NBFCs are legally obligated to release all original security documents and issue a formal NDC within 30 days of receiving the full settlement amount. If a lender unreasonably delays this issuance, our advocates serve statutory default notices and escalate the matter to the Banking Ombudsman, holding the lender liable for compensatory penalties.
               </p>
@@ -831,7 +831,7 @@ export default function PersonalLoanSettlementJalandharPage() {
             <section id="comparative-jalandhar-debt-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Protection Matrix for Doaba Borrowers
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating the complex landscape of debt recovery across Jalandhar and Punjab requires an analytical understanding of how various categories of debt are treated under civil and commercial law. The following matrix illustrates the legal forums, typical lender litigation maneuvers, statutory debtor defenses, and achievable settlement parameters across major loan classes:
               </p>

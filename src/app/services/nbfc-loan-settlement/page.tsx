@@ -390,7 +390,7 @@ export default function NBFCSettlementPage() {
                 <div className="bg-white p-6 rounded-xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-shadow">
                     <h3 className="text-xl font-black text-[var(--color-primary)] mb-4 flex items-center">
                         <FontAwesomeIcon icon={faBuildingColumns} className="mr-3 w-12 h-12" /> Traditional Banks
-                    </h2>
+                    </h3>
                     <ul className="space-y-3 text-[var(--color-text-body)] text-sm">
                         <li className="flex items-start"><span className="text-green-500 mr-2 font-bold">✓</span> <span className="font-semibold">Slower Process:</span> Legal action usually starts after 12+ months of default.</li>
                         <li className="flex items-start"><span className="text-green-500 mr-2 font-bold">✓</span> <span className="font-semibold">Rigid Hierarchy:</span> Settlement approval goes through multiple committees.</li>
@@ -402,7 +402,7 @@ export default function NBFCSettlementPage() {
                     <div className="absolute top-0 right-0 w-20 h-20 bg-orange-100 rounded-bl-full -mr-10 -mt-10"></div>
                      <h3 className="text-xl font-bold text-orange-700 mb-4 flex items-center relative z-10">
                         <FontAwesomeIcon icon={faBriefcase} className="mr-3 w-12 h-12" /> NBFCs (Private Finance)
-                    </h2>
+                    </h3>
                     <ul className="space-y-3 text-[var(--color-text-body)] relative z-10 text-sm">
                         <li className="flex items-start"><span className="text-orange-500 mr-2 font-bold">!</span> <span className="font-semibold">Rapid Arbitration:</span> Often trigger arbitration clauses within 90-120 days.</li>
                         <li className="flex items-start"><span className="text-orange-500 mr-2 font-bold">!</span> <span className="font-semibold">Aggressive Recovery:</span> Third-party agents are incentivized heavily for quick collection.</li>
@@ -480,7 +480,7 @@ export default function NBFCSettlementPage() {
                <div className="bg-emerald-50 border-l-4 border-emerald-500 p-6 rounded-r-xl">
                   <h3 className="text-xl font-bold text-emerald-900 mb-2 flex items-center">
                      <FontAwesomeIcon icon={faShieldHalved} className="mr-3 w-12 h-12" /> No Harassment Allowed
-                  </h2>
+                  </h3>
                    <p className="text-emerald-800 text-sm leading-relaxed">
                      Recovery agents cannot shout, abuse, use foul language, or threaten violence. They cannot contact your friends, family, or employer to "shame" you. Any such act is actionable under law. The Supreme Court has explicitly stated that banks cannot use "musclemen" for recovery.
                   </p>
@@ -489,7 +489,7 @@ export default function NBFCSettlementPage() {
                <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-xl">
                   <h3 className="text-xl font-bold text-blue-900 mb-2 flex items-center">
                      <FontAwesomeIcon icon={faPhoneSlash} className="mr-3 w-12 h-12" /> Privacy & Timing
-                  </h2>
+                  </h3>
                    <p className="text-blue-800 text-sm leading-relaxed">
                      Agents can only contact you between <strong>08:00 AM and 07:00 PM</strong>. They cannot visit your home without notice and valid identification. They must respect your privacy and cannot create a scene in your neighborhood. Calls at odd hours or excessive frequency are a violation.
                   </p>
@@ -498,7 +498,7 @@ export default function NBFCSettlementPage() {
                 <div className="bg-purple-50 border-l-4 border-purple-500 p-6 rounded-r-xl">
                   <h3 className="text-xl font-bold text-purple-900 mb-2 flex items-center">
                      <FontAwesomeIcon icon={faScaleBalanced} className="mr-3 w-12 h-12" /> Due Process in Recovery
-                  </h2>
+                  </h3>
                    <p className="text-purple-800 text-sm leading-relaxed">
                      NBFCs must follow the due process of law. Seizure of assets (for secured loans) or recovery of dues must follow the legal route. They cannot bypass the law to intimidate borrowers.
                   </p>
@@ -540,7 +540,7 @@ export default function NBFCSettlementPage() {
            <section id="ombudsman-scheme" className="scroll-mt-32 mb-16">
             <h2 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-8">
                Filing a Complaint with the RBI Ombudsman
-            </h3>
+            </h2>
             <p className="mb-6 leading-relaxed">
                If an NBFC fails to resolve your grievance or if you face harassment, the <strong>Reserve Bank - Integrated Ombudsman Scheme (RB-IOS)</strong> provides a powerful redressal mechanism. It allows you to file a complaint for "Deficiency in Service".
             </p>
@@ -574,7 +574,7 @@ export default function NBFCSettlementPage() {
           <section id="nbfc-process" className="scroll-mt-32 mb-16">
             <h2 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-2 text-center">
               Our 5-Step NBFC Settlement Protocol
-            </h3>
+            </h2>
             <p className="text-center text-[var(--color-text-body)] mb-12 max-w-2xl mx-auto">
               From the moment you hire us to the moment you are debt-free, we handle the complexity.
             </p>
@@ -662,7 +662,7 @@ export default function NBFCSettlementPage() {
            <section id="illegal-loan-apps" className="scroll-mt-32 mb-16">
              <h2 className="text-3xl font-black text-[var(--color-text-hero)] mb-6">
                Note on Illegal Loan Apps
-             </h3>
+             </h2>
              <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-xl">
                <p className="text-red-900 font-medium mb-4">
                   There is a major difference between RBI-registered NBFCs and Illegal "Chinese" Loan Apps.
@@ -682,7 +682,7 @@ export default function NBFCSettlementPage() {
           <section id="provider-details" className="scroll-mt-32 mb-16">
              <h2 className="text-3xl font-black text-[var(--color-text-hero)] mb-8">
                We Handle All Major NBFCs
-             </h3>
+             </h2>
              <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-gray-50 p-6 rounded-xl border border-[var(--color-border)]">
                    <h3 className="font-bold text-lg mb-2">Bajaj Finance Settlement</h3>
@@ -733,7 +733,7 @@ export default function NBFCSettlementPage() {
           {/* FAQs */}
           <h2 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mt-16 mb-8">
             Frequently Asked Questions
-          </h3>
+          </h2>
           <div className="space-y-4 not-prose mb-20">
             {[
               { 

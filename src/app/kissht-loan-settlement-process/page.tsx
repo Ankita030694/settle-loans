@@ -501,7 +501,7 @@ export default function KisshtLoanSettlementProcessPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -724,7 +724,7 @@ export default function KisshtLoanSettlementProcessPage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Kissht Loan Settlement &amp; Digital Lending Defense Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -861,7 +861,7 @@ export default function KisshtLoanSettlementProcessPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Documentation &amp; Financial Ledger Audit
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Compile verifiable documentary evidence substantiating involuntary financial incapacity. Crucial records include salary termination letters, medical treatment records, bank statements showing depleted liquidity, or business loss statements. This documentation establishes that the default is bona fide and non-wilful.
                   </p>
@@ -872,7 +872,7 @@ export default function KisshtLoanSettlementProcessPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking e-NACH Mandates &amp; Establishing Legal Representation
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your bank to cancel the e-NACH auto-debit mandate to halt recurring return fees. Issue a formal legal notice directing Kissht and Si Creva Capital to route all future communications strictly to your designated legal counsel, stopping abusive third-party tele-calling.
                   </p>
@@ -883,7 +883,7 @@ export default function KisshtLoanSettlementProcessPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Compromise Proposal to Si Creva Nodal Desk
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a structured compromise petition addressed to Si Creva Capital&apos;s Stressed Assets Division and Principal Nodal Officer. Cite the RBI Master Direction on Compromise Settlements and anchor the opening settlement offer at 25% to 35% of the authentic principal balance.
                   </p>
@@ -894,7 +894,7 @@ export default function KisshtLoanSettlementProcessPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Offers &amp; Securing Credit Committee Approval
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     The NBFC will initially counter with modest discounts (10%–20%). Your advocate demonstrates that funds are being pooled from third-party family assistance solely for a full and final settlement, guiding the Credit Committee toward an authorized 40% to 60% debt waiver.
                   </p>
@@ -932,7 +932,7 @@ export default function KisshtLoanSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Section 25 PSSA Notices, Digital Arbitration &amp; Lok Adalat
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a digital loan remains in default beyond 60 to 90 days, Si Creva Capital frequently issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, along with notices initiating digital arbitration.
               </p>
@@ -999,7 +999,7 @@ export default function KisshtLoanSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Kissht Settlement Letters &amp; Enforcing the ₹0 NDC Mandate
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A significant hazard in digital loan recovery involves rogue recovery agents issuing fake settlement letters via WhatsApp to collect partial payments into personal accounts. If a borrower remits money against an unverified offer, the NBFC credits the funds toward overdue penal charges, leaving the default active and compounding.
               </p>
@@ -1019,7 +1019,7 @@ export default function KisshtLoanSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Impact Post-Settlement &amp; 18-Month Credit Restoration Plan
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Completing a One-Time Settlement with Kissht results in Si Creva Capital reporting the account to all four credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points.
               </p>
@@ -1039,7 +1039,7 @@ export default function KisshtLoanSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Kissht Borrowers Trust SettleLoans for Legal Protection
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving digital app debt and stopping recovery harassment requires seasoned banking advocates and legal strategists. SettleLoans halts aggressive tele-calling through immediate cease-and-desist notices, defends Section 25 PSSA summons, challenges unilateral digital arbitration, and negotiates directly with Si Creva Capital&apos;s Stressed Assets Desks to secure maximum debt waivers and certified ₹0 No Dues Certificates.
               </p>
@@ -1058,7 +1058,7 @@ export default function KisshtLoanSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Kissht App Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1219,7 +1219,7 @@ export default function KisshtLoanSettlementProcessPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

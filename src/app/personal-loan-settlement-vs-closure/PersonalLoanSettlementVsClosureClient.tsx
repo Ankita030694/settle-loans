@@ -450,7 +450,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
             <div className="my-8">
               <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 Comprehensive Comparison: Loan Closure vs. Loan Settlement in India
-              </h2>
+              </h3>
               <div className="overflow-x-auto">
                 <table>
                   <thead>
@@ -520,7 +520,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
                   <h3 className="text-base font-bold text-emerald-900 flex items-center gap-2 mb-1">
                     <CheckCircle className="w-5 h-5 text-emerald-600" />
                     1. &quot;Closed&quot; Status (Prime Quality)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-emerald-800 leading-relaxed">
                     The account ledger indicates zero outstanding balance, zero write-off amount, and zero Days Past Due (DPD). Automated underwriting software at Tier-1 institutions (HDFC, SBI, ICICI, Axis) scores this as an exemplary credit event.
                   </p>
@@ -530,7 +530,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
                   <h3 className="text-base font-bold text-blue-900 flex items-center gap-2 mb-1">
                     <ShieldCheck className="w-5 h-5 text-[#1F5EFF]" />
                     2. &quot;Settled&quot; Status (Compromise Resolution)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-blue-800 leading-relaxed">
                     The account reflects an active balance of <strong>₹0</strong>, but the bureau report contains a non-zero figure in the <em>&quot;Amount Written Off&quot;</em> or <em>&quot;Settlement Amount&quot;</em> field. While the debtor is legally discharged, automated algorithms flag this as a historical haircut event.
                   </p>
@@ -540,7 +540,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
                   <h3 className="text-base font-bold text-rose-900 flex items-center gap-2 mb-1">
                     <AlertTriangle className="w-5 h-5 text-rose-600" />
                     3. &quot;Written Off&quot; / &quot;Suit Filed&quot; (Active Default Danger)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-rose-800 leading-relaxed">
                     The borrower stopped paying without a formal OTS sanction. The bank moved the balance to its bad-debt ledger. Outstanding balance continues to reflect full arrears with compounding penal interest, DPD escalates past 180+, and legal action under Section 138 of the NI Act or Section 25 of the PSS Act remains active.
                   </p>
@@ -552,7 +552,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
                 <h4 className="text-base font-bold text-slate-900 flex items-center gap-2 mb-3">
                   <TrendingUp className="w-5 h-5 text-[#1F5EFF]" />
                   Comparative CIBIL Score Trajectory Over 36 Months
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -610,7 +610,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
                   <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <CreditCard className="w-5 h-5 text-[#1F5EFF]" />
                     Phase 1: Secured Credit Cards (Immediate Qualification)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Following a loan settlement, traditional unsecured credit cards are unreachable for 12 months. However, <strong>Fixed Deposit (FD)-backed credit cards</strong> (such as IDFC FIRST WOW, Kotak 811 Dream Different, or OneCard) require zero credit score scrutiny. They report monthly active credit utilization to CIBIL, serving as the bedrock of your score rehabilitation.
                   </p>
@@ -620,7 +620,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
                   <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Building2 className="w-5 h-5 text-amber-600" />
                     Phase 2: Unsecured Personal Loans (After 18–24 Months)
-                  </h2>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     The specific bank that accepted a haircut during your settlement will maintain an <em>internal negative ledger</em> and will decline future unsecured applications. However, <strong>other non-consortium banks and progressive NBFCs</strong> do not share internal blacklists. Once your score rebounds to 740+ through 18 months of disciplined payments, external lenders will approve fresh unsecured personal loans.
                   </p>
@@ -630,7 +630,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Landmark className="w-5 h-5 text-emerald-600" />
                     Phase 3: Home Loans &amp; Mortgage Finance (After 24–36 Months)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Home loans are secured asset-backed facilities evaluated primarily on property collateral value (LTV ratio) and debt-to-income ratios. Housing Finance Companies (HFCs) and nationalized banks routinely sanction home loans to borrowers with a past &quot;Settled&quot; mark, provided they present their genuine <strong>No Dues Certificate (NDC)</strong> and maintain a reconstructed score of 720+.
                   </p>
@@ -642,7 +642,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
             <section id="ndc-certificate-differences" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. The Legal &amp; Financial Standing
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Whether you close a loan or settle it, the <strong>No Dues Certificate (NDC)</strong> (also referred to as a Closure Letter or Release Certificate) is the single most important legal instrument you must acquire from the lending bank.
               </p>
@@ -652,7 +652,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <FileCheck className="w-5 h-5 text-emerald-600" />
                     Standard Loan Closure NDC
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed mb-3">
                     Certifies that all principal, interest, and charges have been paid in full without any contractual default or concession.
                   </p>
@@ -810,7 +810,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
             <section id="rbi-settlement-directives" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 5. RBI Directives &amp; Borrower Legal Rights During Debt Resolution
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Many borrowers endure mental distress and unlawful recovery agent intimidation because they mistakenly believe loan settlement is an illegal default. In reality, compromise settlements are recognized, statutory recovery mechanisms governed by Reserve Bank of India notifications.
               </p>
@@ -820,7 +820,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
                   <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                     RBI Master Direction on Compromise Settlements (June 8, 2023)
-                  </h4>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     The RBI mandated all commercial banks, primary cooperative banks, and NBFCs to adopt board-approved policies for compromise settlements and technical write-offs. The framework provides a standardized statutory process for lenders to settle stressed loans without prejudice to prudential norms.
                   </p>
@@ -852,7 +852,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
             <section id="settled-to-closed-conversion" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Settled to Closed: Paying Waived Balance to Clean CIBIL
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A lesser-known provision under Indian credit regulations allows a borrower who previously settled an account to subsequently convert their CIBIL status from <strong>&quot;Settled&quot; to &quot;Closed&quot;</strong> once their personal finances improve.
               </p>
@@ -885,7 +885,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
             <section id="cibil-recovery-blueprint" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. From 580 to 750+: The Step-by-Step Credit Rebuilding Blueprint
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Even if you choose not to convert your settled loan immediately, you can reliably restore your CIBIL score to prime status (750+) through a disciplined 3-pillar strategy.
               </p>
@@ -894,7 +894,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
                 <div className="p-5 rounded-xl border border-slate-200 bg-slate-50">
                   <h3 className="font-bold text-slate-900 text-base mb-1">
                     Pillar 1: Establish Secured Credit Lines (FD-Backed Cards)
-                  </h4>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Open a fixed deposit of ₹25,000–₹50,000 with banks like IDFC FIRST or Kotak Mahindra to obtain a secured credit card. Use it for routine utility and grocery expenses, ensuring the card reports regular, active repayment cycles to CIBIL.
                   </p>
@@ -924,7 +924,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
             <section id="decision-framework-matrix" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Decision Matrix: When to Settle vs. When to Strive for Full Closure
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 To assist distressed borrowers in making the right financial decision, SettleLoans advocates have synthesized the following strategic decision framework:
               </p>
@@ -971,7 +971,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
             <section id="faqs" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Frequently Asked Questions (FAQ)
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-8 text-slate-600">
                 Get clear, authoritative answers to the most crucial questions regarding loan settlement vs loan closure in CIBIL.
               </p>
@@ -994,7 +994,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
               <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1125,7 +1125,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

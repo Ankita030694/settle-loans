@@ -431,7 +431,7 @@ export default function IDFCFirstBankLoanSettlementClient() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Section 171 Banker&apos;s Right of General Lien and Account Freezes
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under Section 171 of the Indian Contract Act, 1872, banking institutions possess the statutory <em>Right of General Lien and Set-Off</em>. This empowers IDFC First Bank to unilaterally freeze or debit money from any savings account, current account, or fixed deposit registered under the same Customer Identification File (CIF) or PAN to offset personal loan arrears.
               </p>
@@ -448,7 +448,7 @@ export default function IDFCFirstBankLoanSettlementClient() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Statutory Defense Against Third-Party Recovery Harassment
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When consumer loans cross 60 days overdue, IDFC First Bank assigns field recovery tasks to empanelled Debt Recovery Agencies (DRAs). All collection activities are strictly governed by the <strong>RBI Master Directions on Recovery Agents and Conduct (2022)</strong> and the Fair Practices Code. Borrowers possess enforceable legal protections:
               </p>
@@ -698,7 +698,7 @@ export default function IDFCFirstBankLoanSettlementClient() {
             <section id="remittance-rbi-ndc-mandate-cibil-recovery" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Loan Remittance, RBI ₹0 No Dues Certificate Mandate &amp; CIBIL Trajectory
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following the successful deposit of the agreed settlement amount, the debt resolution process enters its final statutory phase. Under <strong>RBI Circular RBI/2023-24/60</strong> (Responsible Lending Conduct – Release of Movable / Immovable Property Documents and Issuance of NDC), all regulated banking institutions including IDFC First Bank are statutorily required to issue an official <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong> and update credit information bureaus within <strong>30 calendar days</strong> of receiving the full settlement amount.
               </p>
@@ -743,7 +743,7 @@ export default function IDFCFirstBankLoanSettlementClient() {
             <section id="idfc-settlement-comparative-matrix" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comprehensive Resolution Matrix: Advocate OTS vs Digital Portal vs Restructuring vs Litigation
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating different debt resolution pathways enables borrowers to make informed financial and legal choices when managing overdue IDFC First personal and consumer durable loans:
               </p>

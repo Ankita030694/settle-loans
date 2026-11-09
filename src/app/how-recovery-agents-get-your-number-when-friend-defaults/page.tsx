@@ -705,7 +705,7 @@ export default function RecoveryAgentHarassmentGuide() {
                   <h4 className="text-xl font-bold mb-4 flex items-center">
                     <span className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center mr-3 text-xs">B</span>
                     Consumer Forum Complaint
-                  </h3>
+                  </h4>
                   <p className="text-sm text-gray-600 leading-relaxed">If the harassment has caused you mental agony or loss of reputation, you can sue for damages in the District Consumer Disputes Redressal Forum. Many Indians have successfully won compensation of ₹50,000 to ₹5,00,000 in such cases.</p>
                 </div>
               </div>
@@ -725,7 +725,7 @@ export default function RecoveryAgentHarassmentGuide() {
               <div className="bg-red-900 text-white rounded-[40px] p-12 shadow-2xl">
                 <h3 className="text-2xl font-black mb-6 text-red-500 flex items-center">
                   <span className="mr-3">🚔</span> Step-by-Step Police Action
-                </h4>
+                </h3>
                 <div className="grid gap-8">
                   <div className="border-b border-white/10 pb-6">
                     <h4 className="font-bold text-lg mb-2 underline decoration-red-500">Step 1: The Formal Complaint</h4>

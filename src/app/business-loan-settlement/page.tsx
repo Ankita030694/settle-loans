@@ -404,7 +404,7 @@ export default function BusinessLoanSettlementPage() {
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
                     <h3 className="text-xl font-bold text-[var(--color-primary)] mb-4 flex items-center">
                         <FontAwesomeIcon icon={faFileContract} className="mr-3 w-6 h-6" /> Unsecured Loans
-                    </h2>
+                    </h3>
                     <div className="mb-4 text-sm font-semibold bg-gray-50 p-2 rounded text-gray-700">
                         Examples: Bajaj Finserv Business Loan, Tata Capital, LendingKart, Indifi, Credit Card Overdrafts.
                     </div>
@@ -417,7 +417,7 @@ export default function BusinessLoanSettlementPage() {
                 <div className="bg-white p-6 rounded-xl border border-orange-100 shadow-sm relative overflow-hidden hover:shadow-md transition-shadow">
                      <h3 className="text-xl font-bold text-orange-700 mb-4 flex items-center relative z-10">
                         <FontAwesomeIcon icon={faLock} className="mr-3 w-6 h-6" /> Secured Loans (LAP/CC)
-                    </h2>
+                    </h3>
                     <div className="mb-4 text-sm font-semibold bg-orange-50 p-2 rounded text-orange-700">
                         Examples: Loan Against Property (LAP), Cash Credit (CC) against Stock/Machinery.
                     </div>
@@ -558,7 +558,7 @@ export default function BusinessLoanSettlementPage() {
           <section id="restructuring" className="scroll-mt-32 mb-16">
             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
               <FontAwesomeIcon icon={faChartLine} className="mr-4 w-10 h-10" /> Restructuring vs Settlement
-            </h3>
+            </h2>
             <div className="overflow-x-auto">
               <table className="min-w-full text-sm text-left text-gray-700 bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden">
                 <thead className="text-xs text-gray-700 uppercase bg-gray-50 border-b border-gray-200">
@@ -649,7 +649,7 @@ export default function BusinessLoanSettlementPage() {
           {/* FAQs - Expanded to 20 */}
           <h2 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
             Frequently Asked Questions
-          </h3>
+          </h2>
           <div className="space-y-4 not-prose mb-20">
             {[
               { 

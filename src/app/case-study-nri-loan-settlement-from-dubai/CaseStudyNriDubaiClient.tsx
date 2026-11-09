@@ -536,7 +536,7 @@ export default function CaseStudyNriDubaiClient() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         NRI Loan Settlement Summary &amp; Process Overview
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -740,7 +740,7 @@ export default function CaseStudyNriDubaiClient() {
             <section id="company-resolution-section" className="mb-10 scroll-mt-24">
               <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. SettleLoans Remote Legal Representation for Non-Resident Indians
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6">
                 SettleLoans is India&apos;s leading specialized debt dispute resolution and banking conciliation platform. We provide end-to-end legal representation for Non-Resident Indians (NRIs) across the UAE, Saudi Arabia, Qatar, Oman, Singapore, the United Kingdom, the United States, and Canada. From consular Power of Attorney drafting and high-level Stressed Asset Committee negotiations to anti-harassment injunctions and official No Dues Certificate procurement, our senior advocates protect your rights, your finances, and your freedom to travel.
               </p>
@@ -913,7 +913,7 @@ export default function CaseStudyNriDubaiClient() {
           </main>
 
           {/* Right Column: Sidebar Cards */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

@@ -434,7 +434,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column: Sticky Table of Contents + Executive Crux */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -679,7 +679,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                   <h4 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5">
                     <Percent className="w-4 h-4 text-emerald-600" />
                     <span>Principal Haircut: 40% to 60%</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-emerald-900 leading-relaxed">
                     Based on default age (Doubtful or Loss), real hardship cases get a 40% to 60% principal waiver.
                   </p>
@@ -942,7 +942,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
             <section className="border-t border-slate-200 pt-7 mb-8">
               <h3 className="text-sm font-bold text-slate-900 mb-3.5 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-of-baroda-personal-loan-settlement"
@@ -1009,7 +1009,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
           </main>
 
           {/* Right Column: Author Bio, Emergency Advocate CTA, Trust Signals */}
-          <aside className="w-full sticky top-24 space-y-5">
+          <aside className="w-full lg:sticky lg:top-24 space-y-5">
             
             {/* Author Bio Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4 sm:p-5 shadow-sm">

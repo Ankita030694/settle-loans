@@ -354,7 +354,7 @@ export default function AppLoanSettlementPage() {
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
                     <h3 className="text-xl font-black text-[#1F5EFF] mb-4 flex items-center">
                         <FontAwesomeIcon icon={faShieldHalved} className="mr-3 w-12 h-12" /> Legal / RBI Registered
-                    </h2>
+                    </h3>
                     <div className="mb-4 text-sm font-semibold bg-gray-50 p-2 rounded text-gray-700">
                         Examples: KreditBee, MoneyView, Navi, Kissht, CASHe, Bajaj Finserv, mPokket, SmartCoin
                     </div>
@@ -368,7 +368,7 @@ export default function AppLoanSettlementPage() {
                 <div className="bg-white p-6 rounded-xl border border-red-100 shadow-sm relative overflow-hidden hover:shadow-md transition-shadow">
                      <h3 className="text-xl font-bold text-red-700 mb-4 flex items-center relative z-10">
                         <FontAwesomeIcon icon={faUserSecret} className="mr-3 w-12 h-12" /> Illegal / Fake Apps
-                    </h2>
+                    </h3>
                     <div className="mb-4 text-sm font-semibold bg-red-50 p-2 rounded text-red-700">
                         Examples: CashBus, RupeeReady, AsanLoan, CrazyCash, and hundreds of random names on PlayStore.
                     </div>
@@ -389,7 +389,7 @@ export default function AppLoanSettlementPage() {
              <div className="bg-gray-50 border-l-4 border-gray-800 p-6 rounded-r-lg">
                 <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
                   <FontAwesomeIcon icon={faListCheck} className="mr-3 w-6 h-6" /> How to Verify if an App is Legal?
-                </h2>
+                </h3>
                 <ol className="list-decimal pl-5 space-y-3 text-gray-700">
                   <li><strong>Check the Play Store Description:</strong> Legal apps list their NBFC partner (e.g., 'In partnership with Krazybee Services Pvt Ltd'). Illegal apps often list random Gmail addresses.</li>
                   <li><strong>Check Tenure:</strong> If the loan is for 7 days or 15 days, it is 100% ILLEGAL. RBI mandates a minimum 90-day tenure option for digital loans.</li>
@@ -635,7 +635,7 @@ export default function AppLoanSettlementPage() {
            <section id="email-templates" className="scroll-mt-32 mb-16">
             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
               <FontAwesomeIcon icon={faEnvelopeOpenText} className="mr-4 w-10 h-10" /> Copy-Paste Email Templates
-            </h3>
+            </h2>
             <p className="mb-6 leading-relaxed">
               Don't know what to write to the bank? Use these legally drafted templates. Replace the bracketed text with your details.
             </p>
@@ -695,7 +695,7 @@ Regards,<br/>
           <section id="app-list" className="scroll-mt-32 mb-16">
             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">
               Major Apps We Settle
-            </h3>
+            </h2>
             <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
               We have successfully negotiated settlements for thousands of clients with these RBI-registered digital lenders.
             </p>
@@ -759,7 +759,7 @@ Regards,<br/>
           {/* FAQs */}
           <h2 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
             Frequently Asked Questions
-          </h3>
+          </h2>
           <div className="space-y-4 not-prose mb-20">
             {[
               { 

@@ -307,7 +307,7 @@ export default function TwoLakhPersonalLoanSettlementClient() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4 shadow-sm">
               <div className="flex items-center gap-2 pb-3 mb-3 border-b border-slate-200 text-slate-900 font-bold text-sm">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
@@ -447,7 +447,7 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                 <h3 className="text-slate-900 font-bold text-base mb-2 flex items-center gap-2">
                   <Info className="w-5 h-5 text-[#1F5EFF]" />
                   Statutory Net Present Value (NPV) Valuation Rule
-                </h2>
+                </h3>
                 <p className="text-slate-700 text-sm leading-relaxed">
                   According to RBI compromise settlement guidelines, the compromise amount offered by the borrower must be greater than or equal to the Net Present Value (NPV) of the estimated net realisable recovery through judicial proceedings, discounted at the bank&apos;s prevailing base rate over a 3-to-5 year litigation horizon minus projected legal expenses.
                 </p>
@@ -536,7 +536,7 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         2 Lakh Personal Loan Settlement Roadmap &amp; Haircut Matrix
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -717,7 +717,7 @@ export default function TwoLakhPersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Borrowers Choose SettleLoans for ₹2 Lakh Loan Resolution
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Negotiating an equitable settlement on a ₹2 Lakh personal loan requires seasoned banking litigation counsel. The legal advocates and debt strategists at SettleLoans provide comprehensive protection: issuing immediate cease-and-desist notices to halt collection agent harassment, auditing bank provisioning buckets, and negotiating directly with Zonal Credit Committees to secure the highest permissible debt waiver under RBI frameworks.
               </p>
@@ -736,7 +736,7 @@ export default function TwoLakhPersonalLoanSettlementClient() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Settling a ₹2 Lakh Personal Loan
-              </h3>
+              </h2>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -888,7 +888,7 @@ export default function TwoLakhPersonalLoanSettlementClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

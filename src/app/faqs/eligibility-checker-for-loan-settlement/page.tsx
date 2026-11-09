@@ -287,7 +287,7 @@ export default function EligibilityCheckerPage() {
                       <h4 className="font-bold text-lg text-gray-800 flex justify-between">
                           Days 1-30: SMA 0
                           <span className="text-xs font-normal text-white bg-green-500 px-2 py-1 rounded-full">Standard Asset</span>
-                      </h2>
+                      </h4>
                       <p className="text-sm text-gray-500 mt-2">
                           <strong>Status:</strong> Just a late payment.
                           <br/>
@@ -305,7 +305,7 @@ export default function EligibilityCheckerPage() {
                       <h4 className="font-bold text-lg text-gray-800 flex justify-between">
                           Days 31-60: SMA 1
                           <span className="text-xs font-normal text-gray-800 bg-yellow-400 px-2 py-1 rounded-full">Stress Signs</span>
-                      </h2>
+                      </h4>
                       <p className="text-sm text-gray-500 mt-2">
                           <strong>Status:</strong> Early delinquency.
                           <br/>
@@ -412,7 +412,7 @@ export default function EligibilityCheckerPage() {
                     <h3 className="font-bold text-green-800 mb-4 flex items-center">
                        <span className="w-6 h-6 rounded-full bg-green-200 mr-2 flex items-center justify-center text-xs">✓</span>
                        Eligible (Unsecured)
-                    </h4>
+                    </h3>
                     <ul className="space-y-3 text-green-900/80 font-medium text-sm">
                         <li className="flex items-start"><span className="mr-2">•</span> <strong>Personal Loans:</strong> Both from major banks (HDFC, ICICI, SBI) and NBFCs (Bajaj, Aditya Birla).</li>
                         <li className="flex items-start"><span className="mr-2">•</span> <strong>Credit Card Dues:</strong> One of the most common settled debts due to high interest rates.</li>
@@ -425,7 +425,7 @@ export default function EligibilityCheckerPage() {
                     <h3 className="font-bold text-red-800 mb-4 flex items-center">
                        <span className="w-6 h-6 rounded-full bg-red-200 mr-2 flex items-center justify-center text-xs">✕</span>
                        Ineligible (Secured)
-                    </h4>
+                    </h3>
                      <ul className="space-y-3 text-red-900/80 font-medium text-sm">
                         <li className="flex items-start"><span className="mr-2">•</span> <strong>Home Loans:</strong> The bank will initiate SARFAESI proceedings to auction your home.</li>
                         <li className="flex items-start"><span className="mr-2">•</span> <strong>Car / Auto Loans:</strong> The lender will repossess the vehicle.</li>
@@ -481,7 +481,7 @@ export default function EligibilityCheckerPage() {
           <section id="documents" className="scroll-mt-32 mb-12">
              <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Documentation: The "Proof" of Eligibility
-            </h3>
+            </h2>
             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100">
                <p className="mb-6 text-blue-900">
                  You cannot just tell the bank you are broke; you must prove it. We help you build a "Hardship File" (Dossier) to present to the bank's credit committee.
@@ -528,7 +528,7 @@ export default function EligibilityCheckerPage() {
           <section id="disqualifications" className="scroll-mt-32 mb-12">
             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Who is NOT Eligible? (Disqualification Factors)
-            </h3>
+            </h2>
             <p className="mb-6">
                 Even if you are 90 days overdue, a bank may flatly refuse settlement if you fall into these categories. These are "Red Flags" for any credit manager.
             </p>

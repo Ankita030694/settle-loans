@@ -316,7 +316,7 @@ export default function EducationLoanDefaultPage() {
                 <h3 className="text-xl font-black text-red-700 mb-4 flex items-center gap-2">
                   <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clipRule="evenodd" /></svg>
                   Critical Warning for Parents
-                </h2>
+                </h3>
                 <p className="text-red-900 font-medium mb-4">
                   In Indian banking law, a co-borrower or guarantor bears the exact same legal liability as the primary borrower. If the student defaults, the bank has the complete legal right to pursue the parents for the full amount.
                 </p>
@@ -536,7 +536,7 @@ export default function EducationLoanDefaultPage() {
             <section id="faq" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h3>
+              </h2>
               <div className="space-y-4">
                 {[
                   { q: "What happens if I stop paying my education loan?", a: "If you stop paying, your loan will be classified as a Non-Performing Asset (NPA) after 90 days. This will crash your CIBIL score, and the bank will initiate recovery proceedings against you and your co-signers." },

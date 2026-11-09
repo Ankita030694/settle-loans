@@ -239,7 +239,7 @@ export default function P2PLoanSettlementPage() {
                                 <h3 className="text-lg font-bold text-blue-900 mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faCircleInfo} className="text-blue-500" />
                                     The Fintech Paradigm Shift
-                                </h2>
+                                </h3>
                                 <p className="text-blue-800">
                                     In P2P lending, the platform acts as an **NBFC-P2P (Non-Banking Financial Company - Peer to Peer)**. They are strictly intermediaries. They do not lend their own money; they manage the *flow* of money. This distinction is the bedrock of understanding how settlement negotiations work in this space.
                                 </p>
@@ -434,7 +434,7 @@ export default function P2PLoanSettlementPage() {
                                 <h3 className="text-red-900 font-bold mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faShieldHalved} />
                                     The Golden Rule of P2P Payment
-                                </h2>
+                                </h3>
                                 <p className="text-red-800 leading-relaxed font-medium">
                                     Never pay a settlement amount to an individual. Every P2P platform uses a **Trustee-Controlled Escrow Account** (governed by banks like ICICI or Axis). Ensure the Virtual Account Number (VAN) matches the one provided in your official dashboard or the sanction letter.
                                 </p>
@@ -514,7 +514,7 @@ export default function P2PLoanSettlementPage() {
                         <section id="technical-glossary" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 P2P Settlement Glossary: Decoding the Fintech Jargon
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-8">
                                 When you speak to a P2P platform representative, they will use specific technical terms designed to sound imposing. Use this glossary to stay one step ahead.
                             </p>
@@ -541,7 +541,7 @@ export default function P2PLoanSettlementPage() {
                         <section id="p2p-vs-banks" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 P2P vs. Bank Settlement: A Comparative Analysis
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 How does a fintech settlement compare to a traditional bank like SBI or HDFC? The differences are stark. Banks have rigid "Settlement Committees" and pre-defined "Waiver Matrixes". P2P platforms are more agile.
                             </p>

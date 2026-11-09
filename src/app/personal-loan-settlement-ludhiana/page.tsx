@@ -503,7 +503,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
                 <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Key Statutory Safeguards Enforceable in Punjab</span>
-                </h2>
+                </h3>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">1. Doorstep Visit Restrictions</p>
@@ -670,7 +670,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
                 <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Checklist for Authentic Bank OTS Sanction Letters</span>
-                </h2>
+                </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">1. Official Bank Letterhead</p>
@@ -719,7 +719,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
             <section id="comparative-ludhiana-debt-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Protection Matrix for Punjab Borrowers
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Here is a comparison of legal rights and settlement options in Punjab:
               </p>
@@ -798,7 +798,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Ludhiana
-                </h3>
+                </h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Ludhiana can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>

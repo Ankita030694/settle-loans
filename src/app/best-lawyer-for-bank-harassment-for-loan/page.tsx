@@ -253,7 +253,7 @@ export default function BankHarassmentLawyerPage() {
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-2xl border-l-4 border-[#1F5EFF] my-10 shadow-sm">
                                 <h3 className="text-xl font-bold text-[#2E2E2E] mb-4 uppercase tracking-wider italic">
                                     A Message of Hope:
-                                </h2>
+                                </h3>
                                 <p className="text-gray-700 leading-relaxed italic">
                                     "No bank, no matter how powerful, is above the law. The same legal system they use to recover money is the system we use to protect your dignity. A single well-drafted legal notice citing RBI Master Circulars is often enough to silence the loudest recovery agent."
                                 </p>
@@ -523,7 +523,7 @@ export default function BankHarassmentLawyerPage() {
                         <section id="harassment-faq" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Frequently Asked Questions: Bank Harassment Lawyer
-                            </h3>
+                            </h2>
                             <div className="space-y-8">
                                 <div className="border-b border-gray-100 pb-6">
                                     <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Can a recovery agent call my friends or relatives?</h3>

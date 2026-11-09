@@ -389,7 +389,7 @@ export default function StudentLoanSettlementPage() {
                                 <h3 className="text-lg font-bold text-blue-900 mb-4 flex items-center font-sans tracking-tight">
                                     <svg className="w-5 h-5 mr-3 text-[#1F5EFF]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                                     Priority Sector Status
-                                </h2>
+                                </h3>
                                 <p className="text-blue-800 font-sans leading-relaxed">
                                     Education loans are classified as Priority Sector Lending (PSL) by the RBI. This means banks have different recovery mandates and are monitored more strictly regarding how they handle defaults compared to commercial loans.
                                 </p>
@@ -647,7 +647,7 @@ export default function StudentLoanSettlementPage() {
                         <section id="conclusion" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#1E293B] mb-8 leading-tight font-sans tracking-tight">
                                 Conclusion: Your Future Starts Post-Resolution
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6 italic font-sans text-justify">
                                 Student debt should not be a barrier to your professional growth. By understanding the specialized programs available in India, from interest subsidies to OTS schemes, you can find a way to resolve your liabilities without losing hope. You are not a 'defaulter'; you are a 'strategic survivor'. Build your professional life on a foundation of financial wisdom rather than debt-induced fear.
                             </p>

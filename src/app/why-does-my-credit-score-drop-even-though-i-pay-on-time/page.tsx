@@ -507,7 +507,7 @@ export default function CreditScoreDropPage() {
               <div className="bg-[#2E2E2E] p-10 rounded-[30px] border border-gray-700 mb-12 shadow-2xl">
                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-6 flex items-center gap-3">
                     <FontAwesomeIcon icon={faShieldHalved} /> Reporting Error Checklist:
-                 </h2>
+                 </h3>
                  <div className="space-y-4">
                     {[
                         "Identity Matching: Check if another person's name appears on your report.",
@@ -570,7 +570,7 @@ export default function CreditScoreDropPage() {
             <section id="ten-step-recovery" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 tracking-tighter">
                 The 10-Step Sovereign Plan to Restore Your Glory
-              </h3>
+              </h2>
               <div className="space-y-8">
                 {[
                   { t: "Deep Audit of All Four Bureaus", d: "Don't just check CIBIL. Check Experian, Equifax, and CRIF. Often, an error exists on only one, but lenders check different ones for different products." },

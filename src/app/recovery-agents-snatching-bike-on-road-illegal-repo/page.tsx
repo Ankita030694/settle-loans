@@ -794,7 +794,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 <h3 className="font-bold text-blue-950 text-sm flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory Clauses in a Vehicle Loan Shortfall Settlement Letter</span>
-                </h2>
+                </h3>
                 <ul className="space-y-2 text-xs sm:text-sm text-blue-900">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -877,7 +877,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Vehicle Seizure Advisory
-                </h3>
+                </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Facing aggressive recovery agents and roadside vehicle seizures requires experienced banking advocates. SettleLoans defends vehicle loan borrowers across India. We send criminal counter-notices, help police recover seized vehicles, challenge biased arbitration under Section 12(5) of the Arbitration Act. And negotiate complete ₹0 shortfall waivers with official No Dues Certificates.
                 </p>

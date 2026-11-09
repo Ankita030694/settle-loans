@@ -513,7 +513,7 @@ export default function InterestSavingsDigitalPage() {
                   <h3 className="font-black text-[#2E2E2E] text-xl mb-3 flex items-center gap-2 uppercase tracking-tight">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
                     Legal Forensic Audit
-                  </h2>
+                  </h3>
                   <p className="text-sm text-gray-500 leading-relaxed font-bold"><Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">Amalegal</Link> examines the loan contract for 'Usurious' interest rates. Specifically for fintech app loans, if the effective rate exceeds the fair boundaries of the Indian Contract Act, they use this as leverage to settle the loan at the principal amount only.</p>
                 </div>
                 <div className="group p-6 bg-white border border-gray-200 rounded-2xl hover:border-[#1F5EFF] transition-colors relative overflow-hidden">
@@ -648,7 +648,7 @@ export default function InterestSavingsDigitalPage() {
             <section id="rbi-prepayment" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
                 RBI Guidelines on Prepayment and Early Closure
-              </h3>
+              </h2>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers are hesitant to settle early because they fear 'Prepayment Charges'. However, the <strong>Reserve Bank of India (RBI)</strong> has been very progressive here. For floating rate home loans, banks are prohibited from charging any prepayment penalty. For fixed-rate personal loans, while penalties exist, they are often a fraction of the total interest savings you achieve.
               </p>

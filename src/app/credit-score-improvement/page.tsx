@@ -365,21 +365,21 @@ export default function CreditScoreImprovementPage() {
                        <h3 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
                            <span>1. Payment History</span>
                            <span className="text-[#1F5EFF]">35%</span>
-                       </h2>
+                       </h3>
                        <p className="text-sm text-gray-600">The most critical factor. A single 30-day late payment can drop your score by 50-80 points. Consistency is key.</p>
                    </div>
                    <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
                        <h3 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
                            <span>2. Credit Utilization</span>
                            <span className="text-[#1F5EFF]">30%</span>
-                       </h2>
+                       </h3>
                        <p className="text-sm text-gray-600">How much limit you use. If you have a 1 Lakh limit and spend 90k, you are a "high risk" borrower. Keep it under 30%.</p>
                    </div>
                    <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
                        <h3 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
                            <span>3. Credit Age</span>
                            <span className="text-[#1F5EFF]">15%</span>
-                       </h2>
+                       </h3>
                        <p className="text-sm text-gray-600">Older is better. A 5-year-old credit card with good history is gold. Never close your oldest card.</p>
                    </div>
                </div>
@@ -388,14 +388,14 @@ export default function CreditScoreImprovementPage() {
                        <h3 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
                            <span>4. Credit Mix</span>
                            <span className="text-[#1F5EFF]">10%</span>
-                       </h2>
+                       </h3>
                        <p className="text-sm text-gray-600">Lenders love balance. Having a mix of Secured (Home/Auto Loan) and Unsecured (Credit Card) loans is better than just credit cards.</p>
                    </div>
                    <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
                        <h3 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
                            <span>5. Recent Enquiries</span>
                            <span className="text-[#1F5EFF]">10%</span>
-                       </h2>
+                       </h3>
                        <p className="text-sm text-gray-600">Every time you apply for a loan, a "Hard Inquiry" is hit. Too many inquiries in a short time makes you look desperate.</p>
                    </div>
                </div>
@@ -630,7 +630,7 @@ export default function CreditScoreImprovementPage() {
            <section id="rejection-reasons" className="scroll-mt-32 mb-16">
              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                 <FontAwesomeIcon icon={faBan} className="mr-4 w-12 h-12" /> "My Score is 750, Why Was I Rejected?"
-             </h3>
+             </h2>
              <p className="mb-6 leading-relaxed">
                  A good score is necessary but not sufficient. Banks use internal policy checks that go beyond CIBIL.
              </p>
@@ -678,7 +678,7 @@ export default function CreditScoreImprovementPage() {
            <section id="golden-rules" className="scroll-mt-32 mb-16">
              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                 <FontAwesomeIcon icon={faCheck} className="mr-4 w-12 h-12" /> The 3 Golden Rules for an 800+ Score
-             </h3>
+             </h2>
              <div className="bg-[#2E2E2E] text-[#DEDEDE] rounded-2xl p-8 shadow-lg">
                  <div className="grid md:grid-cols-3 gap-8 divide-y md:divide-y-0 md:divide-x divide-white/20">
                      <div className="text-center md:text-left pt-4 md:pt-0">
@@ -863,7 +863,7 @@ export default function CreditScoreImprovementPage() {
           <section id="secured-cards" className="scroll-mt-32 mb-16">
             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faUnlockKeyhole} className="mr-4 w-12 h-12" /> The "Secret Weapon": Secured Credit Cards
-            </h3>
+            </h2>
             <p className="mb-6 leading-relaxed">
                If your score is &lt; 700, no bank will give you a normal credit card. This creates a Catch-22: 
                <em>"You need credit to build score, but you need score to get credit."</em>
@@ -916,7 +916,7 @@ export default function CreditScoreImprovementPage() {
            <section id="templates" className="scroll-mt-32 mb-16">
             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
               <FontAwesomeIcon icon={faEnvelopeOpenText} className="mr-4 w-12 h-12" /> Dispute Letter Templates
-            </h3>
+            </h2>
             <p className="mb-6 leading-relaxed">
               If the online dispute fails, use these templates to send physical mail to the Nodal Officers.
             </p>
@@ -978,7 +978,7 @@ Regards,<br/>
           {/* FAQs */}
           <h2 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
             Frequently Asked Questions
-          </h3>
+          </h2>
           <div className="space-y-4 not-prose mb-20">
             {[
                { 

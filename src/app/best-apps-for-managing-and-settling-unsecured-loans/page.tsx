@@ -342,7 +342,7 @@ export default function BestAppsLoanSettlementPage() {
                 <div className="bg-blue-50 p-10 rounded-[30px] border border-blue-100">
                     <h3 className="text-2xl font-black text-blue-900 mb-6 capsule inline-block py-2 px-6 bg-white rounded-full shadow-sm">
                         <a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer">Amalegal Solutions</a>
-                    </h2>
+                    </h3>
                     <p className="text-lg leading-relaxed text-[#2E2E2E] mb-6 font-medium">
                         Highly respected firm specializing in complex legal resolutions for distressed borrowers. Known for meticulous legal documentation that ensures borrowers face no future legal complications.
                     </p>
@@ -503,7 +503,7 @@ export default function BestAppsLoanSettlementPage() {
                     <h2 className="text-3xl md:text-4xl font-black text-red-900 mb-8 flex items-center gap-3">
                         <svg className="w-10 h-10 text-red-600" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clipRule="evenodd"/></svg>
                         6. Avoiding Digital Loan Scams: Red Flags
-                    </h3>
+                    </h2>
                     <p className="text-lg text-red-800 mb-10 leading-relaxed font-medium">
                         For every legitimate debt management app, there are a dozen 'predatory' loan apps that aim to trap you in a cycle of high interest and extortion. Protect yourself by identifying these critical red flags before you ever download an app.
                     </p>

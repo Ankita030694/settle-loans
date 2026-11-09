@@ -638,7 +638,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-purple-600" />
                     <span>Criminal Intimidation &amp; Unlawful Assembly (Sections 351 &amp; 189 BNS / Sections 503, 506 &amp; 141 IPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Threats are criminal intimidation under Section 351 BNS. Two or more agents gathering to threaten you form an unlawful assembly under Section 189 BNS.
                   </p>
@@ -769,7 +769,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Lock className="w-4 h-4 text-blue-600" />
                     <span>Phase 1: Secure Entryway &amp; Record Video</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Keep your doors locked. Record video through your peephole or window. Capture the agent's face, shouting. And harassment. This recording provides vital legal proof.
                   </p>
@@ -778,7 +778,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Siren className="w-4 h-4 text-indigo-600" />
                     <span>Phase 2: Dial 112 (National Emergency Response System)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Call 112. Give your address. Tell the operator: <em>"Men are blocking my door and scaring my family. Please send a PCR van."</em> Report this as criminal trespass.
                   </p>
@@ -879,7 +879,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Score Rehabilitation
-              </h4>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 After settlement, bureaus show a <strong>"Settled"</strong> tag with a <strong>₹0</strong> balance. While your score may drop initially, paying bills on time will help rebuild your score above 750 within 2 years.
               </p>
@@ -975,7 +975,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Bharatiya Nyaya Sanhita, 2023</span></span>
                 <a
@@ -1021,7 +1021,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/can-recovery-agents-enter-house-without-permission"

@@ -803,7 +803,7 @@ export default function TaxImplicationsLoanSettlementPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding CIBIL Bureau Reporting &amp; Credit Score Rehabilitation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following loan settlement, the creditor updates credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) with the status remark <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with a current outstanding balance of <strong>₹0</strong>. While this reporting causes an initial credit score dip of 60 to 110 points, it halts cascading monthly default marks and completely terminates legal exposure. By utilizing a secured fixed-deposit credit card, keeping credit utilization below 30%, and ensuring timely utility payments, settled borrowers systematically rebuild their credit score back above 750 within 18 to 24 months.
               </p>
@@ -813,7 +813,7 @@ export default function TaxImplicationsLoanSettlementPage() {
             <section id="comparative-tax-matrix-loan-categories" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comprehensive Tax Matrix Across Loan Categories &amp; Legal Forums
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the tax implications across various loan categories and dispute resolution mechanisms provides complete operational clarity for borrowers:
               </p>

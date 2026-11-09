@@ -510,7 +510,7 @@ export default function PersonalLoanSettlementIndorePage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -790,7 +790,7 @@ export default function PersonalLoanSettlementIndorePage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Indore Personal Loan Settlement &amp; Lok Adalat Legal Defense Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -902,7 +902,7 @@ export default function PersonalLoanSettlementIndorePage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Financial Forensic Audit &amp; Hardship Dossier Compilation
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Compile comprehensive documentary proof demonstrating genuine, non-wilful financial incapacity. Essential documents include audited business financial statements, GST return filings showing revenue declines, salary termination letters, medical treatment records, or bank statements showing depleted liquidity. This establishes that the default is bona fide and qualifies for compromise relief under RBI rules.
                   </p>
@@ -913,7 +913,7 @@ export default function PersonalLoanSettlementIndorePage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Mandate Cancellation &amp; Enforcing Communication Channels
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your bank in Indore to suspend or cancel the e-NACH auto-debit mandate to halt recurring return fees. Issue a formal legal notice directing the lender to channel all communications exclusively in writing through designated legal counsel, establishing a verifiable evidentiary trail.
                   </p>
@@ -924,7 +924,7 @@ export default function PersonalLoanSettlementIndorePage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Hardship Petition to Stressed Assets Desk
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a detailed compromise settlement petition directly to the bank or NBFC&apos;s Zonal Stressed Assets Committee in Indore or Bhopal, citing the RBI Master Direction on Compromise Settlements. Anchor the initial opening settlement offer at 25% to 35% of core dues to preserve negotiating leverage.
                   </p>
@@ -973,7 +973,7 @@ export default function PersonalLoanSettlementIndorePage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Forensic Verification of Settlement Sanction Letters &amp; Enforcing the ₹0 NDC Mandate
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A major hazard encountered by distressed borrowers in Indore involves unauthorized recovery agents issuing fake or fraudulent settlement letters. Third-party agents under pressure to meet monthly targets frequently produce unverified letters or accept verbal assurances, crediting payments as partial recoveries against late fees while leaving the default active and compounding.
               </p>
@@ -999,7 +999,7 @@ export default function PersonalLoanSettlementIndorePage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; 18-Month Credit Rehabilitation Roadmap
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a One-Time Settlement with a bank or NBFC results in the account being reported to all four licensed credit information companies in India (TransUnion CIBIL, Experian, Equifax, and CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This reporting causes an initial credit score drop of 75 to 150 points.
               </p>
@@ -1025,7 +1025,7 @@ export default function PersonalLoanSettlementIndorePage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Borrowers in Indore &amp; Madhya Pradesh Choose SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating complex banking regulations, high-stakes debt negotiations, and aggressive collection tactics requires experienced legal counsel and seasoned financial strategists. SettleLoans provides end-to-end debt resolution for salaried professionals, wholesale traders, and MSME entrepreneurs across Indore, Bhopal, Ujjain, Dewas, and Jabalpur. We halt recovery harassment, defend Section 138 and Section 25 court notices, represent clients at DLSA Lok Adalat sessions, and negotiate directly with bank credit committees for maximum lawful debt waivers.
               </p>
@@ -1044,7 +1044,7 @@ export default function PersonalLoanSettlementIndorePage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Personal Loan Settlement in Indore
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1205,7 +1205,7 @@ export default function PersonalLoanSettlementIndorePage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

@@ -535,7 +535,7 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
       <div className="w-full max-w-[1720px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 py-8 md:py-12">
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             <div className="bg-blue-50/60 border border-blue-200/70 rounded-2xl p-4 text-xs text-blue-900 space-y-2">
@@ -751,7 +751,7 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
               {/* Haircut Slabs Table */}
               <h3 className="text-lg font-bold text-slate-900 mb-3">
                 Realistic FlexiLoans Settlement Haircut Slabs by Product &amp; Aging
-              </h2>
+              </h3>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -811,7 +811,7 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         FlexiLoans Business Loan Settlement &amp; Legal Action Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -895,7 +895,7 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                       1
                     </span>
                     Merchant Hardship Dossier Compilation &amp; Financial Forensics
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Assemble filed GST returns (GSTR-3B and GSTR-1), bank statements showing liquidity depletion, supplier debit notes, and medical records if health issues impacted store operations. This documentation proves the default is non-wilful and qualifies for compromise relief under RBI rules.
                   </p>
@@ -908,7 +908,7 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                       2
                     </span>
                     Electronic Mandate Cancellation &amp; Communication Containment
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit written instructions to your destination bank revoking active e-NACH auto-debit mandates to stop recurring return penalties. Simultaneously issue a formal legal directive requiring FlexiLoans to channel all communications exclusively through registered email or designated legal counsel.
                   </p>
@@ -921,7 +921,7 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                       3
                     </span>
                     Drafting &amp; Submitting the Formal Compromise Petition
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Legal advocates prepare a structured One-Time Settlement petition addressed directly to Epimoney Stressed Assets Committee, citing commercial distress and RBI compromise directives, with an opening proposal at 25% to 35% of total book dues.
                   </p>
@@ -976,7 +976,7 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Navigating Section 25 PSSA Summons, Arbitration &amp; Lok Adalat
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Past 60 to 90 days default, FlexiLoans routinely issues demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for bounced NACH mandates, Section 138 NI Act notices if security cheques were collected, or notices invoking sole arbitration in Mumbai.
               </p>
@@ -1052,7 +1052,7 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Verification &amp; Enforcing the Zero Balance NDC
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Merchants must avoid unverified settlement promises from collection agents. If funds are remitted against verbal or unverified communications, FlexiLoans credits the money entirely toward accrued penal charges and late fees, leaving the account active and defaulting.
               </p>
@@ -1072,7 +1072,7 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; Credit Rehabilitation
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following settlement payment, FlexiLoans reports the loan to TransUnion CIBIL, Experian, Equifax, and CRIF High Mark as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>.
               </p>
@@ -1092,7 +1092,7 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Retail Merchants Choose SettleLoans Defense
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating an unsecured loan settlement with a fast-paced fintech lender like FlexiLoans requires experienced financial auditing and decisive legal advocacy. SettleLoans provides complete end-to-end merchant defense: halting automated IVR and tele-caller harassment through statutory cease-and-desist notices, defending against Section 25 PSSA and arbitration notices, revoking predatory NACH mandates, and negotiating directly with Epimoney Private Limited Credit Committees to secure authorized 40% to 60% debt haircuts and authentic ₹0 No Dues Certificates.
               </p>
@@ -1111,7 +1111,7 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions on FlexiLoans Business Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1273,7 +1273,7 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

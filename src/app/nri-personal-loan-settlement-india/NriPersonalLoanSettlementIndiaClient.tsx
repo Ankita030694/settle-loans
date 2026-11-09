@@ -437,7 +437,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                 <div className="flex items-center justify-between gap-3 mb-2">
                   <h3 className="text-lg font-bold text-slate-900">
                     Viraj Chetan Shah v. Union of India (Bombay High Court, 2024)
-                  </h2>
+                  </h3>
                   <span className="text-xs bg-[#1F5EFF]/10 text-[#1F5EFF] font-bold py-1 px-2.5 rounded-full whitespace-nowrap">
                     High Court Ruling on Bank LOCs
                   </span>
@@ -478,7 +478,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                     </div>
                     <h3 className="font-bold text-slate-900 text-base">
                       Consular Attestation or Apostille Abroad
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed mb-2">
                     In countries that are signatories to the Hague Convention (such as the US, UK, Canada, and EU member states), the POA document is signed before a local Notary Public and certified with an <strong>Apostille Certificate</strong>. In non-apostille jurisdictions (including the UAE, Saudi Arabia, Qatar, and Singapore), the NRI visits the Consular Wing of the Indian Embassy or High Commission, signs the document in the presence of a Consular Officer under the <em>Diplomatic and Consular Officers (Oaths and Fees) Act, 1948</em>, and obtains official embassy stamping.
@@ -495,7 +495,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                     </div>
                     <h3 className="font-bold text-slate-900 text-base">
                       Adjudication and Stamping in India (90 Days)
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed mb-2">
                     Once the physically stamped POA is dispatched by courier to India, the attorney holder must present the document before the District Registrar or Collector of Stamps within <strong>90 calendar days</strong> of its physical arrival in India. Under <strong>Section 18 of the Indian Stamp Act, 1899</strong>, the document is officially adjudicated upon payment of applicable state stamp duty, rendering it fully enforceable before all Indian banking authorities, tribunals, and courts.
@@ -568,7 +568,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         NRI Personal Loan Settlement &amp; Legal Defense Roadmap
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -627,7 +627,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                     </div>
                     <h3 className="text-base font-bold text-slate-900">
                       Comprehensive Debt &amp; Legal Audit
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Our legal team reviews your original loan agreements, loan account statements, payment history, and any statutory notices issued under Section 138 of the Negotiable Instruments Act or Section 25 of the Payment and Settlement Systems Act. We calculate the exact principal balance and strip away illegitimate penal interest and compound bounce charges.
@@ -696,7 +696,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
             <section id="fema-remittance-rules" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Foreign Exchange &amp; FEMA Compliance in NRI Loan Settlement
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Settling an Indian debt from abroad requires strict compliance with the <em>Foreign Exchange Management Act (FEMA), 1999</em> and RBI Master Directions on Non-Resident Banking Accounts. Never make cash transfers or payments to personal accounts of recovery agents or unverified intermediaries. All settlement remittances must follow lawful, auditable banking channels.
               </p>
@@ -723,7 +723,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
             <section id="criminal-notice-defense" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Managing Criminal &amp; Quasi-Criminal Notices: Section 138 &amp; NACH Defense
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Banks frequently attempt to establish leverage against non-residents by depositing archived security cheques (PDCs) collected during loan origination. When these cheques or automated NACH electronic mandates bounce, lenders issue statutory 15-day demand notices under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> or <strong>Section 25 of the Payment and Settlement Systems Act, 2007</strong>.
               </p>
@@ -739,7 +739,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
             <section id="comparative-resolution-matrix" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Comparative Resolution Matrices
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 The comparative tables below highlight the legal, financial, and operational distinctions between resolving debts remotely through a Consular POA, attempting an in-person return, or ignoring unpaid liabilities.
               </p>
@@ -850,7 +850,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
             <section id="cibil-rehabilitation" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 10. Post-Settlement Credit Rehabilitation &amp; Long-Term Financial Freedom
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Securing the official <strong>No Dues Certificate (NDC)</strong> marks the formal conclusion of all legal disputes and financial liabilities with the lending institution. However, non-residents must also take proactive steps to ensure their credit bureau records (TransUnion CIBIL, Experian, CRIF High Mark) accurately reflect the settlement.
               </p>
@@ -877,7 +877,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                   </span>
                   <h2 className="text-2xl md:text-3xl font-black text-slate-900">
                     Frequently Asked Questions on NRI Personal Loan Settlement
-                  </h3>
+                  </h2>
                 </div>
               </div>
 
@@ -1030,7 +1030,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

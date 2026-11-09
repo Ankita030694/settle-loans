@@ -478,7 +478,7 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
               <div className="my-6">
                 <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
                   Financial Ledger Forensics &amp; Status Upgrade Math
-                </h2>
+                </h3>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -556,7 +556,7 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         CIBIL Status Settled to Closed Conversion Overview
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -614,7 +614,7 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
               <div className="my-6">
                 <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
                   Credit Repair Methodology Matrix
-                </h2>
+                </h3>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -762,7 +762,7 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Specialized Real-World Post-Settlement Scenarios
-              </h3>
+              </h2>
               <p>
                 Post-settlement credit repair varies significantly depending on the nature of the defaulted credit facility, the lending institution&apos;s institutional policy, and the specific underwriting requirements of the prospective loan.
               </p>
@@ -827,7 +827,7 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Frequently Asked Questions on Converting CIBIL Status to Closed
-              </h3>
+              </h2>
               <p className="text-slate-600 text-sm leading-relaxed mb-6">
                 Below are authoritative legal and financial answers regarding the post-settlement residual payment process, CIBIL status conversions, and mortgage loan eligibility in India.
               </p>
@@ -853,7 +853,7 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Statutory Citations &amp; Outbound Authority Grid
-              </h3>
+              </h2>
               <p className="text-slate-700 text-sm leading-relaxed">
                 The legal frameworks, credit bureau reconciliation protocols, and consumer protections referenced in this case study are established under statutory Indian financial laws and binding Reserve Bank of India directions.
               </p>
@@ -950,7 +950,7 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
           </main>
 
           {/* Right Column: Sticky Sidebar Cards */}
-          <aside className="space-y-6 sticky top-24">
+          <aside className="space-y-6 lg:sticky lg:top-24">
             <div className="space-y-6">
               
               {/* Author Bio Card */}

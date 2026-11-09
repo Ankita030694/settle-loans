@@ -830,7 +830,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <Check className="w-4 h-4 text-emerald-600" />
                     Absolute Prohibition of Third-Party Contacting &amp; Data Scraping
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Scraping phone contacts breaks RBI rules. Calling friends or employers violates Section 72A of the IT Act, 2000.
                   </p>
@@ -840,7 +840,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <Check className="w-4 h-4 text-emerald-600" />
                     Ban on Physical Intimidation, Abusive Language &amp; Impersonation
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Abusive language is a crime. Threatening physical visits is illegal. Posing as police officers breaks Sections 419, 503, and 506 IPC (Sections 319 and 351 BNS).
                   </p>
@@ -1128,7 +1128,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1193,7 +1193,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
               <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/app-loan-settlement"

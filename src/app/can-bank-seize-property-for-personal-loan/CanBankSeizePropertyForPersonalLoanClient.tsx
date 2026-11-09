@@ -475,7 +475,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
               <h3 className="text-xl font-bold text-slate-900 mb-4 mt-8">
                 The Statutory Definition of &quot;Security Interest&quot; under SARFAESI
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Under Section 2(1)(zf) of the SARFAESI Act, a &quot;security interest&quot; has a specific definition. It means any right, title, or interest upon property created in favour of a secured creditor. This includes any mortgage, charge, hypothecation, or assignment. Section 13(2) explicitly mandates that enforcement notices can only be served where a security interest exists.
               </p>
@@ -531,7 +531,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                 <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                   <Gavel className="w-5 h-5 text-[#1F5EFF]" />
                   <span>The High Evidentiary Threshold of Order 38 Rule 5 (Attachment Before Judgment)</span>
-                </h2>
+                </h3>
                 <p className="text-sm text-slate-700 leading-relaxed mb-3">
                   During a civil recovery suit, a bank may file an interim application under Order 38 Rule 5 CPC for &quot;Attachment Before Judgment.&quot; However, the Supreme Court of India in <em>Raman Tech. &amp; Process Engg. Co. v. Solanki Traders (2008)</em> laid down clear boundaries. The Court ruled that Order 38 Rule 5 is a drastic power and cannot be exercised casually.
                 </p>
@@ -567,7 +567,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Can Bank Seize Property for Personal Loan Summary &amp; Process Overview
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -669,7 +669,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
             <section id="npv-banking-accounting-math" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Banking Accounting Rules & NPV Recovery Economics
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Borrowers often wonder: <em>If banks technically possess the right to file civil suits, why do they almost never proceed with asset attachment against salaried personal loan defaulters?</em> The answer lies in institutional banking accounting rules mandated by the Reserve Bank of India (RBI) and Net Present Value (NPV) recovery mathematics.
               </p>
@@ -685,7 +685,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                 </div>
                 <h3 className="text-xl md:text-2xl font-black mb-4 text-white">
                   Why Banks Financially Prefer OTS Over Long Litigation
-                </h2>
+                </h3>
                 <p className="text-sm text-slate-300 leading-relaxed mb-4">
                   When evaluating whether to litigate or settle, a bank&apos;s credit risk committee applies a Net Present Value (NPV) recovery analysis:
                 </p>
@@ -706,7 +706,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
             <section id="rbi-fair-practices-enforcement" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Enforcing RBI Mandates & Silencing Harassment
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 If recovery agents are subjecting you or your family to threats of property seizure, police action, or public humiliation, you do not have to suffer in silence. The Reserve Bank of India has established robust regulatory mechanisms under its <em>Master Direction on Fair Practices Code for Lenders</em> and <em>Master Circular on Recovery Agents</em>.
               </p>
@@ -759,7 +759,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
             <section id="ots-permanent-clean-exit" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. One-Time Settlement: Permanent Legally Binding Resolution
-              </h3>
+              </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Understanding that your property cannot be seized eliminates immediate fear. However, leaving an unpaid loan in indefinite default causes severe long-term damage to your credit profile. Your CIBIL score drops, and you remain exposed to periodic collection escalations. The definitive, legally binding exit is a structured <strong>One-Time Settlement (OTS)</strong>.
               </p>
@@ -834,7 +834,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                 </div>
                 <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-3">
                   Frequently Asked Questions
-                </h3>
+                </h2>
                 <p className="text-sm text-slate-600">
                   Authoritative, legally verified answers regarding property attachment, SARFAESI applicability, recovery agent intimidation, and debt settlement in India.
                 </p>
@@ -989,7 +989,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
           </main>
 
           {/* Right Column: Dedicated Track containing Author, CTA, and Trust Cards */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

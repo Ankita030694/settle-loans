@@ -529,7 +529,7 @@ export default function CreditCardSettlementAbove1LakhClient() {
                     </span>
                     <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       Credit Card Settlement Above 1 Lakh Summary &amp; Process Overview
-                    </h2>
+                    </h3>
                   </div>
                 </div>
                 <a
@@ -718,7 +718,7 @@ export default function CreditCardSettlementAbove1LakhClient() {
                   <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                     Comprehensive Portfolio Audit &amp; Phantom Charge Separation
-                  </h2>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Obtain detailed month-by-month card statements for the preceding 12 to 24 months. Segregate legitimate principal drawn from accumulated finance charges, late fees, annual membership dues, and GST surcharges to establish the true economic floor for negotiations.
                   </p>
@@ -728,7 +728,7 @@ export default function CreditCardSettlementAbove1LakhClient() {
                   <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">2</span>
                     Issuing Legal Cease-and-Desist &amp; Fair Practices Notice
-                  </h2>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Serve formal legal notice to the bank&apos;s principal officer and recovery desk under the RBI Master Direction on Fair Practices Code. Direct all future communications to your appointed legal counsel, halting unauthorized phone calls and third-party residential intrusions.
                   </p>
@@ -770,7 +770,7 @@ export default function CreditCardSettlementAbove1LakhClient() {
             <section id="cibil-score-rehabilitation" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 9. CIBIL Bureau Reporting & Score Rehabilitation Post-OTS
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 A critical consideration when executing a credit card settlement above ₹1 Lakh is the impact on your credit bureau report across TransUnion CIBIL, Experian, CRIF High Mark, and Equifax. Under the Credit Information Companies (Regulation) Act, 2005 (CICRA), the bank is legally required to report the resolution status as &quot;Settled&quot; or &quot;Post (WO) Settled&quot; rather than &quot;Closed - Fully Paid&quot;.
               </p>
@@ -783,7 +783,7 @@ export default function CreditCardSettlementAbove1LakhClient() {
             <section id="institutional-legal-shield" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 10. SettleLoans Legal Defense & Representation Framework
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Navigating aggressive recovery departments and complex NPA settlement committees alone often leads to anxiety, unfavorable settlement terms, or payment traps. SettleLoans provides a comprehensive, ethical legal defense and debt settlement platform designed to protect borrower dignity and secure the deepest permissible statutory discounts.
               </p>
@@ -804,7 +804,7 @@ export default function CreditCardSettlementAbove1LakhClient() {
                 <div>
                   <h2 className="text-2xl md:text-3xl font-black text-slate-900">
                     Frequently Asked Questions
-                  </h3>
+                  </h2>
                   <p className="text-xs md:text-sm text-slate-500">
                     Authoritative answers on credit card settlements above ₹1 Lakh under Indian banking regulations
                   </p>
@@ -935,7 +935,7 @@ export default function CreditCardSettlementAbove1LakhClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm">
               <div className="flex items-center gap-3 mb-3">

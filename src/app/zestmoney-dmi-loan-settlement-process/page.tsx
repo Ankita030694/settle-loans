@@ -512,7 +512,7 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column: Sticky TOC + Executive Crux */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             <div className="bg-blue-50/60 border border-blue-200/70 rounded-2xl p-4 text-xs text-blue-900 space-y-2">
@@ -718,7 +718,7 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
               {/* Settlement Haircut Slabs Table */}
               <h3 className="text-lg font-bold text-slate-900 mb-3">
                 Realistic ZestMoney / DMI Finance Settlement Haircut Slabs Across Products and Aging
-              </h2>
+              </h3>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -778,7 +778,7 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         ZestMoney &amp; DMI Finance Loan Default Settlement Process
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -863,7 +863,7 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Loan Portfolio Forensics &amp; Debt Bifurcation
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We audit original ZestMoney records against DMI Finance loan contracts, isolating true disbursed principal from inflated bounce fees and compounded interest.
                   </p>
@@ -874,7 +874,7 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     e-NACH Mandate Revocation &amp; Representation Notice
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We help you instruct your bank to cancel active e-mandates under NPCI rules to stop bounce fees, while issuing formal legal notices directing all communications to counsel.
                   </p>
@@ -885,7 +885,7 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Hardship Dossier Compilation &amp; Stressed Assets Filing
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We compile documented proof of involuntary financial distress (layoffs, medical bills, business losses), submitting a formal petition establishing non-wilful default.
                   </p>
@@ -934,7 +934,7 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Section 25 PSSA and Arbitration Notices
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) penalizes dishonored electronic debits, operating similarly to Section 138 cheque bounce proceedings. However, a Section 25 notice is not an arrest warrant; it is a 15-day statutory demand. Because these offenses are compoundable, submitting an advocate-drafted reply highlighting bona fide hardship halts criminal prosecution and steers the file toward compromise settlement.
               </p>
@@ -996,7 +996,7 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Verification and Zero Dues Mandate
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers must never remit funds based on oral promises or WhatsApp links from recovery callers. Unscrupulous agencies often credit such payments toward overdue interest, keeping the principal balance active. A valid compromise requires an official OTS Sanction Letter on DMI Finance or Aditya Birla corporate letterhead, bearing CIN registration, explicit loan IDs, fee waiver bifurcation, and payment deadlines.
               </p>
@@ -1041,7 +1041,7 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Resolving CIBIL Overdue Flags and Score Recovery
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following full remittance of the agreed settlement, the underwriting NBFC reports the account as <strong>&apos;Settled&apos;</strong> with a <strong>₹0 balance</strong> across all credit bureaus within the mandatory 30-day reporting cycle. While &apos;Settled&apos; status causes an initial score contraction of 60 to 120 points, it halts monthly compounding default marks that paralyze credit access.
               </p>
@@ -1058,7 +1058,7 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Borrowers Choose SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating the complex institutional hierarchy of DMI Finance and Aditya Birla Finance following the ZestMoney transition requires dedicated legal advocacy and deep domain expertise in fintech debt resolution. SettleLoans provides complete end-to-end representation: we dismantle aggressive third-party collection harassment under RBI rules, revoke punitive e-mandates, draft formal replies to Section 25 PSSA and arbitration notices, and negotiate directly with senior credit committees to achieve maximum principal write-downs alongside official ₹0 No Dues Certificates.
               </p>
@@ -1077,7 +1077,7 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1239,7 +1239,7 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
           </main>
 
           {/* Right Column: Sidebar Cards */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

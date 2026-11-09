@@ -486,7 +486,7 @@ export default function Page() {
           <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
 
             {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-            <aside className="w-full sticky top-24 space-y-4">
+            <aside className="w-full lg:sticky lg:top-24 space-y-4">
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4 shadow-sm">
                 <div className="flex items-center gap-2 pb-3 mb-3 border-b border-slate-200 text-slate-900 font-bold text-sm">
                   <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
@@ -790,7 +790,7 @@ export default function Page() {
                     <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                       <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                       <span>Forensic Debt Audit &amp; Legal Scrutiny</span>
-                    </h2>
+                    </h3>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       Our legal team analyzes loan agreements, statements of accounts, and penalty ledgers, stripping away unlawful compounding charges, insurance mis-selling add-ons, and unjustified penal levies to establish true principal liability.
                     </p>
@@ -800,7 +800,7 @@ export default function Page() {
                     <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                       <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">2</span>
                       <span>Hardship Dossier &amp; Cease-and-Desist Representation</span>
-                    </h3>
+                    </h4>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       We compile certified documentary proof of genuine insolvency (medical certificates, salary reduction records, termination notices) and issue statutory notices under RBI Master Directions to halt all recovery agent harassment.
                     </p>
@@ -810,7 +810,7 @@ export default function Page() {
                     <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                       <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">3</span>
                       <span>Court Representation &amp; Section 138/25 Defense</span>
-                    </h3>
+                    </h4>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       Empanelled Kolkata advocates enter appearances under Vakalatnama in Bankshall, Alipore, or Sealdah courts, secure bail without custodial risk, and move applications under Section 147 NI Act to refer the matter to Lok Adalat.
                     </p>
@@ -925,7 +925,7 @@ export default function Page() {
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                   Frequently Asked Questions on Personal Loan Settlement in Kolkata
-                </h3>
+                </h2>
 
                 <div className="space-y-4">
                   {(jsonLdGraph["@graph"][4] as any).mainEntity.map((faq: any, index: number) => (
@@ -955,7 +955,7 @@ export default function Page() {
                 <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <a
                     href="https://www.rbi.org.in"
@@ -1001,7 +1001,7 @@ export default function Page() {
               <section className="border-t border-slate-200 pt-8 mb-8">
                 <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h4>
+                </h3>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/sbi-personal-loan-settlement"
@@ -1068,7 +1068,7 @@ export default function Page() {
             </main>
 
             {/* Right Column: Author Bio, Emergency Advocate CTA, Trust Signals */}
-            <aside className="w-full sticky top-24 space-y-6">
+            <aside className="w-full lg:sticky lg:top-24 space-y-6">
               
               {/* Author Bio Card */}
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">

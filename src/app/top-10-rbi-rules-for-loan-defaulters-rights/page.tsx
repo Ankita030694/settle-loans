@@ -608,7 +608,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Landmark Supreme Court Jurisprudence on Loan Defaults</span>
-                </h2>
+                </h3>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Hridaya Ranjan Prasad Verma v. State of Bihar (2000) 4 SCC 168</p>
@@ -700,7 +700,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">1</span>
                     <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Strict Permitted Calling Hours (8:00 AM to 7:00 PM)
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Circular RBI/2022-23/108 (DOR.ORG.REC.65/21.04.158/2022-23).<br />
@@ -714,7 +714,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">2</span>
                     <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Absolute Right to Privacy &amp; Anti-Shaming Mandate
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Master Direction on Outsourcing of Financial Services &amp; Digital Lending Guidelines.<br />
@@ -728,7 +728,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">3</span>
                     <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Total Ban on Physical Force, Intimidation &amp; Verbal Abuse
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> Supreme Court ruling in <em>ICICI Bank v. Prakash Kaur</em> &amp; IPC Sections 383, 503, 506.<br />
@@ -742,7 +742,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">4</span>
                     <h3 className="text-sm sm:text-base font-bold text-slate-900">
                       Mandatory Board-Approved Compromise Settlement (OTS) Framework
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Circular RBI/2023-24/40 (DOR.STR.REC.20/21.04.048/2023-24).<br />
@@ -841,7 +841,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             <section id="ots-mechanics-haircut-sanction-forensics" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. OTS Mechanics, Haircut Sizing & Sanction Letter Audit
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Executing a legally secure and financially advantageous One-Time Settlement (OTS) requires understanding the internal hierarchy and decision-making apparatus of scheduled commercial banks. Settlement authority does not reside with field recovery agents; it is vested in institutional Credit Committees, Zonal Settlement Committees (ZSC), or Special Asset Management Branches (SAMB).
               </p>
@@ -877,7 +877,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             <section id="remittance-ndc-30-day-cibil-reconstruction" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Remittance Protocols, 30-Day NDC & CIBIL Reconstruction
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the final settlement installment is remitted in strict compliance with the sanction letter schedule, the post-settlement legal phase begins. Under RBI Directive RBI/2023-24/60, the financial institution is legally obligated to execute account closure, issue a physical and digital No Dues Certificate (NDC), and release any pledged security or original title deeds within 30 days.
               </p>
@@ -916,7 +916,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             <section id="comparative-statutory-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution &amp; Regulatory Enforcement Comparative Matrix
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The following matrix summarizes the jurisdictional avenues, governing circulars, and enforceable borrower protections across key stages of loan recovery and debt settlement:
               </p>
@@ -985,7 +985,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense & Debt Resolution Shield
-                </h3>
+                </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating recovery harassment and complex banking rules requires seasoned legal advocates. SettleLoans stands as India premier legal defense and debt resolution platform. Our advocates protect your dignity by serving formal cease-and-desist notices to stop unlawful harassment. We hold abusive agencies accountable and negotiate directly with bank committees to secure maximum principal waivers backed by authentic, bank-stamped No Dues Certificates.</p>
               </div>
@@ -1000,7 +1000,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. FAQs: Top 10 RBI Rules for Loan Defaulters
-                </h3>
+                </h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, advocate-verified answers to critical questions regarding RBI regulations, recovery limits, and borrower statutory rights in India.
@@ -1138,7 +1138,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
           </main>
 
           {/* Right Column: Author Bio, Emergency Advocate CTA, Trust Signals */}
-          <aside className="w-full sticky top-24 space-y-6 h-fit">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6 h-fit">
             
             {/* Author Bio Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">

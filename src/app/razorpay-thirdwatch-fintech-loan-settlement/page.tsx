@@ -527,7 +527,7 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -808,7 +808,7 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Decoupling Payment Gateway Settlement Accounts
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Segregate operational checkout revenues from the distressed loan relationship by re-routing customer payment processing through independent merchant accounts, protecting daily trading cash flows from extralegal holdbacks.
                   </p>
@@ -819,7 +819,7 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking Automated Daily NACH Electronic Mandates
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Issue an e-mandate cancellation notice to your bank under NPCI guidelines. This immediately stops repeated failed presentations, halting the compounding accumulation of bank return fees and NBFC dishonour charges.
                   </p>
@@ -830,7 +830,7 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Compiling an Exhaustive Hardship Evidence Dossier
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Compile documentary evidence demonstrating business distress, including monthly GST filings showing turnover decline, Shopify analytics, ad spend receipts proving negative unit economics, and bank liquidity statements.
                   </p>
@@ -841,7 +841,7 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Submitting Formal Hardship Petition to NBFC Stressed Assets Desk
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal OTS petition directly to the partner NBFC&apos;s Stressed Assets Desk under RBI Compromise Settlement Directions, anchoring opening offers at 25% to 35% of core dues to preserve negotiation leeway.
                   </p>
@@ -852,7 +852,7 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Conducting Credit Committee Negotiations for Maximum Haircut
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Counter modest NBFC discount offers by demonstrating that settlement funds represent third-party distress pooling, steering the Credit Committee toward the target 45% to 65% principal waiver band alongside 100% penal cancellation.
                   </p>
@@ -879,7 +879,7 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Section 25 PSSA Defense, Digital Arbitration &amp; Lok Adalat
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 At 60 to 90 days delinquency, lenders issue statutory notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for bounced electronic debits, alongside Section 138 NI Act notices if security cheques were deposited.
               </p>
@@ -943,7 +943,7 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Forensic Audit of Sanction Letters &amp; ₹0 NDC Mandate
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers must beware of collection agents issuing unauthorized settlement letters. Funds paid against unverified offers are often credited toward penal interest rather than core principal.
               </p>
@@ -963,7 +963,7 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparative Resolution Matrix &amp; Founder Credit Recovery
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 An OTS settlement updates credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>.
               </p>
@@ -980,7 +980,7 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed D2C &amp; Retail Founders Trust SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving defaulted merchant cash advances and revenue-based lines requires sophisticated financial restructuring combined with aggressive legal advocacy. SettleLoans insulates business operations by halting illegal payment gateway freezes, canceling unauthorized automated NACH debit sweeps, defending against Section 25 PSSA and online arbitration summons, and negotiating directly with NBFC Stressed Assets Committees to achieve maximum debt waivers and certified ₹0 No Dues Certificates.
               </p>
@@ -999,7 +999,7 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions on Merchant Loan Settlement
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1161,7 +1161,7 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

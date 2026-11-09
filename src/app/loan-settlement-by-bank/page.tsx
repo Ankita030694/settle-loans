@@ -1,6 +1,7 @@
 import Link from "next/link";
 import banksData from "./banks.json";
 import { Metadata } from "next";
+import LoanSettlementAssessmentFunnel from "@/components/LoanSettlementAssessmentFunnel";
 
 function slugify(text: string) {
   return text
@@ -143,6 +144,9 @@ export default function LoanSettlementByBank() {
           </div>
         </div>
       </section>
+
+      {/* In-Page Assessment Funnel */}
+      <LoanSettlementAssessmentFunnel variant="full" />
 
       {/* Review Snippets Section */}
       <section className="py-24 bg-slate-50 border-y border-slate-100 px-4 md:px-8 lg:px-16 overflow-hidden">

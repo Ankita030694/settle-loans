@@ -393,7 +393,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
                 <h3 className="font-bold text-amber-900 text-base mb-2 flex items-center gap-2">
                   <AlertTriangle className="w-5 h-5 text-amber-600" />
                   The Devastating Double-Loss Trap
-                </h2>
+                </h3>
                 <p className="text-sm text-amber-800 leading-relaxed">
                   When a borrower transfers money to a fraudulent settlement agency, they suffer catastrophic double-jeopardy: <strong>First</strong>, they lose hard-earned cash they painstakingly gathered to resolve their debt. <strong>Second</strong>, their bank never receives the funds, causing the loan default to age into legal recovery territory (triggering Section 138 cheque bounce summons, Section 25 PSSA warrants, and compounding penal interest).
                 </p>
@@ -426,7 +426,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
                         <span className="text-[11px] bg-rose-100 text-rose-700 font-bold px-2.5 py-0.5 rounded-full">
                           Advance-Fee Fraud
                         </span>
-                      </h2>
+                      </h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Fraudulent agencies demand upfront charges ranging from ₹25,000 to ₹1,00,000 disguised as &quot;file registration fees&quot;, &quot;arbitration clearance deposits&quot;, or &quot;bank officer facilitation bribes&quot;. Once the payment is made, the agency stops answering calls, blocks your WhatsApp, or closes their virtual office. Ethical firms operate with transparent, nominal onboarding fees with primary success retainers tied strictly to delivering a verified bank sanction letter.
                       </p>
@@ -446,7 +446,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
                         <span className="text-[11px] bg-rose-100 text-rose-700 font-bold px-2.5 py-0.5 rounded-full">
                           Direct Theft
                         </span>
-                      </h2>
+                      </h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         The ultimate acid test: <strong>Where does your settlement money go?</strong> Never transfer funds to a private company current account, an &quot;escrow trust&quot;, or a personal UPI ID. If an agency claims they will pay the bank on your behalf, it is a scam. In authentic banking settlements, 100% of compromise funds are deposited straight into your designated loan account number.
                       </p>
@@ -466,7 +466,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
                         <span className="text-[11px] bg-rose-100 text-rose-700 font-bold px-2.5 py-0.5 rounded-full">
                           False Advertising
                         </span>
-                      </h2>
+                      </h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         No ethical advocate or legitimate agency can guarantee a specific waiver percentage before reviewing your loan vintage, NPA provisioning stage, and financial hardship documents. Banks settle personal loans based on Reserve Bank of India (RBI) provisioning norms and internal risk committees—typically between 40% and 65% haircuts. Any claim of &quot;guaranteed 90% off within 24 hours&quot; is mathematically impossible and fraudulent.
                       </p>
@@ -486,7 +486,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
                         <span className="text-[11px] bg-rose-100 text-rose-700 font-bold px-2.5 py-0.5 rounded-full">
                           Misrepresentation
                         </span>
-                      </h2>
+                      </h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         The Reserve Bank of India (RBI) regulates commercial banks, NBFCs, and ARCs, but <strong>RBI does not license, certify, or endorse debt settlement companies</strong>. Any platform displaying fake RBI seals or claiming to hold an &quot;RBI Debt Relief License&quot; is committing forgery under Bharatiya Nyaya Sanhita (BNS) Section 336(3). Legitimate firms operate strictly as legal advisories through Bar Council-enrolled advocates.
                       </p>
@@ -506,7 +506,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
                         <span className="text-[11px] bg-rose-100 text-rose-700 font-bold px-2.5 py-0.5 rounded-full">
                           Unlicensed Operators
                         </span>
-                      </h2>
+                      </h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Under the Advocates Act, 1961, only enrolled advocates have the statutory standing to represent clients in legal disputes, issue formal notices to lenders, and appear before Lok Adalats or mediation centers. Fraudulent agencies operate out of unregulated call centers with telecallers posing as lawyers. Always demand the advocate&apos;s full name, State Bar Council enrollment number, and verify their standing.
                       </p>
@@ -562,7 +562,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             <section id="forensic-ots-audit" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. Anatomy of a Forged OTS Sanction Letter
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The most dangerous tool in the scammer&apos;s playbook is the <strong>forged One-Time Settlement (OTS) letter</strong>. Scammers download legitimate bank templates, edit borrower details using graphic editing tools, attach outdated bank logos, and insert arbitrary compromise figures to induce immediate payment.
               </p>
@@ -671,7 +671,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             <section id="comparison-matrix" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Legitimate Settlement Agency vs Fraudulent Call Centers
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 To help you make an informed, confident decision when seeking debt relief, examine the structural and legal differences between an ethical legal platform like SettleLoans and unregulated scam operations:
               </p>
@@ -806,7 +806,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             <section id="scam-proof-protocol" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 5. The 5-Step Scam-Proof Settlement Protocol
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 To guarantee that your debt settlement is 100% legally binding, mathematically sound, and protected against fraud, follow this systematic 5-step operational protocol:
               </p>
@@ -879,7 +879,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             <section id="legal-recourse-cybercrime" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Legal Action &amp; Police Recourse
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 If you have unfortunately fallen victim to an advance-fee settlement scam or transferred money to a fraudulent agency, time is of the essence. You must start immediate legal and cybercrime countermeasures to freeze the perpetrator&apos;s accounts and protect yourself from bank litigation:
               </p>
@@ -953,7 +953,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             <section id="settleloans-ethical-standard" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Why SettleLoans is the Ethical Standard in Debt Relief
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 SettleLoans was founded with a single mission: to provide honest, transparent, and legally unassailable debt relief to distressed borrowers across India without exploiting their vulnerability. We have helped thousands of people break free from debt traps through our <strong>Zero-Fraud Trust Architecture</strong>:
               </p>
@@ -1009,7 +1009,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             <section id="faqs" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Frequently Asked Questions (FAQ)
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 Find clear, authoritative answers to the most critical legal, operational, and fraud-prevention questions regarding debt settlement companies in India:
               </p>
@@ -1163,7 +1163,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

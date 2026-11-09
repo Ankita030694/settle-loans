@@ -877,7 +877,7 @@ export default function BankArbitrationNoticeReplyPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding CIBIL Bureau Reporting &amp; Score recovery
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must understand the precise mechanism of credit bureau reporting following a compromise settlement:
               </p>
@@ -905,7 +905,7 @@ export default function BankArbitrationNoticeReplyPage() {
             <section id="arbitration-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Resolution Matrix: Arbitration vs Suit vs Lok Adalat vs OTS
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing the key dispute resolution mechanisms enables borrowers to evaluate the strategic advantages of converting an arbitration claim into an advocate-led compromise settlement:
               </p>

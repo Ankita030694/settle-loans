@@ -489,7 +489,7 @@ Yours faithfully,
               <div className="my-8">
                 <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Comparative Guide: Lawful Recovery vs. Illegal Workplace Harassment
-                </h2>
+                </h3>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -605,7 +605,7 @@ Yours faithfully,
                 <h4 className="text-sm font-bold text-amber-900 mb-1 flex items-center gap-2">
                   <Landmark className="w-4 h-4 text-amber-700" />
                   Landmark Precedent: Supreme Court in ICICI Bank Ltd. v. Shanti Devi Sharma (2008)
-                </h2>
+                </h4>
                 <p className="text-xs sm:text-sm text-amber-800 leading-relaxed">
                   The Supreme Court of India sternly ruled that banks and financial institutions cannot deploy musclemen, goons, or abusive recovery agents to recover loans through intimidation or humiliation. The Court held that <em>&quot;banks are vicariously liable for the unlawful acts of their recovery agents and must adhere strictly to the rule of law and human dignity.&quot;</em>
                 </p>
@@ -673,7 +673,7 @@ Yours faithfully,
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Recovery Agent Workplace Harassment Summary &amp; Action Roadmap
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -747,7 +747,7 @@ Yours faithfully,
                     </div>
                     <h4 className="font-bold text-slate-900 text-base">
                       Demand Credentials (Bank Letter, Agency ID &amp; DRA Certificate)
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
                     Under RBI regulations, you have the absolute legal right to inspect: 1) Bank Identity Card or Official Authorization Letter; 2) Collection Agency ID; 3) Indian Institute of Banking &amp; Finance (IIBF) Debt Recovery Agent Certificate. If they fail to produce all three, they are illegal trespassers.
@@ -820,7 +820,7 @@ Yours faithfully,
             <section id="complaint-draft-templates" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Official Draft Complaint Templates: Bank PNO, RBI CMS &amp; Police
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 To create legal deterrence, you must establish an official documentary trail against the lending institution. Below is the ready-to-use complaint format to send to the Bank&apos;s Principal Nodal Officer (PNO) and attach to your RBI Ombudsman filing.
               </p>
@@ -860,7 +860,7 @@ Yours faithfully,
               <div className="my-8">
                 <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Key Regulatory Escalation Authorities in India
-                </h4>
+                </h3>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -906,7 +906,7 @@ Yours faithfully,
             <section id="ots-permanent-relief" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Permanent Debt Relief: One-Time Settlement (OTS) with SettleLoans
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 While legal cease-and-desist notices immediately stop illegal field harassment, the underlying debt default remains active on bank balance sheets. As long as the account remains delinquent, it continues compounding penal interest (up to 36% p.a.) and risks being transferred to alternate collection agencies every few months.
               </p>
@@ -960,7 +960,7 @@ Yours faithfully,
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-8 leading-tight">
                 9. Frequently Asked Questions: Recovery Agents &amp; Workplace Rights
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -980,7 +980,7 @@ Yours faithfully,
               <h3 className="font-bold uppercase tracking-wider text-slate-900 text-sm flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory Authorities &amp; Official Regulatory References</span>
-              </h4>
+              </h3>
               <ul className="space-y-2">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1111,7 +1111,7 @@ Yours faithfully,
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

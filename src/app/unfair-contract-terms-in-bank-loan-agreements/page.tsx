@@ -533,7 +533,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
                 <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                   <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
                   <span>The Legal Reality of Adhesion Contracts in Banking</span>
-                </h2>
+                </h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                   A standard contract is void if it hurts consumers with zero power. Courts can strike out bad terms while keeping your settlement valid.
                 </p>
@@ -625,7 +625,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <ReceiptText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Unilateral Benchmark Escalation &amp; Reset Covenants</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Clauses letting banks raise loan spreads without notice. Under Section 2(46)(vi), borrowers must get a fair exit choice.
                   </p>
@@ -634,7 +634,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Unilateral Sole Arbitrator Appointment Clauses</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Clauses letting banks pick a sole arbitrator in distant cities. The Supreme Court in <em>Perkins Eastman</em> and <em>TRF Limited</em> held these clauses invalid.
                   </p>
@@ -643,7 +643,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <ShieldX className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Unilateral Acceleration &amp; Third-Party Disclosure</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Clauses letting banks recall a loan for minor issues. Sharing borrower data with recovery agents also breaches privacy norms.
                   </p>
@@ -876,7 +876,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
                 <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                   <Check className="w-4 h-4 text-emerald-600" />
                   <span>The Dual-Track Strategic Resolution Framework</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <strong className="text-slate-900 block mb-1">Track 1: Active Judicial &amp; Regulatory Pressure</strong>
@@ -898,7 +898,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
             <section id="contractual-remedy-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Contractual Dispute Redressal Comparative Matrix
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers facing unfair terms have several legal paths. The table below compares forums, timelines, costs. And settlement leverage:
               </p>
@@ -993,7 +993,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://consumerhelpline.gov.in"
@@ -1039,7 +1039,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/consumer-court-complaint-against-bank-harassment"

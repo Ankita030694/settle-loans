@@ -857,7 +857,7 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Information Bureau (CIBIL) Trajectory &amp; Score Rehabilitation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must understand the precise mechanism of credit bureau reporting after resolving insolvency or debt default:
               </p>
@@ -885,7 +885,7 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
             <section id="insolvency-comparative-resolution-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution Comparative Matrix: IBC Personal Insolvency vs DRT OA vs Bank OTS vs Civil Suit
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the strategic parameters across major Indian debt resolution mechanisms illustrates the comparative advantages of judicial discharge, tribunal defense, and advocate-led compromise settlements:
               </p>

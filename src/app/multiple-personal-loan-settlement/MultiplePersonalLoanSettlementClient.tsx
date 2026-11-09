@@ -303,7 +303,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">A</span>
                     Parallel Legal Representation & Harassment Shielding
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Upon enrollment, our Advocates on Record file formal Notices of Representation to all lenders concurrently. Under the Reserve Bank of India’s <strong>Master Directions on Recovery Guidelines</strong>, lenders must respect formal legal representation. Once started, recovery call centers and field agents are legally required to redirect correspondence to your appointed legal counsel.</p>
                 </div>
@@ -312,7 +312,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-emerald-600 text-white flex items-center justify-center text-xs font-bold">B</span>
                     Structured Waterfall vs Simultaneous OTS Execution
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     While legal representation is started across all creditors on Day 1, financial settlement execution follows a tailored <strong>Liquidity-Optimized Waterfall</strong>. Aggressive, low-ticket fintech app loans and toxic credit card revolving debt are settled first to eliminate immediate legal notices and harassment. Concurrently, larger bank loans (HDFC, SBI, ICICI, Axis) undergo formal 90–180 day NPA aging, enabling regional settlement committees to offer their deepest OTS concessions (up to 60%–75% waivers) when your dedicated settlement pool is funded.
                   </p>
@@ -561,7 +561,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 138 of Negotiable Instruments Act &amp; Section 25 PSS Act (NACH)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     Lenders frequently issue statutory notices when NACH debits or security cheques bounce. <strong>Crucial Legal Fact:</strong> Section 138 of the NI Act, 1881 and Section 25 of the PSSA, 2007 are compoundable offenses under Indian law. Our legal counsel drafts formal statutory replies establishing genuine financial distress. This prevents ex-parte court summons and compels lenders into formal compromise settlement talks.</p>
                 </div>
@@ -570,7 +570,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <ShieldAlert className="w-4 h-4 text-emerald-600" />
                     <span>RBI Master Circulars on Recovery Agents (Updated Directives)</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     The Reserve Bank of India has repeatedly held that recovery agents cannot breach borrower privacy or dignity. Specifically:
                   </p>
@@ -609,7 +609,7 @@ export default function MultiplePersonalLoanSettlementClient() {
             <section id="step-by-step-roadmap" className="mb-10 scroll-mt-24">
               <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 6. 6-Stage Roadmap to Settle Multiple Debts
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-6">
                 Executing multiple settlements requires an exact chronological workflow to maximize discounts while maintaining airtight legal compliance:
               </p>
@@ -693,7 +693,7 @@ export default function MultiplePersonalLoanSettlementClient() {
             <section id="lender-settlement-matrix" className="mb-10 scroll-mt-24">
               <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 7. Multi-Lender talks Discounts Matrix
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
                 Different financial institutions in India follow distinct internal write-off policies. The table below illustrates realistic settlement ranges across lender categories:
               </p>
@@ -748,7 +748,7 @@ export default function MultiplePersonalLoanSettlementClient() {
             <section id="cibil-recovery" className="mb-10 scroll-mt-24">
               <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 8. Post-Settlement CIBIL Score recovery
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
                 A common concern among borrowers is credit report impact. When an account is settled for less than contractual dues, lenders report the trade-line to credit bureaus as <strong>&quot;Settled&quot;</strong> rather than &quot;Closed&quot;. While this causes an initial credit score dip of 50 to 100 points, it is vastly superior to prolonged defaults, &quot;Written Off&quot; flags, or pending court litigation.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
@@ -789,7 +789,7 @@ export default function MultiplePersonalLoanSettlementClient() {
               <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200 flex items-center gap-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
                 10. Frequently Asked Questions
-              </h3>
+              </h2>
 
               <div className="space-y-3 my-6">
                 {FAQS_LIST.map((faq, index) => {

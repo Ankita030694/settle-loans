@@ -431,7 +431,7 @@ export default function PersonalLoanSettlementFeesClient() {
             <div className="my-8">
               <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 Comprehensive Comparison: Debt Settlement Fee Models in India
-              </h2>
+              </h3>
               <div className="overflow-x-auto">
                 <table>
                   <thead>
@@ -500,7 +500,7 @@ export default function PersonalLoanSettlementFeesClient() {
                     <BadgePercent className="w-6 h-6 text-[#1F5EFF]" />
                     <h3 className="text-lg font-black text-blue-950">
                       Model A: The &quot;Percentage of Savings&quot; Model (Gold Standard)
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed mb-3">
                     In this performance-contingent structure, the agency takes a percentage (typically 12% to 18%) of the <strong>actual money saved</strong> through negotiation. If the agency negotiates an aggressive 60% haircut, they earn more; if they only secure a 25% reduction, their fee shrinks proportionally.
@@ -518,7 +518,7 @@ export default function PersonalLoanSettlementFeesClient() {
                     <Scale className="w-6 h-6 text-slate-800" />
                     <h3 className="text-lg font-black text-slate-900">
                       Model B: The Hybrid Retainer + Success Fee (Advocate Standard)
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed mb-3">
                     Practiced by legitimate legal advocacy firms. An initial nominal retainer (₹5,000 to ₹15,000) is paid upon signing to cover immediate legal casework: issuing formal legal notices under the RBI Fair Practices Code to halt recovery agent intimidation, handling court summons under Section 138 of the NI Act, and filing formal representations with the bank&apos;s Nodal Officers. The remaining success fee (10%–15% of savings) is paid only after the official OTS Sanction Letter is generated.
@@ -531,7 +531,7 @@ export default function PersonalLoanSettlementFeesClient() {
                     <Building2 className="w-6 h-6 text-slate-800" />
                     <h3 className="text-lg font-black text-slate-900">
                       Model C: The &quot;Percentage of Enrolled Debt&quot; Model
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed mb-3">
                     Under this model, the firm charges a fixed percentage (generally 6% to 9%) of your total starting balance. While predictable, the downside is that the firm earns the exact same fee whether they negotiate a modest 30% reduction or a massive 65% reduction for you.
@@ -544,7 +544,7 @@ export default function PersonalLoanSettlementFeesClient() {
                     <Receipt className="w-6 h-6 text-slate-800" />
                     <h3 className="text-lg font-black text-slate-900">
                       Model D: Fixed Flat Administrative Fee
-                    </h2>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-700 leading-relaxed mb-3">
                     A flat lump-sum fee (e.g., ₹25,000 per loan or credit card account) regardless of the loan size. This is common when resolving small personal loans (₹1 Lakh to ₹3 Lakhs) where percentage calculations would result in negligible agency compensation for the intensive legal drafting required.
@@ -617,7 +617,7 @@ export default function PersonalLoanSettlementFeesClient() {
               <div className="bg-emerald-50 border-l-4 border-emerald-600 p-5 rounded-r-xl my-6">
                 <h3 className="font-bold text-emerald-900 text-base mb-1">
                   Key Financial Finding for Borrowers:
-                </h2>
+                </h3>
                 <p className="text-sm text-emerald-800 leading-relaxed">
                   While the 8% Total Debt model looks marginally cheaper on paper when discounts are high (60%+), the <strong>15% Savings Model ensures that if your bank refuses a deep waiver and only offers a 30% reduction, your fee drops dramatically</strong>, protecting your cash flow during acute insolvency.
                 </p>
@@ -628,7 +628,7 @@ export default function PersonalLoanSettlementFeesClient() {
             <section id="upfront-fee-scam-warnings" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Upfront Fee Scams: 6 Critical Red Flags Every Indian Borrower Must Know
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Because debt default causes intense psychological panic, predatory operators prey on vulnerable individuals. In major metropolitan hubs (Delhi NCR, Mumbai, Bengaluru, Hyderabad, Pune), hundreds of unregulated telecalling call-centers pretend to be &quot;Government Debt Relief Committees&quot;.
               </p>
@@ -823,7 +823,7 @@ export default function PersonalLoanSettlementFeesClient() {
             <section id="fee-calculation-case-studies" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 5. Real-World Case Studies: How Settlement Fee Math Works in Practice
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 To eliminate ambiguity, examine these three verified settlement case studies handled by SettleLoans empanelled advocates across different loan categories:
               </p>
@@ -937,7 +937,7 @@ export default function PersonalLoanSettlementFeesClient() {
             <section id="legal-protections-rbi-norms" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Statutory Protections: RBI Guidelines &amp; Consumer Rights
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Borrowers must recognize that debt settlement in India is a recognized, institutional resolution mechanism underpinned by Reserve Bank of India statutory frameworks.
               </p>
@@ -957,7 +957,7 @@ export default function PersonalLoanSettlementFeesClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <ShieldCheck className="w-5 h-5 text-emerald-600" />
                     RBI Fair Practices Code on Recovery Agents
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Strictly forbids collection agencies from calling borrowers before 8:00 AM or after 7:00 PM, visiting residences without prior notice, harassing relatives/employers, or using abusive language. Lenders violating these rules face direct penalties under the RBI Integrated Ombudsman Scheme.
                   </p>
@@ -967,7 +967,7 @@ export default function PersonalLoanSettlementFeesClient() {
                   <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Scale className="w-5 h-5 text-purple-600" />
                     Consumer Protection Act, 2019 (Protection Against Deficient Advisory)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Shields consumers from unfair trade practices, misleading financial advertisements, and non-delivery of contractual advisory services. Any agency taking advance retainers without delivering agreed legal representations is liable under District Consumer Disputes Redressal Commissions.
                   </p>
@@ -979,7 +979,7 @@ export default function PersonalLoanSettlementFeesClient() {
             <section id="diy-vs-professional-settlement" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Self-Settlement (DIY) vs. Professional Legal Representation
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Is it worth paying a 10%–15% success fee to a professional settlement company, or should you attempt to negotiate directly with your branch manager? Here is a clear, objective comparison:
               </p>
@@ -1034,7 +1034,7 @@ export default function PersonalLoanSettlementFeesClient() {
             <section id="settleloans-fee-charter" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. The SettleLoans Ethical Fee Charter: 100% Transparent, Advocate-Backed
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 At SettleLoans, we founded our platform on a singular mission: to eliminate predatory upfront extortion from the Indian debt settlement ecosystem and provide stressed borrowers with institutional legal defense.
               </p>
@@ -1044,7 +1044,7 @@ export default function PersonalLoanSettlementFeesClient() {
                   <h3 className="font-bold text-slate-900 text-sm mb-1.5 flex items-center gap-2">
                     <CheckCircle className="w-4 h-4 text-emerald-600" />
                     1. Contingency-Linked Success Fees
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Our success fee is calculated strictly as a percentage of verified savings and is billed only after you receive an official, verified OTS Sanction Letter directly from the lending institution.
                   </p>
@@ -1088,7 +1088,7 @@ export default function PersonalLoanSettlementFeesClient() {
             <section id="faqs" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Frequently Asked Questions (FAQ)
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-8 text-slate-600">
                 Get clear, authoritative answers to the most crucial questions regarding loan settlement fees, pricing models, and scam warnings in India.
               </p>
@@ -1111,7 +1111,7 @@ export default function PersonalLoanSettlementFeesClient() {
               <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1242,7 +1242,7 @@ export default function PersonalLoanSettlementFeesClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">

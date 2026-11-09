@@ -530,7 +530,7 @@ export default function GoldLoanShortfallSettlementPage() {
                 <h3 className="font-bold text-sm text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Scale className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory RBI Procedural Protocols for Gold Loan Auctions</span>
-                </h2>
+                </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white border border-slate-200 rounded-xl">
                     <strong className="text-slate-900 block mb-1">1. Minimum 14-Day Registered Notice:</strong>
@@ -801,7 +801,7 @@ export default function GoldLoanShortfallSettlementPage() {
             <section id="faqs" className="space-y-4">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 11. Frequently Asked Questions (FAQs)
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Find clear, authoritative answers to the most critical legal and procedural questions regarding gold loan shortfall notices, auction deficits, and zero-balance debt settlements in India.
               </p>

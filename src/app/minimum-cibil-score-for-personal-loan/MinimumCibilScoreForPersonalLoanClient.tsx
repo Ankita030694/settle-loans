@@ -426,7 +426,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
               <div className="my-6">
                 <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
                   Institutional CIBIL Cutoffs &amp; Underwriting Criteria (2026)
-                </h2>
+                </h3>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -581,7 +581,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
                     </span>
                     <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       Minimum CIBIL Score &amp; Credit Rebuild Blueprint
-                    </h2>
+                    </h3>
                   </div>
                 </div>
                 <a
@@ -736,7 +736,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
             <section id="score-rebuilding-plan" className="scroll-mt-28 mb-12">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. The 18–24 Month Score Rebound Blueprint: Proven Steps to Rebuild 750+ CIBIL
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 A past loan settlement or default does not permanently end your credit future. Credit scoring algorithms operate on rolling mathematical weighting models: recent financial discipline over the preceding 12 to 24 months carries significantly higher scoring weight than historical delinquencies. By executing a structured score reconstruction plan, borrowers can systematically restore their CIBIL score from sub-550 levels back to 750+ prime status:
               </p>
@@ -796,7 +796,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50">
                   <h4 className="font-bold text-slate-900 text-sm mb-1">
                     Rule 2: Eliminate Hard Credit Inquiries
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Do not submit speculative loan applications across multiple bank websites or fintech portals. Each hard inquiry deducts 5 to 10 points and flags credit desperation. Pull your own report as a &quot;soft inquiry&quot; with zero score impact.
                   </p>
@@ -819,7 +819,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
             <section id="faqs" className="scroll-mt-28 mb-12">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Frequently Asked Questions (FAQ)
-              </h3>
+              </h2>
               <p className="text-sm md:text-base leading-relaxed mb-6 text-slate-600">
                 Authoritative answers to the most urgent questions regarding minimum CIBIL score requirements, loan rejection causes, and credit reconstruction in India.
               </p>
@@ -842,7 +842,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
               <h3 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
-              </h4>
+              </h3>
               <ul className="space-y-2 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-[#1F5EFF] flex-shrink-0" />
@@ -973,7 +973,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-5">
+          <aside className="w-full lg:sticky lg:top-24 space-y-5">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm">
               <div className="flex items-center gap-3 mb-3">

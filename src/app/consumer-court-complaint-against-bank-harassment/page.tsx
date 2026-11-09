@@ -534,7 +534,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                 <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                   <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Statutory Definition: Section 2(11) Deficiency in Service</span>
-                </h2>
+                </h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                   Deficiency means any fault, imperfection, shortcoming, or inadequacy in the quality, nature, and manner of performance that is required to be maintained by or under any law for the time being in force, or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service. Deploying abusive debt collectors directly violates banking covenants and RBI statutory standards.
                 </p>
@@ -617,7 +617,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                   <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <PhoneCall className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Telephonic &amp; Digital Recordings</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Preserve unedited audio recordings of all inbound collection calls showing dates, timestamps, abusive phrasing, and calls placed outside the 8:00 AM to 7:00 PM window. Retain certified Telecom Call Detail Records (CDR) proving excessive repeated dialing.
                   </p>
@@ -626,7 +626,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Electronic Messaging Transcripts</span>
-                  </h2>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Capture timestamped screenshots and cloud backups of threatening WhatsApp messages, SMS alerts, fake legal notices, and illicit social media messages sent by agents to relatives or colleagues, backed by Section 65B Electronic Evidence Certificates.
                   </p>
@@ -635,7 +635,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-[#1F5EFF]" />
                     <span>CCTV &amp; Third-Party Witness Statements</span>
-                  </h2>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Secure CCTV footage from housing society gates, apartment lobbies, or office reception desks documenting unauthorized agent visits, aggressive confrontations, or unlawful trespass, supplemented by signed affidavits from security guards or coworkers.
                   </p>
@@ -644,7 +644,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <HeartPulse className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Medical &amp; Psychological Impact Records</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Obtain medical prescription slips, clinical diagnostic reports, and psychological evaluation notes showing acute anxiety, severe hypertension, clinical depression, or sleep disorders directly triggered by persistent collection harassment.
                   </p>
@@ -878,7 +878,7 @@ export default function ConsumerCourtBankHarassmentPage() {
             <section id="converting-litigation-to-compromise-ots" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Strategic Settlement Leverage: Converting Consumer Litigation into 55%–70% OTS
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 While the primary objective of a consumer court complaint is to halt harassment and secure compensation for injury, its greatest practical value lies in creating extraordinary settlement leverage. Under standard collection circumstances, retail branch managers refuse loan haircuts, insisting on full principal, penal interest, and compounding overdue charges.
               </p>
@@ -890,7 +890,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                 <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                   <Check className="w-4 h-4 text-emerald-600" />
                   <span>The Dual-Track Resolution Mechanism</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <strong className="text-slate-900 block mb-1">Track A: Aggressive Judicial Pressure</strong>
@@ -912,7 +912,7 @@ export default function ConsumerCourtBankHarassmentPage() {
             <section id="dispute-resolution-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Bank Harassment Legal Redressal Comparative Matrix
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers subjected to aggressive recovery tactics often weigh multiple redressal channels. The comparative matrix below outlines the jurisdictional scope, timeline, damage-awarding power, and settlement leverage across Indian legal forums:
               </p>
@@ -973,7 +973,7 @@ export default function ConsumerCourtBankHarassmentPage() {
             <section id="company-resolution-section" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 10. SettleLoans Consumer Legal Defense &amp; Debt Resolution Advisory
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating complex consumer litigation while facing intense collection pressure requires experienced legal counsel and tactical financial negotiation. At <strong>SettleLoans</strong>, our nationwide panel of senior banking advocates, consumer litigation specialists, and debt negotiators provides an unyielding shield for distressed borrowers.
               </p>
@@ -988,7 +988,7 @@ export default function ConsumerCourtBankHarassmentPage() {
             <section id="faqs" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 11. Frequently Asked Questions: Consumer Court Complaints Against Banks
-              </h3>
+              </h2>
               <div className="space-y-3">
                 {((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
                   <details
@@ -1011,7 +1011,7 @@ export default function ConsumerCourtBankHarassmentPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://consumerhelpline.gov.in"
@@ -1057,7 +1057,7 @@ export default function ConsumerCourtBankHarassmentPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

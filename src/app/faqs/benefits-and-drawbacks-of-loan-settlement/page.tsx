@@ -313,7 +313,7 @@ export default function BenefitsDrawbacksPage() {
                                 <h3 className="font-bold text-xl mb-4 flex items-center">
                                     <FontAwesomeIcon icon={faGavel} className="text-blue-600 mr-3 w-5 h-5" />
                                     Legal Immunity via Settlement
-                                </h2>
+                                </h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-start">
                                         <FontAwesomeIcon icon={faCheck} className="text-green-500 mt-1 mr-3 w-4 h-4 flex-shrink-0" />
@@ -431,7 +431,7 @@ export default function BenefitsDrawbacksPage() {
                         <section id="expert-verdict" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Professional Verdict: A Strategic Exit
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 At SettleLoans, we view settlement as a "Strategic Bankruptcy Lite". It is a tool to be used only when all other options like restructuring or balance transfers are exhausted. If used correctly, it is a life saving procedure for your finances. If used incorrectly (out of convenience), it is a self inflicted wound to your financial credibility. Always weigh the immediate peace of mind against the seven years of credit friction before signing that sanction letter.
                             </p>

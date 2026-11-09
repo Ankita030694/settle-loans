@@ -570,7 +570,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-red-600" />
                     <span>Impersonating a Public Servant (Section 204 BNS / Section 170 IPC).</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Posing as police is a crime under Section 204 BNS. It violates Section 170 IPC. It brings 3 years in jail.
                   </p>
@@ -579,7 +579,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <FileWarning className="w-4 h-4 text-amber-600" />
                     <span>Cheating by Personation &amp; Cyber Fraud (Section 66D IT Act, 2000).</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Calling as fake police is cyber fraud. Section 66D IT Act applies. It orders 3 years in jail and heavy fines.
                   </p>
@@ -588,7 +588,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-indigo-600" />
                     <span>Criminal Intimidation &amp; Extortion (Section 351 &amp; 308 BNS / Sections 506 &amp; 384 IPC).</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Threatening arrest to extort money is illegal. Section 351 BNS and Section 308 BNS apply. Section 506 IPC and Section 384 IPC apply too. It brings up to 7 years in jail.
                   </p>
@@ -597,7 +597,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-purple-600" />
                     <span>Forgery of Government Seals &amp; Insignia (Section 336 BNS / Section 468 &amp; 471 IPC).</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Forging police seals on notices is a crime. Section 336 BNS applies. Section 468 IPC and Section 471 IPC apply. It is a non-bailable offense.
                   </p>
@@ -894,7 +894,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Bureau Reporting &amp; Score Rehabilitation After Settlement
-              </h4>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 After settlement, lenders report the loan as <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong>. The overdue balance becomes <strong>₹0</strong>. Your credit score may drop at first. But default interest stops immediately. Collection calls end for good. Use a secured credit card. Keep credit usage below 30%. Pay bills on time. Your score can cross 750 in 18 to 24 months.
               </p>
@@ -957,7 +957,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Anti-Harassment Advisory
-                </h3>
+                </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Handling fake police threats needs skilled banking lawyers. We enforce RBI rules and BNS laws. SettleLoans gives complete legal defense across India. We send cease-and-desist notices to bank leaders. We file reports with Cyber Police and the RBI Ombudsman. We talk directly to bank credit heads. Our lawyers win 45% to 65% principal waivers with official No Dues Certificates.
                 </p>
@@ -1003,7 +1003,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://cybercrime.gov.in"
@@ -1049,7 +1049,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-agent-threatening-me"

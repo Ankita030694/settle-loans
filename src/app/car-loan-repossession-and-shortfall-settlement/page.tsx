@@ -806,7 +806,7 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
                 <h3 className="font-bold text-blue-950 text-sm flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory Clauses in an Auto Loan Shortfall Settlement Letter</span>
-                </h2>
+                </h3>
                 <ul className="space-y-2 text-xs sm:text-sm text-blue-900">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -836,7 +836,7 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
             <section id="repossession-shortfall-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Vehicle Default Resolution Matrix: Unilateral Seizure vs Voluntary Surrender vs Advocate ₹0 OTS
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing the key resolution mechanisms allows borrowers to evaluate the strategic advantages of challenging illegal seizures and securing an advocate-negotiated compromise settlement:
               </p>

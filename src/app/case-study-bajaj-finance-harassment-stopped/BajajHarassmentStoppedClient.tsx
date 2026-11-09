@@ -424,7 +424,7 @@ export default function BajajHarassmentStoppedClient() {
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Bajaj Finance Harassment Defense &amp; Settlement Blueprint
-                      </h2>
+                      </h3>
                     </div>
                   </div>
                   <a
@@ -664,7 +664,7 @@ export default function BajajHarassmentStoppedClient() {
               <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-6 leading-tight flex items-center gap-2.5">
                 <ShieldCheck className="w-6 h-6 text-[#1F5EFF]" />
                 Frequently Asked Questions: Stopping Bajaj Recovery Harassment
-              </h3>
+              </h2>
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
                   <FAQItem
@@ -810,7 +810,7 @@ export default function BajajHarassmentStoppedClient() {
           </main>
 
           {/* Right Column: Sidebar Cards */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

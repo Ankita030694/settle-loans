@@ -569,7 +569,7 @@ export default function Section60CpcExemptionsPage() {
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Home className="w-4 h-4 text-blue-600" />
                     <span>Section 60(1)(a): Necessary Wearing Apparel, Cooking Utensils &amp; Bedding</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The court bailiff or executing officer is strictly barred from seizing the necessary wearing apparel, cooking vessels, beds, and bedding belonging to the judgment-debtor, their spouse, and children. Furthermore, personal ornaments of religious significance that cannot be parted with by any woman under religious usage—most notably a <strong>Mangalsutra</strong>, wedding bands, and sanctified bangles—are completely exempt.
                   </p>
@@ -579,7 +579,7 @@ export default function Section60CpcExemptionsPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Sparkles className="w-4 h-4 text-indigo-600" />
                     <span>Spouse&apos;s Jewelry &amp; Stridhan: Absolute Protection Under Hindu Law</span>
-                  </h2>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under established Indian civil jurisprudence, a wife&apos;s gold jewelry, ancestral gifts, and wedding presents constitute her absolute personal property, known as <strong>Stridhan</strong>. In executing a decree against a husband for an unsecured personal loan, credit card, or business default where the wife is not a formal co-borrower or guarantor, the bank has zero legal right to attach her Stridhan. Attempts by recovery agents to inventory or threaten the wife&apos;s jewelry constitute actionable civil tort and criminal intimidation.
                   </p>
@@ -589,7 +589,7 @@ export default function Section60CpcExemptionsPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Briefcase className="w-4 h-4 text-purple-600" />
                     <span>Section 60(1)(b) &amp; (c): Tools of Artisans, Agricultural Implements &amp; Farmer Dwellings</span>
-                  </h2>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The law protects the judgment-debtor&apos;s means of earning a livelihood. Tools of artisans (e.g., professional instruments, computers used by freelance professionals, technician kits), implements of husbandry, seed-grain, and cattle necessary for an agriculturist to cultivate land are totally exempt. Additionally, under clause (c), houses and other buildings occupied by agriculturists, agricultural laborers, or rural domestic servants are fully protected from attachment.
                   </p>
@@ -599,7 +599,7 @@ export default function Section60CpcExemptionsPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Wallet className="w-4 h-4 text-emerald-600" />
                     <span>Section 60(1)(g), (k), (ka) &amp; (kb): Pensions, PF, Gratuity &amp; LIC Policies</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Statutory retirement savings and social security funds enjoy unshakeable legislative immunity. Under clause (g), civil and military service pensions and political stipends cannot be attached. Under clause (k) and (kb), all compulsory deposits in General Provident Funds (GPF), Public Provident Funds (PPF under the PPF Act), Employee Provident Funds (EPF Act, 1952), and Gratuity (Payment of Gratuity Act, 1972) are completely shielded. Under clause (ka), all moneys payable under a policy of insurance on the life of the judgment-debtor (LIC policies) are totally protected from civil court attachment.
                   </p>
@@ -843,7 +843,7 @@ export default function Section60CpcExemptionsPage() {
             <section id="confidential-ots-structuring" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Negotiating a Discretionary 45%–65% One-Time Settlement (OTS)
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The ultimate goal of debt defense is permanently extinguishing civil liability through an institutional <strong>One-Time Settlement (OTS)</strong>. An OTS is a consensual, legally binding compromise contract wherein the lender accepts a discounted lump sum or structured installment payment to close the loan account in full and final satisfaction of all claims.
               </p>
@@ -895,7 +895,7 @@ export default function Section60CpcExemptionsPage() {
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; Bureau Trajectory
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical hazard in loan resolution is falling victim to unauthorized settlement promises manufactured by rogue recovery agents. Unscrupulous tele-callers frequently fabricate fake discount letters to collect partial payments that are subsequently misapplied toward overdue penal fees rather than settling the loan. Borrowers must never disburse settlement funds until the approval letter passes rigorous forensic verification.
               </p>
@@ -925,7 +925,7 @@ export default function Section60CpcExemptionsPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Bureau Trajectory &amp; Score Rehabilitation
-              </h4>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following settlement, the bank updates credit bureau records with the status remark <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with a current outstanding balance of <strong>₹0</strong>. While this results in a temporary credit score dip of 70 to 120 points, it completely eliminates default compounding and permanently closes all legal risk. By obtaining a secured fixed-deposit credit card, keeping credit utilization below 30%, and maintaining timely utility payments, settled borrowers systematically rebuild their credit score back above 750 within 18 to 24 months.
               </p>
@@ -935,7 +935,7 @@ export default function Section60CpcExemptionsPage() {
             <section id="comparative-legal-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Legal Matrix: Recovery Threats vs. Order 21 Attachment vs. Section 60 CPC vs. OTS
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the legal reality versus recovery agent threats enables borrowers to make confident, strategic decisions regarding asset defense and debt resolution:
               </p>
@@ -1038,7 +1038,7 @@ export default function Section60CpcExemptionsPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 &amp; Order XXI)</span></span>
                 <a
@@ -1084,7 +1084,7 @@ export default function Section60CpcExemptionsPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons"

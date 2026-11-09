@@ -517,7 +517,7 @@ export default function HubliDharwadLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column (Sticky Table of Contents + Executive Crux) */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -744,7 +744,7 @@ export default function HubliDharwadLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation &amp; Financial Forensics
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We audit loan statements, interest calculations, and bank fee levies. We compile supporting records—such as APMC receipts, reduced GST filings, or medical reports—to establish verified financial hardship.
                   </p>
@@ -755,7 +755,7 @@ export default function HubliDharwadLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     e-NACH Mandate Revocation &amp; Legal Shield Activation
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We formally cancel active e-NACH mandates under NPCI guidelines to prevent continuous bounce charges. We issue statutory representation notices requiring lenders to direct all communication solely to our advocates.
                   </p>
@@ -766,7 +766,7 @@ export default function HubliDharwadLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Direct Escalation to Hubli Zonal SARB Leadership
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We bypass recovery agencies completely. We submit formal OTS proposals under the RBI Compromise Framework directly to Zonal SARB authorities in Hubli or Belgaum holding authentic sanctioning powers.
                   </p>
@@ -777,7 +777,7 @@ export default function HubliDharwadLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Multi-Round Haircut Negotiation &amp; 100% Fee Elimination
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We secure complete waivers on 100% of accumulated penal interest, late fees, and processing charges under RBI lending directives, while negotiating a 40% to 60% haircut on the legitimate principal balance.
                   </p>
@@ -788,7 +788,7 @@ export default function HubliDharwadLoanSettlementPage() {
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Sanction Letter Forensic Audit &amp; ₹0 NDC Delivery
-                  </h2>
+                  </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Our advocates verify the bank sanction letter before payment. Funds are remitted directly to the designated loan account, and we enforce delivery of the formal No Dues Certificate within thirty days.
                   </p>
@@ -804,7 +804,7 @@ export default function HubliDharwadLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Forensic Audit &amp; RBI NDC Mandate
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A major hazard for borrowers involves fraudulent settlement receipts issued by rogue recovery agents seeking to meet monthly targets. Agents often forge compromise letters and divert payments into third-party accounts, leaving the debt unpaid. SettleLoans conducts a strict forensic audit of every sanction letter, verifying official letterhead, branch seals, employee codes, unique CBS reference numbers, and non-liability closure clauses.
               </p>
@@ -821,7 +821,7 @@ export default function HubliDharwadLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Rehabilitation for North Karnataka Borrowers
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following a successful compromise settlement, lenders report the loan as &apos;Settled&apos; across CIBIL, Experian, Equifax, and CRIF High Mark. While &apos;Settled&apos; reflects an agreed discount, it permanently closes the account, establishes an active ₹0 outstanding balance, and halts damaging monthly delinquency reporting. This is far better than leaving an account in ongoing NPA default.
               </p>
@@ -838,7 +838,7 @@ export default function HubliDharwadLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparative Matrix of Debt Resolution Legal Routes
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers facing severe loan defaults in Hubli-Dharwad have multiple legal resolution avenues. The matrix below summarizes key options, expected haircuts, client effort, and legal outcomes:
               </p>
@@ -896,7 +896,7 @@ export default function HubliDharwadLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Borrowers in Hubli-Dharwad Trust SettleLoans
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans provides advocate-led debt resolution built for North Karnataka. We represent agricultural traders, industrial proprietors, transport operators, and corporate personnel across Hubli, Dharwad, and Belgaum. Our banking lawyers halt collection harassment, defend court summons, invoke CPC asset protections, and negotiate 40% to 60% waivers directly with bank Zonal SARB desks.
               </p>
@@ -915,7 +915,7 @@ export default function HubliDharwadLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Hubli-Dharwad Debt Relief
-              </h3>
+              </h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1077,7 +1077,7 @@ export default function HubliDharwadLoanSettlementPage() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

@@ -897,7 +897,7 @@ export default function CooperativeBankLoanSettlementRulesPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Handling Co-operative Share Capital &amp; Credit Bureau Rebuilding
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must also ensure two critical post-settlement actions are executed properly:
               </p>
@@ -921,7 +921,7 @@ export default function CooperativeBankLoanSettlementRulesPage() {
             <section id="cooperative-resolution-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Cooperative Bank Debt Resolution Comparative Matrix
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the primary institutional pathways available to resolve a delinquent cooperative bank loan empowers borrowers to choose the most legally secure and financially advantageous route:
               </p>

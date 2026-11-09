@@ -509,7 +509,7 @@ export default function EducationLoanSettlementIndiaClient() {
                     </span>
                     <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       Education Loan Settlement &amp; Co-Applicant Rights Roadmap
-                    </h2>
+                    </h3>
                   </div>
                 </div>
                 <a
@@ -656,7 +656,7 @@ export default function EducationLoanSettlementIndiaClient() {
             <section id="cibil-score-rehabilitation-roadmap" className="scroll-mt-24 mb-10">
               <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 10. Credit Bureau Impact (CIBIL/CRIF) &amp; Post-Settlement Financial Rehabilitation
-              </h3>
+              </h2>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Following the execution of a compromise settlement, the lending institution reports the account status to all four authorized credit information companies—CIBIL, Experian, Equifax, and CRIF High Mark—as &apos;Settled&apos; or &apos;Post-Write-off Settled&apos; with an outstanding balance reflecting ₹0. While this status reflects that the debt was closed with a haircut rather than repaid in full, it is vastly preferable to an open, compounding &apos;Written-Off / Wilful Default&apos; status. The &apos;Settled&apos; mark halts further downward score degradation and stops legal collection activity permanently.
               </p>
@@ -836,7 +836,7 @@ export default function EducationLoanSettlementIndiaClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

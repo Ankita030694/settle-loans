@@ -505,7 +505,7 @@ export default function CaseStudyHdfcClient() {
                         </span>
                         <h3 className="text-sm md:text-base font-black text-white leading-tight">
                           HDFC Personal Loan Settlement: ₹8L to ₹3.2L Case Study
-                        </h2>
+                        </h3>
                       </div>
                     </div>
                     <a
@@ -657,7 +657,7 @@ export default function CaseStudyHdfcClient() {
             <section id="ots-vs-litigation-comparative-matrix" className="mb-10 scroll-mt-24">
               <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Comparative Resolution Avenues: OTS Settlement vs. Litigation vs. Lok Adalat
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 When faced with insurmountable personal loan debt, borrowers must evaluate the strategic trade-offs across available institutional resolution mechanisms in India:
               </p>
@@ -882,7 +882,7 @@ export default function CaseStudyHdfcClient() {
           </main>
 
           {/* Right Column: Sidebar Cards */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">

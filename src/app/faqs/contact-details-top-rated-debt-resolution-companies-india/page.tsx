@@ -330,7 +330,7 @@ export default function ContactDetailsFAQ() {
                                 <div className="bg-blue-50/30 p-8 rounded-3xl border border-blue-100 shadow-sm">
                                     <h3 className="text-2xl font-black text-[#1F5EFF] mb-6 flex items-center">
                                         <FontAwesomeIcon icon={faBuilding} className="mr-3" /> SettleLoans (Corporate Hub)
-                                    </h2>
+                                    </h3>
                                     <p className="text-sm text-gray-600 mb-6 font-medium">SettleLoans is India's leading tech-driven debt resolution platform. It specializes in personalized negotiation strategies for both personal and business loans.</p>
                                     <div className="grid md:grid-cols-2 gap-6">
                                         <div className="flex items-start">
@@ -360,7 +360,7 @@ export default function ContactDetailsFAQ() {
                                 <div className="bg-gray-50/50 p-8 rounded-3xl border border-gray-100 shadow-sm">
                                     <h3 className="text-2xl font-black text-[#2E2E2E] mb-6 flex items-center">
                                         <FontAwesomeIcon icon={faBuilding} className="mr-3 text-gray-400" /> AMA Legal Solutions (Legal Desk)
-                                    </h2>
+                                    </h3>
                                     <p className="text-sm text-gray-600 mb-6 font-medium">A specialized legal firm focused on protecting borrowers from illegal recovery tactics and navigating the complex legal landscape of debt defaults.</p>
                                     <div className="grid md:grid-cols-2 gap-6">
                                         <div className="flex items-start">
@@ -450,7 +450,7 @@ export default function ContactDetailsFAQ() {
                         <section id="digital-reach" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Digital Communication and App-Based Support
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 In 2025, the reach of debt resolution has moved beyond phone calls. SettleLoans and other top firms have launched mobile applications that allow borrowers to track their negotiation progress in real-time. This digital transparency is a game-changer for an industry that was previously shrouded in mystery.
                             </p>
@@ -476,7 +476,7 @@ export default function ContactDetailsFAQ() {
                         <section id="reporting" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Reporting Violations and Phishing Attempts
-                            </h3>
+                            </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you have been contacted by someone claiming to be from SettleLoans or AMA Legal through an unverified channel (like WhatsApp from a strange number), you must report it immediately. These firms have dedicated compliance and fraud-prevention teams that work with law enforcement to shut down impersonators.
                             </p>

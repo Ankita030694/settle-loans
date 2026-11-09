@@ -639,7 +639,7 @@ export default function RecoveryAgentCallingLateNightPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Extortion &amp; Threat of Injury (Section 308 BNS / Sections 383 &amp; 384 IPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Demanding money through threats is extortion. It brings up to three years in prison plus court fines.
                   </p>
@@ -648,7 +648,7 @@ export default function RecoveryAgentCallingLateNightPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <PhoneCall className="w-4 h-4 text-purple-600" />
                     <span>Cyber Harassment &amp; Electronic Stalking (Section 66E, 67 &amp; 72 IT Act, 2000)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Sending abusive audio clips or continuous robocalls is cyber harassment. The IT Act punishes it with up to three years in jail.
                   </p>
@@ -1005,7 +1005,7 @@ export default function RecoveryAgentCallingLateNightPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://cms.rbi.org.in"
@@ -1051,7 +1051,7 @@ export default function RecoveryAgentCallingLateNightPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

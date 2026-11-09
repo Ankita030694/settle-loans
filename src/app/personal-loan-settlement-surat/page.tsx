@@ -873,7 +873,7 @@ export default function PersonalLoanSettlementSuratPage() {
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding Credit Bureau Reporting &amp; Score Rehabilitation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding how a settlement is reflected across credit bureaus is crucial for long-term commercial and personal financial planning:
               </p>
@@ -901,7 +901,7 @@ export default function PersonalLoanSettlementSuratPage() {
             <section id="surat-debt-resolution-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Strategy Matrix: OTS vs Restructuring vs Lok Adalat vs Civil Litigation
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the primary institutional pathways available to resolve delinquent unsecured personal and business loans in Surat enables borrowers and MSME owners to choose the most prudent strategy:
               </p>

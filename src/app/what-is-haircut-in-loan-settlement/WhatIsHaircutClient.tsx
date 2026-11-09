@@ -475,7 +475,7 @@ export default function WhatIsHaircutClient() {
                     </span>
                     <h3 className="text-sm md:text-base font-black text-white leading-tight">
                       Loan Settlement Haircut &amp; Bank OTS Process Overview
-                    </h2>
+                    </h3>
                   </div>
                 </div>
                 <a
@@ -629,7 +629,7 @@ export default function WhatIsHaircutClient() {
                 <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
                   <BadgeCheck className="w-5 h-5 text-emerald-600" />
                   <span>Mandatory Legal Criteria for a Valid OTS Sanction Letter</span>
-                </h2>
+                </h3>
                 <div className="space-y-2 text-sm text-slate-700">
                   <p>
                     <strong>1. Official Bank Letterhead:</strong> The document must be printed on official bank stationery bearing a valid reference number, branch seal, and signature of an authorized designated officer.
@@ -655,7 +655,7 @@ export default function WhatIsHaircutClient() {
             <section id="cibil-impact-credit-rehabilitation" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 9. How Haircuts Impact CIBIL & Path to Credit Repair
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Under CICRA (2005), regulated lenders must report the resolution status of closed facilities to licensed credit bureaus. These include TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. Understanding how a settlement haircut is recorded in your credit report is essential for long-term financial health.
               </p>
@@ -671,7 +671,7 @@ export default function WhatIsHaircutClient() {
             <section id="settleloans-advocacy-framework" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 10. Institutional Legal Advocacy with SettleLoans
-              </h3>
+              </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Navigating the complex institutional bureaucracy of public and private commercial banks requires specialized legal and financial expertise. As India&apos;s premier loan settlement, debt dispute resolution, and legal defense platform, SettleLoans provides complete institutional protection for distressed borrowers.
               </p>
@@ -820,7 +820,7 @@ export default function WhatIsHaircutClient() {
           </main>
 
           {/* Right Column (Sidebar Cards) */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm">
               <div className="flex items-center gap-3 mb-3">

@@ -470,7 +470,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
         <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)_280px] xl:grid-cols-[260px_minmax(0,1fr)_300px] 2xl:grid-cols-[280px_minmax(0,1fr)_320px] gap-5 xl:gap-6 items-start">
           
           {/* Left Column: Table of Contents + Executive Crux */}
-          <aside className="w-full sticky top-24 space-y-4">
+          <aside className="w-full lg:sticky lg:top-24 space-y-4">
             <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
@@ -557,7 +557,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
                 <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Section 139 &amp; 141: Loss of Creditor Securities as an Absolute Bar</span>
-                </h2>
+                </h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                   Section 139 discharges the surety if the lender hurts legal remedies. Under Section 141, a surety holds rights to all creditor security. If the bank loses or neglects pledged assets, the guarantor gets a full or partial discharge.
                 </p>
@@ -837,7 +837,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <HelpCircle className="w-6 h-6 text-[#1F5EFF]" />
                 <span>11. FAQs: Personal Guarantee Invocation &amp; Settlement</span>
-              </h3>
+              </h2>
 
               <div className="space-y-3 my-6">
                 <details className="group bg-slate-50 border border-slate-200 rounded-xl p-4 transition-all duration-200 [&_summary::-webkit-details-marker]:hidden open:bg-blue-50/40 open:border-blue-200">
@@ -1060,7 +1060,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
           </main>
 
           {/* Right Column: Author Bio, Emergency Advocate CTA, Trust Signals */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             
             {/* Author Bio Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">

@@ -542,7 +542,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-rose-600" />
                     <span>Section 506 IPC / Section 351 BNS</span>
-                  </h2>
+                  </h3>
                   <p className="text-xs text-slate-600">
                     <strong>Criminal Intimidation:</strong> Punishes anyone who threatens another with injury to their person, reputation, or property. If the threat involves death, grievous hurt, or destruction of property, the offense carries imprisonment for up to seven years.
                   </p>
@@ -552,7 +552,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-rose-600" />
                     <span>Section 509 IPC / Section 79 BNS</span>
-                  </h2>
+                  </h4>
                   <p className="text-xs text-slate-600">
                     <strong>Insulting Modesty of Women:</strong> Applies directly when recovery agents use indecent language, obscene gestures, or verbal intimidation against female borrowers, spouses, mothers, or daughters, carrying rigorous imprisonment.
                   </p>
@@ -562,7 +562,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-rose-600" />
                     <span>Section 383 &amp; 384 IPC / Section 308 BNS</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600">
                     <strong>Extortion:</strong> Intentionally putting any person in fear of injury or public disgrace to dishonestly induce the delivery of valuable property or money constitutes criminal extortion punishable with up to three years imprisonment.
                   </p>
@@ -572,7 +572,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-rose-600" />
                     <span>Section 441 &amp; 447 IPC / Section 329 BNS</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600">
                     <strong>Criminal Trespass:</strong> Entering private residential property or commercial offices unlawfully with the intent to intimidate, insult, or annoy the occupant constitutes an actionable criminal trespass offense.
                   </p>
@@ -599,7 +599,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                 <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <FileText className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Essential Structural Sections of the Legal Complaint</span>
-                </h4>
+                </h3>
                 
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
@@ -765,7 +765,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
             <section id="transitioning-defense-to-ots" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Transitioning Criminal Defense into Structured OTS
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Filing a statutory police complaint is not merely a defensive maneuver to stop unlawful harassment—it serves as the foundational catalyst for achieving an advantageous, conclusive debt settlement. Once the aggressive third-party agency is neutralized by criminal pushback, the lending bank is forced to transition the account from extra-judicial intimidation to lawful commercial talks.
               </p>
@@ -807,7 +807,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
             <section id="enforcement-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Harassment Redressal &amp; Enforcement Comparative Matrix
-              </h3>
+              </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The following comparative matrix outlines the legal forums, governing statutes, enforcement timelines, and typical outcomes available to borrowers facing recovery agent harassment across India:
               </p>
@@ -917,7 +917,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -963,7 +963,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h4>
+              </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-agent-threatening-me"

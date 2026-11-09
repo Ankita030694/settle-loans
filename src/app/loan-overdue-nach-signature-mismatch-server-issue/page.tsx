@@ -273,7 +273,7 @@ export default function NachBounceGuidePage() {
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
                   <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
                     You Are Not Liable
-                  </h2>
+                  </h3>
                   <p className="text-lg leading-relaxed mb-6 text-blue-900">
                     If the EMI failure was caused by a technical glitch on the bank's side or an administrative error like a signature mismatch during mandate registration, <strong>you should not pay the penalty</strong>.
                   </p>
@@ -440,7 +440,7 @@ export default function NachBounceGuidePage() {
               <section id="faqs" className="scroll-mt-32 mb-16">
                 <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                   Frequently Asked Questions
-                </h3>
+                </h2>
                 <div className="space-y-4">
                   {[
                     { q: "Who pays the penalty for a technical bounce?", a: "If the bounce is due to a technical error like a bank server issue, you are not liable for the bounce charges. The bank must waive them off upon a formal request." },

@@ -503,7 +503,7 @@ export default function CaseStudySbiLokAdalatClient() {
                         </span>
                         <h3 className="text-sm md:text-base font-black text-white leading-tight">
                           SBI Lok Adalat Debt Settlement: ₹12L to ₹5.4L Case Study
-                        </h2>
+                        </h3>
                       </div>
                     </div>
                     <a
@@ -652,7 +652,7 @@ export default function CaseStudySbiLokAdalatClient() {
             <section id="comparative-resolution-matrix" className="mb-10 scroll-mt-24">
               <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Comparative Resolution Analysis: Lok Adalat vs. Direct OTS vs. Civil Courts
-              </h3>
+              </h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Distressed borrowers facing PSU bank loan defaults must evaluate the comparative advantages of available institutional resolution mechanisms in India:
               </p>
@@ -877,7 +877,7 @@ export default function CaseStudySbiLokAdalatClient() {
           </main>
 
           {/* Right Column: Sidebar Cards */}
-          <aside className="w-full sticky top-24 space-y-6">
+          <aside className="w-full lg:sticky lg:top-24 space-y-6">
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">
