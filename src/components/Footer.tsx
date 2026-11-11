@@ -180,7 +180,16 @@ export default function Footer() {
               { name: "Bajaj Finance Bounce Charges", href: "/bajaj-finance-emi-bounce-charges" },
               { name: "Tata Capital Bounce Charges", href: "/tata-capital-personal-loan-emi-bounce-charges" },
               { name: "IDFC FIRST Bounce Charges", href: "/idfc-first-personal-loan-emi-bounce-charges" },
-              { name: "IndusInd Bounce Charges", href: "/indusind-personal-loan-emi-bounce-charges" }
+              { name: "IndusInd Bounce Charges", href: "/indusind-personal-loan-emi-bounce-charges" },
+              { name: "Job Loss Personal Loan Plan", href: "/unable-to-pay-personal-loan-emi-due-to-job-loss" },
+              { name: "Salary Cut Restructuring vs OTS", href: "/salary-cut-personal-loan-emi-restructuring-vs-settlement" },
+              { name: "New Job BGV After Settlement", href: "/new-job-background-verification-after-loan-settlement" },
+              { name: "Personal Loan Top-Up Default", href: "/personal-loan-top-up-default-same-bank" },
+              { name: "Multi-Loan Settlement Order", href: "/multiple-personal-loans-hdfc-icici-bajaj-which-to-settle-first" },
+              { name: "Poonawalla Fincorp Bounce Charges", href: "/poonawalla-fincorp-emi-bounce-charges" },
+              { name: "Aditya Birla Bounce Charges", href: "/aditya-birla-finance-emi-bounce-charges" },
+              { name: "SMFG India Bounce Charges", href: "/smfg-india-credit-emi-bounce-charges" },
+              { name: "Hero FinCorp Bounce Charges", href: "/hero-fincorp-emi-bounce-charges" }
             ].sort((a, b) => a.name.localeCompare(b.name)).map((state) => (
               state.href ? (
                 <Link

@@ -4598,5 +4598,59 @@ export default function sitemap(): MetadataRoute.Sitemap {
             changeFrequency: 'weekly',
             priority: 0.8,
         },
+        {
+            url: `${baseUrl}/unable-to-pay-personal-loan-emi-due-to-job-loss`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/salary-cut-personal-loan-emi-restructuring-vs-settlement`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/new-job-background-verification-after-loan-settlement`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/personal-loan-top-up-default-same-bank`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/multiple-personal-loans-hdfc-icici-bajaj-which-to-settle-first`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/poonawalla-fincorp-emi-bounce-charges`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/aditya-birla-finance-emi-bounce-charges`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/smfg-india-credit-emi-bounce-charges`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/hero-fincorp-emi-bounce-charges`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
     ];
 }
