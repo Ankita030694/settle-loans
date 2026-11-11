@@ -514,7 +514,12 @@ export default function NachBouncePage() {
                     { title: "HDFC Personal Loan Bounce Fees", href: "/hdfc-personal-loan-emi-bounce-charges" },
                     { title: "ICICI Personal Loan Bounce Fees", href: "/icici-personal-loan-emi-bounce-charges" },
                     { title: "Axis Bank EMI Dishonour Charges", href: "/axis-bank-personal-loan-emi-bounce-charges" },
-                    { title: "SBI Personal Loan Bounce Charges", href: "/sbi-personal-loan-emi-bounce-charges" }
+                    { title: "SBI Personal Loan Bounce Charges", href: "/sbi-personal-loan-emi-bounce-charges" },
+                    { title: "Kotak Personal Loan Bounce Charges", href: "/kotak-personal-loan-emi-bounce-charges" },
+                    { title: "Bajaj Finance EMI Bounce Charges", href: "/bajaj-finance-emi-bounce-charges" },
+                    { title: "Tata Capital EMI Bounce Charges", href: "/tata-capital-personal-loan-emi-bounce-charges" },
+                    { title: "IDFC FIRST EMI Bounce Charges", href: "/idfc-first-personal-loan-emi-bounce-charges" },
+                    { title: "IndusInd Personal Loan Bounce Fees", href: "/indusind-personal-loan-emi-bounce-charges" }
                   ].map((link, i) => (
                     <li key={i}>
                       <Link href={link.href} className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">

@@ -712,6 +712,36 @@ export default function PersonalLoanEmiBounceChargesPage() {
                       SBI EMI Bounce Charges
                     </Link>
                   </li>
+                  <li>
+                    <Link href="/kotak-personal-loan-emi-bounce-charges" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      Kotak EMI Bounce Charges
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/bajaj-finance-emi-bounce-charges" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      Bajaj Finance Bounce Charges
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/tata-capital-personal-loan-emi-bounce-charges" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      Tata Capital Bounce Charges
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/idfc-first-personal-loan-emi-bounce-charges" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      IDFC FIRST Bounce Charges
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/indusind-personal-loan-emi-bounce-charges" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      IndusInd EMI Bounce Charges
+                    </Link>
+                  </li>
                 </ul>
               </div>
 

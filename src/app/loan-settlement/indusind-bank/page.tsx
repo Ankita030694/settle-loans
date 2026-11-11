@@ -608,6 +608,12 @@ export default function IndusIndBankSettlementPage() {
                       SBI Bank
                     </Link>
                   </li>
+                  <li>
+                    <Link href="/indusind-personal-loan-emi-bounce-charges" className="group flex items-center text-[#2d3748] hover:text-[#98272A] transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#cbd5e0] rounded-full mr-3 group-hover:bg-[#98272A] transition-colors"></span>
+                      IndusInd EMI Bounce Charges
+                    </Link>
+                  </li>
                 </ul>
               </div>
 

@@ -625,6 +625,12 @@ export default function IDFCFirstBankSettlementPage() {
                       Axis Bank Settlement
                     </Link>
                   </li>
+                  <li>
+                    <Link href="/idfc-first-personal-loan-emi-bounce-charges" className="group flex items-center text-[#2d3748] hover:text-[#9C1D26] transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#cbd5e0] rounded-full mr-3 group-hover:bg-[#9C1D26] transition-colors"></span>
+                      IDFC FIRST EMI Bounce Charges
+                    </Link>
+                  </li>
                 </ul>
               </div>
 
