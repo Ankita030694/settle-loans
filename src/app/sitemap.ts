@@ -4508,5 +4508,65 @@ export default function sitemap(): MetadataRoute.Sitemap {
             changeFrequency: 'weekly',
             priority: 0.8,
         },
+        {
+            url: `${baseUrl}/tools/personal-loan-emi-bounce-charges-calculator`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/hdfc-personal-loan-emi-bounce-charges`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/icici-personal-loan-emi-bounce-charges`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/axis-bank-personal-loan-emi-bounce-charges`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/sbi-personal-loan-emi-bounce-charges`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/hdfc-salary-account-auto-debit-personal-loan-default`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/icici-salary-account-auto-debit-personal-loan-default`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/axis-salary-account-auto-debit-personal-loan-default`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/kotak-salary-account-auto-debit-personal-loan-default`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/sbi-salary-account-auto-debit-personal-loan-default`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
     ];
 }

@@ -165,7 +165,17 @@ export default function Footer() {
               { name: "Tripura", href: null },
               { name: "Uttar Pradesh", href: "/loan-settlement/uttar-pradesh" },
               { name: "Uttarakhand", href: "/loan-settlement/uttarakhand" },
-              { name: "West Bengal", href: "/loan-settlement/west-bengal" }
+              { name: "West Bengal", href: "/loan-settlement/west-bengal" },
+              { name: "EMI Bounce Calculator", href: "/tools/personal-loan-emi-bounce-charges-calculator" },
+              { name: "HDFC EMI Bounce Charges", href: "/hdfc-personal-loan-emi-bounce-charges" },
+              { name: "ICICI EMI Bounce Charges", href: "/icici-personal-loan-emi-bounce-charges" },
+              { name: "Axis EMI Bounce Charges", href: "/axis-bank-personal-loan-emi-bounce-charges" },
+              { name: "SBI EMI Bounce Charges", href: "/sbi-personal-loan-emi-bounce-charges" },
+              { name: "HDFC Salary Auto-Debit", href: "/hdfc-salary-account-auto-debit-personal-loan-default" },
+              { name: "ICICI Salary Auto-Debit", href: "/icici-salary-account-auto-debit-personal-loan-default" },
+              { name: "Axis Salary Auto-Debit", href: "/axis-salary-account-auto-debit-personal-loan-default" },
+              { name: "Kotak Salary Auto-Debit", href: "/kotak-salary-account-auto-debit-personal-loan-default" },
+              { name: "SBI Salary Auto-Debit", href: "/sbi-salary-account-auto-debit-personal-loan-default" }
             ].sort((a, b) => a.name.localeCompare(b.name)).map((state) => (
               state.href ? (
                 <Link
