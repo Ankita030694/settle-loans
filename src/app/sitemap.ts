@@ -4568,5 +4568,35 @@ export default function sitemap(): MetadataRoute.Sitemap {
             changeFrequency: 'weekly',
             priority: 0.8,
         },
+        {
+            url: `${baseUrl}/kotak-personal-loan-emi-bounce-charges`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/bajaj-finance-emi-bounce-charges`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/tata-capital-personal-loan-emi-bounce-charges`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/idfc-first-personal-loan-emi-bounce-charges`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/indusind-personal-loan-emi-bounce-charges`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
     ];
 }

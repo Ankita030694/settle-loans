@@ -175,7 +175,12 @@ export default function Footer() {
               { name: "ICICI Salary Auto-Debit", href: "/icici-salary-account-auto-debit-personal-loan-default" },
               { name: "Axis Salary Auto-Debit", href: "/axis-salary-account-auto-debit-personal-loan-default" },
               { name: "Kotak Salary Auto-Debit", href: "/kotak-salary-account-auto-debit-personal-loan-default" },
-              { name: "SBI Salary Auto-Debit", href: "/sbi-salary-account-auto-debit-personal-loan-default" }
+              { name: "SBI Salary Auto-Debit", href: "/sbi-salary-account-auto-debit-personal-loan-default" },
+              { name: "Kotak EMI Bounce Charges", href: "/kotak-personal-loan-emi-bounce-charges" },
+              { name: "Bajaj Finance Bounce Charges", href: "/bajaj-finance-emi-bounce-charges" },
+              { name: "Tata Capital Bounce Charges", href: "/tata-capital-personal-loan-emi-bounce-charges" },
+              { name: "IDFC FIRST Bounce Charges", href: "/idfc-first-personal-loan-emi-bounce-charges" },
+              { name: "IndusInd Bounce Charges", href: "/indusind-personal-loan-emi-bounce-charges" }
             ].sort((a, b) => a.name.localeCompare(b.name)).map((state) => (
               state.href ? (
                 <Link
