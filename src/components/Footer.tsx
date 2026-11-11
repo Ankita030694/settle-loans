@@ -189,7 +189,10 @@ export default function Footer() {
               { name: "Poonawalla Fincorp Bounce Charges", href: "/poonawalla-fincorp-emi-bounce-charges" },
               { name: "Aditya Birla Bounce Charges", href: "/aditya-birla-finance-emi-bounce-charges" },
               { name: "SMFG India Bounce Charges", href: "/smfg-india-credit-emi-bounce-charges" },
-              { name: "Hero FinCorp Bounce Charges", href: "/hero-fincorp-emi-bounce-charges" }
+              { name: "Hero FinCorp Bounce Charges", href: "/hero-fincorp-emi-bounce-charges" },
+              { name: "Use Annual Bonus to Settle Loan", href: "/use-annual-bonus-to-settle-personal-loan" },
+              { name: "Form 16 & Payslip Proof in OTS", href: "/personal-loan-settlement-and-form-16-salary-slip-proof" },
+              { name: "Appraisal Increment Loan Guide", href: "/appraisal-or-increment-restructure-or-settle-personal-loan" }
             ].sort((a, b) => a.name.localeCompare(b.name)).map((state) => (
               state.href ? (
                 <Link

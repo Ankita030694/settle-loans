@@ -4652,5 +4652,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
             changeFrequency: 'weekly',
             priority: 0.8,
         },
+        {
+            url: `${baseUrl}/use-annual-bonus-to-settle-personal-loan`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/personal-loan-settlement-and-form-16-salary-slip-proof`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/appraisal-or-increment-restructure-or-settle-personal-loan`,
+            lastModified: '2026-11-11',
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
     ];
 }
