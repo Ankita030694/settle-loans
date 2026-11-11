@@ -694,6 +694,30 @@ export default function StopEmiBounceCyclePage() {
                       SBI EMI Bounce Charges
                     </Link>
                   </li>
+                  <li>
+                    <Link href="/poonawalla-fincorp-emi-bounce-charges" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      Poonawalla Fincorp Bounce Charges
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/aditya-birla-finance-emi-bounce-charges" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      Aditya Birla Finance Bounce Fees
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/smfg-india-credit-emi-bounce-charges" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      SMFG India Credit Bounce Charges
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/hero-fincorp-emi-bounce-charges" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      Hero FinCorp EMI Bounce Charges
+                    </Link>
+                  </li>
                 </ul>
               </div>
 

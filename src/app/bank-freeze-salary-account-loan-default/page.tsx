@@ -1224,6 +1224,11 @@ export default function BankFreezeSalaryAccountPage() {
                     SBI Salary Account Auto-Debit Default
                   </Link>
                 </li>
+                <li>
+                  <Link href="/personal-loan-top-up-default-same-bank" className="hover:text-[#1F5EFF] transition-colors block">
+                    Personal Loan &amp; Top-Up Default Same Bank
+                  </Link>
+                </li>
               </ul>
             </div>
 

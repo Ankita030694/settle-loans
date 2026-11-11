@@ -1063,6 +1063,9 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <Link href="/no-dues-certificate-after-loan-settlement" className="py-1.5 px-3 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition border border-slate-200">
                   No Dues Certificate
                 </Link>
+                <Link href="/hero-fincorp-emi-bounce-charges" className="py-1.5 px-3 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition border border-slate-200">
+                  Hero FinCorp EMI Bounce Charges
+                </Link>
               </div>
             </div>
           </main>

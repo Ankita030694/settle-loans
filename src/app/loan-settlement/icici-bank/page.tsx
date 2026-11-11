@@ -438,7 +438,8 @@ export default function ICICIBankSettlementPage() {
                        { l: "Ombudsman Templates", h: "/contact" },
                        { l: "HDFC Settlement", h: "/loan-settlement/hdfc-bank" },
                        { l: "ICICI EMI Bounce Charges", h: "/icici-personal-loan-emi-bounce-charges" },
-                       { l: "ICICI Salary Auto-Debit", h: "/icici-salary-account-auto-debit-personal-loan-default" }
+                       { l: "ICICI Salary Auto-Debit", h: "/icici-salary-account-auto-debit-personal-loan-default" },
+                       { l: "Multi-Loan Settlement Order", h: "/multiple-personal-loans-hdfc-icici-bajaj-which-to-settle-first" }
                      ].map((link, i) => (
                        <li key={i}>
                           <Link href={link.h} className="group flex items-center gap-6 text-xl font-black hover:text-[#B02A30] transition-colors">

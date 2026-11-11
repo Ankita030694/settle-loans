@@ -1176,6 +1176,24 @@ export default function JobLossLoanSettlementPage() {
                 >
                   No Dues Certificate (NDC) Guide
                 </Link>
+                <Link
+                  href="/unable-to-pay-personal-loan-emi-due-to-job-loss"
+                  className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
+                >
+                  Unable to Pay EMI Due to Job Loss
+                </Link>
+                <Link
+                  href="/salary-cut-personal-loan-emi-restructuring-vs-settlement"
+                  className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
+                >
+                  Salary Cut: Restructuring vs Settlement
+                </Link>
+                <Link
+                  href="/new-job-background-verification-after-loan-settlement"
+                  className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
+                >
+                  New Job BGV After Loan Settlement
+                </Link>
               </div>
             </div>
           </main>

@@ -556,6 +556,9 @@ export default function LoanSettlementJobLossPage() {
                 <li><Link href="/how-to-manage-loan-with-no-job" className="text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors flex items-center gap-2 decoration-2 decoration-[#1F5EFF] underline">No Job Management</Link></li>
                 <li><Link href="/loan-settlement-during-medical-emergency" className="text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors flex items-center gap-2 decoration-2 decoration-[#1F5EFF] underline">Medical Emergencies</Link></li>
                 <li><Link href="/debt-settlement-company-in-india" className="text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors flex items-center gap-2 decoration-2 decoration-[#1F5EFF] underline">Choosing an Agency</Link></li>
+                <li><Link href="/unable-to-pay-personal-loan-emi-due-to-job-loss" className="text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors flex items-center gap-2 decoration-2 decoration-[#1F5EFF] underline">Unable to Pay EMI After Layoff</Link></li>
+                <li><Link href="/salary-cut-personal-loan-emi-restructuring-vs-settlement" className="text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors flex items-center gap-2 decoration-2 decoration-[#1F5EFF] underline">Salary Cut: Restructure vs OTS</Link></li>
+                <li><Link href="/new-job-background-verification-after-loan-settlement" className="text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors flex items-center gap-2 decoration-2 decoration-[#1F5EFF] underline">New Job BGV After Settlement</Link></li>
               </ul>
             </div>
           </aside>

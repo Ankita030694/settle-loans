@@ -1221,6 +1221,18 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                 >
                   Missed EMI Guide to Regain Control
                 </Link>
+                <Link
+                  href="/salary-cut-personal-loan-emi-restructuring-vs-settlement"
+                  className="py-2 px-3.5 rounded-full bg-slate-100 hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200"
+                >
+                  Salary Cut: Restructuring vs Settlement
+                </Link>
+                <Link
+                  href="/unable-to-pay-personal-loan-emi-due-to-job-loss"
+                  className="py-2 px-3.5 rounded-full bg-slate-100 hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200"
+                >
+                  Unable to Pay EMI Due to Job Loss
+                </Link>
               </div>
             </div>
           </main>

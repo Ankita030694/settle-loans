@@ -986,6 +986,30 @@ export default function MultiplePersonalLoanSettlementClient() {
               </div>
             </div>
 
+            {/* Related Salaried Multi-Loan Guides */}
+            <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+                Salaried Multi-Loan Guides
+              </div>
+              <ul className="space-y-2.5 text-xs font-semibold text-slate-700">
+                <li>
+                  <Link href="/multiple-personal-loans-hdfc-icici-bajaj-which-to-settle-first" className="hover:text-[#1F5EFF] transition-colors block">
+                    HDFC, ICICI &amp; Bajaj: Which Loan to Settle First
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/personal-loan-top-up-default-same-bank" className="hover:text-[#1F5EFF] transition-colors block">
+                    Personal Loan &amp; Top-Up Default at Same Bank
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/new-job-background-verification-after-loan-settlement" className="hover:text-[#1F5EFF] transition-colors block">
+                    New Job BGV After Personal Loan Settlement
+                  </Link>
+                </li>
+              </ul>
+            </div>
+
           </aside>
 
         </div>

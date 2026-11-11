@@ -1211,6 +1211,12 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                 >
                   No Dues Certificate (NDC) Guide
                 </Link>
+                <Link
+                  href="/poonawalla-fincorp-emi-bounce-charges"
+                  className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
+                >
+                  Poonawalla Fincorp EMI Bounce Charges
+                </Link>
               </div>
             </div>
           </main>

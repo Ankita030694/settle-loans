@@ -986,6 +986,7 @@ export default function BajajFinanceSettlementPage() {
                   <li><Link href="/loan-settlement/axis-bank" className="block p-3 rounded-xl hover:bg-white hover:text-[#0071BB] font-bold transition-all text-sm border border-transparent hover:border-slate-200">Axis Bank</Link></li>
                   <li><Link href="/loan-settlement/sbi" className="block p-3 rounded-xl hover:bg-white hover:text-[#0071BB] font-bold transition-all text-sm border border-transparent hover:border-slate-200">SBI Bank</Link></li>
                   <li><Link href="/bajaj-finance-emi-bounce-charges" className="block p-3 rounded-xl hover:bg-white hover:text-[#0071BB] font-bold transition-all text-sm border border-transparent hover:border-slate-200">Bajaj Finance EMI Bounce Charges</Link></li>
+                  <li><Link href="/multiple-personal-loans-hdfc-icici-bajaj-which-to-settle-first" className="block p-3 rounded-xl hover:bg-white hover:text-[#0071BB] font-bold transition-all text-sm border border-transparent hover:border-slate-200">HDFC, ICICI &amp; Bajaj Settlement Order</Link></li>
                 </ul>
               </div>
             </div>

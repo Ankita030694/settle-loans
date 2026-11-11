@@ -736,7 +736,11 @@ export default function LoanSettlementSalariedPage() {
                     { title: "ICICI Salary Account Auto-Debit", href: "/icici-salary-account-auto-debit-personal-loan-default" },
                     { title: "Axis Salary Account Auto-Debit", href: "/axis-salary-account-auto-debit-personal-loan-default" },
                     { title: "Kotak Salary Account Auto-Debit", href: "/kotak-salary-account-auto-debit-personal-loan-default" },
-                    { title: "SBI Salary Account Auto-Debit", href: "/sbi-salary-account-auto-debit-personal-loan-default" }
+                    { title: "SBI Salary Account Auto-Debit", href: "/sbi-salary-account-auto-debit-personal-loan-default" },
+                    { title: "Unable to Pay EMI After Job Loss", href: "/unable-to-pay-personal-loan-emi-due-to-job-loss" },
+                    { title: "Salary Cut: Restructuring vs OTS", href: "/salary-cut-personal-loan-emi-restructuring-vs-settlement" },
+                    { title: "New Job BGV After Loan Settlement", href: "/new-job-background-verification-after-loan-settlement" },
+                    { title: "Personal Loan Top-Up Default Guide", href: "/personal-loan-top-up-default-same-bank" }
                   ].map((page, i) => (
                     <Link 
                       key={i} 

@@ -742,6 +742,30 @@ export default function PersonalLoanEmiBounceChargesPage() {
                       IndusInd EMI Bounce Charges
                     </Link>
                   </li>
+                  <li>
+                    <Link href="/poonawalla-fincorp-emi-bounce-charges" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      Poonawalla Fincorp Bounce Charges
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/aditya-birla-finance-emi-bounce-charges" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      Aditya Birla Finance Bounce Charges
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/smfg-india-credit-emi-bounce-charges" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      SMFG India Credit Bounce Charges
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/hero-fincorp-emi-bounce-charges" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      Hero FinCorp Bounce Charges
+                    </Link>
+                  </li>
                 </ul>
               </div>
 
