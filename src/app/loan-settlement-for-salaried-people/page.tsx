@@ -731,7 +731,12 @@ export default function LoanSettlementSalariedPage() {
                     { title: "How to Stop Harassment", href: "/how-to-stop-loan-recovery-harassment" },
                     { title: "RBI Guidelines 2024", href: "/rbi-rules-for-recovery-agents" },
                     { title: "Income Tax on Settled Debt", href: "/what-are-the-income-tax-implications-of-a-settled-debt-amount" },
-                    { title: "Consolidation vs. Settlement", href: "/debt-settlement-vs-debt-consolidation" }
+                    { title: "Consolidation vs. Settlement", href: "/debt-settlement-vs-debt-consolidation" },
+                    { title: "HDFC Salary Account Auto-Debit", href: "/hdfc-salary-account-auto-debit-personal-loan-default" },
+                    { title: "ICICI Salary Account Auto-Debit", href: "/icici-salary-account-auto-debit-personal-loan-default" },
+                    { title: "Axis Salary Account Auto-Debit", href: "/axis-salary-account-auto-debit-personal-loan-default" },
+                    { title: "Kotak Salary Account Auto-Debit", href: "/kotak-salary-account-auto-debit-personal-loan-default" },
+                    { title: "SBI Salary Account Auto-Debit", href: "/sbi-salary-account-auto-debit-personal-loan-default" }
                   ].map((page, i) => (
                     <Link 
                       key={i} 

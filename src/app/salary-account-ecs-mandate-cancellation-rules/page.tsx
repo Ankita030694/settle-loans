@@ -1181,6 +1181,45 @@ export default function SalaryAccountEcsMandateCancellationPage() {
               </div>
             </div>
 
+            {/* Bank Salary Auto-Debit & Bounce Tools */}
+            <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+                Bank Salary Auto-Debit &amp; Tools
+              </div>
+              <ul className="space-y-2.5 text-xs font-semibold text-slate-700">
+                <li>
+                  <Link href="/tools/personal-loan-emi-bounce-charges-calculator" className="hover:text-[#1F5EFF] transition-colors block">
+                    Personal Loan EMI Bounce Calculator
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/hdfc-salary-account-auto-debit-personal-loan-default" className="hover:text-[#1F5EFF] transition-colors block">
+                    HDFC Salary Account Auto-Debit Rules
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/icici-salary-account-auto-debit-personal-loan-default" className="hover:text-[#1F5EFF] transition-colors block">
+                    ICICI Salary Account Auto-Debit Rules
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/axis-salary-account-auto-debit-personal-loan-default" className="hover:text-[#1F5EFF] transition-colors block">
+                    Axis Salary Account Auto-Debit Rules
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/kotak-salary-account-auto-debit-personal-loan-default" className="hover:text-[#1F5EFF] transition-colors block">
+                    Kotak Salary Account Auto-Debit Rules
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/sbi-salary-account-auto-debit-personal-loan-default" className="hover:text-[#1F5EFF] transition-colors block">
+                    SBI Salary Account Auto-Debit Rules
+                  </Link>
+                </li>
+              </ul>
+            </div>
+
           </aside>
 
         </div>

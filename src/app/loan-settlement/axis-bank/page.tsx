@@ -598,7 +598,9 @@ export default function AxisBankSettlementPage() {
                        { l: "Burgundy Debt Help", h: "/contact" },
                        { l: "ICICI Settlement", h: "/loan-settlement/icici-bank" },
                        { l: "HDFC Settlement", h: "/loan-settlement/hdfc-bank" },
-                       { l: "SBI Settlement", h: "/loan-settlement/sbi" }
+                       { l: "SBI Settlement", h: "/loan-settlement/sbi" },
+                       { l: "Axis EMI Bounce Charges", h: "/axis-bank-personal-loan-emi-bounce-charges" },
+                       { l: "Axis Salary Auto-Debit", h: "/axis-salary-account-auto-debit-personal-loan-default" }
                      ].map((link, i) => (
                        <li key={i}>
                           <Link href={link.h} className="group flex items-center gap-6 text-xl font-black hover:text-[#971647] transition-colors">

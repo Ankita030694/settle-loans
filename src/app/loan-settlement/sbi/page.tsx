@@ -577,7 +577,9 @@ export default function SBILoanSettlementPage() {
                        { l: "SARFAESI Defense", h: "/contact" },
                        { l: "HDFC Settlement", h: "/loan-settlement/hdfc-bank" },
                        { l: "ICICI Settlement", h: "/loan-settlement/icici-bank" },
-                       { l: "Debt Recovery DRT", h: "/contact" }
+                       { l: "Debt Recovery DRT", h: "/contact" },
+                       { l: "SBI EMI Bounce Charges", h: "/sbi-personal-loan-emi-bounce-charges" },
+                       { l: "SBI Salary Auto-Debit", h: "/sbi-salary-account-auto-debit-personal-loan-default" }
                      ].map((link, i) => (
                        <li key={i}>
                           <Link href={link.h} className="group flex items-center gap-6 text-xl font-black hover:text-[#004687] transition-colors">

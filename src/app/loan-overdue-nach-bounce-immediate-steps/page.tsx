@@ -509,7 +509,12 @@ export default function NachBouncePage() {
                     { title: "Stop Recovery Agents Harassment", href: "/rbi-rules-for-recovery-agents" },
                     { title: "Personal Loan Settlement Guide", href: "/services/personal-loan-settlement" },
                     { title: "RBI Guidelines on Loan Default", href: "/bank-loan-settlement-guidelines" },
-                    { title: "How Section 138 Works", href: "/section-138-cheque-bounce-loan-default" }
+                    { title: "How Section 138 Works", href: "/section-138-cheque-bounce-loan-default" },
+                    { title: "EMI Bounce Charges Calculator", href: "/tools/personal-loan-emi-bounce-charges-calculator" },
+                    { title: "HDFC Personal Loan Bounce Fees", href: "/hdfc-personal-loan-emi-bounce-charges" },
+                    { title: "ICICI Personal Loan Bounce Fees", href: "/icici-personal-loan-emi-bounce-charges" },
+                    { title: "Axis Bank EMI Dishonour Charges", href: "/axis-bank-personal-loan-emi-bounce-charges" },
+                    { title: "SBI Personal Loan Bounce Charges", href: "/sbi-personal-loan-emi-bounce-charges" }
                   ].map((link, i) => (
                     <li key={i}>
                       <Link href={link.href} className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">

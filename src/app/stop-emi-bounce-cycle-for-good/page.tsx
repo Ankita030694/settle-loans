@@ -664,6 +664,36 @@ export default function StopEmiBounceCyclePage() {
                       NPA Account Rules
                     </Link>
                   </li>
+                  <li>
+                    <Link href="/tools/personal-loan-emi-bounce-charges-calculator" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      EMI Bounce Calculator
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/hdfc-personal-loan-emi-bounce-charges" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      HDFC EMI Bounce Charges
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/icici-personal-loan-emi-bounce-charges" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      ICICI EMI Bounce Charges
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/axis-bank-personal-loan-emi-bounce-charges" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      Axis Bank Bounce Charges
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/sbi-personal-loan-emi-bounce-charges" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
+                      SBI EMI Bounce Charges
+                    </Link>
+                  </li>
                 </ul>
               </div>
 

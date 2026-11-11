@@ -436,7 +436,9 @@ export default function ICICIBankSettlementPage() {
                        { l: "SARFAESI Objections", h: "/contact" },
                        { l: "Lok Adalat Schedules", h: "/contact" },
                        { l: "Ombudsman Templates", h: "/contact" },
-                       { l: "HDFC Settlement", h: "/loan-settlement/hdfc-bank" }
+                       { l: "HDFC Settlement", h: "/loan-settlement/hdfc-bank" },
+                       { l: "ICICI EMI Bounce Charges", h: "/icici-personal-loan-emi-bounce-charges" },
+                       { l: "ICICI Salary Auto-Debit", h: "/icici-salary-account-auto-debit-personal-loan-default" }
                      ].map((link, i) => (
                        <li key={i}>
                           <Link href={link.h} className="group flex items-center gap-6 text-xl font-black hover:text-[#B02A30] transition-colors">

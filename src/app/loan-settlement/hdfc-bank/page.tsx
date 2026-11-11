@@ -763,6 +763,18 @@ export default function HDFCBankSettlementPage() {
                       Settlement in Mumbai
                     </Link>
                   </li>
+                  <li>
+                    <Link href="/hdfc-personal-loan-emi-bounce-charges" className="group flex items-center text-[#2d3748] hover:text-[#004c94] transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#cbd5e0] rounded-full mr-3 group-hover:bg-[#ed232a] transition-colors"></span>
+                      HDFC EMI Bounce Charges
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/hdfc-salary-account-auto-debit-personal-loan-default" className="group flex items-center text-[#2d3748] hover:text-[#004c94] transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#cbd5e0] rounded-full mr-3 group-hover:bg-[#ed232a] transition-colors"></span>
+                      HDFC Salary Account Auto-Debit
+                    </Link>
+                  </li>
                 </ul>
               </div>
 

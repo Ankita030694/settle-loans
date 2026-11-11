@@ -623,6 +623,12 @@ export default function KotakBankSettlementPage() {
                        ICICI Bank Settlement
                      </Link>
                    </li>
+                   <li>
+                     <Link href="/kotak-salary-account-auto-debit-personal-loan-default" className="group flex items-center text-[#2d3748] hover:text-[#003874] transition-colors">
+                       <span className="w-1.5 h-1.5 bg-[#cbd5e0] rounded-full mr-3 group-hover:bg-[#ED1C24] transition-colors"></span>
+                       Kotak Salary Account Auto-Debit
+                     </Link>
+                   </li>
                 </ul>
               </div>
 
