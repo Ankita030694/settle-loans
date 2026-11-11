@@ -1194,6 +1194,12 @@ export default function JobLossLoanSettlementPage() {
                 >
                   New Job BGV After Loan Settlement
                 </Link>
+                <Link
+                  href="/personal-loan-settlement-and-form-16-salary-slip-proof"
+                  className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
+                >
+                  Form 16 &amp; Salary Slip Proof in OTS
+                </Link>
               </div>
             </div>
           </main>

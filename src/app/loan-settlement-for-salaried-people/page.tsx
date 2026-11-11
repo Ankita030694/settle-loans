@@ -740,7 +740,10 @@ export default function LoanSettlementSalariedPage() {
                     { title: "Unable to Pay EMI After Job Loss", href: "/unable-to-pay-personal-loan-emi-due-to-job-loss" },
                     { title: "Salary Cut: Restructuring vs OTS", href: "/salary-cut-personal-loan-emi-restructuring-vs-settlement" },
                     { title: "New Job BGV After Loan Settlement", href: "/new-job-background-verification-after-loan-settlement" },
-                    { title: "Personal Loan Top-Up Default Guide", href: "/personal-loan-top-up-default-same-bank" }
+                    { title: "Personal Loan Top-Up Default Guide", href: "/personal-loan-top-up-default-same-bank" },
+                    { title: "Use Annual Bonus to Settle Loan", href: "/use-annual-bonus-to-settle-personal-loan" },
+                    { title: "Form 16 & Payslip Proof in OTS", href: "/personal-loan-settlement-and-form-16-salary-slip-proof" },
+                    { title: "Appraisal Increment: Restructure vs OTS", href: "/appraisal-or-increment-restructure-or-settle-personal-loan" }
                   ].map((page, i) => (
                     <Link 
                       key={i} 

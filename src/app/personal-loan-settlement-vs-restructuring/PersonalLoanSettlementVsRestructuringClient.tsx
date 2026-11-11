@@ -1233,6 +1233,24 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                 >
                   Unable to Pay EMI Due to Job Loss
                 </Link>
+                <Link
+                  href="/appraisal-or-increment-restructure-or-settle-personal-loan"
+                  className="py-2 px-3.5 rounded-full bg-slate-100 hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200"
+                >
+                  Appraisal Increment: Restructure vs OTS
+                </Link>
+                <Link
+                  href="/use-annual-bonus-to-settle-personal-loan"
+                  className="py-2 px-3.5 rounded-full bg-slate-100 hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200"
+                >
+                  Use Annual Bonus to Settle Loan
+                </Link>
+                <Link
+                  href="/personal-loan-settlement-and-form-16-salary-slip-proof"
+                  className="py-2 px-3.5 rounded-full bg-slate-100 hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200"
+                >
+                  Form 16 &amp; Payslip Proof in OTS
+                </Link>
               </div>
             </div>
           </main>

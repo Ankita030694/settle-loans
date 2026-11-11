@@ -1229,6 +1229,11 @@ export default function BankFreezeSalaryAccountPage() {
                     Personal Loan &amp; Top-Up Default Same Bank
                   </Link>
                 </li>
+                <li>
+                  <Link href="/use-annual-bonus-to-settle-personal-loan" className="hover:text-[#1F5EFF] transition-colors block">
+                    Use Annual Bonus to Settle Loan Safely
+                  </Link>
+                </li>
               </ul>
             </div>
 

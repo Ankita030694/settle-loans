@@ -1222,6 +1222,16 @@ export default function SalaryAccountEcsMandateCancellationPage() {
                     Personal Loan &amp; Top-Up Default Same Bank
                   </Link>
                 </li>
+                <li>
+                  <Link href="/personal-loan-settlement-and-form-16-salary-slip-proof" className="hover:text-[#1F5EFF] transition-colors block">
+                    Form 16 &amp; Salary Slip Proof in Loan OTS
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/appraisal-or-increment-restructure-or-settle-personal-loan" className="hover:text-[#1F5EFF] transition-colors block">
+                    Appraisal Increment: Restructure vs OTS
+                  </Link>
+                </li>
               </ul>
             </div>
 

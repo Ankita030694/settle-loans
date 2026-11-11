@@ -1007,6 +1007,16 @@ export default function MultiplePersonalLoanSettlementClient() {
                     New Job BGV After Personal Loan Settlement
                   </Link>
                 </li>
+                <li>
+                  <Link href="/use-annual-bonus-to-settle-personal-loan" className="hover:text-[#1F5EFF] transition-colors block">
+                    Use Annual Bonus to Settle Personal Loans
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/appraisal-or-increment-restructure-or-settle-personal-loan" className="hover:text-[#1F5EFF] transition-colors block">
+                    Appraisal Increment: Restructure vs Settle
+                  </Link>
+                </li>
               </ul>
             </div>
 
