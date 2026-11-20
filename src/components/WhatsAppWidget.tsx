@@ -4,10 +4,12 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 import { usePathname } from 'next/navigation';
+import { WHATSAPP_NUMBER } from '@/lib/whatsapp';
 
 const WhatsAppWidget: React.FC = () => {
   const pathname = usePathname();
-  const phoneNumber = '919821219819';
+  // Shared WATI number; WhatsAppLinkTagger adds the page tag when window.open runs
+  const phoneNumber = WHATSAPP_NUMBER;
   const message = 'I want to settle my loans';
   
   if (pathname?.startsWith('/admin')) {
